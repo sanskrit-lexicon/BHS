@@ -30,8 +30,11 @@ def hw_normalize(hw):
  hw0 = hw
  hw = re.sub(r"\(.*?\)","",hw)
  hw = re.sub(r"^[^a-zA-Z]+","",hw)
- hw = re.sub(r",.*$","",hw)
- hw = re.sub(r" .*$","",hw)
+ #hw = re.sub(r",.*$","",hw) # ejf
+ hw = re.sub(r"[,;].*$","",hw) # Dhaval 2 Jan 2016
+ #hw = re.sub(r" .*$","",hw) # ejf
+ hw = re.sub(r" [^a-zA-Z].*$","",hw) # Dhaval 2 Jan 2016
+ hw = re.sub(r" ([a-zA-Z].*)$","\g<1>",hw) # Dhaval 2 Jan 2016
  hw = re.sub(r"-","",hw)
  hw = re.sub(r"[?]","",hw)
  hw = re.sub(r"[']","",hw)

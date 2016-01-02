@@ -79,7 +79,7 @@
 004,2:  'Agni1s4vara' => 'agni1s4vara'  :523,524
 004,2:  'agneya, Agneyi1' => 'agneya'  :525,525
 004,2:  'agra, (1)' => 'agra'  :526,554
-005,1:  'agratah2 stha1payitva1' => 'agratah2'  :558,562
+005,1:  'agratah2 stha1payitva1' => 'agratah2stha1payitva1'  :558,562
 005,1:  'Agrata1-su1tra' => 'agrata1su1tra'  :563,565
 005,1:  'Agrapurus2a' => 'agrapurus2a'  :570,571
 005,1:  'agra-prajn5apti' => 'agraprajn5apti'  :572,577
@@ -141,7 +141,7 @@
 007,2:  'Aja1tas4atrukaukr2tyavinodana' => 'aja1tas4atrukaukr2tyavinodana'  :939,940
 007,2:  'Aja1ta1khya' => 'aja1ta1khya'  :941,941
 007,2:  'Ajita, (1)' => 'ajita'  :944,953
-007,2:  'Ajita Kes4akambala' => 'ajita'  :954,959
+007,2:  'Ajita Kes4akambala' => 'ajitakes4akambala'  :954,959
 007,2:  'Ajitacakra' => 'ajitacakra'  :960,960
 007,2:  'Ajitam2jaya, (1)' => 'ajitam2jaya'  :961,962
 007,2:  'Ajitapus2ya' => 'ajitapus2ya'  :963,964
@@ -180,7 +180,7 @@
 009,1:  'atina1mayati, atina1meti' => 'atina1mayati'  :1165,1180
 009,1:  'Atipurus2a' => 'atipurus2a'  :1185,1185
 009,2:  'ati-pravan2n2a' => 'atipravan2n2a'  :1189,1189
-009,2:  'atipra1g eva' => 'atipra1g'  :1193,1196
+009,2:  'atipra1g eva' => 'atipra1geva'  :1193,1196
 009,2:  'Atibalavi1ryapara1krama' => 'atibalavi1ryapara1krama'  :1197,1198
 009,2:  'Atima1ya1' => 'atima1ya1'  :1205,1205
 009,2:  'Atimuktaka' => 'atimuktaka'  :1209,1212
@@ -347,7 +347,7 @@
 022,1:  'ana1ga1rika1 = anaga1rika1' => 'ana1ga1rika1'  :3004,3004
 022,1:  'ana1gr2ha?' => 'ana1gr2ha'  :3005,3006
 022,1:  'an-a1chindana' => 'ana1chindana'  :3011,3011
-022,1:  'ana1jn5a1tam a1jn5a1sya1mi1 'ndriyam' => 'ana1jn5a1tam'  :3016,3018
+022,1:  'ana1jn5a1tam a1jn5a1sya1mi1 'ndriyam' => 'ana1jn5a1tama1jn5a1sya1mi1'  :3016,3018
 022,1:  'an-a1tmani1ya' => 'ana1tmani1ya'  :3019,3020
 022,1:  'an-a1tmi1ya' => 'ana1tmi1ya'  :3021,3024
 022,1:  'Ana1thapin2d2ada' => 'ana1thapin2d2ada'  :3025,3034
@@ -1288,7 +1288,7 @@
 085,2:  'asthi-sam2gha1ta' => 'asthisam2gha1ta'  :11986,11988
 085,2:  'asthi-sam2jn5a1' => 'asthisam2jn5a1'  :11989,11992
 085,2:  'Asthisena' => 'asthisena'  :11993,11996
-085,2:  'Asthisenasya ja1takam2' => 'asthisenasya'  :11997,11998
+085,2:  'Asthisenasya ja1takam2' => 'asthisenasyaja1takam2'  :11997,11998
 085,2:  'a-spars4a-viha1ra' => 'aspars4aviha1ra'  :12009,12011
 085,2:  'a-spharan2i1ya' => 'aspharan2i1ya'  :12012,12015
 085,2:  'asmi-sam2jn5a1' => 'asmisam2jn5a1'  :12021,12021
@@ -1299,7 +1299,7 @@
 086,1:  'ahiri1(ka)' => 'ahiri1'  :12064,12064
 086,1:  '? ahr2svara' => 'ahr2svara'  :12070,12076
 086,2:  'a-het2haka' => 'ahet2haka'  :12077,12081
-086,2:  'aho na1ma' => 'aho'  :12084,12089
+086,2:  'aho na1ma' => 'ahona1ma'  :12084,12089
 086,2:  'Aholu1khalamekhala1' => 'aholu1khalamekhala1'  :12090,12090
 086,2:  '(ahiri1,) ahri1ka, ahiri1ka' => 'ahri1ka'  :12091,12098
 086,1:  'A1kampya' => 'a1kampya'  :12119,12119
@@ -1467,11 +1467,11 @@
 105,1:  'A1ryavati1' => 'a1ryavati1'  :14789,14793
 105,1:  'A1ryas4u1ra' => 'a1ryas4u1ra'  :14794,14794
 105,1:  'a1rya-satya' => 'a1ryasatya'  :14795,14801
-105,1:  'A1ryasatyaka Parivarta' => 'a1ryasatyaka'  :14802,14803
+105,1:  'A1ryasatyaka Parivarta' => 'a1ryasatyakaparivarta'  :14802,14803
 105,1:  'A1ryasam2mati1ya' => 'a1ryasam2mati1ya'  :14804,14805
 105,1:  'A1rya-sarva1stiva1da' => 'a1ryasarva1stiva1da'  :14806,14809
 105,2:  'A1rya-stha1vira' => 'a1ryastha1vira'  :14810,14812
-105,2:  'A1ryastha1viri1ya Nika1ya' => 'a1ryastha1viri1ya'  :14813,14815
+105,2:  'A1ryastha1viri1ya Nika1ya' => 'a1ryastha1viri1yanika1ya'  :14813,14815
 105,2:  'a1rya-smita' => 'a1ryasmita'  :14816,14819
 105,2:  'A1rya1' => 'a1rya1'  :14820,14820
 105,2:  'A1rya1ks2a' => 'a1rya1ks2a'  :14821,14822
@@ -1566,7 +1566,7 @@
 115,2:  'Indriyes4vara' => 'indriyes4vara'  :16219,16219
 115,2:  'iranta(h2)' => 'iranta'  :16232,16234
 115,2:  'irya1, irya1patha, irya1vant, iryavant' => 'irya1'  :16241,16242
-115,2:  'Ila1 devi1' => 'ila1'  :16250,16251
+115,2:  'Ila1 devi1' => 'ila1devi1'  :16250,16251
 115,2:  'Is4a1dha1ra' => 'is4a1dha1ra'  :16252,16253
 115,2:  'Is2am2dhara' => 'is2am2dhara'  :16254,16257
 115,2:  'Is2a1n2a' => 'is2a1n2a'  :16258,16259
@@ -1619,7 +1619,7 @@
 119,2:  'ucchva1sa-pras4va1sa' => 'ucchva1sapras4va1sa'  :16812,16813
 120,1:  'Ujjitapara' => 'ujjitapara'  :16842,16844
 120,1:  'Ujjhitapara' => 'ujjhitapara'  :16854,16854
-120,1:  'Ujjhebhaka Ton2eha1raka' => 'ujjhebhaka'  :16855,16856
+120,1:  'Ujjhebhaka Ton2eha1raka' => 'ujjhebhakaton2eha1raka'  :16855,16856
 120,1:  '-ujn5a-ka' => 'ujn5aka'  :16857,16860
 120,1:  'Ud2d2iya1na = Od2d2iya1na' => 'ud2d2iya1na'  :16880,16880
 120,1:  'Ud2d2iya1naka' => 'ud2d2iya1naka'  :16881,16881
@@ -1739,7 +1739,7 @@
 131,2:  'Udyogapa1la' => 'udyogapa1la'  :18527,18527
 131,2:  '? udyojayati' => 'udyojayati'  :18528,18544
 132,1:  '? udyot2ita' => 'udyot2ita'  :18545,18551
-132,1:  'Udraka Ra1maputra' => 'udraka'  :18552,18560
+132,1:  'Udraka Ra1maputra' => 'udrakara1maputra'  :18552,18560
 132,1:  'Udra1yan2a, (1)' => 'udra1yan2a'  :18561,18566
 132,1:  '? udvigha1t2ana' => 'udvigha1t2ana'  :18579,18579
 132,2:  'unnata, (1)' => 'unnata'  :18623,18628
@@ -1845,14 +1845,14 @@
 146,1:  '? upa1na1mayati = upa¤°' => 'upa1na1mayati'  :20576,20577
 146,2:  'upa1ya-kus4ala' => 'upa1yakus4ala'  :20595,20596
 146,2:  'upa1ya-kaus4alya' => 'upa1yakaus4alya'  :20597,20606
-146,2:  'upa1yana yebhi1' => 'upa1yana'  :20607,20607
+146,2:  'upa1yana yebhi1' => 'upa1yanayebhi1'  :20607,20607
 146,2:  'Upa1yapramathana' => 'upa1yapramathana'  :20608,20608
 146,2:  '-upa1yika1' => 'upa1yika1'  :20632,20634
 146,2:  'Upa1ris2t2a' => 'upa1ris2t2a'  :20646,20656
 146,2:  '? upa1rodha' => 'upa1rodha'  :20657,20658
 147,1:  'Upa1rdhaka1s4ika1' => 'upa1rdhaka1s4ika1'  :20679,20679
 147,1:  'Upa1li' => 'upa1li'  :20680,20697
-147,1:  'Upa1li-gan3gapa1la1na1m2 ja1takam2' => 'upa1ligan3gapa1la1na1m2'  :20698,20700
+147,1:  'Upa1li-gan3gapa1la1na1m2 ja1takam2' => 'upa1ligan3gapa1la1na1m2ja1takam2'  :20698,20700
 147,1:  'Upa1liparipr2ccha1' => 'upa1liparipr2ccha1'  :20701,20703
 147,1:  'Upa1lisu1tra' => 'upa1lisu1tra'  :20704,20706
 147,1:  '-upa1hanaka' => 'upa1hanaka'  :20720,20723
@@ -2042,7 +2042,7 @@
 163,1:  'kam2sa-doha' => 'kam2sadoha'  :22938,22946
 163,1:  'kam2sa-pa1tri1' => 'kam2sapa1tri1'  :22947,22949
 163,1:  'Kakucchanda, Kakutsanda, °sunda' => 'kakucchanda'  :22955,22956
-163,1:  'Kakuda Ka1tya1yana' => 'kakuda'  :22957,22962
+163,1:  'Kakuda Ka1tya1yana' => 'kakudaka1tya1yana'  :22957,22962
 163,1:  'Kakubha' => 'kakubha'  :22963,22964
 163,2:  'kakkhat2a-tva' => 'kakkhat2atva'  :22970,22975
 163,2:  'Kan3ka1li1' => 'kan3ka1li1'  :22988,22989
@@ -2217,7 +2217,7 @@
 175,2:  '? Ka1ci1' => 'ka1ci1'  :24691,24696
 176,1:  'ka1n5cana-cakra' => 'ka1n5canacakra'  :24703,24711
 176,1:  'Ka1n5canaparvata' => 'ka1n5canaparvata'  :24712,24712
-176,1:  'Ka1n5canamayi1 bhu1mi = Ka1n5cana-cakra' => 'ka1n5canamayi1'  :24713,24717
+176,1:  'Ka1n5canamayi1 bhu1mi = Ka1n5cana-cakra' => 'ka1n5canamayi1bhu1mi'  :24713,24717
 176,1:  'Ka1n5canama1la1, (1)' => 'ka1n5canama1la1'  :24718,24719
 176,1:  'Ka1n5canavarn2a' => 'ka1n5canavarn2a'  :24720,24722
 176,1:  '? ka1n5cu' => 'ka1n5cu'  :24723,24728
@@ -2299,7 +2299,7 @@
 181,2:  'Ka1s4mi1ra1' => 'ka1s4mi1ra1'  :25541,25543
 181,2:  'Ka1s4yapa' => 'ka1s4yapa'  :25544,25598
 182,1:  'Ka1s4yapa-parivarta' => 'ka1s4yapaparivarta'  :25599,25603
-182,1:  'Ka1s4yapa Pu1ran2a' => 'ka1s4yapa'  :25604,25604
+182,1:  'Ka1s4yapa Pu1ran2a' => 'ka1s4yapapu1ran2a'  :25604,25604
 182,1:  'Ka1s4yapi1ya' => 'ka1s4yapi1ya'  :25605,25608
 182,1:  'Ka1s2a1ya-grahan2a' => 'ka1s2a1yagrahan2a'  :25619,25621
 182,1:  'Ka1s2a1yadhvaja1' => 'ka1s2a1yadhvaja1'  :25622,25622
@@ -2689,7 +2689,7 @@
 207,1:  'Gaganas4ri1' => 'gaganas4ri1'  :29143,29143
 207,1:  'Gagana1laya' => 'gagana1laya'  :29144,29144
 207,1:  'Gan3ga' => 'gan3ga'  :29145,29145
-207,1:  'Gan3gadevi1 bhagini1' => 'gan3gadevi1'  :29146,29150
+207,1:  'Gan3gadevi1 bhagini1' => 'gan3gadevi1bhagini1'  :29146,29150
 207,1:  'Gan3gapa1la' => 'gan3gapa1la'  :29151,29154
 207,1:  'Gan3gapa1laka' => 'gan3gapa1laka'  :29155,29155
 207,1:  'Gan3garastha1' => 'gan3garastha1'  :29156,29157
@@ -2897,7 +2897,7 @@
 217,2:  'Govinda' => 'govinda'  :30594,30596
 217,2:  'Govindasu1tra' => 'govindasu1tra'  :30597,30598
 217,2:  'Govindiya' => 'govindiya'  :30599,30602
-217,2:  'Govindi1yam2 su1tram2' => 'govindi1yam2'  :30603,30605
+217,2:  'Govindi1yam2 su1tram2' => 'govindi1yam2su1tram2'  :30603,30605
 217,2:  'Gos4ali1putra, Gos4a1li(n), °li(ka1)putra, °li1putra' => 'gos4ali1putra'  :30617,30618
 217,2:  'Gos4i1rs2a' => 'gos4i1rs2a'  :30619,30619
 217,2:  'Gos4r2n3gi1' => 'gos4r2n3gi1'  :30622,30623
@@ -3430,7 +3430,7 @@
 250,1:  'Tamodgha1tana' => 'tamodgha1tana'  :35099,35099
 250,1:  '? tampuruka' => 'tampuruka'  :35100,35100
 250,1:  '? tam2bhu1' => 'tam2bhu1'  :35101,35107
-250,1:  'tayyatha1pi na1ma' => 'tayyatha1pi'  :35108,35109
+250,1:  'tayyatha1pi na1ma' => 'tayyatha1pina1ma'  :35108,35109
 250,1:  'Taran3gavati1' => 'taran3gavati1'  :35110,35110
 250,1:  'taran2i, °n2i1' => 'taran2i'  :35121,35124
 250,1:  'tara-pan2ya' => 'tarapan2ya'  :35125,35130
@@ -3597,7 +3597,7 @@
 260,1:  'Dam2s2t2rasena' => 'dam2s2t2rasena'  :36565,36565
 260,1:  'Dam2s2t2ra1niva1sin' => 'dam2s2t2ra1niva1sin'  :36566,36566
 260,2:  'Daks2in2a1-giri' => 'daks2in2a1giri'  :36586,36588
-261,1:  'Daks2in2a1vibhan3ga Su1tra' => 'daks2in2a1vibhan3ga'  :36612,36616
+261,1:  'Daks2in2a1vibhan3ga Su1tra' => 'daks2in2a1vibhan3gasu1tra'  :36612,36616
 261,1:  'Daks2in2a1-su1tra' => 'daks2in2a1su1tra'  :36617,36618
 261,1:  '? daks2in2a1hi' => 'daks2in2a1hi'  :36619,36624
 261,1:  'Dan2d2aka' => 'dan2d2aka'  :36655,36657
@@ -3695,7 +3695,7 @@
 265,1:  'Di1rgha' => 'di1rgha'  :37215,37216
 265,1:  'di1rghaka, (1)' => 'di1rghaka'  :37217,37221
 265,1:  'Di1rghaka1tya1yani1' => 'di1rghaka1tya1yani1'  :37222,37223
-265,1:  'Di1rgha Ca1ra1yan2a' => 'di1rgha'  :37224,37227
+265,1:  'Di1rgha Ca1ra1yan2a' => 'di1rghaca1ra1yan2a'  :37224,37227
 265,1:  'Di1rghanakha' => 'di1rghanakha'  :37228,37237
 265,2:  'Di1rghaba1hur-garvita' => 'di1rghaba1hurgarvita'  :37238,37240
 265,2:  'di1rgha-va1rs2ika' => 'di1rghava1rs2ika'  :37247,37248
@@ -3829,7 +3829,7 @@
 271,2:  '-des4aka' => 'des4aka'  :38127,38130
 271,2:  'des4anata1 = des4ana1, (1)' => 'des4anata1'  :38132,38133
 271,2:  'des4ana1-pa1t2ha' => 'des4ana1pa1t2ha'  :38150,38163
-272,1:  'des¤ayati or °s4eti' => 'des4ayati'  :38164,38183
+272,1:  'des¤ayati or °s4eti' => 'des4ayatior'  :38164,38183
 272,1:  '? des4ayin' => 'des4ayin'  :38184,38190
 272,1:  'dainya-ta1' => 'dainyata1'  :38199,38200
 272,2:  'daurmanasya-ta1' => 'daurmanasyata1'  :38250,38251
@@ -3997,7 +3997,7 @@
 279,2:  'Dharmapadmas4ri1kus4ala1' => 'dharmapadmas4ri1kus4ala1'  :39242,39242
 279,2:  'dharma-parya1ya' => 'dharmaparya1ya'  :39243,39290
 280,1:  'Dharmapa1la (1)' => 'dharmapa1la'  :39291,39299
-280,1:  'Dharmapa1lasya ja1takam' => 'dharmapa1lasya'  :39300,39302
+280,1:  'Dharmapa1lasya ja1takam' => 'dharmapa1lasyaja1takam'  :39300,39302
 280,1:  'Dharmapi1t2ha1' => 'dharmapi1t2ha1'  :39303,39303
 280,1:  'Dharmapradi1pavikramajn5a1nasim2ha' => 'dharmapradi1pavikramajn5a1nasim2ha'  :39304,39306
 280,1:  'Dharmapradi1pas4irimeru' => 'dharmapradi1pas4irimeru'  :39307,39308
@@ -4160,7 +4160,7 @@
 289,1:  'Nagarabindu' => 'nagarabindu'  :40558,40559
 289,1:  'nagna-s4ravan2a' => 'nagnas4ravan2a'  :40587,40589
 289,1:  'Nan3ga1' => 'nan3ga1'  :40590,40591
-289,1:  'na ca' => 'na'  :40593,40600
+289,1:  'na ca' => 'naca'  :40593,40600
 289,1:  'Nat2a' => 'nat2a'  :40601,40601
 289,1:  'Nat2abhat2ika1, °ka' => 'nat2abhat2ika1'  :40602,40605
 289,1:  'nat2a-ran3ga' => 'nat2aran3ga'  :40606,40610
@@ -4356,7 +4356,7 @@
 300,1:  'nir-opadhi' => 'niropadhi'  :42170,42176
 300,2:  'nir-gad2a' => 'nirgad2a'  :42177,42188
 300,2:  '? nirgarati' => 'nirgarati'  :42189,42198
-300,2:  'Nirgrantha Jn5a1tiputra' => 'nirgrantha'  :42213,42220
+300,2:  'Nirgrantha Jn5a1tiputra' => 'nirgranthajn5a1tiputra'  :42213,42220
 300,2:  'nir-granthi-' => 'nirgranthi'  :42221,42227
 300,2:  '-nirgha1tin' => 'nirgha1tin'  :42229,42232
 300,2:  'Nirghos2a1ks2aravimukta' => 'nirghos2a1ks2aravimukta'  :42236,42238
@@ -4461,7 +4461,7 @@
 313,2:  'nais2pes2ika-ta1' => 'nais2pes2ikata1'  :44040,44044
 313,2:  'nais2pes2ika-tva' => 'nais2pes2ikatva'  :44045,44048
 313,2:  'naih2svabha1vya, naih2sva1°' => 'naih2svabha1vya'  :44065,44068
-313,2:  'no hi1dam2' => 'no'  :44069,44070
+313,2:  'no hi1dam2' => 'nohi1dam2'  :44069,44070
 313,2:  'nau-krama' => 'naukrama'  :44071,44084
 313,2:  'Nyagrodha' => 'nyagrodha'  :44085,44092
 314,1:  'Nyagrodhara1ja' => 'nyagrodhara1ja'  :44093,44093
@@ -4737,7 +4737,7 @@
 343,2:  'pa1rs4va-da1ha' => 'pa1rs4vada1ha'  :48322,48323
 343,2:  'pa1rs4va-su1traka' => 'pa1rs4vasu1traka'  :48324,48326
 343,2:  'pa1rs2adya = pa1ris2°' => 'pa1rs2adya'  :48335,48339
-344,1:  'pa1la jagato' => 'pa1la'  :48340,48344
+344,1:  'pa1la jagato' => 'pa1lajagato'  :48340,48344
 344,1:  'Pa1laka, (1)' => 'pa1laka'  :48345,48347
 344,1:  'Pa1lita' => 'pa1lita'  :48352,48353
 344,1:  'Pa1litaka' => 'pa1litaka'  :48354,48354
@@ -4758,7 +4758,7 @@
 345,1:  'Pin2d2avam2s4a' => 'pin2d2avam2s4a'  :48504,48504
 345,1:  'pin2d2a-ven2u' => 'pin2d2aven2u'  :48505,48505
 345,1:  '? Pin2d2ola-Kapila' => 'pin2d2olakapila'  :48537,48537
-345,1:  'Pin2d2ola Bharadva1ja' => 'pin2d2ola'  :48538,48543
+345,1:  'Pin2d2ola Bharadva1ja' => 'pin2d2olabharadva1ja'  :48538,48543
 345,1:  'Pita1nandin' => 'pita1nandin'  :48544,48544
 345,1:  'Pita1putrasama1gama' => 'pita1putrasama1gama'  :48545,48546
 345,1:  'Pitr2putrasama1gama' => 'pitr2putrasama1gama'  :48549,48549
@@ -4859,7 +4859,7 @@
 350,2:  'Pu1jita' => 'pu1jita'  :49286,49287
 350,2:  'pu1ti-mukta' => 'pu1timukta'  :49293,49302
 351,1:  'Pu1ran2akarn2a' => 'pu1ran2akarn2a'  :49337,49337
-351,1:  'Pu1ran2a Ka1s4yapa' => 'pu1ran2a'  :49338,49353
+351,1:  'Pu1ran2a Ka1s4yapa' => 'pu1ran2aka1s4yapa'  :49338,49353
 351,1:  '? Pu1ras4a1yin' => 'pu1ras4a1yin'  :49354,49357
 351,1:  'pu1ri, pu1ri1' => 'pu1ri'  :49358,49362
 351,1:  'Pu1rn2aka, (1) = Pu1rn2a' => 'pu1rn2aka'  :49396,49405
@@ -4883,7 +4883,7 @@
 352,1:  'pu1rva-yoga' => 'pu1rvayoga'  :49505,49522
 352,1:  'Pu1rva-videha' => 'pu1rvavideha'  :49523,49525
 352,1:  'Pu1rva-s4aila' => 'pu1rvas4aila'  :49528,49530
-352,2:  'Pu1rva1para1ntaka Su1tra' => 'pu1rva1para1ntaka'  :49559,49561
+352,2:  'Pu1rva1para1ntaka Su1tra' => 'pu1rva1para1ntakasu1tra'  :49559,49561
 352,2:  '? pu1rva1bhu1tva1' => 'pu1rva1bhu1tva1'  :49568,49570
 352,2:  'Pu1rva1ra1ma' => 'pu1rva1ra1ma'  :49571,49573
 352,2:  'Pu1rva1vada1na' => 'pu1rva1vada1na'  :49577,49580
@@ -5198,7 +5198,7 @@
 390,2:  '?prahelika' => 'prahelika'  :54944,54946
 390,2:  '? pra1kr2ti' => 'pra1kr2ti'  :54967,54970
 390,2:  'Pra1gajita' => 'pra1gajita'  :54977,54977
-390,2:  'pra1g eva' => 'pra1g'  :54978,54992
+390,2:  'pra1g eva' => 'pra1geva'  :54978,54992
 391,1:  'Pra1gvideha = Pu1rva-vi°' => 'pra1gvideha'  :55012,55012
 391,1:  'Pra1n2aha1rin2i1' => 'pra1n2aha1rin2i1'  :55068,55068
 391,1:  '-pra1n2ika' => 'pra1n2ika'  :55072,55075
@@ -5820,7 +5820,7 @@
 422,2:  'Maha1gun2adhara' => 'maha1gun2adhara'  :59444,59444
 422,2:  'Maha1gun2adharabuddhipra1pta1bhijn5a' => 'maha1gun2adharabuddhipra1pta1bhijn5a'  :59445,59446
 422,2:  'Maha1govinda' => 'maha1govinda'  :59447,59449
-422,2:  'Maha1govindi1ya su1tra' => 'maha1govindi1ya'  :59450,59452
+422,2:  'Maha1govindi1ya su1tra' => 'maha1govindi1yasu1tra'  :59450,59452
 422,2:  'Maha1gra1sa' => 'maha1gra1sa'  :59453,59453
 422,2:  'Maha1ghos2asvarara1ja' => 'maha1ghos2asvarara1ja'  :59454,59454
 422,2:  'Maha1ghos2a1nuga1' => 'maha1ghos2a1nuga1'  :59455,59455
@@ -5954,7 +5954,7 @@
 426,2:  'Maha1s4va1sa' => 'maha1s4va1sa'  :60018,60019
 426,2:  'Maha1samsr2s2t2a' => 'maha1samsr2s2t2a'  :60026,60027
 426,2:  'Maha1sana1rcis' => 'maha1sana1rcis'  :60039,60039
-426,2:  'Maha1sam2nipa1ta Su1tra' => 'maha1sam2nipa1ta'  :60040,60042
+426,2:  'Maha1sam2nipa1ta Su1tra' => 'maha1sam2nipa1tasu1tra'  :60040,60042
 426,2:  'Maha1sama' => 'maha1sama'  :60043,60044
 426,2:  'Maha1sama1jasu1tra' => 'maha1sama1jasu1tra'  :60048,60050
 426,2:  'Maha1sama1ji1ya' => 'maha1sama1ji1ya'  :60051,60051
@@ -6136,7 +6136,7 @@
 438,1:  'Mr2ga1yan2i1' => 'mr2ga1yan2i1'  :61662,61663
 438,1:  'Mr2ga1ra' => 'mr2ga1ra'  :61664,61671
 438,1:  'Mr2ga1ra-ma1tar' => 'mr2ga1rama1tar'  :61672,61674
-438,1:  'Mr2ga1rama1tuh2 pra1sa1da' => 'mr2ga1rama1tuh2'  :61675,61677
+438,1:  'Mr2ga1rama1tuh2 pra1sa1da' => 'mr2ga1rama1tuh2pra1sa1da'  :61675,61677
 438,1:  'Mr2gila' => 'mr2gila'  :61680,61680
 438,1:  'Mr2gi1' => 'mr2gi1'  :61681,61683
 438,1:  'Mr2n2a1la' => 'mr2n2a1la'  :61684,61685
@@ -6222,22 +6222,22 @@
 441,2:  'Mraks2as2an2d2a1' => 'mraks2as2an2d2a1'  :62187,62189
 442,2:  '? mrotaka' => 'mrotaka'  :62205,62206
 442,1:  'yaks2a-lipi' => 'yaks2alipi'  :62219,62220
-442,1:  'yam2 khalu' => 'yam2'  :62221,62221
-442,1:  'yac ca, yam2 ca' => 'yac'  :62222,62238
+442,1:  'yam2 khalu' => 'yam2khalu'  :62221,62221
+442,1:  'yac ca, yam2 ca' => 'yacca'  :62222,62238
 442,1:  'Yajn5akot2igupta' => 'yajn5akot2igupta'  :62243,62243
 442,1:  'Yajn5adatta' => 'yajn5adatta'  :62244,62245
-442,1:  'yam2 ca = yac ca' => 'yam2'  :62246,62246
+442,1:  'yam2 ca = yac ca' => 'yam2ca'  :62246,62246
 442,1:  'yato-adhikaran2am2' => 'yatoadhikaran2am2'  :62247,62247
-442,1:  'yat khalu' => 'yat'  :62248,62264
-442,2:  'yat tu' => 'yat'  :62277,62277
-442,2:  'yatra hi na1ma' => 'yatra'  :62278,62288
+442,1:  'yat khalu' => 'yatkhalu'  :62248,62264
+442,2:  'yat tu' => 'yattu'  :62277,62277
+442,2:  'yatra hi na1ma' => 'yatrahi na1ma'  :62278,62288
 442,2:  'yatha-r-iva' => 'yathariva'  :62289,62289
 442,2:  'yatha1pi, (1)' => 'yatha1pi'  :62302,62383
 443,1:  'yatha1-paura1n2a' => 'yatha1paura1n2a'  :62384,62390
 443,2:  'yatha1va1di-tatha1ka1ri(n)' => 'yatha1va1ditatha1ka1ri'  :62400,62420
-443,2:  'yad api' => 'yad'  :62433,62436
-443,2:  'yad idam, (1)' => 'yad'  :62437,62464
-443,2:  'yad uta' => 'yad'  :62465,62504
+443,2:  'yad api' => 'yadapi'  :62433,62436
+443,2:  'yad idam, (1)' => 'yadidam'  :62437,62464
+443,2:  'yad uta' => 'yaduta'  :62465,62504
 444,1:  'yadbhu1yaso, yadbhu1ya(s)tvena, yadbhu1yena' => 'yadbhu1yaso'  :62523,62524
 444,1:  'yantra-kala1' => 'yantrakala1'  :62533,62535
 444,1:  'yantra-ma1s2t2a(ka)' => 'yantrama1s2t2a'  :62536,62537
@@ -6504,7 +6504,7 @@
 454,2:  'Ra1jasam2yuktaka-nipa1ta' => 'ra1jasam2yuktakanipa1ta'  :63945,63947
 454,2:  'Ra1jaham2saga1min' => 'ra1jaham2saga1min'  :63948,63949
 454,2:  'Ra1ja1vava1daka' => 'ra1ja1vava1daka'  :63950,63954
-454,2:  'Ra1jopaki1rn2aka su1tra' => 'ra1jopaki1rn2aka'  :63955,63957
+454,2:  'Ra1jopaki1rn2aka su1tra' => 'ra1jopaki1rn2akasu1tra'  :63955,63957
 454,2:  'Ra1dhagupta' => 'ra1dhagupta'  :63964,63967
 454,2:  'Ra1ma' => 'ra1ma'  :63971,63974
 454,2:  'Ra1makaks2a1' => 'ra1makaks2a1'  :63975,63975
@@ -6541,7 +6541,7 @@
 456,1:  '-ruta1vin' => 'ruta1vin'  :64209,64211
 456,1:  'Rudani1' => 'rudani1'  :64212,64213
 456,1:  'rudan-mukha' => 'rudanmukha'  :64214,64218
-456,1:  'Rudraka Ra1maputra = Udraka R°' => 'rudraka'  :64219,64220
+456,1:  'Rudraka Ra1maputra = Udraka R°' => 'rudrakara1maputra'  :64219,64220
 456,1:  'Rudradeva' => 'rudradeva'  :64221,64221
 456,1:  'Rudra1yan2a' => 'rudra1yan2a'  :64222,64224
 456,1:  'Rudhira1ha1rin2i1' => 'rudhira1ha1rin2i1'  :64225,64225
@@ -6873,7 +6873,7 @@
 472,2:  'Vala1ha' => 'vala1ha'  :66535,66538
 472,2:  'Valikas4i1rs2a' => 'valikas4i1rs2a'  :66543,66543
 473,1:  'valika1-sam2na1ha' => 'valika1sam2na1ha'  :66544,66548
-473,1:  'valo mot2a' => 'valo'  :66552,66556
+473,1:  'valo mot2a' => 'valomot2a'  :66552,66556
 473,1:  'Valkala' => 'valkala'  :66557,66558
 473,1:  'Valkalin' => 'valkalin'  :66559,66559
 473,1:  'Valgu, (1)' => 'valgu'  :66567,66570
@@ -7419,7 +7419,7 @@
 510,1:  'Vain2va1t2ata' => 'vain2va1t2ata'  :71823,71824
 510,1:  '? vaidarya' => 'vaidarya'  :71843,71847
 510,1:  'vaidalya, (1)' => 'vaidalya'  :71848,71852
-510,1:  'Vaidehaka parvata' => 'vaidehaka'  :71853,71855
+510,1:  'Vaidehaka parvata' => 'vaidehakaparvata'  :71853,71855
 510,1:  'Vaidehi1' => 'vaidehi1'  :71856,71857
 510,1:  'Vaidehi1putra' => 'vaidehi1putra'  :71858,71859
 510,1:  'Vaidyara1ja' => 'vaidyara1ja'  :71860,71860
@@ -7493,7 +7493,7 @@
 514,2:  'vyanti1-bha1va' => 'vyanti1bha1va'  :72488,72494
 515,1:  'Vyapagatakhilados2a' => 'vyapagatakhilados2a'  :72514,72515
 515,1:  'Vyapagatakhilamalapratighos2a' => 'vyapagatakhilamalapratighos2a'  :72516,72517
-515,1:  'vyabhica1ra1d api' => 'vyabhica1ra1d'  :72548,72550
+515,1:  'vyabhica1ra1d api' => 'vyabhica1ra1dapi'  :72548,72550
 515,1:  'vy-alam2karoti' => 'vyalam2karoti'  :72554,72556
 515,2:  'vyavaca1rayati, °te' => 'vyavaca1rayati'  :72591,72604
 515,2:  'vyavada1yate, °ti' => 'vyavada1yate'  :72634,72640
@@ -7569,7 +7569,7 @@
 522,2:  'S4atamukha, (1)' => 's4atamukha'  :73612,73613
 522,2:  'S4ataras4mi' => 's4ataras4mi'  :73614,73615
 522,2:  's4ata-rasa' => 's4atarasa'  :73616,73616
-522,2:  'S4atavarga A1gama' => 's4atavarga'  :73617,73622
+522,2:  'S4atavarga A1gama' => 's4atavargaa1gama'  :73617,73622
 522,2:  'S4atas4i1rs2a' => 's4atas4i1rs2a'  :73623,73623
 522,2:  'S4atas4i1rs2a1' => 's4atas4i1rs2a1'  :73624,73624
 523,1:  'S4atasahasrama1tar' => 's4atasahasrama1tar'  :73627,73628
@@ -7888,7 +7888,7 @@
 536,2:  'S4res2t2hin' => 's4res2t2hin'  :75589,75590
 536,2:  'S4rain2ya' => 's4rain2ya'  :75591,75591
 536,2:  'S4ron2a' => 's4ron2a'  :75592,75596
-536,2:  'S4ron2a Kot2i1karn2a' => 's4ron2a'  :75597,75602
+536,2:  'S4ron2a Kot2i1karn2a' => 's4ron2akot2i1karn2a'  :75597,75602
 536,2:  'S4ron2a-kot2i-' => 's4ron2akot2i'  :75603,75605
 536,2:  'S4ron2a1para1nta' => 's4ron2a1para1nta'  :75606,75609
 536,2:  'S4ron2a1para1ntaka' => 's4ron2a1para1ntaka'  :75610,75613
@@ -7917,7 +7917,7 @@
 538,2:  's2ad2-va1laka' => 's2ad2va1laka'  :75770,75778
 538,2:  'S2ad2vis2a1n2apa1ta' => 's2ad2vis2a1n2apa1ta'  :75779,75779
 538,1:  'sam2yathi1dam2 = sayya°' => 'sam2yathi1dam2'  :75819,75819
-538,1:  'sam2yadha1pi na1ma = tad (say-)yatha1pi na1ma' => 'sam2yadha1pi'  :75820,75821
+538,1:  'sam2yadha1pi na1ma = tad (say-)yatha1pi na1ma' => 'sam2yadha1pina1ma'  :75820,75821
 538,1:  'Sam2yamani1' => 'sam2yamani1'  :75822,75827
 538,1:  'Sam2yuktaka' => 'sam2yuktaka'  :75828,75830
 538,2:  'Sam2yukta1gama' => 'sam2yukta1gama'  :75831,75832
@@ -8004,7 +8004,7 @@
 550,2:  '-sam2jana' => 'sam2jana'  :77551,77558
 551,1:  'Sam2jaya, (1)' => 'sam2jaya'  :77566,77573
 551,1:  'Sam2jayanti1' => 'sam2jayanti1'  :77574,77575
-551,1:  'Sam2jayin Vairat2i1putra' => 'sam2jayin'  :77576,77589
+551,1:  'Sam2jayin Vairat2i1putra' => 'sam2jayinvairat2i1putra'  :77576,77589
 551,1:  '-sam2ja1na-' => 'sam2ja1na'  :77590,77596
 551,1:  'sam2ja1na1ti, °ni1te' => 'sam2ja1na1ti'  :77603,77637
 551,2:  '-sam2jn5a' => 'sam2jn5a'  :77647,77647
@@ -8052,7 +8052,7 @@
 555,1:  'Saddharmaghos2a1mbaradi1para1ja' => 'saddharmaghos2a1mbaradi1para1ja'  :78135,78137
 555,1:  'Saddharmapun2d2ari1ka, (1)' => 'saddharmapun2d2ari1ka'  :78138,78141
 555,1:  'Saddharmasmr2tyupastha1na' => 'saddharmasmr2tyupastha1na'  :78142,78143
-555,1:  'sadyatha1pi na1ma, sadyathi1dam2' => 'sadyatha1pi'  :78152,78153
+555,1:  'sadyatha1pi na1ma, sadyathi1dam2' => 'sadyatha1pina1ma'  :78152,78153
 555,1:  'Sanatkuma1ra' => 'sanatkuma1ra'  :78157,78161
 555,2:  '-sam2tatika' => 'sam2tatika'  :78220,78221
 556,1:  'sam2tis2t2hate, sam2sthihati' => 'sam2tis2t2hate'  :78290,78294
@@ -8831,7 +8831,7 @@
 602,2:  'Suras4mi, (1)' => 'suras4mi'  :84877,84879
 602,2:  'Suras4miketu' => 'suras4miketu'  :84880,84880
 602,2:  'Surasundari1' => 'surasundari1'  :84881,84883
-602,2:  'Sura1 devi1' => 'sura1'  :84884,84885
+602,2:  'Sura1 devi1' => 'sura1devi1'  :84884,84885
 602,2:  'Sura1bhaks2i1' => 'sura1bhaks2i1'  :84886,84886
 602,2:  'Suruci' => 'suruci'  :84893,84893
 602,2:  'Surucira1' => 'surucira1'  :84899,84900
@@ -9225,7 +9225,7 @@
 622,1:  'hes2t2a1, °t2ha1' => 'hes2t2a1'  :87661,87680
 622,2:  'hes2t2e, °t2he' => 'hes2t2e'  :87697,87705
 622,2:  'Haimavata, (1)' => 'haimavata'  :87713,87719
-622,2:  'ho bhan2e = bho bhan2e' => 'ho'  :87725,87725
+622,2:  'ho bhan2e = bho bhan2e' => 'hobhan2e'  :87725,87725
 622,2:  'hora-pa1t2haka' => 'horapa1t2haka'  :87732,87735
 622,2:  '? hra1si' => 'hra1si'  :87741,87753
 622,2:  'hriya1yati, hri1°' => 'hriya1yati'  :87756,87762
