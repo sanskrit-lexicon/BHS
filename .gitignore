@@ -1,0 +1,7 @@
+# Emacs backup
+*~
+# Emacs . #history.txt#  - NOte this does NOT work
+*[#]*[#]
+*[#]*
+# 20170714 - ejf.. Don't track 'temp' files
+temp*
