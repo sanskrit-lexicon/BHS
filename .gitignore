@@ -5,3 +5,5 @@
 *[#]*
 # 20170714 - ejf.. Don't track 'temp' files
 temp*
+*.pyc
+__pycache__

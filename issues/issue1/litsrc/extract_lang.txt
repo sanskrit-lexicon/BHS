@@ -1,0 +1,46 @@
+AMg.::703
+Ap.::21
+BHS::718
+Br.::1
+Chin.::414
+Cl.::1
+Cl. Skt.::4
+Class. Skt.::10
+Deśī::16
+Eng.::14
+Epic::4
+Epic Skt.::8
+Ger.::9
+Gk.::1
+Guj.::1
+Hindi::24
+IE.::3
+Jap.::84
+JM::1
+JM.::41
+Lat.::1
+late Skt.::46
+M.::37
+Marathi::1
+Mg.::3
+MInd.::1
+MIndic::553
+Mongol::2
+Mongolian::1
+Nep.::81
+Niya::1
+Niya Pkt.::2
+NW Niya Pkt.::1
+Pali::7177
+Pkt::1
+Pkt.::278
+Singhalese::1
+Skt::5
+Skt.::5823
+Skt. Epic.::1
+Tib.::2759
+Toch.::1
+Tocharian::2
+Up.::1
+Ved.::15
+Vedic::73

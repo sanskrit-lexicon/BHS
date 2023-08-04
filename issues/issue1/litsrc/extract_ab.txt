@@ -1,0 +1,215 @@
+A.D.::1
+abstr.::46
+acc.::932
+Acc.::48
+ad loc.::9
+analog.::15
+app.::224
+App.::3
+assoc.::25
+B.::12
+Bhvr::1
+Bhvr.::407
+Bodhicaryāv.::2
+Bodhis.::1
+Bu.::4
+Buddh.::16
+Cf::1
+cf.::3829
+Cf.::636
+ch.::11
+Chap.::92
+chap.::23
+comb.::1
+comm.::247
+Comm.::3
+comms.::43
+comp.::232
+corr.::21
+Corr.::6
+correl.::10
+corresp.::150
+Corresp.::9
+Corrig.::4
+cpd.::695
+cpds::1
+cpds.::218
+Cr. ed.::17
+crit. app.::2
+Crit. app.::2
+Crit. App.::18
+crit. ed.::2
+Crit. ed.::12
+Crit. note::1
+Critical App.::1
+d.h.::3
+def.::7
+der.::2
+deriv.::23
+Dh::1
+dial.::2
+dict.::1
+Dict.::12
+Dictt.::50
+dictt.::1
+diff.::17
+dim.::58
+dimin.::1
+E.g.::1
+e.g.::341
+ed.::400
+Ed.::6
+edd.::130
+Edd.::1
+em.::1361
+Em.::1
+ems.::1
+ep.::257
+eps.::1
+equiv.::3
+erron.::1
+esp.::347
+et al.::20
+etc.::1309
+etym.::86
+Etym.::8
+ex.::2
+exc.::5
+expl.::17
+exx.::3
+ff.::22
+fig.::111
+fn.::2
+foll.::164
+Foll.::1
+Gr.::106
+gr.::1
+hapl.::1
+haplog.::4
+haplogr.::5
+haplol.::1
+i.e.::369
+ib.::53
+ibid.::18
+id.::1502
+ifc.::156
+incl.::28
+indiff.::3
+inflect.::1
+Inscrip.::1
+interrog.::3
+Introd.::8
+irreg.::1
+Karmadh.::8
+karmadh.::1
+l.::7
+l. c.::41
+lect. fac.::8
+Lex.::485
+lex.::7
+Lexx.::11
+lexx.::2
+lit.::387
+Lit.::3
+litt.::1
+ll.cc.::3
+loc. cit.::6
+m.c.::769
+marg.::1
+math.::2
+metr.::80
+mg.::1094
+mgs.::141
+Mgs.::1
+misc.::14
+ms.::727
+mss::1
+mss.::2936
+Mss.::7
+Mt.::8
+mus.::10
+mus. instr.::3
+n.::6542
+n. act.::98
+n. ag.::30
+n. pl.::222
+n. pr.::57
+n. sg.::415
+N.B.::3
+neg.::212
+negs.::1
+nn. pr.::1
+no.::1
+nom. act.::16
+nom. ag.::4
+noms.::4
+Nos.::5
+Obv.::2
+om.::62
+onomat.::34
+op. cit.::9
+opp.::88
+Opp.::1
+ord. num.::4
+orig.::162
+Orig.::5
+P.K.::2
+para.::1
+paren.::1
+passim.::1
+patron.::1
+pej.::1
+perh.::420
+Perh.::12
+pers.::2
+pl.::625
+plur.::1
+prec.::1323
+Prec.::1
+pret.::2
+prob.::862
+Prob.::33
+PTS ed.::5
+publ.::5
+q.v.::2920
+qq.v.::212
+Qy::3
+redupl.::1
+ref.::11
+refs.::18
+rel.::2
+resp.::1
+Rev.::1
+s.v.::1936
+s.vv.::54
+sc.::519
+scil.::1
+sec.::2
+sg.::453
+Sg.::1
+sing.::5
+superl.::4
+syn.::10
+Tatp.::4
+tatp.::4
+Tatpur.::2
+tatpur.::1
+tr.::2
+transl.::58
+transp.::1
+unmetr.::91
+unorig.::1
+v.a.::2
+v.l.::2003
+var.::147
+varr.::14
+vb.::2
+viell.::1
+viz.::106
+vs::3571
+vs.::1
+vss::341
+vss.::5
+vv.ll.::82
+Vārt.::1
+w.r.::2

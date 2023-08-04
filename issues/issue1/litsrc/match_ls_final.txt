@@ -1,0 +1,1026 @@
+(Hoernle) MR	ls,0,FR0	Hoernle (general editor), Manuscript Remains of Buddhist literature found in Eastern Turkestan, Oxford, 1916. BHS fragments ed. by Hoernle, Lüders, Pargiter, Thomas.
+AB	ls,0,FR0	Aitareya Brāhmaṇa.
+Abh	ls,3,FR1	{AbhidhK.}
+Abh.	ls,1,FR1	{AbhidhK.}
+Abh. AW Berlin. ph.-h. Kl., 1949, Nr. 1 (1950)	ls,1,FR1	?
+AbhGGW, ph.-h. Kl., 3te Folge, Nr. 29, 30 (1944, 1948)	ls,1,FR1	?
+Abhidh-s.	ls,1,FR0	Abhidhammatthasaṃgaha (Pali).
+Abhidh.	ls,1,FR1	{AbhidhK.}
+Abhidh.p.	ls,1,FR1	{AbhidhK.}
+AbhidhK	ls,12,FR1	{AbhidhK.}
+AbhidhK LaV-P.	ls,1,FR1	{AbhidhK.}
+AbhidhK LaV.-P.	ls,1,FR1	{AbhidhK.}
+AbhidhK.	ls,27,﻿FR0	Abhidharmakośa, transl. LaVallée Poussin, Paris and Louvain, 1923—31; many technical words cited from Index, transl., and notes. References, as in the Index, are to Book (of the original) and page of the translation.
+AbhidhK. (vyā.) LaV-P.	ls,1,FR1	{AbhidhK.}
+AbhidhK. (vyākhyā) LaV-P.	ls,1,FR1	{AbhidhK.}
+AbhidhK. Index	ls,1,FR1	{AbhidhK.}
+AbhidhK. LaV-P.	ls,95,FR1	{AbhidhK.}
+AbhidhK. LaV-P. Index	ls,1,FR1	{AbhidhK.}
+AbhidhK. Vy.	ls,1,FR1	{AbhidhK.}
+Abhidhānappadīpikā	ls,1,FR1	?
+Abhisamayālaṃkārāloka (GOS 62)	ls,2,FR1	?
+AbhK.	ls,0,FR0	{AbhidhK.}
+AbidhK. LaV-P.	ls,1,FR1	{AbhidhK.}
+ABORI	ls,0,FR0	Annals of the Bhandarkar Oriental Research Institute (Poona).
+Acharya (P.K.)	ls,0,FR0	Dict(ionary of) Hindu Arch(itecture), Oxford Univ. Press, n.d. [1927?].
+Acharya, Dict. Hind. Arch.	ls,2,FR1	{Acharya (P.K.)}
+Acharya, Dict. Hindu Arch.	ls,2,FR1	{Acharya (P.K.)}
+Acharya, Dict. Hindu Architecture	ls,1,FR1	{Acharya (P.K.)}
+Acharyaʼs Dict. Hind. Arch.	ls,1,FR1	{Acharya (P.K.)}
+Addendum	ls,1,FR1	?
+AdP	ls,5,FR1	{AdP Konow MASI}
+AdP Konow MASI	ls,0,FR0	Sten Konow, Central Asian Fragments of the Aṣṭādaśasāhasrikā, in Memoirs of the Archaeological Survey of India, No. 69, 1942. Only a few rare and important words.
+AdP Konow MASI 69	ls,4,FR1	{AdP Konow MASI}
+AdP, Konow MASI 69	ls,3,FR1	{AdP Konow MASI}
+AdP, Konow, MASI 69	ls,1,FR1	{AdP Konow MASI}
+AGS	ls,1,FR1	?
+AIS	ls,0,FR0	Delbrück, Altindische Syntax.
+Ait. Br.	ls,1,FR0	Aitareya Brāhmaṇa.
+AKM	ls,0,FR0	Abhandlungen für die Kunde des Morgenlandes.
+Alsdorf	ls,0,FR0	see Kum. Kumārapālapratibodha (Ap.), ed. Alsdorf.
+Amarak.	ls,1,FR0	Amarakośa.
+AN	ls,86,FR0	Aṅguttaranikāya (Pali).
+AN comm.	ls,7,FR1	?
+Ap	ls,2,FR1	{Ap.}
+Ap.	ls,0,FR0	Apabhraṃśa; Apadāna (Pali text).
+Apte	ls,6,FR0	Apte, Studentʼs Sanskrit-English Dictionary (1922).
+ApŚ	ls,1,FR1	{ApŚ.}
+ApŚ.	ls,0,FR0	Apastamba Śrauta Sūtra.
+Arthaśāstra	ls,1,FR1	?
+ASGW	ls,0,FR0	Abhandlungen der sächsischen Gesellschaft der Wissenschaften.
+AsP	ls,318,FR0	Aṣṭasāhasrikā-prajñāpāramitā, ed. Rajendralala Mitra, Calcutta, 1888.
+Atthasālinī	ls,1,FR1	?
+Aung and Rhys Davids, Compendium of Philos.	ls,1,FR1	?
+AV	ls,11,FR1	{AV.}
+Av	ls,1101,FR0	Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+Av, Index	ls,1,FR1	?
+AV.	ls,5,FR0	Atharvaveda.
+Av.	ls,1,FR1	{AV.}
+AVPariś.	ls,1,FR0	Atharvaveda Pariśiṣṭa.
+Aśoka, Rock Ed.	ls,1,FR1	?
+Aśokan u(y)yāma, Rock Ed.	ls,1,FR1	?
+Aśokaʼs 4th Rock Edict, Dhauli-Jaugada version	ls,1,FR1	?
+B (as in Wh. Roots)	ls,0,FR0	Brāhmaṇa(s).
+B.	ls,3,FR1	{SP}
+B. and R.	ls,2,FR1	Böhtlingk and Roth Grosses Petersburger Wörterbuch
+B. in Tr. (Warren)	ls,0,FR0	Warrenʼs Buddhism in Translations, HOS. 3.
+B.Pr.S.	ls,1,FR1	?
+B.S.	ls,1,FR1	?
+Bailey, BSOS	ls,1,FR1	Bailey in Bulletin of the School of Oriental (and African) Studies, London.
+Bailey, JRAS	ls,9,FR1	Bailey in Journal of the Royal Asiatic Society.
+Barua and Mitra	ls,1,FR1	?
+Bbh	ls,1215,FR0	Bodhisattvabhūmi, ed. Wogihara, Tokyo, 1930—36. Includes the editorʼs dissertation, Lexikalisches aus der Bodhisattvabhūmi, which is referred to as Wogihara, Lex.
+Bbh.	ls,2,FR1	{Bbh}
+Bca.ṭ.	ls,1,FR0	Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
+Bcp.	ls,1,FR1	?
+Bcṭ	ls,10,FR0	Bodhicdaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
+Bcṭ.	ls,2,FR1	{Bcṭ}
+BEFEO	ls,0,FR0	Bulletin de lʼÉcole Française dʼExtrème Orient.
+Bendall	ls,30,FR1	?
+Bendall and Rouse	ls,79,FR1	{Śikṣ}
+Bendall and Rouse in Śikṣ Transl.	ls,1,FR1	{Śikṣ}
+Bendall and Rouse Transl.	ls,3,FR1	{Śikṣ}
+Bendall and Rouse, note in Transl.	ls,1,FR1	{Śikṣ}
+Bendall and Rouse, Transl.	ls,8,FR1	{Śikṣ}
+Bendall and Rouse, Śikṣ	ls,1,FR1	{Śikṣ}
+Bendall and Rouse, Śikṣ Transl.	ls,1,FR1	{Śikṣ}
+Bendall Śikṣ	ls,1,FR1	{Śikṣ}
+Bendall, JRAS, N.S. 12 (1880)	ls,1,FR1	Bemdall in Journal of the Royal Asiatic Society.
+Bendall, Śikṣ	ls,1,FR1	{Śikṣ}
+Bendall-Rouse	ls,2,FR1	{Śikṣ}
+Bendallʼs note	ls,9,FR1	?
+Bh.G.	ls,2,FR1	?
+Bhad	ls,79,FR0	Bhadracarī, ed. Watanabe, Leipzig, 1912. Identical with Gv 543.9—548.2. Cited by numbered verses.
+Bhav.	ls,1,FR0	Bhavisattakahā (Ap.), ed. Jacobi (1918).
+Bhav. (Jacobi)	ls,1,FR1	{Bhav.}
+Bhaṭṭ.	ls,1,FR1	?
+BhG.	ls,1,FR0	Bhagavad Gītā.
+BhP.	ls,1,FR1	?
+BHS	ls,0,FR0	Buddhist Hybrid Sanskrit.
+Bhāg.P.	ls,9,FR1	{BhāgP.}
+BhāgP.	ls,8,FR0	Bhāgavata Purāṇa.
+Bhīk	ls,235,FR0	Bhikṣunī-karmavācanā, ed. Ridding and LaVallée Poussin, BSOS 1, Part 3, 123—143. Cited by page and line of the manuscript as reproduced in ed.
+Bibl. Bu.	ls,0,FR0	Bibliotheca Buddhica.
+Bloch (Jules)1?	ls,0,FR0	(Lʼ)Indo-Aryen, Paris, 1934.
+Bloch (Jules)2?	ls,0,FR0	(Les Inscriptions dʼ) Asoka, Paris, 1950.
+Bloomfield, Mūladeva, Proc. Am. Philos. Soc.	ls,1,FR1	?
+Bodhicaryāv.	ls,1,FR1	{Bcṭ}
+Bodhicaryāvatārapañjikā (Bibl. Ind.)	ls,1,FR1	{Bcṭ}
+BR	ls,525,FR0	Boehtlingk and Roth, Sanskrit Wörterbuch.
+Br. 	ls,0,FR0	Brāhmaṇas (language of).
+Brahmadatta Jāt.	ls,1,FR1	?
+BSL	ls,0,FR0	Bulletin de la Société de Linguistique (de Paris).
+BSOS	ls,0,FR0	Bulletin of the School of Oriental (and African) Studies, London.
+BSOS 1	ls,1,FR1	Bulletin of the School of Oriental (and African) Studies, London.
+Bu.v.	ls,1,FR0	Buddha-vaṃsa (Pali).
+Buddhac.	ls,9,FR0	Buddhacarita, ed. Johnston, Calcutta, 1935. The language is standard Skt.; a few words, chiefly religious, are cited by chapter and verse.
+Buddhacarita	ls,17,FR1	{Buddhac.}
+Buddhacarita (Johnston)	ls,1,FR1	{Buddhac.}
+Bull?	ls,0,FR0	Bull(etin of the) Deccan Coll(ege) Research Institute) (Poona).
+Burlingame, HOS	ls,1,FR1	?
+Burlingame, JRAS	ls,1,FR1	Burlingame in Journal of the Royal Asiatic Society.
+Burnouf	ls,131,FR1	Eugène Burnouf, 1801-1852, French indologist and orientalist.
+Burnouf Intr.	ls,5,FR1	?
+Burnouf Introd.	ls,1,FR1	?
+Burnouf, Intr.	ls,6,FR0	Introduction à lʼhistoire du bouddhisme indien (1844).
+Burnouf, Introd.	ls,16,FR1	?
+Burnouf, Introduction	ls,1,FR1	?
+Burnouf, Lotus	ls,22,FR0	transl. of SP, q.v. in preceding list.
+Burnoufʼs note, Lotus	ls,1,FR1	?
+Burrow (T.)	ls,0,FR0	(The languages of the) Kharoṣṭhi Documents, Cambridge, 1937.
+Burrow, BSOS	ls,3,FR1	Burrow in Bulletin of the School of Oriental (and African) Studies, London.
+Burrow, Kharoṣṭhī Documents	ls,1,FR1	?
+Bv	ls,1,FR0	Buddha-vaṃsa (Pali).
+Bṛh.Ar.U.Mādhy.	ls,1,FR1	?
+BṛhU	ls,2,FR1	?
+BṛhU.	ls,1,FR1	?
+Calc.	ls,0,FR0	Calcutta; see LV.
+Campeyya-Jāt.	ls,1,FR1	?
+Cappeller, HOS 15, Glossar	ls,1,FR1	?
+Car.	ls,1,FR0	Caraka.
+Cath. Miss. Dict.	ls,1,FR1	{Dict. of the Fr. Cath. Miss.}
+Catudvāra Jāt.	ls,1,FR1	?
+Ch.U.	ls,1,FR1	?
+Ch.Up.	ls,1,FR1	?
+Chakravarti	ls,13,FR1	{Ud}
+Charpentier IA 57 (1928)	ls,1,FR1	?
+Childers	ls,210,FR0	Dictionary of the Pali Language, R. C. Childers.
+Colebrooke, Essays	ls,1,FR1	?
+Colebrooke, Misc. Essays	ls,1,FR1	?
+Compendium of Philosophy	ls,1,FR1	?
+Coomaraswamy, Ars Islamica X (1943).	ls,1,FR1	?
+Cowell	ls,2,FR1	?
+Cowell and Neil (Index to Divy)	ls,1,FR1	{Divy}
+CPARD?	ls,0,FR0	Compendium of Philosophy (Aung and Rhys Davids, London, 1910).
+CPD	ls,256,FR0	Andersen and Smith, Critical Pali Dictionary (Vol. 1), Copenhagen, 1924 ff.
+Das	ls,188,FR0	S. C. Das, Tibetan-English Dictionary.
+Das, Dict.	ls,1,FR1	{Das}
+Das, Tib. Dict.	ls,3,FR1	{Das}
+Daśak.	ls,3,FR0	Daśakumāracarita.
+Dbh	ls,540,FR0	Daśabhūmikasūtra, ed. Rahder, Paris and Louvain, 1926.
+Dbh.	ls,2,FR1	?
+Dbh.g.	ls,128,FR0	id. (Gāthā portion) ed. (Rahder and) Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
+Dbs	ls,1,FR0	Daśabalasūtra, in Waldschmidt, Kl. Skt. Texte 4, 209 ff.
+Deśīn.	ls,47,FR0	Deśīnāmamālā, ed. Pischel, Bombay, 1880.
+Dh	ls,1,FR1	?
+Dh.	ls,38,FR1	?
+Dharmas	ls,382,FR0	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
+Dhauli Sep.	ls,1,FR1	?
+Dhp	ls,1,FR1	{Dhp.}
+Dhp.	ls,94,FR0	Dhammapada (Pali); Dhp. c(omm.), commentary on Dhp.; Fausb. refers to Fausböllʼs ed. of Dhp.
+Dhp. c.	ls,1,FR1	{Dhp.}
+Dhp. comm.	ls,30,FR1	{Dhp.}
+Dhs	ls,1,FR1	{Dhs.}
+Dhs.	ls,3,FR0	Dhammasaṃgani (Pali).
+Dhs. transl.	ls,1,FR1	{Dhs.}
+Dhātup.	ls,30,FR0	Dhātupāṭha.
+Di	ls,1,FR1	?
+Dict.	ls,0,FR0	Dictionary, usually referring to my Dict. of BHS; Dictt. = Dictionaries.
+Dict. Cath. Miss.	ls,1,FR1	{Dict. of the Fr. Cath. Miss.}
+Dict. Fr. Cath. Miss.	ls,2,FR1	{Dict. of the Fr. Cath. Miss.}
+Dict. Hindu Arch.	ls,0,FR0	Acharya, Dictionary of Hindu Architecture.
+Dict. of French Cath. Miss.	ls,1,FR1	{Dict. of the Fr. Cath. Miss.}
+Dict. of the Fr. Cath. Miss.	ls,1,FR0	the Tibetan Dictionary of the French Catholic Mission.
+Divy	ls,3170,FR0	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+Divy Index	ls,5,FR1	{Divy}
+Divy, Index	ls,3,FR1	{Divy}
+Divy.	ls,1,FR1	{Divy}
+Divy., Index	ls,1,FR1	{Divy}
+DN	ls,159,FR0	Dīghanikāya (Pali).
+DN comm.	ls,44,FR1	{DN}
+Dnp.	ls,1,FR1	?
+DPPN	ls,161,FR0	Malalasekara, Dictionary of Pali Proper Names.
+Dpv.	ls,4,FR0	Dīp.
+Dpvs.	ls,1,FR0	Dīp.
+Dr. Paul Tedesco	ls,1,FR1	?
+Dutoitʼs transl.	ls,1,FR1	?
+Dutreuil	ls,2,FR1	?
+Dutreuil (de Rhins ms.)	ls,0,FR0	see § 1.3 with fn. 2.
+Dutreuil ‘Prakrit Dhammapada’	ls,1,FR1	?
+Dutreuil, C fragm.	ls,1,FR1	?
+Dutt	ls,10,FR1	{MSV}
+Dutt Introd.	ls,1,FR1	{MSV}
+Dvy	ls,1,FR1	?
+Dāṭh.	ls,1,FR1	?
+Dīp.	ls,1,FR0	Dīpavaṃsa (Pali).
+Dīpav.	ls,1,FR1	?
+E. Lamotte, Mél. chin, et boud.	ls,0,FR0	Mélanges chinoises et bouddhiques.
+E. Lamotte, ĽĀlayavijñāna [Le Réceptacle] dans le Mahāyāna-saṃgraha, Mél. chin. et boud., vol. 3, Brussels, 1935	ls,1,FR1	?
+Edgerton, Festschrift Winternitz	ls,1,FR1	?
+Edgerton, Indian Studies in honor of C.R. Lanman	ls,1,FR1	?
+Edgerton, JAOS	ls,4,FR1	?
+Edgerton, Mīmāṃsā Nyāya Prakāśa, Gloss. Ind.	ls,1,FR1	?
+Eggelingʼs transl.	ls,1,FR1	?
+Ep. Zeyl.	ls,0,FR0	Epigraphia Zeylanica.
+Etymolog. gloss Śikṣ	ls,1,FR1	?
+EV	ls,1,FR1	?
+F.	ls,2,FR1	?
+F.W.K. Müller, Ethnologisches, Notizblatt	ls,1,FR1	?
+Fausböll	ls,1,FR1	?
+Fausböll Dhp. comm.	ls,1,FR1	?
+Feer	ls,20,FR1	{Av}
+Feer on Av	ls,1,FR1	{Av}
+Feer, Av transl.	ls,1,FR1	{Av}
+Feer, Transl. of Av	ls,1,FR1	{Av}
+Fest.	ls,0,FR0	Festschrift.
+Finot	ls,30,FR1	?
+Finot on Prāt	ls,1,FR1	?
+Finot, Lap. ind.	ls,1,FR1	?
+Finot, Lapidaires indiens	ls,1,FR1	?
+Finot, Prāt	ls,1,FR1	?
+Finotʼs report of Chin. on Prāt	ls,1,FR1	?
+Foucaux	ls,137,FR0	see LV. Lalitavistara, ed. Lefmann, Halle, 1902
+Foucaux, Notes	ls,8,FR1	{LV}
+Foucauxʼs note	ls,1,FR1	{LV}
+Foucauxʼs transl.	ls,5,FR1	{LV}
+Foucauxʼs Transl.	ls,1,FR1	{LV}
+fragm. 23 V 2	ls,1,FR1	?
+fragment 36 V 3	ls,1,FR1	?
+fragment 44 V 1	ls,1,FR1	?
+French Catholic Dict.	ls,1,FR1	{Dict. of the Fr. Cath. Miss.}
+G.W. Brown, JAOS	ls,1,FR1	?
+Garbe, Ind. Min.	ls,1,FR1	?
+Gauthiot, MSL 19 (1915)	ls,1,FR1	{MSL}
+Gaṅgamāla Jāt.	ls,1,FR1	?
+Gaṅgamāla-Jāt.	ls,1,FR1	?
+Geiger	ls,35,FR1	{Geiger (W.)}
+Geiger (W.)	ls,0,FR0	Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+Geigerʼs Index	ls,1,FR1	{Geiger (W.)}
+Gobh.GS.	ls,1,FR1	{GobhGS}
+GobhGS	ls,0,FR0	Gobhila Gṛhya Sūtra.
+GobhGS.	ls,1,FR1	{GobhGS}
+GOS	ls,4,FR0	Gaekwadʼs Oriental Series.
+Gray, ZDMG	ls,1,FR1	Gray in Zeitschrift der deutschen morgenländischen Gesellschaft.
+Guhyasamāja	ls,1,FR0	ed. Bhattacharya, Gaekwadʼs Oriental Series 53, Baroda, 1931; contains a few verses with BHS forms; very rarely cited.
+Gv	ls,3174,FR0	Gaṇḍavyūha, ed. Suzuki and Idzumi, Kyoto, 1934—36; 2d ed., photographically reproduced with corrections, 1949.
+Gīt.	ls,0,FR0	Gītagovinda.
+H. Smith	ls,1,FR1	?
+H.M. Johnson, Triṣaṣṭiśalākāpuruṣacaritra I	ls,1,FR1	?
+Haravijaya	ls,2,FR1	?
+Hardy ap. Childers	ls,1,FR1	?
+Hardy, Album Kern	ls,2,FR1	?
+Hardy, AN	ls,1,FR1	?
+Hardyʼs Eastern Monachism	ls,1,FR1	?
+Hariv.	ls,3,FR1	Harivaṃśa
+Harṣac.	ls,7,FR1	Harṣacarita
+Hem.	ls,22,FR0	Hemacandra, chiefly his Prakrit Grammar, ed. and transl. Pischel, Halle, 1877, 1880; see also Deśīn.
+Hem. Abhidh.	ls,1,FR1	Abhidhānacintāmaṇi by Hemacandra
+Hem. Pariś.	ls,1,FR1	Pariśiṣṭa by Hemacandra
+Hem. Pkt. Gr.	ls,1,FR1	Prakrit grammar by Hemacandra
+Hem. Yogaś.	ls,1,FR1	Yogaśāstra by Hemacandra
+Hemacandra, Gr.	ls,1,FR1	Sanskrit grammar by Hemacandra
+Hertel, ZDMG	ls,1,FR1	Hertel in Zeitschrift der deutschen morgenländischen Gesellschaft.
+Hindī Śabdasāgara (1914), 1	ls,1,FR1	?
+HJAS	ls,0,FR0	Harvard Journal of Asiatic Studies.
+Hoernle	ls,2,FR0	see MR. Hoernle (general editor), Manuscript Remains of Buddhist literature found in Eastern Turkestan, Oxford, 1916. BHS fragments ed. by Hoernle, Lüders, Pargiter, Thomas.
+Hoernle MR	ls,18,FR1	{Hoernle}
+Hoernle, JRAS	ls,2,FR1	MR Hoernle in Journal of the Royal Asiatic Society.
+Hoernle, JRAS 1916	ls,2,FR1	MR Hoernle in Journal of the Royal Asiatic Society.
+Hoernle, MR	ls,9,FR1	{Hoernle}
+Hoernleʼs terminology	ls,1,FR1	{Hoernle}
+Hoffmann, Kl. Skt. Texte 5	ls,3,FR1	?
+HOS	ls,2,FR0	Harvard Oriental Series.
+Hultzsch	ls,3,FR1	{Hultzsch (E.)}
+Hultzsch (E.)	ls,0,FR0	Inscr(iptions) of Asoka, Oxford, 1925.
+Hultzsch, Aśoka	ls,1,FR1	{Hultzsch (E.)}
+Hultzsch, Inscr. Aśoka	ls,1,FR1	{Hultzsch (E.)}
+Hāla (Weber)	ls,1,FR1	?
+I. St.	ls,1,FR1	{I.St.}
+I.St.	ls,0,FR0	Indische Studien (Weber).
+IA.	ls,0,FR0	(Lassen) Indische Altertumskunde.
+IF.	ls,0,FR0	Indogermanische Forschungen.
+IHQ	ls,1,FR0	Indian Historical Quarterly.
+Ind. Min.	ls,0,FR0	(Garbe) Die indischen Mineralien (1882).
+Ind. Spr.	ls,5,FR0	Boehtlingk, Indische Sprüche (2d ed.).
+Ind. Spr.²	ls,1,FR1	{Ind. Spr.}
+Ind. St.	ls,2,FR1	{I.St.}
+Ind. Stud.	ls,3,FR1	{I.St.}
+Index	ls,1,FR1	?
+Index to Av, KSS	ls,1,FR1	?
+Index to Bbh	ls,2,FR1	?
+Index to Divy	ls,6,FR1	?
+Index to KN	ls,1,FR1	?
+Index to Laṅk	ls,1,FR1	?
+Index to Lefm.	ls,1,FR1	?
+Index to Mironov	ls,1,FR1	?
+Index to Mvy	ls,1,FR1	?
+ISt.	ls,2,FR1	?
+It.	ls,2,FR0	Itivuttaka (Pali).
+Itiv.	ls,8,FR0	Itivuttaka (Pali).
+J. Bloch, Fest. Wackernagel	ls,1,FR1	?
+J.J. Meyer, Index	ls,1,FR1	?
+JA.	ls,0,FR0	Journal Asiatique.
+Jacobi	ls,1,FR1	?
+Jacobi, Ausgew. Erz.	ls,4,FR0	Ausgewählte Erzählungen in Māhārāṣṭrī. See also Bhav., San.
+Jacobi, Bhav.	ls,5,FR1	Bhavisattakahā (Ap.), ed. Jacobi (1918).
+Jacobi, Bhav. Gloss.	ls,1,FR1	Bhavisattakahā (Ap.), ed. Jacobi (1918). Glossary
+Jacobi, Bhav., Glossar	ls,2,FR1	Bhavisattakahā (Ap.), ed. Jacobi (1918). Glossary
+Jacobi, Bhav., Index	ls,1,FR1	Bhavisattakahā (Ap.), ed. Jacobi (1918). Index
+Jacobi, Erz.	ls,2,FR1	?
+Jacobi, San.	ls,1,FR1	{San.}
+Jacobi, SBE 45	ls,1,FR1	?
+JAOS	ls,6,FR0	Journal of the American Oriental Society.
+JAs.	ls,0,FR0	JA. Journal Asiatique.
+Jaugada Sep.	ls,1,FR1	?
+JB, Whitney, JAOS	ls,1,FR1	?
+JB.	ls,0,FR0	Jaiminīya Brāhmaṇa.
+Jm	ls,345,FR0	Jātakamālā, ed. Kern (HOS 1), Boston, 1891. Its language is close to standard Skt., but contains quite a number of BHS words, and even a few forms; see § 1.53, fn. 17. Transl. Speyer, London, 1895.
+Jm (App.)	ls,4,FR1	?
+JM.	ls,0,FR0	Jaina Māhārāṣṭrī.
+Johnston	ls,6,FR1	?
+Johnston on Saund.	ls,1,eFR1	{Saundarān.}
+Johnston, note on Buddhac.	ls,1,FR1	{Buddhac.}
+Johnston, notes on Saundarān.	ls,1,FR1	{Saundarān.}
+Johnston, Saundarān.	ls,1,FR1	{Saundarān.}
+Johnstonʼs note	ls,2,FR1	{Buddhac.}
+JPTS	ls,0,FR0	Journal of the Pali Text Society.
+JR (Vikramacarita)	ls,0,FR0	Jainistic Recension of the Vikr., see HOS 26—27.
+JRAS	ls,0,FR0	Journal of the Royal Asiatic Society.
+JRAS Oct. 1875 (N.S. VIII Pt. 1)	ls,1,FR1	{JRAS}
+Julienʼs ‘Hiouen-Thsang’	ls,1,FR1	?
+Jä	ls,1,FR1	{Jä.}
+Jä.	ls,79,FR0	see Jäschke. Jäschke, Tibetan-English Dictionary.
+Jäschke	ls,13,FR0	Jäschke, Tibetan-English Dictionary.
+Jäschkeʼs Grammar	ls,1,FR1	?
+Jāt	ls,3,FR1	{Jāt.}
+Jāt.	ls,198,FR0	Jātaka (Pali).
+Jāt. comm.	ls,3,FR1	{Jāt.}
+JŚ.	ls,0,FR0	Jaina Śaurasenī.
+K.	ls,2,FR1	?
+K.P.	ls,2,FR1	?
+Kalpadrumāv.	ls,1,FR1	?
+Kalpanā-maṇḍitikā (Lüders, Kl. Skt. Texte 2) 44 V 1	ls,1,FR1	?
+Kalpanām.	ls,1,FR1	{Kalpanāmaṇḍitikā}
+Kalpanāmaṇḍitikā	ls,2,FR1	?
+Kalpanāmaṇḍitikā 114 V 2	ls,1,FR1	?
+Kalpanāmaṇḍitikā 196.V.2	ls,1,FR1	?
+Kalpanāmaṇḍitikā, Kl. Skt. Texte 2	ls,1,FR1	?
+Kalpanāmaṇḍitikā, Lüders, Kl. Skt. Texte 2	ls,16,FR1	?
+Karmadh.	ls,0,FR0	Karmadhāraya.
+Karmav	ls,324,FR0	(Mahā-)Karmavibhaṅga, and Karmavibhaṅgopadesa, ed. Lévi, Paris, 1932.
+Karmav.	ls,1,FR1	?
+Kashgar fragment	ls,2,FR1	‘Kashgar’ or Central Asiatic recension
+Kashgar fragments	ls,1,FR1	‘Kashgar’ or Central Asiatic recension
+Kashgar rec.	ls,167,FR1	‘Kashgar’ or Central Asiatic recension
+Kashgar version	ls,2,FR1	‘Kashgar’ or Central Asiatic recension
+Kathās.	ls,4,FR1	{KSS}
+Kauś.	ls,3,FR0	Kauśika Sūtra.
+Kauṣ Up.	ls,1,FR1	?
+Kauṣ. Up.	ls,1,FR1	?
+Kauṭ.	ls,2,FR1	{Kauṭ. (Arth.)}
+Kauṭ. (Arth.)	ls,0,FR0	Kauṭiliya (Arthaśāstra).
+Kauṭ. A.	ls,1,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Arth.	ls,6,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Arth. Sham.	ls,1,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Arth. Sham.¹	ls,8,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Arth., Sham.¹	ls,1,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Arth., Shama S.¹	ls,1,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Arth., Shama-S.¹	ls,1,FR1	{Kauṭ. (Arth.)}
+Kauṭ. Shama Sastri 1st ed.	ls,1,FR1	{Kauṭ. (Arth.)}
+KaṭhaU.	ls,2,FR1	?
+KBr.	ls,1,FR1	?
+Keith	ls,1,FR1	?
+Kenop.	ls,1,FR1	?
+Kern	ls,116,FR1	?
+Kern (Transl.)	ls,1,FR1	?
+Kern SBE	ls,3,FR1	?
+Kern SP Preface	ls,1,FR1	?
+Kern, Der Buddhismus	ls,1,FR1	?
+Kern, IF.	ls,2,FR1	?
+Kern, note to Transl., SBE	ls,1,FR1	?
+Kern, Preface	ls,4,FR1	?
+Kern, SBE	ls,4,FR1	?
+Kern, SBE 21	ls,1,FR1	?
+Kern, SP	ls,1,FR1	?
+Kern, SP Preface	ls,6,FR1	?
+Kern, Transl.	ls,1,FR1	?
+Kern, Versl. K. Akad. Afd. Lett.	ls,1,FR1	?
+Kernʼs note in Transl. of SP, SBE 21	ls,1,FR1	{SP}
+Kernʼs Preface	ls,1,FR1	{SP}
+Kernʼs SP Preface	ls,1,FR1	{SP}
+Kernʼs SP preface	ls,1,FR1	{SP}
+Kernʼs Transl.	ls,2,FR1	?
+Kernʼs transl.	ls,3,FR1	?
+Kernʼs Transl. SBE	ls,1,FR1	?
+Kh.p., Khud.p. (comm.)	ls,0,FR0	Khuddaka-pāṭha (commentary) (Pali).
+Khantivādi Jāt.	ls,1,FR1	?
+Khp.	ls,1,FR1	?
+KhP.	ls,1,FR1	?
+Khp. comm.	ls,1,FR1	?
+Khud.p.	ls,1,FR1	?
+Khud.p. comm.	ls,1,FR1	?
+Kir.	ls,1,FR1	?
+Kirfel	ls,7,FR1	{Kirfel, Kosm.}
+Kirfel, Kosm.	ls,21,FR0	Kosmographie der Inder.
+Kirfel, Kosm., Index	ls,1,FR1	{Kirfel, Kosm.}
+Kirfel, Kosmographie	ls,3,FR1	{Kirfel, Kosm.}
+Kl. Skt. Texte	ls,0,FR0	Kleinere Sanskrit Texte (5 vols.; Kgl. Preuss. Turfan-Expeditionen), Leipzig (Vol. 1 Berlin), 1911—39.
+Kl. Skt. Texte 2	ls,1,FR1	?
+Kleinere Skt. Texte II	ls,1,FR1	?
+KN	ls,89,FR0	(see SP) Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912
+KN Preface	ls,3,FR1	?
+KN, Index	ls,1,FR1	?
+Konow	ls,1,FR1	?
+Konow MASI 69	ls,1,FR1	?
+Konow, Avhandl. Norske Viden. Akad. 1941, II. Hist.-Fil. Kl.	ls,1,FR1	?
+Konow, Saka versions of the Bhadrakalpikā-(sic)-sūtra, Oslo Akad. hist.-fil. kl. 1929	ls,1,FR1	?
+Koṇḍañña Jāt.	ls,1,FR1	?
+KP	ls,319,FR0	Kāśyapa Parivarta, ed. Staël-Holstein, Shanghai, 1926. Cited by sections as numbered in edition, and lines.
+KSA	ls,0,FR0	Kāṭhaka Saṃhitā, Aśvamedhagrantha.
+KSS	ls,4,FR0	Kathāsaritsāgara.
+KSS.	ls,1,FR1	?
+Kull.	ls,0,FR0	Kullūka.
+Kull. on Manu	ls,1,FR1	?
+Kum.	ls,0,FR0	Kumārapālapratibodha (Ap.), ed. Alsdorf.
+Kunst, BSOS	ls,1,FR1	{BSOS}
+Kusa Jāt.	ls,1,FR1	?
+KV	ls,1,FR1	{Kv}
+Kv	ls,555,FR0	Kāraṇḍavyūha, in The Hindu Commentator, vol. 5; 1872.
+Kvu	ls,2,FR1	{Kvu.}
+Kvu.	ls,0,FR0	Kathā-vatthu (Pali).
+Kvu. transl.	ls,1,FR1	{Kvu.}
+Kād.	ls,1,FR1	?
+Kār.	ls,1,FR1	?
+Kāty. Dharmaś.	ls,1,FR1	?
+Kāś.	ls,7,FR0	Kāśikā (comm. on Pāṇ.).
+Kāṇva	ls,1,FR1	?
+KŚS	ls,1,FR0	Kātyāyana Śrauta Sūtra.
+Ḱ	ls,0,FR0	(see SP) Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912
+Kṣānti-Jāt.	ls,1,FR1	?
+Lalou	ls,6,FR0	Iconographie (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+Lalou Iconographie	ls,3,FR1	?
+Lalou, Iconographie	ls,22,FR1	?
+Lang.	ls,1,FR0	Language (Journal of the Linguistic Society of America).
+Lassen IA.	ls,1,FR1	?
+LaV-P	ls,1,FR1	?
+LaV-P in JRAS	ls,1,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaV-P, AbhidhK.	ls,1,FR1	{AbhidhK.}
+LaV-P.	ls,23,FR1	LaVallée Poussin
+LaV-P. AbhidhK.	ls,5,FR1	{AbhidhK.}
+LaV-P. AbhidhK. Index	ls,1,FR1	{AbhidhK.}
+LaV-P. Index	ls,2,FR1	{AbhidhK.}
+LaV-P. JRAS	ls,2,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaV-P., AbhidhK.	ls,2,FR1	{AbhidhK.}
+LaV-P., Index	ls,1,FR1	{AbhidhK.}
+LaV-P.ʼs note	ls,1,FR1	{AbhidhK.}
+LaVallée Poussin	ls,4,FR1	?
+LaVallée Poussin JRAS	ls,5,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée Poussin JRAS 1911	ls,1,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée Poussin JRAS 1913	ls,2,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée Poussin vol. 4	ls,1,FR1	?
+LaVallée Poussin, AbhidhK	ls,2,FR1	{AbhidhK.}
+LaVallée Poussin, AbhidhK.	ls,12,FR1	{AbhidhK.}
+LaVallée Poussin, HJAS	ls,1,FR1	LaVallée Poussin in Harvard Journal of Asiatic Studies.
+LaVallée Poussin, JRAS	ls,3,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée Poussin, JRAS 1913	ls,1,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée Poussin, note on MadhK	ls,1,FR1	?
+LaVallée Poussin, trnsl. of AbhidhK.	ls,1,FR1	{AbhidhK.}
+LaVallée Poussinʼs Index	ls,2,FR1	{AbhidhK.}
+LaVallée- Poussin, AbhidhK.	ls,1,FR1	{AbhidhK.}
+LaVallée-Poussin	ls,1,FR1	?
+LaVallée-Poussin JRAS	ls,2,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée-Poussin, AbhidhK	ls,2,FR1	{AbhidhK.}
+LaVallée-Poussin, AbhidhK.	ls,9,FR1	{AbhidhK.}
+LaVallée-Poussin, Bodhicaryāvatārapañjikā	ls,1,FR1	?
+LaVallée-Poussin, HJAS	ls,1,FR1	LaVallée Poussin in Harvard Journal of Asiatic Studies.
+LaVallée-Poussin, JRAS	ls,7,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée-Poussin, JRAS 1911	ls,1,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+LaVallée-Poussinʼs Transl.	ls,1,FR1	{AbhidhK.}
+LaVallée-Poussinʼs version, JRAS	ls,1,FR1	LaVallée Poussin in Journal of the Royal Asiatic Society.
+Laṅk	ls,637,FR0	Laṅkāvatāra-sūtra, ed. Nanjio, Kyoto, 1923; transl. Suzuki, London, 1932; Index, by Suzuki, Kyoto, 1934; ‘Studies’ = Suzuki, Studies in the Lankavatara Sutra, London, 1930.
+Laṅk.	ls,1,FR1	?
+Ledi Sadaw JPTS	ls,1,FR1	Ledi Sadaw in Journal of the Pali Text Society.
+Lefm.	ls,309,FR0	see LV. Lalitavistara, ed. Lefmann, Halle, 1902see LV.
+Lefm.ʼs Index	ls,1,FR1	?
+Leumann, Album Kern	ls,1,FR1	?
+Leumann, Aup.S.	ls,1,FR1	?
+Leumann, Das nordarische Lehrgedicht des Buddhismus, AKM	ls,1,FR1	?
+Leumannʼs etym., ap. Wogihara, Lex. aus der Bbh.	ls,1,FR1	?
+Lib. of Congr. ed.	ls,1,FR1	Library of Congress edition
+Lin Li-kouang	ls,0,FR0	(Lʼ)Aide-Mémoire (de la Vraie Loi), Paris, 1949.
+Lin Li-Kouang. Aide-Mémoire	ls,1,FR1	?
+Lotus	ls,4,FR1	Lotus de la Bonne Loi, Paris, 1852
+Ludwig RV	ls,1,FR1	?
+LV	ls,4051,FR0	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+Lv	ls,1,FR1	{LV}
+LV (Calc.)	ls,1,FR1	{LV}
+LV (Lefm.)	ls,1,FR1	?
+LVa	ls,40,FR1	?
+LVb	ls,34,FR1	?
+Lévi	ls,105,FR1	{Māy}
+Lévi (Sūtrāl.)	ls,1,FR1	{Sūtrāl.}
+Lévi BEFEO.	ls,1,FR1	?
+Lévi JA 1912, Pt. 2	ls,1,FR1	{JA.}
+Lévi JA. 1912 Pt. 2	ls,1,FR1	{JA.}
+Lévi Māy	ls,1,FR1	{Māy}
+Lévi note	ls,1,FR1	{Sūtrāl.}
+Lévi on Sūtrāl.	ls,4,FR1	{Sūtrāl.}
+Lévi Sūtrāl.	ls,4,FR1	{Sūtrāl.}
+Lévi Transl.	ls,1,FR1	{Sūtrāl.}
+Lévi, JA 1912 (vol. 20)	ls,1,FR1	{JA.}
+Lévi, JA 1915	ls,2,FR1	{JA.}
+Lévi, JA Nov.—Dec. 1912	ls,1,FR1	{JA.}
+Lévi, JA. Nov.—Dec. 1912	ls,1,FR1	{JA.}
+Lévi, JAs. 1915, I	ls,2,FR1	{JA.}
+Lévi, Karmav	ls,4,FR1	?
+Lévi, Māy	ls,1,FR1	{Māy}
+Lévi, note to Transl.	ls,1,FR1	{Sūtrāl.}
+Lévi, Sūtrāl.	ls,23,FR1	{Sūtrāl.}
+Lévi, Sūtrāl. Transl.	ls,4,FR1	{Sūtrāl.}
+Léviʼs note	ls,34,FR1	{Sūtrāl.}
+Léviʼs note in Transl.	ls,2,FR1	{Sūtrāl.}
+Léviʼs notes	ls,2,FR1	{Sūtrāl.}
+Léviʼs transl.	ls,1,FR1	{Sūtrāl.}
+Léviʼs Transl.	ls,1,FR1	{Sūtrāl.}
+Lüders	ls,6,FR1	?
+Lüders ap. Hoernle MR	ls,4,FR1	?
+Lüders SBAW	ls,1,FR1	?
+Lüders, KI. Skt. Texte	ls,1,FR1	?
+Lüders, Kl. Skt. Texte 2	ls,2,FR1	?
+Lüders, KZ	ls,2,FR1	?
+Lüders, SBAW	ls,1,FR1	?
+Lüdersʼ discussion	ls,1,FR1	?
+Lāṭy.	ls,1,FR0	Lāṭyāyana Śrauta Sūtra.
+LāṭyŚS.	ls,1,FR1	?
+M.	ls,0,FR0	Māhārāṣṭrī.
+M. Leumann, IF	ls,1,FR1	?
+M. Müller on Dharmas	ls,1,FR1	?
+MadhK	ls,56,FR0	Mūla-Madhyamaka-kārikās, with comm., ed. LaVallée Poussin, St. Petersburg, 1903—1910. Only partially excerpted.
+Madhy.	ls,1,FR1	?
+Mahā-Dhammapāla Jāt.	ls,1,FR1	?
+Mahāsamaj., Waldschmidt, Kl. Skt. Texte 4	ls,1,FR1	{Mahāsamāj.}
+Mahāsamāj.	ls,8,FR0	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+Mahāsamāj. Kl. Skt. Texte 4	ls,1,FR1	{Mahāsamāj.}
+Mahāsamāj. Waldschmidt, Kl. Skt. Texte 4	ls,19,FR1	{Mahāsamāj.}
+Mahāsamāj., Waldschmidt, Kl. Skt. Texte 4	ls,28,FR1	{Mahāsamāj.}
+Mahāummagga-j.	ls,2,FR1	?
+Mahāv.	ls,4,FR0	Mahāvaṃsa (Pali).
+Mahāvaṃsa	ls,1,FR1	?
+Manu	ls,9,FR1	?
+Max Müller	ls,1,FR1	?
+May	ls,5,FR1	?
+Mbh	ls,18,FR1	{Mbh.}
+Mbh.	ls,63,FR0	Mahābhārata.
+Megh	ls,36,FR0	Meghasūtra, ed. Bendall, JRAS 1880, 288 ff.
+Mehendale (M.A.)	ls,0,FR0	Hist(orical) Gr(ammar) of Inscr(iptional) Pkts., Poona, 1948.
+Meyer	ls,4,FR1	{Meyer, Kauṭ. (Arth.)}
+Meyer, Kauṭ.	ls,1,FR1	{Meyer, Kauṭ. (Arth.)}
+Meyer, Kauṭ. (Arth.)	ls,0,FR0	J. J. Meyerʼs translation of Kauṭ., Leipzig, 1926.
+Meyer, Kauṭ. Arth.	ls,3,FR1	{Meyer, Kauṭ. (Arth.)}
+Meyerʼs Index	ls,1,FR1	{Meyer, Kauṭ. (Arth.)}
+Meyerʼs transl.	ls,2,FR1	{Meyer, Kauṭ. (Arth.)}
+Mg.	ls,0,FR0	Māgadhī.
+Miln.	ls,26,FR0	Milindapañha (Pali).
+Milp.	ls,3,FR0	Milindapañha (Pali).
+Minaeff	ls,0,FR0	see Mvy. Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
+Minayeffʼs Prātimokṣa S.	ls,1,FR1	?
+Minayev	ls,7,FR1	?
+Mir.	ls,2,FR1	?
+Mironov	ls,435,FR0	see Mvy. Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
+Mironov, JRAS	ls,1,FR1	Mironov in Journal of the Royal Asiatic Society.
+Mmk	ls,981,FR0	(Ārya-)Mañjuśrīmūlakalpa, ed. Gaṇapati Śāstri, 3 vols., Trivandrum, 1920, 1922, 1925. See Lalou, in the following list of abbreviations.
+Mmk ap. Lalou, Iconographic	ls,1,FR1	?
+Mmk; final colophon	ls,1,FR1	?
+MN	ls,117,FR0	Majjhimanikāya (Pali).
+MN comm.	ls,14,FR1	{MN}
+MN.	ls,1,FR1	{MN}
+Monier Williams, Skt. Dict.	ls,1,FR1	{MW}
+Monier-Williams	ls,1,FR1	{MW}
+Morris JPTS 1885	ls,1,FR1	Morris in Journal of the Pali Text Society.
+MPS	ls,120,FR0	E. Waldschmidt, Das Mahāpariṇirvānasūtra. 3 parts; Abhandlungen der deutschen Akademie…zu Berlin, 1950, 1951. Arrived too late to be extensively used; references are to Waldschmidtʼs numbered divisions.
+Mr. D.R.S. Bailey	ls,4,FR1	?
+Mrs. Rhys Davids	ls,2,FR1	?
+Mrs. Rhys Davids (Minor Anthologies, 1931)	ls,1,FR1	?
+Mrs. Rhys Davids, Brethren	ls,1,FR1	?
+Mrs. Rhys Davids, Minor Anthologies of the Pali Canon Part IV, 1942	ls,1,FR1	?
+Mrs. Rhys Davidsʼ interpretation	ls,1,FR1	?
+Mrs. Rhys Davidsʼ transl.	ls,1,FR1	?
+MS	ls,1,FR0	Maitrāyaṇī Saṃhitā.
+MS.	ls,1,FR1	{MS}
+MSL	ls,0,FR0	Mémoires de la Société de Linguistique (de Paris).
+MSV	ls,1378,FR0	Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, ed. Nalinaksha Dutt, Vol. 3, Parts i (undated), ii (1942), iii (1943), Srinagar, Kashmir. Part iv (1950) arrived late, but its most important words have been included. Unfortunately this valuable series came to hand so late in the progress of my task that I felt it impossible to include Volumes 1 and 2, which seem somewhat less important.
+Mus	ls,3,FR1	{Mus (P.)}
+Mus (P.)	ls,0,FR0	Barabudur (1935).
+Mus, Barabudur (II)	ls,2,FR1	{Mus (P.)}
+MV	ls,3,FR1	?
+Mv	ls,7168,FR0	Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jonesʼs translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
+Mv.	ls,3,FR1	?
+Mvy	ls,4110,FR0	Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
+MW	ls,11,FR0	Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
+MW.	ls,1,FR1	{MW}
+Müller	ls,8,FR1	?
+Müller on Dharmas	ls,1,FR1	?
+Müller on Sukh	ls,1,FR1	?
+Müller SBE 49.2	ls,1,FR1	?
+Müller, in Transl. of Sukh	ls,1,FR1	?
+Müller, note on Dharmas	ls,1,FR1	?
+Müller, SBE 49, Part 2	ls,1,FR1	?
+Müller, SBE 49.2	ls,3,FR1	?
+Müller, transl.	ls,1,FR1	?
+Müller, Transl.	ls,1,FR1	?
+Müller. SBE 49, 2	ls,1,FR1	?
+Müllerʼs ed.	ls,1,FR1	?
+Müllerʼs note	ls,2,FR1	?
+Müllerʼs Transl.	ls,1,FR1	?
+Mādhy.	ls,1,FR1	?
+Mān.	ls,1,FR1	?
+Mārk. Pur.	ls,2,FR0	Mārkaṇḍeya Purāṇa.
+Māti (or Mātu)-posaka Jāt.	ls,1,FR1	?
+Māy	ls,741,FR0	Mahā-Māyūrī. Two figures refer to page and line of ed. by Oldenbourg in Zapiski Vostochnago Otdelenija Imp. Russk. Archeol. Obschestva, Tom 11 (1899), 218—261. A single number refers to the numbered lines of ‘Le catalogue géographique des yakṣa dans la Mahā-Māyūrī’, by S. Lévi, JAs. XI. 5 (1915), pp. 1—138.
+Mṛcch.	ls,0,FR0	Mṛcchakaṭikā.
+N. Dutt	ls,6,FR1	?
+N. Dutt, Introd.	ls,1,FR1	?
+N. Dutt, Introd. to MSV	ls,1,FR1	?
+N. Dutt, MSV	ls,2,FR1	?
+N. Duttʼs interpretation	ls,1,FR1	?
+N. Duttʼs note	ls,1,FR1	?
+Nachtr.	ls,0,FR0	see Schmidt. R. Schmidt, Nachträge zum Sanskrit Wörterbuch…von Otto Boehtlingk.
+Nalinaksha Dutt in IHQ 7 (1931)	ls,1,FR1	?
+NAWGött.	ls,0,FR0	Nachrichten der Akademie der Wissenschaften zu Göttingen.
+Naḷinikā-jātaka	ls,1,FR1	?
+Neisser, Z. Wbch. d. RV.	ls,0,FR0	W. Neisser, Zum Wörterbuch des Rigveda.
+Neisser, Z. Wbch.d. RV.	ls,1,FR1	?
+Nett.	ls,4,FR0	Nettipakaraṇa (Pali).
+NIA	ls,0,FR0	New Indian Antiquary.
+NIA.	ls,1,FR1	?
+Nidd^1	ls,0,FR0	Mahā-Niddesa (Pali).
+Nimi Jāt.	ls,1,FR1	?
+Nir.	ls,1,FR0	Yāskaʼs Nirukta.
+Nobel	ls,40,FR1	{Suv}
+Nobel, Introd.	ls,1,FR1	{Suv}
+Nobel, JAOS Supplement 11 to Vol. 71 No. 3, 1951	ls,1,FR1	?
+Nobelʼs note	ls,6,FR1	{Suv}
+Nobelʼs text	ls,1,FR1	{Suv}
+Nyagrodhamṛga Jāt.	ls,1,FR1	?
+Nīl.	ls,5,FR1	?
+Nīlak.	ls,2,FR1	?
+Oldenberg	ls,1,FR1	?
+P. Mus	ls,2,FR1	?
+P. Mus, Barabudur	ls,4,FR1	?
+P. Mus, La Lumière des six voies	ls,4,FR1	?
+P.C. Roy	ls,1,FR1	?
+P.K. Acharya, Dict. Hindu Arch.	ls,1,FR1	?
+Pargiter	ls,2,FR1	?
+Pargiter ap. Hoernle MR	ls,9,FR1	?
+Pat.	ls,1,FR0	Patañjali.
+Paul Mus (oral communication, May, 1949)	ls,1,FR1	?
+Pañc. Rec.	ls,1,FR0	Edgerton, Pañchatantra Reconstructed.
+Pañcat. Koseg.	ls,1,FR1	?
+PB	ls,1,FR1	?
+PBr	ls,1,FR1	?
+PBr.	ls,0,FR0	Pañcaviṃśa Brāhmaṇa.
+Pe Maung Tin	ls,3,FR1	?
+Pe Maung Tin transl.	ls,1,FR1	?
+Philologica Indica	ls,0,FR0	(reprints of monographs by H. Lüders), Göttingen, 1940.
+Pischel	ls,50,FR0	SBBA 1904 pp. 807—827: Bruchstücke des Sanskrit-kanons der Buddhisten aus Idykutšari. A few rarer words cited by number of page and manuscript-folio.
+Pischel (without further reference)	ls,0,FR0	Grammatik der Prakrit-Sprachen, Strassburg, 1900. Cited as under Geiger.
+Pischel SBBA 1904	ls,2,FR1	?
+Pischel, SBAW	ls,1,FR1	?
+Pischel, SBBA 1904	ls,7,FR1	?
+Pischel², HOS	ls,1,FR1	?
+Pischelʼs Transl.	ls,1,FR1	?
+Piṅg.	ls,1,FR1	?
+PROCAMPS?	ls,0,FR0	Proc(eedings of the) Am(erican) Philos(ophical) Soc(iety).
+Prof. Lo Chʼang-pei	ls,1,FR1	?
+Prof. Mus	ls,1,FR1	?
+Prof. Rahder	ls,1,FR1	?
+Professor W.N. Brown	ls,1,FR1	?
+Przyluski, Açoka	ls,3,FR1	?
+Przyluski, Aśoka	ls,0,FR0	La Légende de lʼEmpereur Açoka, Paris, 1923.
+Prāt	ls,199,FR0	Prātimokṣasūtra des Sarvāstivādins, ed. Finot (with translation of Chinese version by Huber), JAs. XI.2 (1913), 473 ff.
+Prāt.	ls,1,FR1	?
+PTS ed. (of Geiger)	ls,1,FR1	?
+PTSD	ls,429,FR0	Pali Text Societyʼs Pali-English Dictionary.
+Pug.	ls,1,FR0	Puggala Paññatti (Pali).
+Pugg.	ls,8,FR0	Puggala Paññatti (Pali).
+Pugg. comm.	ls,1,FR1	?
+Pugg.p.	ls,2,FR1	{Pugg.}
+Puggala-paññatti	ls,1,FR1	{Pugg.}
+Puggalap.	ls,1,FR1	{Pugg.}
+Pv	ls,10,FR1	{Pv.}
+Pv comm.	ls,3,FR1	{Pv.}
+Pv.	ls,9,FR0	Petavatthu (Pali).
+Pv. comm.	ls,12,FR1	{Pv.}
+pw	ls,372,FR0	Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+Pāṇ.	ls,23,FR1	Pāṇiniʼs Aṣṭādhyāyī
+Pūrṇabhadraʼs Pañc., Hertel	ls,1,FR1	?
+R. Otto Franke, in Königsberger Beiträge, 1929	ls,1,FR1	?
+Ragh.	ls,1,FR1	?
+Rahder	ls,1,FR1	?
+Rahder, App. to Dbh	ls,1,FR1	?
+Rahder, Hobogirin	ls,1,FR1	?
+Rahder, JAOS	ls,1,FR1	?
+Rapson and Noble, Kharoṣṭhī Inscriptions (Stein collection), vol. 3	ls,1,FR1	?
+Ratnach.	ls,134,FR0	Ratnachandra, Ardha-Māgadhī Dictionary (5 vols.).
+Ratnachandra	ls,3,FR1	?
+Reeks, Deel	ls,1,FR1	?
+Renou	ls,1,FR1	?
+Renou (Louis)	ls,0,FR0	Études de grammaire Sanskrite, Paris, 1936.
+Renou (Louis)1?	ls,0,FR0	without specific reference, or Gr. scte. Grammaire sanscrite, Paris, 1930.
+Renou, Etudes de gram. scte., 1936	ls,1,FR1	?
+Renou, Gr. scte.	ls,2,FR1	?
+Renou, in C. Kunhan Raja Presentation Volume	ls,1,FR1	?
+Renou, JA 1939	ls,5,FR1	?
+Renou, JA Jul.-Sept. 1939	ls,1,FR1	?
+Renou, JA Jul.—Sept. 1939	ls,1,FR1	?
+Renou, JA. 1939	ls,1,FR1	?
+Renou. JA 1939	ls,1,FR1	?
+Rh.D.	ls,1,FR1	?
+Rhys Davids	ls,1,FR1	?
+Rhys Davids, Dialogues 1 (1899)	ls,1,FR1	?
+Ridding	ls,1,FR1	?
+RO	ls,0,FR0	Rocznik Orjentalistyczny.
+Rowell	ls,1,FR1	?
+RP	ls,470,FR0	Rāṣṭrapālaparipṛcchā, ed. Finot, St. Petersburg, 1901.
+RV	ls,18,FR0	Rig Veda.
+RV.	ls,4,FR1	{RV}
+Régamey	ls,16,FR1	{Samādh}
+Régamey, Samādh.	ls,1,FR1	{Samādh}
+Régameyʼs note	ls,2,FR1	{Samādh}
+Régameyʼs transl.	ls,1,FR1	{Samādh}
+Rājat.	ls,15,FR0	Rājataraṃgiṇī (ed. Stein).
+Rājataraṅginī	ls,1,FR1	{Rājat.}
+Rām.	ls,13,FR0	Rāmāyaṇa (NWRām. = Northwestern Rām.)
+Rām. comm.	ls,1,FR1	{Rām.}
+Rām. Gorr.	ls,1,FR1	Rāmāyaṇa, Gorresio edition
+Rʼs note	ls,1,FR1	?
+S (as in Wh. Roots)	ls,0,FR0	Sūtra(s).
+S. Lévi, JA. Nov.—Dec. 1912	ls,1,FR1	?
+S. Lévi, LaVallée-Poussin	ls,1,FR1	?
+S.K. De, NIA	ls,1,FR1	?
+Samarāiccakahā	ls,1,FR1	?
+Samy Ag	ls,1,FR1	?
+Samy Āg	ls,1,FR1	?
+Samādh	ls,231,FR0	Samādhirājasūtra, (1) chapters 8, 19, 22, ed. Régamey, Warsaw, 1938, cited by chapters and numbered sections or verses; (2) ed. Das and Vidyābhūshan (Calcutta, 1896); references (only a few; text incredibly corrupt) cited by page and lien, thus: ‘p. —, line —’.
+San.	ls,0,FR0	Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+Sanatk.	ls,0,FR0	Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+Saptaśatakam, <ab>ed.</ab> Weber	ls,1,FR1	?
+Saundaran.	ls,1,FR1	?
+Saundarān.	ls,0,FR0	Saundarānanda, ed. Johnston.
+Saṃy.	ls,1,FR1	?
+Saṃy. Āg.	ls,10,FR0	Saṃyuktāgama; fragments from Stein mss. ed. LaVallée Poussin, JRAS 1913, 569 ff.; a few references to numbers of fragments (1—15), followed by r(ecto) or v(erso) when necessary, and line of mss.
+SB	ls,1,FR1	?
+SBBA	ls,0,FR0	Sitzungsberichte der Berliner Akademie der Wissenschaften.
+SBE	ls,31,FR0	Sacred Books of the East.
+SBE 13	ls,1,FR1	?
+SBE 49 part 2	ls,1,FR1	?
+SBE 49 pt. 2	ls,3,FR1	?
+SBE 49 Pt. 2	ls,1,FR1	?
+SBE 49, Part 2	ls,1,FR1	?
+SBE 49.2	ls,1,FR1	?
+Schayer, RO	ls,1,FR1	?
+Schmidt	ls,10,FR1	{Schmidt, Nachtr.}
+Schmidt, Nachtr.	ls,29,FR0	R. Schmidt, Nachträge zum Sanskrit Wörterbuch…von Otto Boehtlingk.
+Schmidt, Nachträge	ls,117,FR1	{Schmidt, Nachtr.}
+Schmidtʼs Nachträge	ls,2,FR1	{Schmidt, Nachtr.}
+Schmīdt, Nachträge	ls,1,FR1	{Schmidt, Nachtr.}
+Sdhp.	ls,0,FR0	Saddhammopāyana (Pali).
+Sen	ls,0,FR0	Sukumar Sen, An outline syntax of Buddhistic Sanskrit, in Journal of the Department of Letters, Univ. of Calcutta, (XVII) (1928).
+Sen.	ls,4,FR1	{Mv}
+Senart	ls,1562,FR1	{Mv}
+Senart Introd.	ls,1,FR1	{Mv}
+Senart, Index	ls,2,FR1	{Mv}
+Senart, Introd.	ls,3,FR1	{Mv}
+Senart, Légende du Buddha	ls,1,FR1	?
+Senartʼs Index	ls,9,FR1	{Mv}
+Senartʼs Introd. for Jāt.	ls,1,FR1	?
+Senartʼs Kacc.	ls,1,FR1	?
+Senartʼs note	ls,68,FR1	{Mv}
+Senartʼs notes	ls,1,FR1	{Mv}
+Senartʼs text	ls,1,FR1	{Mv}
+Sham.¹	ls,1,FR1	?
+Shama Sastri 1st ed.	ls,1,FR1	?
+Sheth	ls,145,FR0	H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Calcutta, 1923—1928.
+Shāh.	ls,1,FR1	?
+Sieg and Siegling, Toch. Sprachreste	ls,1,FR1	?
+Siri-j.	ls,1,FR1	?
+Skt. Synt.	ls,0,FR0	Speyer, Sanskrit Syntax.
+Smith	ls,2,FR1	?
+Smith, Helmet	ls,0,FR0	Les deux prosodies du vers bouddhique (see § 1.38, fn. 15).
+SN	ls,65,FR1	{SN.}
+Sn	ls,90,FR1	{Sn.}
+SN comm.	ls,1,FR1	{SN.}
+Sn comm.	ls,1,FR1	{Sn.}
+Sn.	ls,0,FR0	Suttanipāta (Pali).
+SN.	ls,0,FR0	SaMyuttanikāya (Pali).
+Sn. comm.	ls,2,FR1	{Sn.}
+SP	ls,2206,FR0	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
+Speyer	ls,87,FR0	see Skt. Synt., and VSS; also, in the preceding list, s.vv. Av and Jm. Speyer, Sanskrit Syntax.
+Speyer (Index)	ls,1,FR1	{Av}
+Speyer Av	ls,1,FR1	{Av}
+Speyer Av Introd.	ls,1,FR1	{Av}
+Speyer on Av	ls,5,FR1	{Av}
+Speyer Transl.	ls,1,FR1	{Av}
+Speyer, Av	ls,2,FR1	{Av}
+Speyer, Av Index	ls,2,FR1	{Av}
+Speyer, Av Preface	ls,1,FR1	{Av}
+Speyer, Corr.	ls,1,FR1	{Av}
+Speyer, Index	ls,4,FR1	{Av}
+Speyer, Index to Av	ls,1,FR1	{Av}
+Speyer, note	ls,1,FR1	{Av}
+Speyer, note on Av	ls,1,FR1	{Av}
+Speyer, Preface to Av	ls,1,FR1	{Av}
+Speyer, Skt. Synt.	ls,3,FR1	{Skt. Synt.}
+Speyer, Transl.	ls,1,FR1	?
+Speyer, transl. of Jm	ls,1,FR1	{Jm}
+Speyer, VSS	ls,2,FR1	?
+Speyerʼs Index	ls,4,FR1	?
+Speyerʼs Index to Av	ls,1,FR1	{Av}
+Speyerʼs note	ls,9,FR1	?
+Speyerʼs transl.	ls,1,FR1	?
+St. Julien	ls,1,FR1	?
+Stael-Holstein, Intr.	ls,1,FR1	?
+Stcherbatskoy, Abhisamayālaṃkāra (Bibl. Bu. 23)	ls,1,FR1	?
+Stein	ls,1,FR1	?
+Stein <ab>ms.</ab> fragm.	ls,8,FR1	?
+Stein <ab>ms.</ab> fragment	ls,1,FR1	?
+Stein <ab>ms.</ab> fragments	ls,1,FR1	?
+Stein <ab>ms.</ab> fragments <ab>publ.</ab>	ls,1,FR1	?
+Stein fragment of BHS	ls,1,FR1	?
+Stenzler	ls,1,FR1	?
+Studies	ls,5,FR1	?
+Stönner, SBBA 1904	ls,2,FR1	?
+Sukh	ls,464,FR0	Sukhāvatīvyūha (‘Larger’ and ‘Smaller’), ed. Müller, Oxford, 1883.
+Sukthankar	ls,1,FR1	?
+Suparṇ.	ls,1,FR1	?
+Supatta Jāt.	ls,1,FR1	?
+Supatta-Jāt.	ls,1,FR1	?
+Suv	ls,429,FR0	Suvarṇabhāsottamasūtra, ed. Nobel, Leipzig, 1937; Tibetan version, ed. same, Leiden and Stuttgart, 1944.
+Suzuki	ls,90,FR1	{Laṅk}
+Suzuki Transl.	ls,1,FR1	?
+Suzuki transl.	ls,4,FR1	?
+Suzuki Transl. and Index	ls,1,FR1	?
+Suzuki, Gloss.	ls,1,FR1	?
+Suzuki, Index	ls,5,FR1	?
+Suzuki, Index, on Laṅk	ls,1,FR1	{Laṅk}
+Suzuki, Stud.	ls,1,FR1	?
+Suzuki, Studies	ls,22,FR1	?
+Suzuki, Studies in Laṅk.	ls,2,FR1	{Laṅk}
+Suzuki, Studies, Gloss.	ls,1,FR1	?
+Suzuki, Transl.	ls,1,FR1	?
+Suzuki, Transl. of Laṅk	ls,1,FR1	{Laṅk}
+Suzukiʼs Index	ls,12,FR1	?
+Suzukiʼs Index and Glossary	ls,1,FR1	?
+Suzukiʼs Index to Laṅk	ls,3,FR1	{Laṅk}
+Suzukiʼs transl.	ls,5,FR1	?
+Suzukiʼs transl., and Studies	ls,1,FR1	?
+Suśr.	ls,5,FR1	?
+Svay	ls,3,FR0	(Vṛhat-)Svayambhū Purāṇa, ed. Haraprasad Sastri, Calcutta, 1894—1900; of very little use and only rarely cited. Cf. Winternitz, Hist. Ind. Lit. II, 376, note.
+Sādh	ls,420,FR0	Sādhanamālā, ed. Bhattacharya, Baroda, 2 vols., 1925, 1928.
+Sāl	ls,1,FR1	?
+Sāma Jāt.	ls,1,FR1	?
+Sāmav. Br.	ls,1,FR1	?
+Sūci-j.	ls,4,FR1	?
+Sūtrāl.	ls,91,FR0	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
+Sūtrāl. comm.	ls,1,FR1	?
+Sūtrālaṃkāra	ls,1,FR1	?
+Sūyag.	ls,0,FR0	Sūyagaḍaṅgasutta (AMg.).
+Tagare (G.V.)	ls,0,FR0	Hist(orical) Gr(ammar) of Ap(abhraṃśa), Poona, 1948.
+Taisho <lang>Chin.</lang> canon text 1300	ls,1,FR1	?
+Takakusu, JPTS 1904—5	ls,1,FR1	Takakusu in Journal of the Pali Text Society.
+Tatp(ur).	ls,0,FR0	Tatpuruṣa.
+TB.	ls,2,FR0	Taittirīya Brāhmaṇa.
+Tedesco, JAOS	ls,1,FR1	?
+Therag.	ls,19,FR0	Theragāthā (Pali).
+Therīg.	ls,7,FR0	Therīgāthā (Pali).
+Thomas ap. Hoernle MR	ls,16,FR1	{SP}
+Thomas ap. Hoernle, MR	ls,1,FR1	{SP}
+Thomas JRAS	ls,1,FR1	Thomas in Journal of the Royal Asiatic Society.
+Thomas, ap. Hoernle MR	ls,1,FR1	{SP}
+Thomas, JRAS	ls,2,FR1	Thomas in Journal of the Royal Asiatic Society.
+Thīg.	ls,0,FR0	Therīg.
+Tib.	ls,0,FR0	Tibetan.
+Ting	ls,2,FR1	?
+Ting (Fu-Pao)	ls,0,FR0	Dictionary of Buddhist Chinese, 16 vols., Shanghai, 1920. In Chinese; a few references provided by Mr. Chang Kun.
+Tingʼs Dict.	ls,1,FR1	?
+Toch.	ls,0,FR0	Tocharian (: Gram., Tocharische Grammatik, Sieg and Siegling).
+Toch. Gram.	ls,1,FR1	?
+Transl.	ls,35,FR1	?
+transl. Bendall and Rouse	ls,1,FR1	{Śikṣ}
+transl. of Bendall and Rouse	ls,1,FR1	{Śikṣ}
+Transl. of Bendall and Rouse	ls,2,FR1	{Śikṣ}
+transl. of Kalpa Sūtra	ls,1,FR1	?
+Trik.	ls,16,FR0	Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
+TS	ls,2,FR1	{TS.}
+TS.	ls,0,FR0	Taittirīya Saṃhitā.
+Turner (R.L.), Nep. Dict.	ls,0,FR0	Dictionary of the Nepali Language, London, 1931.
+Turner, Nep. Dict.	ls,8,FR1	{Turner (R.L.), Nep. Dict.}
+Turner, Nepali Dict.	ls,1,FR1	{Turner (R.L.), Nep. Dict.}
+Turnourʼs Mahāv.	ls,1,FR1	?
+Tārā	ls,1,FR1	?
+U (as in Wh. Roots)	ls,0,FR0	Upaniṣads.
+Ud	ls,234,FR0	Udānavarga; chap. 1—21, ed. Chakravarti (1930; except ch. 4, for which see Lévi, JAs. X. 20, 1912, 203 ff.); ch. 29, ed. Pischel, SBBA 1908, 968 ff.; ch. 30, 31, 32, ed. LaVallée Poussin, JRAS 1912, 369 ff. Cited by chapter and verse.
+Ud.	ls,5,FR1	?
+Uhlenbeck	ls,3,FR1	?
+Uhlenbeck (C.C.)	ls,0,FR0	Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898—99).
+Upāli-Gaṅgapāla-Jāt.	ls,1,FR1	?
+Uttarādh.	ls,1,FR1	?
+Vaj	ls,93,FR0	Vajracchedikā, ed. Müller, Oxford, 1881; fragments of Central Asiatic version, ed. Pargiter, ap. Hoernle MR 179 ff.
+Vaj.	ls,5,FR1	?
+Valāhassa Jāt.	ls,1,FR1	?
+Valāhassa-J.	ls,1,FR1	?
+Var.Bṛh.S.	ls,1,FR1	?
+VarBṛS.	ls,1,FR1	?
+Varāh.Bṛh.S.	ls,1,FR0	Varāhamihira, Bṛhat-saṃhitā.
+Ved. St.	ls,0,FR0	Pischel and Geldner, Vedische Studien (3 vols.).
+Ved. Var.	ls,0,FR0	Vedic Variants, see VV. Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+Versl. en Med. d. K. Akad. v. Wet. Amsterdam	ls,0,FR0	Proceedings of the Amsterdam Academy.
+Vikr. car. JR	ls,1,FR1	JR (Vikramacarita)
+Vikramac. MR	ls,2,FR1	?
+Vikramacarita JR	ls,1,FR1	JR (Vikramacarita)
+Vin.	ls,255,FR0	Vinayapiṭaka (Pali).
+Vin. comm.	ls,9,FR1	?
+Vis.M.	ls,0,FR0	Visuddhi-magga (Pali).
+Vism	ls,14,FR1	{Vism.}
+Vism.	ls,52,FR0	Visuddhi-magga (Pali).
+Viṣṇusm.	ls,1,FR1	?
+Vjutp.	ls,1,FR1	?
+Vogel, Versl. en Med. d. K. Akad. v. Wet. Amsterdam, Afd. Letterk.	ls,1,FR1	?
+VS	ls,3,FR1	?
+VS.	ls,1,FR1	?
+VSS	ls,1,FR0	Speyer, Vedische und Sanskrit-Syntax.
+VV	ls,0,FR0	Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+Vv.	ls,10,FR0	Vimānavatthu (Pali).
+Vv. comm.	ls,18,FR1	{Vv.}
+Vār.Bṛ.S.	ls,1,FR1	?
+Wack(ernagel), AIGr.	ls,0,FR0	Altindische Grammatik, Göttingen, 1896, 1905, 1930.
+Wackernagel	ls,2,FR1	?
+Wackernagel-Debrunner	ls,1,FR1	?
+Walde-Pokorny	ls,1,FR1	?
+Waldschmidt	ls,13,FR1	?
+Waldschmidt, Kl. Skt. Texte	ls,1,FR1	?
+Waldschmidt, Kl. Skt. Texte 3	ls,2,FR1	?
+Waldschmidt, Kl. Skt. Texte 4	ls,24,FR1	?
+Waldschmidt, Kl. Skt. Texte 4, Mahāsamāj.	ls,1,FR1	?
+Waldschmidt, NGGW, ph.-h. Kl., Fachgr. III, NF II Nr. 3 (1939)	ls,1,FR1	?
+Waldschmidtʼs note	ls,1,FR1	?
+Ware, JAOS	ls,1,FR1	?
+Warren (H. C)	ls,0,FR0	B(uddhism) in Transl(ations) (= HOS 3; 1896).
+Warren, B. in Tr.	ls,1,FR1	?
+Watanabe	ls,3,FR1	?
+Weber I.St.	ls,1,FR1	?
+Weber ISt.	ls,1,FR1	?
+Weber ZDMG	ls,1,FR1	Weber in Zeitschrift der deutschen morgenländischen Gesellschaft.
+Weber, Die vedischen Nachrichten von den naxatra	ls,1,FR1	?
+Weller	ls,45,FR0	see LV. Lalitavistara, ed. Lefmann, Halle, 1902
+Weller, Prosa des LV	ls,1,FR1	?
+Wellerʼs note	ls,2,FR1	?
+Wh.	ls,0,FR0	Whitney; Gr., Sanskrit Grammar; Roots (Verb forms and primary derivatives).
+Wh. Roots	ls,3,FR1	Roots of the Sanskrit Language by William Dwight Whitney, 1885.
+Whitney	ls,8,FR1	?
+Whitney, Gr.	ls,2,FR1	Sanskrit Grammar by William Dwight Whitney, 1879.
+Whitney, Roots	ls,2,FR1	Roots of the Sanskrit Language by William Dwight Whitney, 1885.
+Whitney-Lanman	ls,1,FR1	?
+Wilson	ls,10,FR0	H. H. Wilsonʼs Sanskrit Dictionary, as cited in MW.
+Wilson, ap. MW	ls,1,FR1	?
+Wilsonʼs Dict.	ls,3,FR1	?
+Windisch, Māra und Buddha	ls,1,FR1	?
+Winternitz, H(ist). I(nd). Lit.	ls,0,FR0	Wʼs History of Indian Literature (English version; vols. 1 and 2, Calcutta, 1927 and 1933).
+Winternitz, H.I.Lit.	ls,1,FR1	?
+Winternitz, Hist. Ind. Lit.	ls,1,FR1	?
+Winternitz, Hist. Ind. Lit., 2 (1933)	ls,1,FR1	?
+Winternitz, ZDMG	ls,1,FR1	Winternitz in Zeitschrift der deutschen morgenländischen Gesellschaft.
+Wogihara	ls,18,FR1	?
+Wogihara ap. Bendall	ls,1,FR1	?
+Wogihara in Bbh. Lex. 32	ls,1,FR1	{Wogihara, Lex.}
+Wogihara, Bbh. Lex.	ls,2,FR1	{Wogihara, Lex.}
+Wogihara, Index	ls,1,FR1	?
+Wogihara, Lex.	ls,28,FR0	see Bbh. Bodhisattvabhūmi, ed. Wogihara, Tokyo, 1930—36. Includes the editorʼs dissertation, Lexikalisches aus der Bodhisattvabhūmi, which is referred to as Wogihara, Lex.
+Wogihara, Preface to Bbh	ls,1,FR1	?
+Wogihara, ZDMG	ls,1,FR1	Wogihara in Zeitschrift der deutschen morgenländischen Gesellschaft.
+Wogiharaʼs Index	ls,1,FR1	?
+Wogiharaʼs Index to Bbh	ls,1,FR1	?
+Wogiharaʼs note	ls,1,FR1	?
+Wogihāra, ZDMG	ls,1,FR1	Wogihāra in Zeitschrift der deutschen morgenländischen Gesellschaft.
+WT	ls,170,FR0	see SP. Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
+Yogayātrā	ls,1,FR1	?
+Yogācāras	ls,1,FR1	?
+Yogācāras in ‘le commentaire de ĽAbhidharma’	ls,1,FR1	?
+Yājñ.	ls,1,FR0	Yājñavalkya (Dharmaśāstra).
+Z.Wbch. d. RV.	ls,0,FR0	see Neisser. W. Neisser, Zum Wörterbuch des Rigveda.
+Zam. ap. Das	ls,1,FR1	?
+ZDMG	ls,0,FR0	Zeitschrift der deutschen morgenländischen Gesellschaft.
+ZII	ls,0,FR0	Zeitschrift für Indologie und Iranistik.
+Ācār. (Schubring)	ls,1,FR1	?
+ĀpŚ.	ls,1,FR1	?
+Āyār.	ls,0,FR0	Āyāraṅga Sutta (AMg.).
+Ś.	ls,0,FR0	Śaurasenī.
+Śak.	ls,1,FR1	?
+Śaur.	ls,1,FR1	?
+ŚB	ls,6,FR1	{ŚB.}
+ŚB K.	ls,1,FR1	{ŚB.}
+ŚB Mādhy.	ls,1,FR1	{ŚB.}
+ŚB.	ls,3,FR0	Śatapatha Brāhmaṇa (Mādhy. — Mādhyaṃdina, K. = Kāṇva recension).
+Śiks	ls,6,FR1	{Śikṣ}
+Śikṣ	ls,1583,FR0	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+Śikṣ.	ls,1,FR1	{Śikṣ}
+ŚKD	ls,1,FR1	śabda—kalpa-druma
+ŚsP	ls,401,FR0	Śatasāhasrikā-prajñāpāramitā, ed. P. Ghoṣa, Bibliotheca Indica, Calcutta, 1902 ff.
+ŚsP²	ls,6,FR1	{ŚsP}
+ŚsP³	ls,5,FR1	{ŚsP}
+ŚsP¹	ls,7,FR1	{ŚsP}
+Śuka-paṇḍita	ls,1,FR1	?
+Śukasaptati text. orn.	ls,1,FR1	?
+Śāl	ls,27,FR0	Śālistambasūtra, (reconstructed) ed. LaVallée Poussin; Bouddhisme, Études et matériaux, Théorie des douze causes (Gand, 1913), pp. 69—90.
+ŚŚS	ls,1,FR1	?
+Ṣaḍv. Br.	ls,1,FR1	?

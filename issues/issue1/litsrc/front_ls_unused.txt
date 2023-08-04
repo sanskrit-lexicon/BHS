@@ -1,0 +1,116 @@
+(Hoernle) MR	FR0	Hoernle (general editor), Manuscript Remains of Buddhist literature found in Eastern Turkestan, Oxford, 1916. BHS fragments ed. by Hoernle, Lüders, Pargiter, Thomas.
+AB	FR0	Aitareya Brāhmaṇa.
+AbhK.	FR0	{AbhidhK.} Preceding
+ABORI	FR0	Annals of the Bhandarkar Oriental Research Institute (Poona).
+Acharya (P.K.)	FR0	Dict(ionary of) Hindu Arch(itecture), Oxford Univ. Press, n.d. [1927?].
+AdP Konow MASI	FR0	Sten Konow, Central Asian Fragments of the Aṣṭādaśasāhasrikā, in Memoirs of the Archaeological Survey of India, No. 69, 1942. Only a few rare and important words.
+AIS	FR0	Delbrück, Altindische Syntax.
+AKM	FR0	Abhandlungen für die Kunde des Morgenlandes.
+Alsdorf	FR0	see Kum. Kumārapālapratibodha (Ap.), ed. Alsdorf.
+Ap.	FR0	Apabhraṃśa; Apadāna (Pali text).
+ApŚ.	FR0	Apastamba Śrauta Sūtra.
+ASGW	FR0	Abhandlungen der sächsischen Gesellschaft der Wissenschaften.
+B (as in Wh. Roots)	FR0	Brāhmaṇa(s).
+B. in Tr. (Warren)	FR0	Warrenʼs Buddhism in Translations, HOS. 3.
+BEFEO	FR0	Bulletin de lʼÉcole Française dʼExtrème Orient.
+BHS	FR0	Buddhist Hybrid Sanskrit.
+Bibl. Bu.	FR0	Bibliotheca Buddhica.
+Bloch (Jules)1?	FR0	(Lʼ)Indo-Aryen, Paris, 1934.
+Bloch (Jules)2?	FR0	(Les Inscriptions dʼ) Asoka, Paris, 1950.
+Br. 	FR0	Brāhmaṇas (language of).
+BSL	FR0	Bulletin de la Société de Linguistique (de Paris).
+BSOS	FR0	Bulletin of the School of Oriental (and African) Studies, London.
+Bull?	FR0	Bull(etin of the) Deccan Coll(ege) Research Institute) (Poona).
+Burrow (T.)	FR0	(The languages of the) Kharoṣṭhi Documents, Cambridge, 1937.
+Calc.	FR0	Calcutta; see LV.
+CPARD?	FR0	Compendium of Philosophy (Aung and Rhys Davids, London, 1910).
+Dict.	FR0	Dictionary, usually referring to my Dict. of BHS; Dictt. = Dictionaries.
+Dict. Hindu Arch.	FR0	Acharya, Dictionary of Hindu Architecture.
+Dutreuil (de Rhins ms.)	FR0	see § 1.3 with fn. 2.
+E. Lamotte, Mél. chin, et boud.	FR0	Mélanges chinoises et bouddhiques.
+Ep. Zeyl.	FR0	Epigraphia Zeylanica.
+Fest.	FR0	Festschrift.
+Geiger (W.)	FR0	Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+GobhGS	FR0	Gobhila Gṛhya Sūtra.
+Gīt.	FR0	Gītagovinda.
+HJAS	FR0	Harvard Journal of Asiatic Studies.
+Hultzsch (E.)	FR0	Inscr(iptions) of Asoka, Oxford, 1925.
+I.St.	FR0	Indische Studien (Weber).
+IA.	FR0	(Lassen) Indische Altertumskunde.
+IF.	FR0	Indogermanische Forschungen.
+Ind. Min.	FR0	(Garbe) Die indischen Mineralien (1882).
+JA.	FR0	Journal Asiatique.
+JAs.	FR0	JA. Journal Asiatique.
+JB.	FR0	Jaiminīya Brāhmaṇa.
+JM.	FR0	Jaina Māhārāṣṭrī.
+JPTS	FR0	Journal of the Pali Text Society.
+JR (Vikramacarita)	FR0	Jainistic Recension of the Vikr., see HOS 26—27.
+JRAS	FR0	Journal of the Royal Asiatic Society.
+JŚ.	FR0	Jaina Śaurasenī.
+Karmadh.	FR0	Karmadhāraya.
+Kauṭ. (Arth.)	FR0	Kauṭiliya (Arthaśāstra).
+Kh.p., Khud.p. (comm.)	FR0	Khuddaka-pāṭha (commentary) (Pali).
+Kl. Skt. Texte	FR0	Kleinere Sanskrit Texte (5 vols.; Kgl. Preuss. Turfan-Expeditionen), Leipzig (Vol. 1 Berlin), 1911—39.
+KSA	FR0	Kāṭhaka Saṃhitā, Aśvamedhagrantha.
+Kull.	FR0	Kullūka.
+Kum.	FR0	Kumārapālapratibodha (Ap.), ed. Alsdorf.
+Kvu.	FR0	Kathā-vatthu (Pali).
+Ḱ	FR0	(see SP) Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912
+Lin Li-kouang	FR0	(Lʼ)Aide-Mémoire (de la Vraie Loi), Paris, 1949.
+M.	FR0	Māhārāṣṭrī.
+Mehendale (M.A.)	FR0	Hist(orical) Gr(ammar) of Inscr(iptional) Pkts., Poona, 1948.
+Meyer, Kauṭ. (Arth.)	FR0	J. J. Meyerʼs translation of Kauṭ., Leipzig, 1926.
+Mg.	FR0	Māgadhī.
+Minaeff	FR0	see Mvy. Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
+MSL	FR0	Mémoires de la Société de Linguistique (de Paris).
+Mus (P.)	FR0	Barabudur (1935).
+Mṛcch.	FR0	Mṛcchakaṭikā.
+Nachtr.	FR0	see Schmidt. R. Schmidt, Nachträge zum Sanskrit Wörterbuch…von Otto Boehtlingk.
+NAWGött.	FR0	Nachrichten der Akademie der Wissenschaften zu Göttingen.
+Neisser, Z. Wbch. d. RV.	FR0	W. Neisser, Zum Wörterbuch des Rigveda.
+NIA	FR0	New Indian Antiquary.
+Nidd^1	FR0	Mahā-Niddesa (Pali).
+PBr.	FR0	Pañcaviṃśa Brāhmaṇa.
+Philologica Indica	FR0	(reprints of monographs by H. Lüders), Göttingen, 1940.
+Pischel (without further reference)	FR0	Grammatik der Prakrit-Sprachen, Strassburg, 1900. Cited as under Geiger.
+PROCAMPS?	FR0	Proc(eedings of the) Am(erican) Philos(ophical) Soc(iety).
+Przyluski, Aśoka	FR0	La Légende de lʼEmpereur Açoka, Paris, 1923.
+Renou (Louis)	FR0	Études de grammaire Sanskrite, Paris, 1936.
+Renou (Louis)1?	FR0	without specific reference, or Gr. scte. Grammaire sanscrite, Paris, 1930.
+RO	FR0	Rocznik Orjentalistyczny.
+S (as in Wh. Roots)	FR0	Sūtra(s).
+San.	FR0	Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+Sanatk.	FR0	Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+Saundarān.	FR0	Saundarānanda, ed. Johnston.
+SBBA	FR0	Sitzungsberichte der Berliner Akademie der Wissenschaften.
+Sdhp.	FR0	Saddhammopāyana (Pali).
+Sen	FR0	Sukumar Sen, An outline syntax of Buddhistic Sanskrit, in Journal of the Department of Letters, Univ. of Calcutta, (XVII) (1928).
+Skt. Synt.	FR0	Speyer, Sanskrit Syntax.
+Smith, Helmet	FR0	Les deux prosodies du vers bouddhique (see § 1.38, fn. 15).
+Sn.	FR0	Suttanipāta (Pali).
+SN.	FR0	SaMyuttanikāya (Pali).
+Sūyag.	FR0	Sūyagaḍaṅgasutta (AMg.).
+Tagare (G.V.)	FR0	Hist(orical) Gr(ammar) of Ap(abhraṃśa), Poona, 1948.
+Tatp(ur).	FR0	Tatpuruṣa.
+Thīg.	FR0	Therīg.
+Tib.	FR0	Tibetan.
+Ting (Fu-Pao)	FR0	Dictionary of Buddhist Chinese, 16 vols., Shanghai, 1920. In Chinese; a few references provided by Mr. Chang Kun.
+Toch.	FR0	Tocharian (: Gram., Tocharische Grammatik, Sieg and Siegling).
+TS.	FR0	Taittirīya Saṃhitā.
+Turner (R.L.), Nep. Dict.	FR0	Dictionary of the Nepali Language, London, 1931.
+U (as in Wh. Roots)	FR0	Upaniṣads.
+Uhlenbeck (C.C.)	FR0	Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898—99).
+Ved. St.	FR0	Pischel and Geldner, Vedische Studien (3 vols.).
+Ved. Var.	FR0	Vedic Variants, see VV. Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+Versl. en Med. d. K. Akad. v. Wet. Amsterdam	FR0	Proceedings of the Amsterdam Academy.
+Vis.M.	FR0	Visuddhi-magga (Pali).
+VV	FR0	Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+Wack(ernagel), AIGr.	FR0	Altindische Grammatik, Göttingen, 1896, 1905, 1930.
+Warren (H. C)	FR0	B(uddhism) in Transl(ations) (= HOS 3; 1896).
+Wh.	FR0	Whitney; Gr., Sanskrit Grammar; Roots (Verb forms and primary derivatives).
+Winternitz, H(ist). I(nd). Lit.	FR0	Wʼs History of Indian Literature (English version; vols. 1 and 2, Calcutta, 1927 and 1933).
+Z.Wbch. d. RV.	FR0	see Neisser. W. Neisser, Zum Wörterbuch des Rigveda.
+ZDMG	FR0	Zeitschrift der deutschen morgenländischen Gesellschaft.
+ZII	FR0	Zeitschrift für Indologie und Iranistik.
+Āyār.	FR0	Āyāraṅga Sutta (AMg.).
+Ś.	FR0	Śaurasenī.

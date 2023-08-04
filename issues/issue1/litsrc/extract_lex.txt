@@ -1,0 +1,108 @@
+abl.::111
+abs.::12
+acc.::615
+accs.::7
+accus.::3
+act.::11
+adj.::2739
+adjs.::1
+adv.::419
+aor.::146
+caus.::308
+compv.::16
+conj.::5
+dat.::71
+dats.::1
+defs.::1
+denom.::168
+Denom.::1
+derivs.::25
+desid.::5
+f.::906
+fem.::164
+Fem.::2
+fems.::3
+fut.::59
+fut. indic.::1
+fut. pple.::2
+gdve.::118
+gdves.::2
+gen.::373
+gens.::2
+ger.::268
+imperf.::3
+impv.::54
+impvs.::1
+ind. mid.::1
+indecl.::16
+indic.::1
+inf.::56
+infin.::13
+inst.::15
+inst. pr. pple.::1
+instr.::218
+Instr.::1
+instr. pres. pple.::1
+intens.::11
+interj.::15
+intr.::1
+intrans.::39
+loc.::307
+locs.::11
+m.::3060
+masc.::65
+mascs.::1
+mid.::10
+n.::45
+n. m.::2
+neut.::2
+nom.::112
+nt.::2646
+obj.::8
+obl.::2
+opt.::77
+p.::1
+pass.::123
+pass. pple.::4
+pass. pres. pple.::3
+perf.::9
+perf. act. pple.::3
+postp.::7
+postpos.::23
+pple.::35
+pple. act.::1
+pple. mid.::1
+pple. pres.::2
+pples.::2
+ppp.::907
+pr. pple.::1
+pred.::1
+prep.::16
+prepos.::2
+pres.::35
+pres. ind.::1
+pres. indic.::1
+pres. m. pple.::1
+pres. mid.::3
+pres. mid. pple.::7
+pres. opt.::3
+pres. p.::10
+pres. pass.::1
+pres. pass. pple::1
+pres. pass. pple.::9
+pres. passive pple.::1
+pres. pple::2
+pres. pple.::128
+pres. pple. instr.::2
+pres. pple. loc.::1
+pres. pple. mid.::1
+pres. pple. of pass.::1
+pres. pple. pass.::4
+pres. pples.::2
+pron.::13
+pronom.::1
+subj.::2
+subst.::448
+trans.::35
+voc.::65
+vocs.::3

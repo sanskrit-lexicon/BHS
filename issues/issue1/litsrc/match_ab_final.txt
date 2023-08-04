@@ -1,0 +1,367 @@
+A.D.	ab,1,FR1	In the year of our Lord (Latin Anno Domini); CE.
+abl.	lex,111,FR0	ablative.
+abs.	lex,12,FR1	absolute.
+abstr.	ab,46,FR0	abstract.
+acc.	ab/lex,1547,FR0	according; accusative.
+Acc.	ab,48,FR1	according; accusative.
+accs.	lex,7,FR1	accusatives.
+accus.	lex,3,FR1	accusative.
+act.	lex,11,FR0	active; action.
+ad loc.	ab,9,FR1	at the place, in same location (Latin ad locum).
+adj.	lex,2739,FR0	adjective.
+adjs.	lex,1,FR1	adjectives.
+adv.	lex,419,FR1	adverb.
+AMg.	lang,703,FR1	? (lang)
+analog.	ab,15,FR0	analogical(ly).
+aor.	lex,146,FR0	aorist.
+Ap.	lang,21,FR1	Apabhraṃśa; Apadāna (Pali text).
+app.	ab,224,FR0	apparently.
+App.	ab,3,FR0	Appendix.
+assoc.	ab,25,FR0	associated.
+B.	ab,12,FR0	Buddha.
+BHS	lang,718,FR1	Buddhist Hybrid Sanskrit.
+Bhvr	ab,1,FR1	bahuvrīhi, a class of Sanskrit compounds.
+Bhvr.	ab,407,FR0	Bahuvrīhi.
+Bodhicaryāv.	ab,2,FR1	Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. (?)
+Bodhis.	ab,1,FR1	Bodhisattva
+Br.	lang,1,FR1	Brāhmaṇas (language of).
+Bu.	ab,4,FR0	Buddhist.
+Buddh.	ab,16,FR1	Buddhist; Buddhism.
+caus.	lex,308,FR0	causative.
+Cf	ab,1,FR1	Compare.
+cf.	ab,3829,FR0	compare.
+Cf.	ab,636,FR1	Compare.
+ch.	ab,11,FR0	chapter.
+Chap.	ab,92,FR1	Chapter.
+chap.	ab,23,FR0	chapter.
+Chin.	lang,414,FR0	Chinese.
+Cl.	lang,1,FR1	Classical (Sanskrit)
+Cl. Skt.	lang,4,FR0	Classical Sanskrit.
+Class. Skt.	lang,10,FR1	Classical Sanskrit
+comb.	ab,1,FR0	combination.
+comm.	ab,247,FR0	commentary.
+Comm.	ab,3,FR1	Commentary.
+comms.	ab,43,FR1	Commentaries
+comp.	ab,232,FR0	composition.
+compv.	lex,16,FR0	comparative.
+conj.	lex,5,FR1	conjunction. (?)
+corr.	ab,21,FR0	correct(s), correction.
+Corr.	ab,6,FR1	correct(s), correction.
+correl.	ab,10,FR1	correlative
+corresp.	ab,150,FR0	correspondent, corresponding, corresponds.
+Corresp.	ab,9,FR1	correspondent, corresponding, corresponds.
+Corrig.	ab,4,FR0	Corrigenda.
+cpd.	ab,695,FR0	compound.
+cpds	ab,1,FR1	compounds.
+cpds.	ab,218,FR1	compounds.
+Cr. ed.	ab,17,FR1	critical edition.
+crit. app.	ab,2,FR0	critical apparatus.
+Crit. app.	ab,2,FR1	critical apparatus.
+Crit. App.	ab,18,FR1	critical apparatus.
+crit. ed.	ab,2,FR1	critical edition.
+Crit. ed.	ab,12,FR1	critical edition.
+Crit. note	ab,1,FR1	critical note
+Critical App.	ab,1,FR1	critical apparatus.
+d.h.	ab,3,FR1	Das heißt (German for "that is"
+dat.	lex,71,FR0	dative.
+dats.	lex,1,FR1	datives. (?)
+def.	ab,7,FR0	definition.
+defs.	lex,1,FR1	definitions.
+denom.	lex,168,FR0	denominative.
+Denom.	lex,1,FR1	denominative.
+der.	ab,2,FR0	derived, derivative.
+deriv.	ab,23,FR0	derived, derivative.
+derivs.	lex,25,FR1	derivatives.
+desid.	lex,5,FR1	desiderative
+Deśī	lang,16,FR1	? (lang)
+Dh	ab,1,FR1	Dharma (?)
+dial.	ab,2,FR0	dialectic.
+dict.	ab,1,FR1	dictionary
+Dict.	ab,12,FR1	Dictionary (Buddhist Hybrid Sanskrit dictionary).
+Dictt.	ab,50,FR1	Dictionaries
+dictt.	ab,1,FR1	dictionaries
+diff.	ab,17,FR0	different.
+dim.	ab,58,FR0	diminutive.
+dimin.	ab,1,FR1	diminutive.
+E.g.	ab,1,FR1	for example (Latin exempli gratia)
+e.g.	ab,341,FR1	for example (Latin exempli gratia)
+ed.	ab,400,FR0	editor, edition.
+Ed.	ab,6,FR1	editor, edition.
+edd.	ab,130,FR1	edited (?)
+Edd.	ab,1,FR1	edited (?)
+em.	ab,1361,FR0	emended, emendation.
+Em.	ab,1,FR1	emended, emendation.
+ems.	ab,1,FR1	emendations.
+Eng.	lang,14,FR1	English
+ep.	ab,257,FR0	epithet.
+Epic	lang,4,FR1	(Sanskrit) epic poetry. (?)
+Epic Skt.	lang,8,FR1	(Sanskrit) epic poetry. (?)
+eps.	ab,1,FR1	epithets.
+equiv.	ab,3,FR0	equivalent.
+erron.	ab,1,FR0	erroneously.
+esp.	ab,347,FR0	especially.
+et al.	ab,20,FR1	and others (Latin et alia)
+etc.	ab,1309,FR1	and the rest (Latin et cetera)
+etym.	ab,86,FR0	etymology.
+Etym.	ab,8,FR1	etymology.
+ex.	ab,2,FR1	example. (?)
+exc.	ab,5,FR0	except.
+expl.	ab,17,FR0	explained, explanation.
+exx.	ab,3,FR1	examples. 
+f.	lex,906,FR0	feminine; following.
+fem.	lex,164,FR0	feminine.
+Fem.	lex,2,FR1	feminine.
+fems.	lex,3,FR1	feminines.
+ff.	ab,22,FR0	following.
+fig.	ab,111,FR0	figurative(ly).
+fn.	ab,2,FR0	footnote.
+foll.	ab,164,FR0	followed (by); following.
+Foll.	ab,1,FR1	followed (by); following.
+fut.	lex,59,FR0	future.
+fut. indic.	lex,1,FR1	future indicative.
+fut. pple.	lex,2,FR1	future participle
+gdve.	lex,118,FR0	gerundive.
+gdves.	lex,2,FR1	gerundives.
+gen.	lex,373,FR0	genitive.
+gens.	lex,2,FR1	genitives.
+ger.	lex,268,FR0	gerund.
+Ger.	lang,9,FR0	German.
+Gk.	lang,1,FR1	Greek language
+Gr.	ab,106,FR0	Grammar, grammatical, grammarian(s).
+gr.	ab,1,FR1	Grammar, grammatical, grammarian(s).
+Guj.	lang,1,FR1	Gujarati language
+hapl.	ab,1,FR1	haplography. (?)
+haplog.	ab,4,FR1	haplography.
+haplogr.	ab,5,FR0	haplography.
+haplol.	ab,1,FR0	haplology.
+Hindi	lang,24,FR1	Hindi language
+i.e.	ab,369,FR1	that is  (Latin id est)
+ib.	ab,53,FR1	in the same place (Latin ibidem)
+ibid.	ab,18,FR1	in the same place (Latin ibidem)
+id.	ab,1502,FR1	the same (Latin idem)
+IE.	lang,3,FR1	Indo-European
+ifc.	ab,156,FR0	at the end of compounds.
+imperf.	lex,3,FR1	imperfect.
+impv.	lex,54,FR0	imperative.
+impvs.	lex,1,FR1	imperatives.
+incl.	ab,28,FR0	including, inclusive.
+ind. mid.	lex,1,FR1	indicative middle (?).
+indecl.	lex,16,FR0	indeclinable.
+indic.	lex,1,FR0	indicative.
+indiff.	ab,3,FR1	indifferent. (?)
+inf.	lex,56,FR0	infinitive.
+infin.	lex,13,FR1	infinitive.
+inflect.	ab,1,FR1	inflected. (?)
+Inscrip.	ab,1,FR1	Inscription. 
+inst.	lex,15,FR0	instrumental.
+inst. pr. pple.	lex,1,FR1	instrumental present participle.
+instr.	lex,218,FR0	instrumental.
+Instr.	lex,1,FR1	instrumental
+instr. pres. pple.	lex,1,FR1	instrumental present participle.
+intens.	lex,11,FR0	intensive.
+interj.	lex,15,FR1	interjection.
+interrog.	ab,3,FR1	interrogative.
+intr.	lex,1,FR1	(?)
+intrans.	lex,39,FR0	intransitive.
+Introd.	ab,8,FR1	introduction.
+irreg.	ab,1,FR1	irregular.
+Jap.	lang,84,FR0	Japanese.
+JM	lang,1,FR1	Jaina Māhārāṣṭrī. (?)
+JM.	lang,41,FR1	Jaina Māhārāṣṭrī. (?)
+Karmadh.	ab,8,FR1	karma—dhāraya, a class of Tatpuruṣa compounds 
+karmadh.	ab,1,FR1	karma—dhāraya, a class of Tatpuruṣa compounds 
+l.	ab,7,FR1	line. (?)
+l. c.	ab,41,FR0	in the place cited.
+Lat.	lang,1,FR1	Latin language.
+late Skt.	lang,46,FR1	late Sanskrit
+lect. fac.	ab,8,FR0	lectio facilior.
+Lex.	ab,485,FR1	lexicon, lexical; see also Bbh, in the preceding list of abbreviations.
+lex.	ab,7,FR0	lexicon, lexical; see also Bbh, in the preceding list of abbreviations.
+Lexx.	ab,11,FR1	lexicons. (?)
+lexx.	ab,2,FR1	lexicons. (?)
+lit.	ab,387,FR0	literal(ly); also, literary, found in literature, as opposed to lex.
+Lit.	ab,3,FR1	literally.
+litt.	ab,1,FR1	literally.
+ll.cc.	ab,3,FR1	in the places cited (Latin loco citato). (?)
+loc.	lex,307,FR0	locative.
+loc. cit.	ab,6,FR1	in the place cited (Latin loco citato)
+locs.	lex,11,FR1	locatives.
+m.	lex,3060,FR0	masculine.
+M.	lang,37,FR1	? (lang)
+m.c.	ab,769,FR0	metri causa. 
+Marathi	lang,1,FR1	Marathi language.
+marg.	ab,1,FR1	margin. (?)
+masc.	lex,65,FR0	masculine.
+mascs.	lex,1,FR1	masculines.
+math.	ab,2,FR0	mathematics.
+metr.	ab,80,FR0	metrical(ly).
+mg.	ab,1094,FR0	meaning.
+Mg.	lang,3,FR1	meaning.
+mgs.	ab,141,FR1	meanings.
+Mgs.	ab,1,FR1	Meanings.
+mid.	lex,10,FR1	middle (voice).
+MInd.	lang,1,FR0	Middle Indic.
+MIndic	lang,553,FR0	Middle Indic.
+misc.	ab,14,FR0	miscellaneous.
+Mongol	lang,2,FR1	Mongolian language.
+Mongolian	lang,1,FR1	Mongolian language.
+ms.	ab,727,FR0	manuscript.
+mss	ab,1,FR1	manuscripts.
+mss.	ab,2936,FR0	manuscripts.
+Mss.	ab,7,FR1	manuscripts.
+Mt.	ab,8,FR1	Mount (mountain)
+mus.	ab,10,FR0	musical.
+mus. instr.	ab,3,FR1	musical instrument(s)
+n.	ab/lex,6587,FR0	nominative; name.
+n. act.	ab,98,FR0	noun of action.
+n. ag.	ab,30,FR0	noun of agent.
+n. m.	lex,2,FR1	nominative masculine. (?)
+n. pl.	ab,222,FR1	nominative plural.
+n. pr.	ab,57,FR0	proper name.
+n. sg.	ab,415,FR1	nominative singular.
+N.B.	ab,3,FR1	note well (Latin nota bene).
+neg.	ab,212,FR0	negative.
+negs.	ab,1,FR1	negatives
+Nep.	lang,81,FR0	Nepalese.
+neut.	lex,2,FR1	neuter.
+Niya	lang,1,FR1	Niya Prakrit or Niya Gāndhārī, a Middle Indian language from the 3rd and 4th centuries CE.
+Niya Pkt.	lang,2,FR1	Niya Prakrit or Niya Gāndhārī, a Middle Indian language from the 3rd and 4th centuries CE.
+nn. pr.	ab,1,FR1	proper names.
+no.	ab,1,FR1	number.
+nom.	lex,112,FR0	nominative.
+nom. act.	ab,16,FR0	noun of action.
+nom. ag.	ab,4,FR0	noun of agent.
+noms.	ab,4,FR1	nominatives. 
+Nos.	ab,5,FR1	numbers.
+nt.	lex,2646,FR0	neuter.
+NW Niya Pkt.	lang,1,FR1	Northwest Niya Prakrit or Niya Gāndhārī, a Middle Indian language from the 3rd and 4th centuries CE. (?)
+obj.	lex,8,FR0	object.
+obl.	lex,2,FR0	oblique.
+Obv.	ab,2,FR1	?
+om.	ab,62,FR1	omits (?)
+onomat.	ab,34,FR0	onomatopoetic.
+op. cit.	ab,9,FR1	in the work cited (Latin opere citato)
+opp.	ab,88,FR0	opposite (of).
+Opp.	ab,1,FR1	Opposite (of).
+opt.	lex,77,FR0	optative.
+ord. num.	ab,4,FR1	ordinal number.
+orig.	ab,162,FR0	original(ly).
+Orig.	ab,5,FR1	original(ly).
+p.	lex,1,FR1	(?)
+P.K.	ab,2,FR1	Pūraṇa Kāśyapa (?)
+Pali	lang,7177,FR1	Pali language.
+para.	ab,1,FR1	paragraph
+paren.	ab,1,FR1	parentheses
+pass.	lex,123,FR0	passive.
+pass. pple.	lex,4,FR1	passive participle.
+pass. pres. pple.	lex,3,FR1	passive present participle.
+passim.	ab,1,FR1	here and there, throughout (Latin)
+patron.	ab,1,FR1	patronymic
+pej.	ab,1,FR0	pejorative.
+perf.	lex,9,FR1	perfect.
+perf. act. pple.	lex,3,FR1	perfect active participle.
+perh.	ab,420,FR0	perhaps.
+Perh.	ab,12,FR1	perhaps.
+pers.	ab,2,FR0	person.
+Pkt	lang,1,FR1	Prakrit language.
+Pkt.	lang,278,FR0	Prakrit.
+pl.	ab,625,FR0	plural.
+plur.	ab,1,FR1	plural
+postp.	lex,7,FR0	postposition.
+postpos.	lex,23,FR0	postposition.
+pple.	lex,35,FR1	participle.
+pple. act.	lex,1,FR1	participle active.
+pple. mid.	lex,1,FR1	participle middle.
+pple. pres.	lex,2,FR1	participle present.
+pples.	lex,2,FR1	participles.
+ppp.	lex,907,FR0	past passive participle.
+pr. pple.	lex,1,FR1	present participles.
+prec.	ab,1323,FR0	precative; preceding; preceded.
+Prec.	ab,1,FR1	Precative.
+pred.	lex,1,FR1	predicate.
+prep.	lex,16,FR1	preposition.
+prepos.	lex,2,FR1	preposition.
+pres.	lex,35,FR0	present.
+pres. ind.	lex,1,FR1	present indicative.
+pres. indic.	lex,1,FR1	present indicative.
+pres. m. pple.	lex,1,FR1	present middle participle.
+pres. mid.	lex,3,FR1	present middle.
+pres. mid. pple.	lex,7,FR1	present middle participle.
+pres. opt.	lex,3,FR1	present optative.
+pres. p.	lex,10,FR1	present participle. (?)
+pres. pass.	lex,1,FR1	present passive.
+pres. pass. pple	lex,1,FR1	present passive participle.
+pres. pass. pple.	lex,9,FR1	present passive participle.
+pres. passive pple.	lex,1,FR1	present passive participle.
+pres. pple	lex,2,FR1	present participle.
+pres. pple.	lex,128,FR1	present participle.
+pres. pple. instr.	lex,2,FR1	present participle instrumental.
+pres. pple. loc.	lex,1,FR1	present participle locative.
+pres. pple. mid.	lex,1,FR1	present participle middle.
+pres. pple. of pass.	lex,1,FR1	present participle of passive.
+pres. pple. pass.	lex,4,FR1	present participle passive.
+pres. pples.	lex,2,FR1	present participles.
+pret.	ab,2,FR1	preterite
+prob.	ab,862,FR0	probably.
+Prob.	ab,33,FR1	probably.
+pron.	lex,13,FR1	pronoun.
+pronom.	lex,1,FR1	pronominal.
+PTS ed.	ab,5,FR1	?
+publ.	ab,5,FR1	published (by).
+q.v.	ab,2920,FR1	which see (Latin quod vide)
+qq.v.	ab,212,FR1	which see (Latin quod vide)
+Qy	ab,3,FR1	Query.
+redupl.	ab,1,FR1	reduplicative
+ref.	ab,11,FR0	reference(s).
+refs.	ab,18,FR1	references.
+rel.	ab,2,FR1	relative
+resp.	ab,1,FR1	respectively
+Rev.	ab,1,FR1	Revision (?)
+s.v.	ab,1936,FR1	under the word (Latin sub verbo)
+s.vv.	ab,54,FR1	under the words (Latin sub verbo)
+sc.	ab,519,FR0	scilicet (namely).
+scil.	ab,1,FR1	namely (Latin scilicet)
+sec.	ab,2,FR1	section (?)
+sg.	ab,453,FR0	singular.
+Sg.	ab,1,FR1	singular.
+sing.	ab,5,FR1	singular. 
+Singhalese	lang,1,FR1	Singhalese language.
+Skt	lang,5,FR1	Sanskrit Language.
+Skt.	lang,5823,FR0	Sanskrit; (hyper-)Sktism, Sktization = Sanskritism, Sanskritization.
+Skt. Epic.	lang,1,FR1	Sanskrit Epic poetry. (?)
+subj.	lex,2,FR1	subject.
+subst.	lex,448,FR0	substantive.
+superl.	ab,4,FR0	superlative.
+syn.	ab,10,FR0	synonym(ous).
+Tatp.	ab,4,FR1	tat-puruṣa (class of Sanskrit compounds).
+tatp.	ab,4,FR1	tat-puruṣa (class of Sanskrit compounds).
+Tatpur.	ab,2,FR1	tat-puruṣa (class of Sanskrit compounds).
+tatpur.	ab,1,FR1	tat-puruṣa (class of Sanskrit compounds).
+Tib.	lang,2759,FR1	Tibetan language.
+Toch.	lang,1,FR1	Tocharian language.
+Tocharian	lang,2,FR1	Tocharian language.
+tr.	ab,2,FR1	translation (?)
+trans.	lex,35,FR0	transitive.
+transl.	ab,58,FR0	translation(s).
+transp.	ab,1,FR1	transposes (?)
+unmetr.	ab,91,FR0	unmetrical(ly).
+unorig.	ab,1,FR1	unoriginal
+Up.	lang,1,FR1	Upanishad.
+v.a.	ab,2,FR1	for example (Latin ?)
+v.l.	ab,2003,FR0	variant reading.
+var.	ab,147,FR1	variant
+varr.	ab,14,FR1	variants
+vb.	ab,2,FR0	verb.
+Ved.	lang,15,FR0	Vedic.
+Vedic	lang,73,FR1	Vedic Sanskrit. (?)
+viell.	ab,1,FR1	perhaps (German vielleicht).
+viz.	ab,106,FR1	literally (Latin videlicet)
+voc.	lex,65,FR0	vocative.
+vocs.	lex,3,FR1	vocatives.
+vs	ab,3571,FR0	verse.
+vs.	ab,1,FR1	verse.
+vss	ab,341,FR0	verses.
+vss.	ab,5,FR1	verses.
+vv.ll.	ab,82,FR0	variant readings.
+Vārt.	ab,1,FR1	vārttika, Kātyāyana critical annotations on the aphorisms of Pāṇini grammar
+w.r.	ab,2,FR0	wrong reading.

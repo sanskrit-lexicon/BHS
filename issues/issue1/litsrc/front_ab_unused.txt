@@ -1,0 +1,14 @@
+Add.	FR0	Addendum, Addenda (e.g. to BR, pw).
+al.	FR0	alibi, elsewhere.
+ap.	FR0	{%apud.%}
+Bodhis	FR1	Bodhisattva
+E	FR0	Epic (Sanskrit, in citing Whitneyʼs Roots).
+impf.	FR0	imperfect.
+lect. diff.	FR0	lectio difficilior.
+Pāṇ.	FR0	Pāṇini.
+qy	FR0	query.
+rec.	FR0	recension.
+s.v(v).	FR0	under the word(s).
+uncpd.	FR0	uncompounded.
+var(r).	FR0	variant(s).
+VS.	FR0	Vājasaneyi Saṃhitā.

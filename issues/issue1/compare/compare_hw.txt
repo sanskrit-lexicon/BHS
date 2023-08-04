@@ -1,0 +1,1776 @@
+; 001: L=78
+cdsl: <L>78<pc>003,2<k1>akzuRRa<k2>akzuRRa(-vyAkaraRa
+  ab: <L>78<pc>003,2<k1>akzuRRa<k2>akzuRRa(-vyAkaraRa)
+;  ------------------------------
+; 002: L=114
+cdsl: <L>114<pc>004,2<k1>agnibala<k2>agni-bala(-ratna
+  ab: <L>114<pc>004,2<k1>agnibala<k2>agni-bala(-ratna)
+;  ------------------------------
+; 003: L=119
+cdsl: <L>119<pc>004,2<k1>agnivarRa<k2>agni-varRa(-ratna
+  ab: <L>119<pc>004,2<k1>agnivarRa<k2>agni-varRa(-ratna)
+;  ------------------------------
+; 004: L=188
+cdsl: <L>188<pc>006,2<k1>acalitasumana<k2>acalitasumana(s
+  ab: <L>188<pc>006,2<k1>acalitasumana<k2>acalitasumana(s)
+;  ------------------------------
+; 005: L=203
+cdsl: <L>203<pc>006,2<k1>acirayAnasaMprasTita<k2>acirayAnasaMprasTita, = nava-yAna°
+  ab: <L>203<pc>006,2<k1>acirayAnasaMprasTita<k2>acirayAnasaMprasTita
+;  ------------------------------
+; 006: L=245
+cdsl: <L>245<pc>008,1<k1>ajihmakukzi<k2>ajihma-kukzi = aBugna
+  ab: <L>245<pc>008,1<k1>ajihmakukzi<k2>ajihma-kukzi
+;  ------------------------------
+; 007: L=251
+cdsl: <L>251<pc>008,1<k1>aYja<k2>aYja (aYjas
+  ab: <L>251<pc>008,1<k1>aYja<k2>aYja (aYjas)
+;  ------------------------------
+; 008: L=295
+cdsl: <L>295<pc>009,1<k1>atitti<k2>atitti-(ga-
+  ab: <L>295<pc>009,1<k1>atitti<k2>atitti-(ga-)
+;  ------------------------------
+; 009: L=408
+cdsl: <L>408<pc>012,1<k1>aDardiS<k2>aDar-diS (-dik
+  ab: <L>408<pc>012,1<k1>aDardiS<k2>aDar-diS (-dik)
+;  ------------------------------
+; 010: L=416
+cdsl: <L>416<pc>012,2<k1>aDigamana<k2>aDigamana = °gama
+  ab: <L>416<pc>012,2<k1>aDigamana<k2>aDigamana
+;  ------------------------------
+; 011: L=461
+cdsl: <L>461<pc>015,2<k1>aDizWahati<k2>aDizWahati = aDitizWati
+  ab: <L>461<pc>015,2<k1>aDizWahati<k2>aDizWahati
+;  ------------------------------
+; 012: L=466
+cdsl: <L>466<pc>016,2<k1>aDizWihati<k2>aDizWihati = aDitizWati
+  ab: <L>466<pc>016,2<k1>aDizWihati<k2>aDizWihati
+;  ------------------------------
+; 013: L=491
+cdsl: <L>491<pc>017,2<k1>aDyAlamba<k2>aDyAlamba = °bana
+  ab: <L>491<pc>017,2<k1>aDyAlamba<k2>aDyAlamba
+;  ------------------------------
+; 014: L=495
+cdsl: <L>495<pc>017,2<k1>aDyAlambanatA<k2>aDyAlambanatA = °bana
+  ab: <L>495<pc>017,2<k1>aDyAlambanatA<k2>aDyAlambanatA
+;  ------------------------------
+; 015: L=528
+cdsl: <L>528<pc>019,2<k1>anaDimUrCita<k2>an-aDimUrCita (-tva
+  ab: <L>528<pc>019,2<k1>anaDimUrCita<k2>an-aDimUrCita(-tva)
+;  ------------------------------
+; 016: L=563
+cdsl: <L>563<pc>020,1<k1>anantava<k2>anantava(t
+  ab: <L>563<pc>020,1<k1>anantava<k2>anantava(t)
+;  ------------------------------
+; 017: L=590
+cdsl: <L>590<pc>020,2<k1>anaBiniveSana<k2>an-aBiniveSana = an-aBinivizwi
+  ab: <L>590<pc>020,2<k1>anaBiniveSana<k2>an-aBiniveSana
+;  ------------------------------
+; 018: L=593
+cdsl: <L>593<pc>020,2<k1>anaBiramya<k2>anaBiramya = niraBi°
+  ab: <L>593<pc>020,2<k1>anaBiramya<k2>anaBiramya
+;  ------------------------------
+; 019: L=645
+cdsl: <L>645<pc>022,1<k1>anAgArikA<k2>anAgArikA = anagArikA
+  ab: <L>645<pc>022,1<k1>anAgArikA<k2>anAgArikA
+;  ------------------------------
+; 020: L=700
+cdsl: <L>700<pc>023,2<k1>anAvyUha<k2>anAvyUha = anAyUha
+  ab: <L>700<pc>023,2<k1>anAvyUha<k2>anAvyUha
+;  ------------------------------
+; 021: L=703
+cdsl: <L>703<pc>024,1<k1>anASvAsa<k2>anASvAsa (?) = anASvAsika
+  ab: <L>703<pc>024,1<k1>anASvAsa<k2>anASvAsa (?)
+;  ------------------------------
+; 022: L=711
+cdsl: <L>711<pc>024,1<k1>anikziptaBAra<k2>anikzipta-BAra = °ta-Dura
+  ab: <L>711<pc>024,1<k1>anikziptaBAra<k2>anikzipta-BAra
+;  ------------------------------
+; 023: L=714
+cdsl: <L>714<pc>024,1<k1>aniYja<k2>aniYja = aniYjya
+  ab: <L>714<pc>024,1<k1>aniYja<k2>aniYja
+;  ------------------------------
+; 024: L=735
+cdsl: <L>735<pc>025,1<k1>anirvyUha<k2>anirvyUha = aniryUha
+  ab: <L>735<pc>025,1<k1>anirvyUha<k2>anirvyUha
+;  ------------------------------
+; 025: L=736
+cdsl: <L>736<pc>025,1<k1>anilanama<k2>anilanama (!
+  ab: <L>736<pc>025,1<k1>anilanama<k2>anilanama
+;  ------------------------------
+; 026: L=826
+cdsl: <L>826<pc>027,2<k1>anudruta<k2>anudruta(-lipi
+  ab: <L>826<pc>027,2<k1>anudruta<k2>anudruta(-lipi)
+;  ------------------------------
+; 027: L=882
+cdsl: <L>882<pc>029,2<k1>anuparIndanA<k2>anuparIndanA = anuparin°
+  ab: <L>882<pc>029,2<k1>anuparIndanA<k2>anuparIndanA
+;  ------------------------------
+; 028: L=973
+cdsl: <L>973<pc>032,2<k1>anumodanI<k2>anumodanI = °nA
+  ab: <L>973<pc>032,2<k1>anumodanI<k2>anumodanI
+;  ------------------------------
+; 029: L=1008
+cdsl: <L>1008<pc>033,2<k1>anuvartanatA<k2>anuvartanatA = °tanA
+  ab: <L>1008<pc>033,2<k1>anuvartanatA<k2>anuvartanatA
+;  ------------------------------
+; 030: L=1038
+cdsl: <L>1038<pc>035,1<k1>anuSAkzyate<k2>anuSAkzyate (°ti
+  ab: <L>1038<pc>035,1<k1>anuSAkzyate<k2>anuSAkzyate (°ti)
+;  ------------------------------
+; 031: L=1084
+cdsl: <L>1084<pc>037,1<k1>aneYjya<k2>aneYjya = aniYjya
+  ab: <L>1084<pc>037,1<k1>aneYjya<k2>aneYjya
+;  ------------------------------
+; 032: L=1118
+cdsl: <L>1118<pc>038,1<k1>antamaSato<k2>antamaSato (°sato
+  ab: <L>1118<pc>038,1<k1>antamaSato<k2>antamaSato (°sato)
+;  ------------------------------
+; 033: L=1131
+cdsl: <L>1131<pc>038,2<k1>antarAgiri<k2>antarA-giri = anta-giri
+  ab: <L>1131<pc>038,2<k1>antarAgiri<k2>antarA-giri
+;  ------------------------------
+; 034: L=1133
+cdsl: <L>1133<pc>038,2<k1>antarAntaram<k2>antarAntaram (?), °rAt, °rA (
+  ab: <L>1133<pc>038,2<k1>antarAntaram<k2>antarAntaram (?), °rAt, °rA
+;  ------------------------------
+; 035: L=1237
+cdsl: <L>1237<pc>043,1<k1>apacayati<k2>*apacayati = apacAyati
+  ab: <L>1237<pc>043,1<k1>apacayati<k2>*apacayati
+;  ------------------------------
+; 036: L=1299
+cdsl: <L>1299<pc>045,1<k1>aparitamana<k2>a-paritamana-(tA
+  ab: <L>1299<pc>045,1<k1>aparitamana<k2>a-paritamana-(tA)
+;  ------------------------------
+; 037: L=1360
+cdsl: <L>1360<pc>047,1<k1>apunaHpratyudAvartya<k2>a-punaH-pratyudAvartya = a-pratyudAvartya
+  ab: <L>1360<pc>047,1<k1>apunaHpratyudAvartya<k2>a-punaH-pratyudAvartya
+;  ------------------------------
+; 038: L=1374
+cdsl: <L>1374<pc>047,2<k1>apratikANkzaRa<k2>a-pratikANkzaRa(-tA
+  ab: <L>1374<pc>047,2<k1>apratikANkzaRa<k2>a-pratikANkzaRa(-tA)
+;  ------------------------------
+; 039: L=1412
+cdsl: <L>1412<pc>048,2<k1>apratyudAvartanIya<k2>a-pratyudAvartanIya = °vartya
+  ab: <L>1412<pc>048,2<k1>apratyudAvartanIya<k2>a-pratyudAvartanIya
+;  ------------------------------
+; 040: L=1416
+cdsl: <L>1416<pc>048,2<k1>apranihita<k2>a-pranihita = a-praRihita
+  ab: <L>1416<pc>048,2<k1>apranihita<k2>a-pranihita
+;  ------------------------------
+; 041: L=1444
+cdsl: <L>1444<pc>049,2<k1>abfha<k2>abfha(t
+  ab: <L>1444<pc>049,2<k1>abfha<k2>abfha(t)
+;  ------------------------------
+; 042: L=1476
+cdsl: <L>1476<pc>050,2<k1>aBiji<k2>aBiji(t
+  ab: <L>1476<pc>050,2<k1>aBiji<k2>aBiji(t)
+;  ------------------------------
+; 043: L=1585
+cdsl: <L>1585<pc>055,1<k1>aBiBUyayaSa<k2>aBiBUyayaSa(s
+  ab: <L>1585<pc>055,1<k1>aBiBUyayaSa<k2>aBiBUyayaSa(s)
+;  ------------------------------
+; 044: L=1594
+cdsl: <L>1594<pc>055,1<k1>aBiyaSa<k2>aBiyaSa(s
+  ab: <L>1594<pc>055,1<k1>aBiyaSa<k2>aBiyaSa(s)
+;  ------------------------------
+; 045: L=1802
+cdsl: <L>1802<pc>063,1<k1>amitateja<k2>amitateja(s
+  ab: <L>1802<pc>063,1<k1>amitateja<k2>amitateja(s)
+;  ------------------------------
+; 046: L=1815.1
+cdsl: <L>1815.1<pc>063,2<k1>amitAyuviniScayarAjendra<k2>amitAyuviniScayarAjendra = amitAyurjYAnaviniScayarAja
+  ab: <L>1815.1<pc>063,2<k1>amitAyuviniScayarAjendra<k2>amitAyuviniScayarAjendra
+;  ------------------------------
+; 047: L=1829
+cdsl: <L>1829<pc>064,1<k1>amftaparvatapraBAteja<k2>amftaparvatapraBAteja(s
+  ab: <L>1829<pc>064,1<k1>amftaparvatapraBAteja<k2>amftaparvatapraBAteja(s)
+;  ------------------------------
+; 048: L=1876
+cdsl: <L>1876<pc>065,1<k1>aranemi<k2>aranemi = °Remi
+  ab: <L>1876<pc>065,1<k1>aranemi<k2>aranemi
+;  ------------------------------
+; 049: L=1882
+cdsl: <L>1882<pc>065,1<k1>arAqa<k2>arAqa = ArAqa
+  ab: <L>1882<pc>065,1<k1>arAqa<k2>arAqa
+;  ------------------------------
+; 050: L=1913
+cdsl: <L>1913<pc>066,1<k1>arcimant<k2>arcimant (°mat, °ma
+  ab: <L>1913<pc>066,1<k1>arcimant<k2>arcimant (°mat, °ma)
+;  ------------------------------
+; 051: L=1930
+cdsl: <L>1930<pc>066,2<k1>arTadarSi<k2>arTadarSi(n
+  ab: <L>1930<pc>066,2<k1>arTadarSi<k2>arTadarSi(n)
+;  ------------------------------
+; 052: L=1961
+cdsl: <L>1961<pc>067,2<k1>arhavant<k2>arhavant = arhant
+  ab: <L>1961<pc>067,2<k1>arhavant<k2>arhavant
+;  ------------------------------
+; 053: L=2044
+cdsl: <L>2044<pc>070,1<k1>avakrAntika<k2>-avakrAntika = °taka
+  ab: <L>2044<pc>070,1<k1>avakrAntika<k2>-avakrAntika
+;  ------------------------------
+; 054: L=2169
+cdsl: <L>2169<pc>075,1<k1>avavAdati<k2>avavAd(ay)ati, ovA° = avavadati
+  ab: <L>2169<pc>075,1<k1>avavAdati<k2>avavAd(ay)ati, ovA°
+;  ------------------------------
+; 055: L=2229
+cdsl: <L>2229<pc>077,2<k1>avitarka<k2>avitarka(-DyAyin
+  ab: <L>2229<pc>077,2<k1>avitarka<k2>avitarka(-DyAyin)
+;  ------------------------------
+; 056: L=2248
+cdsl: <L>2248<pc>078,1<k1>aviparokza<k2>a-viparokza(-tA
+  ab: <L>2248<pc>078,1<k1>aviparokza<k2>a-viparokza(-tA)
+;  ------------------------------
+; 057: L=2263
+cdsl: <L>2263<pc>078,2<k1>avivartacaryA<k2>avivarta-caryA (= avEvarta-, anivartana-caryA
+  ab: <L>2263<pc>078,2<k1>avivartacaryA<k2>avivarta-caryA
+;  ------------------------------
+; 058: L=2264
+cdsl: <L>2264<pc>078,2<k1>avivartika<k2>avivartika = avivartya
+  ab: <L>2264<pc>078,2<k1>avivartika<k2>avivartika
+;  ------------------------------
+; 059: L=2287
+cdsl: <L>2287<pc>079,1<k1>avEvartacaryA<k2>avEvarta-caryA = avivarta°, anivartana°
+  ab: <L>2287<pc>079,1<k1>avEvartacaryA<k2>avEvarta-caryA
+;  ------------------------------
+; 060: L=2292
+cdsl: <L>2292<pc>079,1<k1>avEvartiya<k2>avEvartiya = °tika
+  ab: <L>2292<pc>079,1<k1>avEvartiya<k2>avEvartiya
+;  ------------------------------
+; 061: L=2293
+cdsl: <L>2293<pc>079,1<k1>avEvartya<k2>avEvartya = °tika
+  ab: <L>2293<pc>079,1<k1>avEvartya<k2>avEvartya
+;  ------------------------------
+; 062: L=2315
+cdsl: <L>2315<pc>080,1<k1>aSitaka<k2>aSitaka, aSIta(ka) = ASItakI
+  ab: <L>2315<pc>080,1<k1>aSitaka<k2>aSitaka, aSIta(ka)
+;  ------------------------------
+; 063: L=2317
+cdsl: <L>2317<pc>080,1<k1>aSuBatasaMjYi<k2>aSuBata-saMjYi(n
+  ab: <L>2317<pc>080,1<k1>aSuBatasaMjYi<k2>aSuBata-saMjYi(n)
+;  ------------------------------
+; 064: L=2348
+cdsl: <L>2348<pc>081,1<k1>aSvaki<k2>aSvaki(n), = aSvajit
+  ab: <L>2348<pc>081,1<k1>aSvaki<k2>aSvaki(n)
+;  ------------------------------
+; 065: L=2446
+cdsl: <L>2446<pc>084,1<k1>asAta<k2>asAta = aSAta
+  ab: <L>2446<pc>084,1<k1>asAta<k2>asAta
+;  ------------------------------
+; 066: L=2492
+cdsl: <L>2492<pc>086,1<k1>ahirI<k2>ahirI(ka
+  ab: <L>2492<pc>086,1<k1>ahirI<k2>ahirI(ka)
+;  ------------------------------
+; 067: L=2525
+cdsl: <L>2525<pc>087,1<k1>AkASamAtar<k2>AkASamAtar(A
+  ab: <L>2525<pc>087,1<k1>AkASamAtar<k2>AkASamAtar(A)
+;  ------------------------------
+; 068: L=2596
+cdsl: <L>2596<pc>090,1<k1>ACindana<k2>ACindana(-tA
+  ab: <L>2596<pc>090,1<k1>ACindana<k2>ACindana(-tA)
+;  ------------------------------
+; 069: L=2648
+cdsl: <L>2648<pc>092,1<k1>Attamana<k2>Attamana(s
+  ab: <L>2648<pc>092,1<k1>Attamana<k2>Attamana(s)
+;  ------------------------------
+; 070: L=2684
+cdsl: <L>2684<pc>093,2<k1>Adityateja<k2>Adityateja(s
+  ab: <L>2684<pc>093,2<k1>Adityateja<k2>Adityateja(s)
+;  ------------------------------
+; 071: L=2694
+cdsl: <L>2694<pc>094,2<k1>AdIyati<k2>AdIyati = Adiyati
+  ab: <L>2694<pc>094,2<k1>AdIyati<k2>AdIyati
+;  ------------------------------
+; 072: L=2737
+cdsl: <L>2737<pc>096,2<k1>Anijya<k2>Anijya = aniYjya
+  ab: <L>2737<pc>096,2<k1>Anijya<k2>Anijya
+;  ------------------------------
+; 073: L=2738
+cdsl: <L>2738<pc>096,2<k1>AniYja<k2>AniYja = aniYjya
+  ab: <L>2738<pc>096,2<k1>AniYja<k2>AniYja
+;  ------------------------------
+; 074: L=2739
+cdsl: <L>2739<pc>096,2<k1>AniYjya<k2>AniYjya = aniYjya
+  ab: <L>2739<pc>096,2<k1>AniYjya<k2>AniYjya
+;  ------------------------------
+; 075: L=2752
+cdsl: <L>2752<pc>097,1<k1>AnfSaMsa<k2>AnfSaMsa = anu°, Anu°
+  ab: <L>2752<pc>097,1<k1>AnfSaMsa<k2>AnfSaMsa
+;  ------------------------------
+; 076: L=2754
+cdsl: <L>2754<pc>097,1<k1>AneYjya<k2>AneYjya = aniYjya
+  ab: <L>2754<pc>097,1<k1>AneYjya<k2>AneYjya
+;  ------------------------------
+; 077: L=2766
+cdsl: <L>2766<pc>097,2<k1>Apattika<k2>-Apatti-ka = Apatti
+  ab: <L>2766<pc>097,2<k1>Apattika<k2>-Apatti-ka
+;  ------------------------------
+; 078: L=2801
+cdsl: <L>2801<pc>098,2<k1>ABasvara<k2>ABasvara = ABAsvara
+  ab: <L>2801<pc>098,2<k1>ABasvara<k2>ABasvara
+;  ------------------------------
+; 079: L=2963
+cdsl: <L>2963<pc>106,1<k1>Alambu<k2>Alambu = alambu
+  ab: <L>2963<pc>106,1<k1>Alambu<k2>Alambu
+;  ------------------------------
+; 080: L=2971
+cdsl: <L>2971<pc>106,1<k1>AlAmbu<k2>AlAmbu = alambu
+  ab: <L>2971<pc>106,1<k1>AlAmbu<k2>AlAmbu
+;  ------------------------------
+; 081: L=2997
+cdsl: <L>2997<pc>107,1<k1>AvarjanA<k2>AvarjanA = Avarjana
+  ab: <L>2997<pc>107,1<k1>AvarjanA<k2>AvarjanA
+;  ------------------------------
+; 082: L=3017
+cdsl: <L>3017<pc>108,1<k1>AvIci<k2>AvIci = avIci
+  ab: <L>3017<pc>108,1<k1>AvIci<k2>AvIci
+;  ------------------------------
+; 083: L=3019
+cdsl: <L>3019<pc>108,1<k1>Avus<k2>Avus = Ayus
+  ab: <L>3019<pc>108,1<k1>Avus<k2>Avus
+;  ------------------------------
+; 084: L=3032
+cdsl: <L>3032<pc>109,1<k1>AvyUhati<k2>AvyUhati = AyUhati
+  ab: <L>3032<pc>109,1<k1>AvyUhati<k2>AvyUhati
+;  ------------------------------
+; 085: L=3048
+cdsl: <L>3048<pc>109,2<k1>ASukAri<k2>ASukAri(n
+  ab: <L>3048<pc>109,2<k1>ASukAri<k2>ASukAri(n)
+;  ------------------------------
+; 086: L=3086
+cdsl: <L>3086<pc>111,2<k1>AstIryati<k2>AstIryati = ar(t)tiyati
+  ab: <L>3086<pc>111,2<k1>AstIryati<k2>AstIryati
+;  ------------------------------
+; 087: L=3126
+cdsl: <L>3126<pc>113,1<k1>iYcati<k2>iYcati = iYjati
+  ab: <L>3126<pc>113,1<k1>iYcati<k2>iYcati
+;  ------------------------------
+; 088: L=3157
+cdsl: <L>3157<pc>115,1<k1>indrateja<k2>indrateja(s
+  ab: <L>3157<pc>115,1<k1>indrateja<k2>indrateja(s)
+;  ------------------------------
+; 089: L=3180
+cdsl: <L>3180<pc>115,2<k1>iranta<k2>iranta(H
+  ab: <L>3180<pc>115,2<k1>iranta<k2>iranta(H)
+;  ------------------------------
+; 090: L=3201
+cdsl: <L>3201<pc>116,1<k1>istrikA<k2>istrikA = istrI, istri
+  ab: <L>3201<pc>116,1<k1>istrikA<k2>istrikA
+;  ------------------------------
+; 091: L=3304
+cdsl: <L>3304<pc>120,1<k1>uqqiyAna<k2>uqqiyAna = oqqiyAna
+  ab: <L>3304<pc>120,1<k1>uqqiyAna<k2>uqqiyAna
+;  ------------------------------
+; 092: L=3307
+cdsl: <L>3307<pc>120,1<k1>utapta<k2>utapta(vant
+  ab: <L>3307<pc>120,1<k1>utapta<k2>utapta(vant)
+;  ------------------------------
+; 093: L=3498
+cdsl: <L>3498<pc>128,1<k1>udacandra<k2>uda-candra = udaka-c°
+  ab: <L>3498<pc>128,1<k1>udacandra<k2>uda-candra
+;  ------------------------------
+; 094: L=3502
+cdsl: <L>3502<pc>128,2<k1>udayagAmi<k2>udayagAmi(n
+  ab: <L>3502<pc>128,2<k1>udayagAmi<k2>udayagAmi(n)
+;  ------------------------------
+; 095: L=3606
+cdsl: <L>3606<pc>132,2<k1>unnahana<k2>(an-)unnahana(-tA
+  ab: <L>3606<pc>132,2<k1>unnahana<k2>(an-)unnahana(-tA)
+;  ------------------------------
+; 096: L=3631
+cdsl: <L>3631<pc>133,2<k1>upakileSa<k2>upakileSa = upakleSa
+  ab: <L>3631<pc>133,2<k1>upakileSa<k2>upakileSa
+;  ------------------------------
+; 097: L=3677
+cdsl: <L>3677<pc>135,1<k1>upadeSeti<k2>upadeSeti (°Sayati
+  ab: <L>3677<pc>135,1<k1>upadeSeti<k2>upadeSeti (°Sayati)
+;  ------------------------------
+; 098: L=3710
+cdsl: <L>3710<pc>137,2<k1>upaniSA<k2>upaniSA = upanizA
+  ab: <L>3710<pc>137,2<k1>upaniSA<k2>upaniSA
+;  ------------------------------
+; 099: L=3735
+cdsl: <L>3735<pc>139,1<k1>upapAduka<k2>upapAduka = OpapAduka
+  ab: <L>3735<pc>139,1<k1>upapAduka<k2>upapAduka
+;  ------------------------------
+; 100: L=3838
+cdsl: <L>3838<pc>144,2<k1>upahatya<k2>-upahatya (°tyA
+  ab: <L>3838<pc>144,2<k1>upahatya<k2>-upahatya (°tyA)
+;  ------------------------------
+; 101: L=3859
+cdsl: <L>3859<pc>146,1<k1>upAnAmayati<k2>upAnAmayati = upA°
+  ab: <L>3859<pc>146,1<k1>upAnAmayati<k2>upAnAmayati
+;  ------------------------------
+; 102: L=3895
+cdsl: <L>3895<pc>147,2<k1>uppalaka<k2>uppalaka = utpalaka
+  ab: <L>3895<pc>147,2<k1>uppalaka<k2>uppalaka
+;  ------------------------------
+; 103: L=3903
+cdsl: <L>3903<pc>148,1<k1>ura<k2>ura(s
+  ab: <L>3903<pc>148,1<k1>ura<k2>ura(s)
+;  ------------------------------
+; 104: L=3959
+cdsl: <L>3959<pc>149,2<k1>usIragiri<k2>usIragiri = uSIra°
+  ab: <L>3959<pc>149,2<k1>usIragiri<k2>usIragiri
+;  ------------------------------
+; 105: L=3983
+cdsl: <L>3983<pc>150,2<k1>Uzmagata<k2>Uzmagata = uzma°
+  ab: <L>3983<pc>150,2<k1>Uzmagata<k2>Uzmagata
+;  ------------------------------
+; 106: L=3998
+cdsl: <L>3998<pc>151,2<k1>ftIyati<k2>ftIyati, °te, = ar(t)tiyati
+  ab: <L>3998<pc>151,2<k1>ftIyati<k2>ftIyati, °te
+;  ------------------------------
+; 107: L=4028
+cdsl: <L>4028<pc>152,2<k1>fzivadana<k2>fzivadana = fzipatana
+  ab: <L>4028<pc>152,2<k1>fzivadana<k2>fzivadana
+;  ------------------------------
+; 108: L=4038
+cdsl: <L>4038<pc>152,2<k1>ekajawI<k2>ekajawI = ekajawA
+  ab: <L>4038<pc>152,2<k1>ekajawI<k2>ekajawI
+;  ------------------------------
+; 109: L=4109
+cdsl: <L>4109<pc>155,2<k1>etarhiM<k2>etarhiM = etarahi(M
+  ab: <L>4109<pc>155,2<k1>etarhiM<k2>etarhiM
+;  ------------------------------
+; 110: L=4162
+cdsl: <L>4162<pc>158,1<k1>EReyajaNGa<k2>EReya-jaNGa(-tA
+  ab: <L>4162<pc>158,1<k1>EReyajaNGa<k2>EReya-jaNGa(-tA)
+;  ------------------------------
+; 111: L=4218
+cdsl: <L>4218<pc>159,2<k1>opalamBika<k2>opalamBika = Opa°
+  ab: <L>4218<pc>159,2<k1>opalamBika<k2>opalamBika
+;  ------------------------------
+; 112: L=4294
+cdsl: <L>4294<pc>162,2<k1>OpapAduka<k2>OpapAduka (°dika
+  ab: <L>4294<pc>162,2<k1>OpapAduka<k2>OpapAduka (°dika)
+;  ------------------------------
+; 113: L=4304
+cdsl: <L>4304<pc>163,2<k1>OzaQi<k2>OzaQi(n
+  ab: <L>4304<pc>163,2<k1>OzaQi<k2>OzaQi(n)
+;  ------------------------------
+; 114: L=4402
+cdsl: <L>4402<pc>167,1<k1>kanakanAgarAjateja<k2>kanakanAgarAjateja(s
+  ab: <L>4402<pc>167,1<k1>kanakanAgarAjateja<k2>kanakanAgarAjateja(s)
+;  ------------------------------
+; 115: L=4417
+cdsl: <L>4417<pc>167,1<k1>kanakAhvaya<k2>kanakAhvaya = kanakamuni
+  ab: <L>4417<pc>167,1<k1>kanakAhvaya<k2>kanakAhvaya
+;  ------------------------------
+; 116: L=4444
+cdsl: <L>4444<pc>168,1<k1>kapilasAhvaya<k2>kapilasAhvaya, = kapilAhvaya
+  ab: <L>4444<pc>168,1<k1>kapilasAhvaya<k2>kapilasAhvaya
+;  ------------------------------
+; 117: L=4526
+cdsl: <L>4526<pc>170,1<k1>karResumana<k2>karResumana(s
+  ab: <L>4526<pc>170,1<k1>karResumana<k2>karResumana(s)
+;  ------------------------------
+; 118: L=4614
+cdsl: <L>4614<pc>173,2<k1>kalyato<k2>kalyato (°tas
+  ab: <L>4614<pc>173,2<k1>kalyato<k2>kalyato (°tas)
+;  ------------------------------
+; 119: L=4649
+cdsl: <L>4649<pc>175,1<k1>kahi<k2>kahi, kahiM (cit
+  ab: <L>4649<pc>175,1<k1>kahi<k2>kahi, kahiM (cit)
+;  ------------------------------
+; 120: L=4660
+cdsl: <L>4660<pc>175,1<k1>kAkaSira<k2>kAka-Sira(s
+  ab: <L>4660<pc>175,1<k1>kAkaSira<k2>kAka-Sira(s)
+;  ------------------------------
+; 121: L=4674
+cdsl: <L>4674<pc>175,2<k1>kAcalindika<k2>kAcalindika = kAcilindika
+  ab: <L>4674<pc>175,2<k1>kAcalindika<k2>kAcalindika
+;  ------------------------------
+; 122: L=4681
+cdsl: <L>4681<pc>176,1<k1>kAYcanamayIBUmi<k2>kAYcanamayI BUmi = kAYcana-cakra
+  ab: <L>4681<pc>176,1<k1>kAYcanamayIBUmi<k2>kAYcanamayI BUmi
+;  ------------------------------
+; 123: L=4750
+cdsl: <L>4750<pc>178,2<k1>kArAnusAri<k2>kArAnusAri(n) = kAlAnu°
+  ab: <L>4750<pc>178,2<k1>kArAnusAri<k2>kArAnusAri(n)
+;  ------------------------------
+; 124: L=4793
+cdsl: <L>4793<pc>180,2<k1>kAlAnusAri<k2>kAlAnusAri (°rin
+  ab: <L>4793<pc>180,2<k1>kAlAnusAri<k2>kAlAnusAri (°rin)
+;  ------------------------------
+; 125: L=4820
+cdsl: <L>4820<pc>181,2<k1>kASI<k2>kASI = kASi
+  ab: <L>4820<pc>181,2<k1>kASI<k2>kASI
+;  ------------------------------
+; 126: L=4853
+cdsl: <L>4853<pc>183,1<k1>kiwAlapiRqa<k2>kiwAla-piRqa(ka
+  ab: <L>4853<pc>183,1<k1>kiwAlapiRqa<k2>kiwAla-piRqa(ka)
+;  ------------------------------
+; 127: L=4912
+cdsl: <L>4912<pc>184,2<k1>kukkuri<k2>kukkuri(n
+  ab: <L>4912<pc>184,2<k1>kukkuri<k2>kukkuri(n)
+;  ------------------------------
+; 128: L=4920
+cdsl: <L>4920<pc>184,2<k1>kuwakuYcaka<k2>kuwakuYcaka = kuwu°
+  ab: <L>4920<pc>184,2<k1>kuwakuYcaka<k2>kuwakuYcaka
+;  ------------------------------
+; 129: L=4929
+cdsl: <L>4929<pc>185,1<k1>kuww<k2>kuww(ayati
+  ab: <L>4929<pc>185,1<k1>kuww<k2>kuww(ayati)
+;  ------------------------------
+; 130: L=4936
+cdsl: <L>4936<pc>185,2<k1>kuqmalaka<k2>kuqmalaka(-jAtam
+  ab: <L>4936<pc>185,2<k1>kuqmalaka<k2>kuqmalaka(-jAtam)
+;  ------------------------------
+; 131: L=5009
+cdsl: <L>5009<pc>187,2<k1>kurukulla<k2>kurukulla(-parvata
+  ab: <L>5009<pc>187,2<k1>kurukulla<k2>kurukulla(-parvata)
+;  ------------------------------
+; 132: L=5035
+cdsl: <L>5035<pc>188,2<k1>kulopi<k2>kulopi(yaM
+  ab: <L>5035<pc>188,2<k1>kulopi<k2>kulopi(yaM)
+;  ------------------------------
+; 133: L=5054
+cdsl: <L>5054<pc>189,1<k1>kuSInagarI<k2>kuSInagarI = kuSi°
+  ab: <L>5054<pc>189,1<k1>kuSInagarI<k2>kuSInagarI
+;  ------------------------------
+; 134: L=5120
+cdsl: <L>5120<pc>190,2<k1>kftyA<k2>-kftyA = -kftvA
+  ab: <L>5120<pc>190,2<k1>kftyA<k2>-kftyA
+;  ------------------------------
+; 135: L=5123
+cdsl: <L>5123<pc>191,1<k1>kftyo<k2>-kftyo = -kftvA
+  ab: <L>5123<pc>191,1<k1>kftyo<k2>-kftyo
+;  ------------------------------
+; 136: L=5234
+cdsl: <L>5234<pc>194,2<k1>koRAkamuni<k2>koRAkamuni = kanakamuni
+  ab: <L>5234<pc>194,2<k1>koRAkamuni<k2>koRAkamuni
+;  ------------------------------
+; 137: L=5237.1
+cdsl: <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya,konAgamuni, = kanakamuni
+  ab: <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya,konAgamuni
+;  ------------------------------
+; 138: L=5257
+cdsl: <L>5257<pc>195,1<k1>koSopagatavastiguhya<k2>koSopagatavastiguhya(-tA
+  ab: <L>5257<pc>195,1<k1>koSopagatavastiguhya<k2>koSopagatavastiguhya(-tA)
+;  ------------------------------
+; 139: L=5259
+cdsl: <L>5259<pc>195,1<k1>kozWa<k2>kozWa(ka
+  ab: <L>5259<pc>195,1<k1>kozWa<k2>kozWa(ka)
+;  ------------------------------
+; 140: L=5285
+cdsl: <L>5285<pc>196,2<k1>kOSIdya<k2>kOSIdya = kOs°
+  ab: <L>5285<pc>196,2<k1>kOSIdya<k2>kOSIdya
+;  ------------------------------
+; 141: L=5287
+cdsl: <L>5287<pc>196,2<k1>kOzWila<k2>kOzWila = kozWila
+  ab: <L>5287<pc>196,2<k1>kOzWila<k2>kOzWila
+;  ------------------------------
+; 142: L=5310
+cdsl: <L>5310<pc>197,2<k1>kruYcati<k2>kruYcati = kroYcati, krOYcayati
+  ab: <L>5310<pc>197,2<k1>kruYcati<k2>kruYcati
+;  ------------------------------
+; 143: L=5326
+cdsl: <L>5326<pc>198,1<k1>krOYcayati<k2>krOYcayati = kroYcati
+  ab: <L>5326<pc>198,1<k1>krOYcayati<k2>krOYcayati
+;  ------------------------------
+; 144: L=5329
+cdsl: <L>5329<pc>198,1<k1>krOzita<k2>krOzita(-Sabda
+  ab: <L>5329<pc>198,1<k1>krOzita<k2>krOzita(-Sabda)
+;  ------------------------------
+; 145: L=5342
+cdsl: <L>5342<pc>198,2<k1>kzattaM<k2>-kzattaM, -kzatto = -kftvA
+  ab: <L>5342<pc>198,2<k1>kzattaM<k2>-kzattaM, -kzatto
+;  ------------------------------
+; 146: L=5372
+cdsl: <L>5372<pc>200,1<k1>kzIrapUrRAmBa<k2>kzIrapUrRAmBa(s
+  ab: <L>5372<pc>200,1<k1>kzIrapUrRAmBa<k2>kzIrapUrRAmBa(s)
+;  ------------------------------
+; 147: L=5379
+cdsl: <L>5379<pc>200,2<k1>kzuttaM<k2>-kzuttaM, -kzutto = -kftvA
+  ab: <L>5379<pc>200,2<k1>kzuttaM<k2>-kzuttaM, -kzutto
+;  ------------------------------
+; 148: L=5381
+cdsl: <L>5381<pc>200,2<k1>kzudrakAnukzudraka<k2>kzudrakAnukzudraka = kzudrAnukzudra
+  ab: <L>5381<pc>200,2<k1>kzudrakAnukzudraka<k2>kzudrakAnukzudraka
+;  ------------------------------
+; 149: L=5386
+cdsl: <L>5386<pc>200,2<k1>kzunto<k2>-kzunto = -kftvA
+  ab: <L>5386<pc>200,2<k1>kzunto<k2>-kzunto
+;  ------------------------------
+; 150: L=5431
+cdsl: <L>5431<pc>202,2<k1>Kawu<k2>Kawu (1) = Kawa
+  ab: <L>5431<pc>202,2<k1>Kawu<k2>Kawu (1)
+;  ------------------------------
+; 151: L=5450
+cdsl: <L>5450<pc>203,1<k1>KattaM<k2>-KattaM = -kftvA
+  ab: <L>5450<pc>203,1<k1>KattaM<k2>-KattaM
+;  ------------------------------
+; 152: L=5487
+cdsl: <L>5487<pc>204,2<k1>Kalli<k2>Kalli(n
+  ab: <L>5487<pc>204,2<k1>Kalli<k2>Kalli(n)
+;  ------------------------------
+; 153: L=5519
+cdsl: <L>5519<pc>205,2<k1>KuttaM<k2>-KuttaM, -Kutto = -kftvA
+  ab: <L>5519<pc>205,2<k1>KuttaM<k2>-KuttaM, -Kutto
+;  ------------------------------
+; 154: L=5540
+cdsl: <L>5540<pc>206,2<k1>Ko<k2>Ko = Ku
+  ab: <L>5540<pc>206,2<k1>Ko<k2>Ko
+;  ------------------------------
+; 155: L=5599
+cdsl: <L>5599<pc>208,1<k1>gaRika<k2>gaRika = gaRin
+  ab: <L>5599<pc>208,1<k1>gaRika<k2>gaRika
+;  ------------------------------
+; 156: L=5619
+cdsl: <L>5619<pc>209,1<k1>gatikA<k2>gatikA = gati
+  ab: <L>5619<pc>209,1<k1>gatikA<k2>gatikA
+;  ------------------------------
+; 157: L=5625
+cdsl: <L>5625<pc>209,2<k1>gatima<k2>gatima(nt
+  ab: <L>5625<pc>209,2<k1>gatima<k2>gatima(nt)
+;  ------------------------------
+; 158: L=5684
+cdsl: <L>5684<pc>210,2<k1>gardaBa<k2>gardaBa(ka
+  ab: <L>5684<pc>210,2<k1>gardaBa<k2>gardaBa(ka)
+;  ------------------------------
+; 159: L=5789
+cdsl: <L>5789<pc>213,2<k1>guptikA<k2>guptikA = gupti
+  ab: <L>5789<pc>213,2<k1>guptikA<k2>guptikA
+;  ------------------------------
+; 160: L=5860
+cdsl: <L>5860<pc>216,2<k1>godAnIya<k2>godAnIya = apara-go°
+  ab: <L>5860<pc>216,2<k1>godAnIya<k2>godAnIya
+;  ------------------------------
+; 161: L=5866
+cdsl: <L>5866<pc>216,2<k1>gonikA<k2>gonikA = goRikA
+  ab: <L>5866<pc>216,2<k1>gonikA<k2>gonikA
+;  ------------------------------
+; 162: L=5870
+cdsl: <L>5870<pc>216,2<k1>gopakzma<k2>gopakzma(n
+  ab: <L>5870<pc>216,2<k1>gopakzma<k2>gopakzma(n)
+;  ------------------------------
+; 163: L=5877
+cdsl: <L>5877<pc>217,1<k1>gopikA<k2>gopikA = gopA
+  ab: <L>5877<pc>217,1<k1>gopikA<k2>gopikA
+;  ------------------------------
+; 164: L=5880
+cdsl: <L>5880<pc>217,1<k1>gopI<k2>gopI = gopA
+  ab: <L>5880<pc>217,1<k1>gopI<k2>gopI
+;  ------------------------------
+; 165: L=5917
+cdsl: <L>5917<pc>218,1<k1>gOlika<k2>gOlika = golika
+  ab: <L>5917<pc>218,1<k1>gOlika<k2>gOlika
+;  ------------------------------
+; 166: L=6092
+cdsl: <L>6092<pc>224,1<k1>candrateja<k2>candrateja(s
+  ab: <L>6092<pc>224,1<k1>candrateja<k2>candrateja(s)
+;  ------------------------------
+; 167: L=6144
+cdsl: <L>6144<pc>226,1<k1>caritavant<k2>caritavant = caritAvin
+  ab: <L>6144<pc>226,1<k1>caritavant<k2>caritavant
+;  ------------------------------
+; 168: L=6207
+cdsl: <L>6207<pc>228,1<k1>cArakA<k2>cArakA = cArikA
+  ab: <L>6207<pc>228,1<k1>cArakA<k2>cArakA
+;  ------------------------------
+; 169: L=6211
+cdsl: <L>6211<pc>228,1<k1>cArAyaRa<k2>cArAyaRa = dIrGa cAr°
+  ab: <L>6211<pc>228,1<k1>cArAyaRa<k2>cArAyaRa
+;  ------------------------------
+; 170: L=6227
+cdsl: <L>6227<pc>229,1<k1>cArumant<k2>cArumant(a
+  ab: <L>6227<pc>229,1<k1>cArumant<k2>cArumant(a)
+;  ------------------------------
+; 171: L=6246
+cdsl: <L>6246<pc>229,2<k1>cittaparyAya<k2>citta-paryAya = cetaH-p°
+  ab: <L>6246<pc>229,2<k1>cittaparyAya<k2>citta-paryAya
+;  ------------------------------
+; 172: L=6318
+cdsl: <L>6318<pc>232,1<k1>cullapanTa<k2>culla-panTa, = cUqapanTaka
+  ab: <L>6318<pc>232,1<k1>cullapanTa<k2>culla-panTa
+;  ------------------------------
+; 173: L=6345
+cdsl: <L>6345<pc>232,2<k1>ceti<k2>ceti = cetika, cetiya, cEtya
+  ab: <L>6345<pc>232,2<k1>ceti<k2>ceti
+;  ------------------------------
+; 174: L=6629
+cdsl: <L>6629<pc>243,1<k1>jinOrasa<k2>jinOrasa = jinaputra
+  ab: <L>6629<pc>243,1<k1>jinOrasa<k2>jinOrasa
+;  ------------------------------
+; 175: L=6645
+cdsl: <L>6645<pc>244,1<k1>jIvika<k2>jIvika, (1) = jIvaka
+  ab: <L>6645<pc>244,1<k1>jIvika<k2>jIvika, (1)
+;  ------------------------------
+; 176: L=6662
+cdsl: <L>6662<pc>244,2<k1>jotiz<k2>jotiz(a
+  ab: <L>6662<pc>244,2<k1>jotiz<k2>jotiz(a)
+;  ------------------------------
+; 177: L=6766
+cdsl: <L>6766<pc>246,1<k1>WapanIyapraSna<k2>WapanIya-praSna(-Sabda
+  ab: <L>6766<pc>246,1<k1>WapanIyapraSna<k2>WapanIya-praSna(-Sabda)
+;  ------------------------------
+; 178: L=6786
+cdsl: <L>6786<pc>247,1<k1>tagaraSiKi<k2>tagaraSiKi(n
+  ab: <L>6786<pc>247,1<k1>tagaraSiKi<k2>tagaraSiKi(n)
+;  ------------------------------
+; 179: L=6823
+cdsl: <L>6823<pc>248,2<k1>taTAtA<k2>taTAtA = taTatA
+  ab: <L>6823<pc>248,2<k1>taTAtA<k2>taTAtA
+;  ------------------------------
+; 180: L=6896
+cdsl: <L>6896<pc>251,2<k1>tAdf<k2>tAdf(n
+  ab: <L>6896<pc>251,2<k1>tAdf<k2>tAdf(n)
+;  ------------------------------
+; 181: L=6897
+cdsl: <L>6897<pc>251,2<k1>tAdfSa<k2>tAdfSa = tAyin
+  ab: <L>6897<pc>251,2<k1>tAdfSa<k2>tAdfSa
+;  ------------------------------
+; 182: L=6924
+cdsl: <L>6924<pc>252,2<k1>tAriRI<k2>tAriRI = tArA
+  ab: <L>6924<pc>252,2<k1>tAriRI<k2>tAriRI
+;  ------------------------------
+; 183: L=6984
+cdsl: <L>6984<pc>254,2<k1>tIrTaka<k2>tIrTaka (°ika
+  ab: <L>6984<pc>254,2<k1>tIrTaka<k2>tIrTaka (°ika)
+;  ------------------------------
+; 184: L=7023
+cdsl: <L>7023<pc>256,1<k1>tfMhaRa<k2>tfMhaRa(-tA
+  ab: <L>7023<pc>256,1<k1>tfMhaRa<k2>tfMhaRa(-tA)
+;  ------------------------------
+; 185: L=7034
+cdsl: <L>7034<pc>256,2<k1>tfz<k2>tfz- = triz-(kftvas
+  ab: <L>7034<pc>256,2<k1>tfz<k2>tfz-
+;  ------------------------------
+; 186: L=7139
+cdsl: <L>7139<pc>259,2<k1>trembuka<k2>trembuka = tryambuka
+  ab: <L>7139<pc>259,2<k1>trembuka<k2>trembuka
+;  ------------------------------
+; 187: L=7158
+cdsl: <L>7158<pc>260,2<k1>tryaDva<k2>tryaDva(n
+  ab: <L>7158<pc>260,2<k1>tryaDva<k2>tryaDva(n)
+;  ------------------------------
+; 188: L=7167
+cdsl: <L>7167<pc>260,1<k1>TapakarRi<k2>TapakarRi(n
+  ab: <L>7167<pc>260,1<k1>TapakarRi<k2>TapakarRi(n)
+;  ------------------------------
+; 189: L=7196
+cdsl: <L>7196<pc>261,1<k1>daRqaki<k2>daRqaki(n
+  ab: <L>7196<pc>261,1<k1>daRqaki<k2>daRqaki(n)
+;  ------------------------------
+; 190: L=7280
+cdsl: <L>7280<pc>263,2<k1>dAma<k2>dAma(n
+  ab: <L>7280<pc>263,2<k1>dAma<k2>dAma(n)
+;  ------------------------------
+; 191: L=7327
+cdsl: <L>7327<pc>265,1<k1>dIpasaha<k2>dIpasaha, = dIpaMkara
+  ab: <L>7327<pc>265,1<k1>dIpasaha<k2>dIpasaha
+;  ------------------------------
+; 192: L=7329
+cdsl: <L>7329<pc>265,1<k1>dIpAvatI<k2>dIpAvatI = dIpa°
+  ab: <L>7329<pc>265,1<k1>dIpAvatI<k2>dIpAvatI
+;  ------------------------------
+; 193: L=7330
+cdsl: <L>7330<pc>265,1<k1>dIptateja<k2>dIptateja(s
+  ab: <L>7330<pc>265,1<k1>dIptateja<k2>dIptateja(s)
+;  ------------------------------
+; 194: L=7506
+cdsl: <L>7506<pc>271,1<k1>devatI<k2>devatI = devatA
+  ab: <L>7506<pc>271,1<k1>devatI<k2>devatI
+;  ------------------------------
+; 195: L=7550
+cdsl: <L>7550<pc>271,2<k1>deSanatA<k2>deSanatA = deSanA
+  ab: <L>7550<pc>271,2<k1>deSanatA<k2>deSanatA
+;  ------------------------------
+; 196: L=7680
+cdsl: <L>7680<pc>275,2<k1>DanDaka<k2>DanDaka = DanDa
+  ab: <L>7680<pc>275,2<k1>DanDaka<k2>DanDaka
+;  ------------------------------
+; 197: L=7692
+cdsl: <L>7692<pc>276,1<k1>DaraRiMDara<k2>DaraRiMDara = DaraRIMDara
+  ab: <L>7692<pc>276,1<k1>DaraRiMDara<k2>DaraRiMDara
+;  ------------------------------
+; 198: L=7735
+cdsl: <L>7735<pc>278,1<k1>Darmacinti<k2>Darmacinti(n
+  ab: <L>7735<pc>278,1<k1>Darmacinti<k2>Darmacinti(n)
+;  ------------------------------
+; 199: L=7745
+cdsl: <L>7745<pc>278,2<k1>Darmadrumaparvatateja<k2>Darmadrumaparvatateja(s
+  ab: <L>7745<pc>278,2<k1>Darmadrumaparvatateja<k2>Darmadrumaparvatateja(s)
+;  ------------------------------
+; 200: L=7776
+cdsl: <L>7776<pc>279,2<k1>Darman<k2>-Darman, = Darma
+  ab: <L>7776<pc>279,2<k1>Darman<k2>-Darman
+;  ------------------------------
+; 201: L=7820
+cdsl: <L>7820<pc>280,2<k1>DarmarAja<k2>DarmarAja(n
+  ab: <L>7820<pc>280,2<k1>DarmarAja<k2>DarmarAja(n)
+;  ------------------------------
+; 202: L=7829
+cdsl: <L>7829<pc>281,1<k1>DarmaSarIra<k2>DarmaSarIra(-sUtra
+  ab: <L>7829<pc>281,1<k1>DarmaSarIra<k2>DarmaSarIra(-sUtra)
+;  ------------------------------
+; 203: L=7851
+cdsl: <L>7851<pc>281,2<k1>DarmaHsamudra<k2>DarmaHsamudra(-
+  ab: <L>7851<pc>281,2<k1>DarmaHsamudra<k2>DarmaHsamudra
+;  ------------------------------
+; 204: L=7852
+cdsl: <L>7852<pc>281,2<k1>DarmA<k2>DarmA-(kaTA
+  ab: <L>7852<pc>281,2<k1>DarmA<k2>DarmA-(kaTA)
+;  ------------------------------
+; 205: L=7860
+cdsl: <L>7860<pc>281,2<k1>DarmArci<k2>DarmArci(s
+  ab: <L>7860<pc>281,2<k1>DarmArci<k2>DarmArci(s)
+;  ------------------------------
+; 206: L=7900
+cdsl: <L>7900<pc>284,1<k1>DAtf<k2>DAtf = DAtrI
+  ab: <L>7900<pc>284,1<k1>DAtf<k2>DAtf
+;  ------------------------------
+; 207: L=7920
+cdsl: <L>7920<pc>285,1<k1>DArmarAjikA<k2>DArmarAjikA = DarmarAjikA
+  ab: <L>7920<pc>285,1<k1>DArmarAjikA<k2>DArmarAjikA
+;  ------------------------------
+; 208: L=7922
+cdsl: <L>7922<pc>285,1<k1>DArmi<k2>DArmi-(kaTA
+  ab: <L>7922<pc>285,1<k1>DArmi<k2>DArmi-(kaTA)
+;  ------------------------------
+; 209: L=7924
+cdsl: <L>7924<pc>285,1<k1>DArmI<k2>DArmI-(kaTA
+  ab: <L>7924<pc>285,1<k1>DArmI<k2>DArmI-(kaTA)
+;  ------------------------------
+; 210: L=7929
+cdsl: <L>7929<pc>285,1<k1>Digama<k2>Digama = aDigama
+  ab: <L>7929<pc>285,1<k1>Digama<k2>Digama
+;  ------------------------------
+; 211: L=8039
+cdsl: <L>8039<pc>289,2<k1>nadIkAla<k2>nadI-kAla(-samaya
+  ab: <L>8039<pc>289,2<k1>nadIkAla<k2>nadI-kAla(-samaya)
+;  ------------------------------
+; 212: L=8061
+cdsl: <L>8061<pc>290,1<k1>nandivarDanI<k2>nandivarDanI = nandirakzitA
+  ab: <L>8061<pc>290,1<k1>nandivarDanI<k2>nandivarDanI
+;  ------------------------------
+; 213: L=8065
+cdsl: <L>8065<pc>290,1<k1>nandIGoza<k2>nandIGoza, (1) = nandi°
+  ab: <L>8065<pc>290,1<k1>nandIGoza<k2>nandIGoza, (1)
+;  ------------------------------
+; 214: L=8085
+cdsl: <L>8085<pc>291,1<k1>naradamyasAraTi<k2>naradamyasAraTi = puruza-damya°
+  ab: <L>8085<pc>291,1<k1>naradamyasAraTi<k2>naradamyasAraTi
+;  ------------------------------
+; 215: L=8161
+cdsl: <L>8161<pc>293,1<k1>nAma<k2>nAma = avanAma<h>1
+  ab: <L>8161<pc>293,1<k1>nAma<k2>nAma
+;  ------------------------------
+; 216: L=8175
+cdsl: <L>8175<pc>293,2<k1>nAyin<k2>nAyin = nAyaka
+  ab: <L>8175<pc>293,2<k1>nAyin<k2>nAyin
+;  ------------------------------
+; 217: L=8308
+cdsl: <L>8308<pc>298,2<k1>niraYjanA<k2>niraYjanA = nEr°
+  ab: <L>8308<pc>298,2<k1>niraYjanA<k2>niraYjanA
+;  ------------------------------
+; 218: L=8423
+cdsl: <L>8423<pc>302,2<k1>nirmARika<k2>nirmARika = nEr°
+  ab: <L>8423<pc>302,2<k1>nirmARika<k2>nirmARika
+;  ------------------------------
+; 219: L=8480
+cdsl: <L>8480<pc>305,1<k1>nirvyUhati<k2>nirvyUhati = niryUhati
+  ab: <L>8480<pc>305,1<k1>nirvyUhati<k2>nirvyUhati
+;  ------------------------------
+; 220: L=8533
+cdsl: <L>8533<pc>307,2<k1>niHSreya<k2>niHSreya(s
+  ab: <L>8533<pc>307,2<k1>niHSreya<k2>niHSreya(s)
+;  ------------------------------
+; 221: L=8576
+cdsl: <L>8576<pc>309,1<k1>nizpAdanA<k2>nizpAdanA = niScikIrzA, °zutA
+  ab: <L>8576<pc>309,1<k1>nizpAdanA<k2>nizpAdanA
+;  ------------------------------
+; 222: L=8592
+cdsl: <L>8592<pc>309,2<k1>nizprARa<k2>nizprARa(ka
+  ab: <L>8592<pc>309,2<k1>nizprARa<k2>nizprARa(ka)
+;  ------------------------------
+; 223: L=8747
+cdsl: <L>8747<pc>314,2<k1>pacCimaka<k2>pacCimaka = paScimaka
+  ab: <L>8747<pc>314,2<k1>pacCimaka<k2>pacCimaka
+;  ------------------------------
+; 224: L=8750
+cdsl: <L>8750<pc>315,1<k1>paYcagaRqa<k2>paYca-gaRqa(ka
+  ab: <L>8750<pc>315,1<k1>paYcagaRqa<k2>paYca-gaRqa(ka)
+;  ------------------------------
+; 225: L=8785
+cdsl: <L>8785<pc>316,1<k1>pawijAgareti<k2>pawijAgareti(°jAgarti) = pratijAgarati
+  ab: <L>8785<pc>316,1<k1>pawijAgareti<k2>pawijAgareti(°jAgarti)
+;  ------------------------------
+; 226: L=8811
+cdsl: <L>8811<pc>316,2<k1>patiDara<k2>patiDara(!
+  ab: <L>8811<pc>316,2<k1>patiDara<k2>patiDara
+;  ------------------------------
+; 227: L=8813
+cdsl: <L>8813<pc>316,2<k1>patIyati<k2>patIyati = pattIy°
+  ab: <L>8813<pc>316,2<k1>patIyati<k2>patIyati
+;  ------------------------------
+; 228: L=8840
+cdsl: <L>8840<pc>317,2<k1>padma<k2>padma (paduma
+  ab: <L>8840<pc>317,2<k1>padma<k2>padma (paduma)
+;  ------------------------------
+; 229: L=8886
+cdsl: <L>8886<pc>318,2<k1>panTaka<k2>panTaka = cUqa-p°
+  ab: <L>8886<pc>318,2<k1>panTaka<k2>panTaka
+;  ------------------------------
+; 230: L=8888
+cdsl: <L>8888<pc>318,2<k1>panTitA<k2>panTitA(H
+  ab: <L>8888<pc>318,2<k1>panTitA<k2>panTitA(H)
+;  ------------------------------
+; 231: L=8923
+cdsl: <L>8923<pc>319,2<k1>parasparAsaMsakti<k2>parasparA-saMsakti(n
+  ab: <L>8923<pc>319,2<k1>parasparAsaMsakti<k2>parasparA-saMsakti(n)
+;  ------------------------------
+; 232: L=9017
+cdsl: <L>9017<pc>324,1<k1>paritasyana<k2>paritasyana(-tA
+  ab: <L>9017<pc>324,1<k1>paritasyana<k2>paritasyana(-tA)
+;  ------------------------------
+; 233: L=9050
+cdsl: <L>9050<pc>325,2<k1>parinirvARa<k2>parinirvARa(-sUtra) = mahA-pari°
+  ab: <L>9050<pc>325,2<k1>parinirvARa<k2>parinirvARa(-sUtra)
+;  ------------------------------
+; 234: L=9074
+cdsl: <L>9074<pc>326,2<k1>paripAtrikA<k2>paripAtrikA (= pAri°
+  ab: <L>9074<pc>326,2<k1>paripAtrikA<k2>paripAtrikA
+;  ------------------------------
+; 235: L=9076
+cdsl: <L>9076<pc>326,2<k1>paripiRqa<k2>paripiRqa(-tva
+  ab: <L>9076<pc>326,2<k1>paripiRqa<k2>paripiRqa(-tva)
+;  ------------------------------
+; 236: L=9333
+cdsl: <L>9333<pc>338,2<k1>paScABakta<k2>paScABakta = paScAdBakta
+  ab: <L>9333<pc>338,2<k1>paScABakta<k2>paScABakta
+;  ------------------------------
+; 237: L=9345
+cdsl: <L>9345<pc>338,2<k1>pAMSupisAca<k2>pAMSu-pisAca(ka
+  ab: <L>9345<pc>338,2<k1>pAMSupisAca<k2>pAMSu-pisAca(ka)
+;  ------------------------------
+; 238: L=9347
+cdsl: <L>9347<pc>339,1<k1>pAcatti<k2>pAcatti(-ka
+  ab: <L>9347<pc>339,1<k1>pAcatti<k2>pAcatti(-ka)
+;  ------------------------------
+; 239: L=9473
+cdsl: <L>9473<pc>343,2<k1>pArzadya<k2>pArzadya = pAriz°
+  ab: <L>9473<pc>343,2<k1>pArzadya<k2>pArzadya
+;  ------------------------------
+; 240: L=9487
+cdsl: <L>9487<pc>344,1<k1>pAsa<k2>-pAsa(ka
+  ab: <L>9487<pc>344,1<k1>pAsa<k2>-pAsa(ka)
+;  ------------------------------
+; 241: L=9500
+cdsl: <L>9500<pc>344,2<k1>piYjala<k2>piYjala = °ra
+  ab: <L>9500<pc>344,2<k1>piYjala<k2>piYjala
+;  ------------------------------
+; 242: L=9539
+cdsl: <L>9539<pc>346,1<k1>piyAla<k2>piyAla = peyAlaM<h>2
+  ab: <L>9539<pc>346,1<k1>piyAla<k2>piyAla
+;  ------------------------------
+; 243: L=9587
+cdsl: <L>9587<pc>347,1<k1>puRyavant<k2>puRyavant(a
+  ab: <L>9587<pc>347,1<k1>puRyavant<k2>puRyavant(a)
+;  ------------------------------
+; 244: L=9698
+cdsl: <L>9698<pc>351,1<k1>pUrRaka<k2>pUrRaka, (1) = pUrRa
+  ab: <L>9698<pc>351,1<k1>pUrRaka<k2>pUrRaka, (1)
+;  ------------------------------
+; 245: L=9706
+cdsl: <L>9706<pc>351,2<k1>pUrRika<k2>pUrRika = pUrRamuKa
+  ab: <L>9706<pc>351,2<k1>pUrRika<k2>pUrRika
+;  ------------------------------
+; 246: L=9720
+cdsl: <L>9720<pc>352,1<k1>pUrvaBakzikA<k2>pUrva-BakzikA = puro-Ba°
+  ab: <L>9720<pc>352,1<k1>pUrvaBakzikA<k2>pUrva-BakzikA
+;  ------------------------------
+; 247: L=9772
+cdsl: <L>9772<pc>353,2<k1>pfzWi<k2>pfzWi-(pfzWa-, pfzWI-
+  ab: <L>9772<pc>353,2<k1>pfzWi<k2>pfzWi- (pfzWa-, pfzWI-)
+;  ------------------------------
+; 248: L=9816
+cdsl: <L>9816<pc>355,2<k1>pOtalaka<k2>pOtalaka = po°
+  ab: <L>9816<pc>355,2<k1>pOtalaka<k2>pOtalaka
+;  ------------------------------
+; 249: L=9905
+cdsl: <L>9905<pc>359,1<k1>prajYAvant<k2>prajYAvant(a
+  ab: <L>9905<pc>359,1<k1>prajYAvant<k2>prajYAvant(a)
+;  ------------------------------
+; 250: L=9933
+cdsl: <L>9933<pc>361,1<k1>pratApavant<k2>pratApavant(a
+  ab: <L>9933<pc>361,1<k1>pratApavant<k2>pratApavant(a)
+;  ------------------------------
+; 251: L=9998
+cdsl: <L>9998<pc>363,2<k1>pratinizevaRa<k2>-pratinizevaRa(-tA
+  ab: <L>9998<pc>363,2<k1>pratinizevaRa<k2>-pratinizevaRa(-tA)
+;  ------------------------------
+; 252: L=10058
+cdsl: <L>10058<pc>366,2<k1>pratiBAnatA<k2>pratiBAnatA = pratiBAna
+  ab: <L>10058<pc>366,2<k1>pratiBAnatA<k2>pratiBAnatA
+;  ------------------------------
+; 253: L=10073
+cdsl: <L>10073<pc>367,1<k1>pratimokza<k2>pratimokza = prAtimokza
+  ab: <L>10073<pc>367,1<k1>pratimokza<k2>pratimokza
+;  ------------------------------
+; 254: L=10096
+cdsl: <L>10096<pc>368,1<k1>prativAhayati<k2>prativAhayati = prativahati
+  ab: <L>10096<pc>368,1<k1>prativAhayati<k2>prativAhayati
+;  ------------------------------
+; 255: L=10133
+cdsl: <L>10133<pc>369,2<k1>pratiSamayati<k2>pratiSamayati = pratiSAm°
+  ab: <L>10133<pc>369,2<k1>pratiSamayati<k2>pratiSamayati
+;  ------------------------------
+; 256: L=10183
+cdsl: <L>10183<pc>371,2<k1>pratisaMharaRatA<k2>pratisaMharaRa-tA = °haraRa
+  ab: <L>10183<pc>371,2<k1>pratisaMharaRatA<k2>pratisaMharaRa-tA
+;  ------------------------------
+; 257: L=10213
+cdsl: <L>10213<pc>373,2<k1>pratihArakapakza<k2>pratihAraka-pakza = prAti°
+  ab: <L>10213<pc>373,2<k1>pratihArakapakza<k2>pratihAraka-pakza
+;  ------------------------------
+; 258: L=10221
+cdsl: <L>10221<pc>374,1<k1>pratIyati<k2>pratIyati = pattIyati
+  ab: <L>10221<pc>374,1<k1>pratIyati<k2>pratIyati
+;  ------------------------------
+; 259: L=10229
+cdsl: <L>10229<pc>374,1<k1>pratyakzin<k2>pratyakzin = pratyakza
+  ab: <L>10229<pc>374,1<k1>pratyakzin<k2>pratyakzin
+;  ------------------------------
+; 260: L=10303
+cdsl: <L>10303<pc>379,1<k1>pratyekaKaqgin<k2>pratyeka-Kaqgin = pratyeka-budDa
+  ab: <L>10303<pc>379,1<k1>pratyekaKaqgin<k2>pratyeka-Kaqgin
+;  ------------------------------
+; 261: L=10339
+cdsl: <L>10339<pc>380,1<k1>pradAsa<k2>pradAsa (°Sa
+  ab: <L>10339<pc>380,1<k1>pradAsa<k2>pradAsa (°Sa)
+;  ------------------------------
+; 262: L=10473
+cdsl: <L>10473<pc>384,1<k1>pralamBa<k2>pralamBa-(bAhu
+  ab: <L>10473<pc>384,1<k1>pralamBa<k2>pralamBa-(bAhu)
+;  ------------------------------
+; 263: L=10480
+cdsl: <L>10480<pc>384,2<k1>praluqita<k2>praluqita = pralulita
+  ab: <L>10480<pc>384,2<k1>praluqita<k2>praluqita
+;  ------------------------------
+; 264: L=10589
+cdsl: <L>10589<pc>388,1<k1>prazwavya<k2>prazwavya = sprazwavya
+  ab: <L>10589<pc>388,1<k1>prazwavya<k2>prazwavya
+;  ------------------------------
+; 265: L=10632
+cdsl: <L>10632<pc>389,2<k1>prasrabDa<k2>prasrabDa, °Di, prasraBya(te
+  ab: <L>10632<pc>389,2<k1>prasrabDa<k2>prasrabDa, °Di, prasraBya(te)
+;  ------------------------------
+; 266: L=10661
+cdsl: <L>10661<pc>391,1<k1>prAgvideha<k2>prAgvideha = pUrva-vi°
+  ab: <L>10661<pc>391,1<k1>prAgvideha<k2>prAgvideha
+;  ------------------------------
+; 267: L=10678
+cdsl: <L>10678<pc>391,2<k1>prAtipOdgalika<k2>prAtipOdgalika = pratipudgalika
+  ab: <L>10678<pc>391,2<k1>prAtipOdgalika<k2>prAtipOdgalika
+;  ------------------------------
+; 268: L=10694
+cdsl: <L>10694<pc>392,1<k1>prATujjanika<k2>prATujjanika = pArTagj°
+  ab: <L>10694<pc>392,1<k1>prATujjanika<k2>prATujjanika
+;  ------------------------------
+; 269: L=10715
+cdsl: <L>10715<pc>393,1<k1>prAmudya<k2>prAmudya = prAmodya
+  ab: <L>10715<pc>393,1<k1>prAmudya<k2>prAmudya
+;  ------------------------------
+; 270: L=10804
+cdsl: <L>10804<pc>396,1<k1>Palati<k2>Palati = Parati
+  ab: <L>10804<pc>396,1<k1>Palati<k2>Palati
+;  ------------------------------
+; 271: L=10815
+cdsl: <L>10815<pc>396,2<k1>PARI<k2>PARI(-kfta
+  ab: <L>10815<pc>396,2<k1>PARI<k2>PARI(-kfta)
+;  ------------------------------
+; 272: L=10822
+cdsl: <L>10822<pc>396,2<k1>PutPu<k2>PutPu(-kArakam
+  ab: <L>10822<pc>396,2<k1>PutPu<k2>PutPu(-kArakam)
+;  ------------------------------
+; 273: L=10930
+cdsl: <L>10930<pc>399,2<k1>bAzpa<k2>bAzpa = vAzpa
+  ab: <L>10930<pc>399,2<k1>bAzpa<k2>bAzpa
+;  ------------------------------
+; 274: L=10965
+cdsl: <L>10965<pc>400,2<k1>budDaka<k2>-budDaka = budDa
+  ab: <L>10965<pc>400,2<k1>budDaka<k2>-budDaka
+;  ------------------------------
+; 275: L=11002
+cdsl: <L>11002<pc>401,2<k1>bfsikA<k2>bfsikA (bfz°
+  ab: <L>11002<pc>401,2<k1>bfsikA<k2>bfsikA (bfz°)
+;  ------------------------------
+; 276: L=11016
+cdsl: <L>11016<pc>402,2<k1>boDidruma<k2>boDi-druma = boDi
+  ab: <L>11016<pc>402,2<k1>boDidruma<k2>boDi-druma
+;  ------------------------------
+; 277: L=11086
+cdsl: <L>11086<pc>404,2<k1>brahmAyu<k2>brahmAyu(s
+  ab: <L>11086<pc>404,2<k1>brahmAyu<k2>brahmAyu(s)
+;  ------------------------------
+; 278: L=11109
+cdsl: <L>11109<pc>405,1<k1>BaginI<k2>BaginI = kumArI
+  ab: <L>11109<pc>405,1<k1>BaginI<k2>BaginI
+;  ------------------------------
+; 279: L=11126
+cdsl: <L>11126<pc>405,2<k1>Bats<k2>Bats(ayati
+  ab: <L>11126<pc>405,2<k1>Bats<k2>Bats(ayati)
+;  ------------------------------
+; 280: L=11142
+cdsl: <L>11142<pc>406,1<k1>Badrateja<k2>Badrateja(s
+  ab: <L>11142<pc>406,1<k1>Badrateja<k2>Badrateja(s)
+;  ------------------------------
+; 281: L=11152
+cdsl: <L>11152<pc>406,2<k1>BadraSrImeruteja<k2>BadraSrImeruteja(s
+  ab: <L>11152<pc>406,2<k1>BadraSrImeruteja<k2>BadraSrImeruteja(s)
+;  ------------------------------
+; 282: L=11216
+cdsl: <L>11216<pc>408,2<k1>BAnaka<k2>BAnaka = BARaka
+  ab: <L>11216<pc>408,2<k1>BAnaka<k2>BAnaka
+;  ------------------------------
+; 283: L=11231
+cdsl: <L>11231<pc>409,1<k1>BAvitAtma<k2>BAvitAtma(n
+  ab: <L>11231<pc>409,1<k1>BAvitAtma<k2>BAvitAtma(n)
+;  ------------------------------
+; 284: L=11326
+cdsl: <L>11326<pc>412,1<k1>BfNgAnaNga<k2>BfNgAnaNga = alimanmaTa
+  ab: <L>11326<pc>412,1<k1>BfNgAnaNga<k2>BfNgAnaNga
+;  ------------------------------
+; 285: L=11342.1
+cdsl: <L>11342.1<pc>412,2<k1>BEzajyarAjasamudgata<k2>BEzajyarAjasamudgata = BEzajyasamudgata
+  ab: <L>11342.1<pc>412,2<k1>BEzajyarAjasamudgata<k2>BEzajyarAjasamudgata
+;  ------------------------------
+; 286: L=11366
+cdsl: <L>11366<pc>413,2<k1>BrazwAlA<k2>BrazwAlA(
+  ab: <L>11366<pc>413,2<k1>BrazwAlA<k2>BrazwAlA
+;  ------------------------------
+; 287: L=11408
+cdsl: <L>11408<pc>414,2<k1>maYjuGoza<k2>maYjuGoza = maYjuSrI
+  ab: <L>11408<pc>414,2<k1>maYjuGoza<k2>maYjuGoza
+;  ------------------------------
+; 288: L=11410
+cdsl: <L>11410<pc>414,2<k1>maYjunATa<k2>maYjunATa = maYjuSrI
+  ab: <L>11410<pc>414,2<k1>maYjunATa<k2>maYjunATa
+;  ------------------------------
+; 289: L=11412
+cdsl: <L>11412<pc>414,2<k1>maYjurava<k2>maYjurava = maYjuSrI
+  ab: <L>11412<pc>414,2<k1>maYjurava<k2>maYjurava
+;  ------------------------------
+; 290: L=11413
+cdsl: <L>11413<pc>414,2<k1>maYjuvajra<k2>maYjuvajra = maYjuSrI
+  ab: <L>11413<pc>414,2<k1>maYjuvajra<k2>maYjuvajra
+;  ------------------------------
+; 291: L=11414
+cdsl: <L>11414<pc>414,2<k1>maYjuvara<k2>maYjuvara, = maYjuSrI
+  ab: <L>11414<pc>414,2<k1>maYjuvara<k2>maYjuvara
+;  ------------------------------
+; 292: L=11421
+cdsl: <L>11421<pc>415,1<k1>maYjusvara<k2>maYjusvara (1)  = maYjuSrI
+  ab: <L>11421<pc>415,1<k1>maYjusvara<k2>maYjusvara (1)
+;  ------------------------------
+; 293: L=11452
+cdsl: <L>11452<pc>415,1<k1>maRiviraja<k2>maRiviraja(s
+  ab: <L>11452<pc>415,1<k1>maRiviraja<k2>maRiviraja(s)
+;  ------------------------------
+; 294: L=11464
+cdsl: <L>11464<pc>415,2<k1>maRqapavAqa<k2>maRqapa-vAqa = maRqala-mAqa
+  ab: <L>11464<pc>415,2<k1>maRqapavAqa<k2>maRqapa-vAqa
+;  ------------------------------
+; 295: L=11489
+cdsl: <L>11489<pc>416,2<k1>mativijYAna<k2>mati-vijYAna = mano-vi°
+  ab: <L>11489<pc>416,2<k1>mativijYAna<k2>mati-vijYAna
+;  ------------------------------
+; 296: L=11513
+cdsl: <L>11513<pc>417,2<k1>maDuSira<k2>maDu-Sira(s
+  ab: <L>11513<pc>417,2<k1>maDuSira<k2>maDu-Sira(s)
+;  ------------------------------
+; 297: L=11537
+cdsl: <L>11537<pc>418,1<k1>manasIkaroti<k2>manasI-karoti = manasi°
+  ab: <L>11537<pc>418,1<k1>manasIkaroti<k2>manasI-karoti
+;  ------------------------------
+; 298: L=11569
+cdsl: <L>11569<pc>419,1<k1>manoviBu<k2>manoviBu(-tA
+  ab: <L>11569<pc>419,1<k1>manoviBu<k2>manoviBu(-tA)
+;  ------------------------------
+; 299: L=11630
+cdsl: <L>11630<pc>420,2<k1>mazwa<k2>mazwa(ka
+  ab: <L>11630<pc>420,2<k1>mazwa<k2>mazwa(ka)
+;  ------------------------------
+; 300: L=11670
+cdsl: <L>11670<pc>422,1<k1>mahAkarmaviBaNga<k2>mahAkarmaviBaNga = karmav°
+  ab: <L>11670<pc>422,1<k1>mahAkarmaviBaNga<k2>mahAkarmaviBaNga
+;  ------------------------------
+; 301: L=11686
+cdsl: <L>11686<pc>422,1<k1>mahAkozWila<k2>mahA-kozWila = kozWila
+  ab: <L>11686<pc>422,1<k1>mahAkozWila<k2>mahA-kozWila
+;  ------------------------------
+; 302: L=11689
+cdsl: <L>11689<pc>422,2<k1>mahAkroDa<k2>mahAkroDa(-rAjan) = kroDa(-rAjan)
+  ab: <L>11689<pc>422,2<k1>mahAkroDa<k2>mahAkroDa(-rAjan)
+;  ------------------------------
+; 303: L=11720
+cdsl: <L>11720<pc>422,2<k1>mahAteja<k2>mahAteja(s
+  ab: <L>11720<pc>422,2<k1>mahAteja<k2>mahAteja(s)
+;  ------------------------------
+; 304: L=11736
+cdsl: <L>11736<pc>423,1<k1>mahAnAma<k2>mahAnAma(n
+  ab: <L>11736<pc>423,1<k1>mahAnAma<k2>mahAnAma(n)
+;  ------------------------------
+; 305: L=11737
+cdsl: <L>11737<pc>423,2<k1>mahAnArAyaRa<k2>mahAnArAyaRa (= nArAyaRa
+  ab: <L>11737<pc>423,2<k1>mahAnArAyaRa<k2>mahAnArAyaRa
+;  ------------------------------
+; 306: L=11781
+cdsl: <L>11781<pc>424,1<k1>mahAbrahma<k2>mahAbrahma(n
+  ab: <L>11781<pc>424,1<k1>mahAbrahma<k2>mahAbrahma(n)
+;  ------------------------------
+; 307: L=11799
+cdsl: <L>11799<pc>424,2<k1>mahAmantrAnusAriRI<k2>mahAmantrAnusAriRI = mantrAnu°
+  ab: <L>11799<pc>424,2<k1>mahAmantrAnusAriRI<k2>mahAmantrAnusAriRI
+;  ------------------------------
+; 308: L=11800
+cdsl: <L>11800<pc>424,2<k1>mahAmandAra<k2>mahA-mandAra = °mandArava
+  ab: <L>11800<pc>424,2<k1>mahAmandAra<k2>mahA-mandAra
+;  ------------------------------
+; 309: L=11807
+cdsl: <L>11807<pc>424,2<k1>mahAmAyA<k2>mahAmAyA, (1) = mAyA
+  ab: <L>11807<pc>424,2<k1>mahAmAyA<k2>mahAmAyA, (1)
+;  ------------------------------
+; 310: L=11815
+cdsl: <L>11815<pc>425,1<k1>mahAmeGaSrIteja<k2>mahAmeGaSrIteja(-s
+  ab: <L>11815<pc>425,1<k1>mahAmeGaSrIteja<k2>mahAmeGaSrIteja(-s)
+;  ------------------------------
+; 311: L=11838
+cdsl: <L>11838<pc>425,1<k1>mahArAja<k2>mahArAja(n
+  ab: <L>11838<pc>425,1<k1>mahArAja<k2>mahArAja(n)
+;  ------------------------------
+; 312: L=11865
+cdsl: <L>11865<pc>426,1<k1>mahAvIci<k2>mahAvIci (°cI
+  ab: <L>11865<pc>426,1<k1>mahAvIci<k2>mahAvIci (°cI)
+;  ------------------------------
+; 313: L=11923
+cdsl: <L>11923<pc>427,2<k1>mahendraka<k2>mahendraka, (1) = mahendra
+  ab: <L>11923<pc>427,2<k1>mahendraka<k2>mahendraka, (1)
+;  ------------------------------
+; 314: L=11941
+cdsl: <L>11941<pc>427,2<k1>mAMsacakzu<k2>mAMsacakzu(s
+  ab: <L>11941<pc>427,2<k1>mAMsacakzu<k2>mAMsacakzu(s)
+;  ------------------------------
+; 315: L=11949
+cdsl: <L>11949<pc>428,1<k1>mAgandika<k2>mAgandika, (1) = mAkandika
+  ab: <L>11949<pc>428,1<k1>mAgandika<k2>mAgandika, (1)
+;  ------------------------------
+; 316: L=11977
+cdsl: <L>11977<pc>429,1<k1>mADyandina<k2>mADyandina, = maDyaMdina
+  ab: <L>11977<pc>429,1<k1>mADyandina<k2>mADyandina,
+;  ------------------------------
+; 317: L=11994
+cdsl: <L>11994<pc>429,2<k1>mAndAraka<k2>mAndAraka = °ra(va
+  ab: <L>11994<pc>429,2<k1>mAndAraka<k2>mAndAraka
+;  ------------------------------
+; 318: L=12006
+cdsl: <L>12006<pc>430,2<k1>mAyUrI<k2>mAyUrI (= mahA-mAyUrI
+  ab: <L>12006<pc>430,2<k1>mAyUrI<k2>mAyUrI
+;  ------------------------------
+; 319: L=12058
+cdsl: <L>12058<pc>432,1<k1>mAskarin<k2>mAskarin = maskarin
+  ab: <L>12058<pc>432,1<k1>mAskarin<k2>mAskarin
+;  ------------------------------
+; 320: L=12183
+cdsl: <L>12183<pc>436,2<k1>mUrDAta<k2>mUrDAta = mAnDAta
+  ab: <L>12183<pc>436,2<k1>mUrDAta<k2>mUrDAta
+;  ------------------------------
+; 321: L=12206
+cdsl: <L>12206<pc>437,2<k1>mfgadAya<k2>mfgadAya,] mfga-dAva
+  ab: <L>12206<pc>437,2<k1>mfgadAya<k2>[mfgadAya,] mfga-dAva
+;  ------------------------------
+; 322: L=12214
+cdsl: <L>12214<pc>438,1<k1>mfgavrata<k2>mfgavrata = mfgacarya, mfgaSfNgavratin
+  ab: <L>12214<pc>438,1<k1>mfgavrata<k2>mfgavrata
+;  ------------------------------
+; 323: L=12268
+cdsl: <L>12268<pc>439,1<k1>meraRqu<k2>meraRqu = melanduka
+  ab: <L>12268<pc>439,1<k1>meraRqu<k2>meraRqu
+;  ------------------------------
+; 324: L=12294
+cdsl: <L>12294<pc>439,2<k1>mEtraka<k2>mEtraka = mEtreya
+  ab: <L>12294<pc>439,2<k1>mEtraka<k2>mEtraka
+;  ------------------------------
+; 325: L=12296
+cdsl: <L>12296<pc>439,2<k1>mEtranATa<k2>mEtranATa = mEtreya
+  ab: <L>12296<pc>439,2<k1>mEtranATa<k2>mEtranATa
+;  ------------------------------
+; 326: L=12297
+cdsl: <L>12297<pc>439,2<k1>mEtranAma<k2>mEtra-nAma(n
+  ab: <L>12297<pc>439,2<k1>mEtranAma<k2>mEtra-nAma(n)
+;  ------------------------------
+; 327: L=12310
+cdsl: <L>12310<pc>440,1<k1>mEtrIyaSa<k2>mEtrIyaSa(s
+  ab: <L>12310<pc>440,1<k1>mEtrIyaSa<k2>mEtrIyaSa(s)
+;  ------------------------------
+; 328: L=12314
+cdsl: <L>12314<pc>440,2<k1>mEtryA<k2>mEtryA = mEtrA
+  ab: <L>12314<pc>440,2<k1>mEtryA<k2>mEtryA
+;  ------------------------------
+; 329: L=12332
+cdsl: <L>12332<pc>441,1<k1>morahasta<k2>mora-hasta(ka) = mayUra-h°
+  ab: <L>12332<pc>441,1<k1>morahasta<k2>mora-hasta(ka)
+;  ------------------------------
+; 330: L=12348
+cdsl: <L>12348<pc>441,2<k1>mOra<k2>mOra = mora
+  ab: <L>12348<pc>441,2<k1>mOra<k2>mOra
+;  ------------------------------
+; 331: L=12370
+cdsl: <L>12370<pc>442,1<k1>yaMca<k2>yaM ca = yac ca
+  ab: <L>12370<pc>442,1<k1>yaMca<k2>yaM ca
+;  ------------------------------
+; 332: L=12384
+cdsl: <L>12384<pc>443,2<k1>yaTAvAditaTAkAri<k2>yaTAvAdi-taTAkAri(n
+  ab: <L>12384<pc>443,2<k1>yaTAvAditaTAkAri<k2>yaTAvAdi-taTAkAri(n)
+;  ------------------------------
+; 333: L=12399
+cdsl: <L>12399<pc>444,1<k1>yantramAzwa<k2>yantra-mAzwa(ka
+  ab: <L>12399<pc>444,1<k1>yantramAzwa<k2>yantra-mAzwa(ka)
+;  ------------------------------
+; 334: L=12444
+cdsl: <L>12444<pc>445,2<k1>yaSovatI<k2>yaSovatI, = yaSoDarA
+  ab: <L>12444<pc>445,2<k1>yaSovatI<k2>yaSovatI
+;  ------------------------------
+; 335: L=12520
+cdsl: <L>12520<pc>449,1<k1>yoBUyena<k2>yoBUyena = yadBUyasA
+  ab: <L>12520<pc>449,1<k1>yoBUyena<k2>yoBUyena
+;  ------------------------------
+; 336: L=12699
+cdsl: <L>12699<pc>452,2<k1>ratneSa<k2>ratneSa = ratnasaMBava
+  ab: <L>12699<pc>452,2<k1>ratneSa<k2>ratneSa
+;  ------------------------------
+; 337: L=12739
+cdsl: <L>12739<pc>453,2<k1>rasarasAgra<k2>rasarasAgra(-tA
+  ab: <L>12739<pc>453,2<k1>rasarasAgra<k2>rasarasAgra(-tA)
+;  ------------------------------
+; 338: L=12743
+cdsl: <L>12743<pc>454,1<k1>rahasyanuSAsikA<k2>rahasy-anuSAsikA = raho'nuS°
+  ab: <L>12743<pc>454,1<k1>rahasyanuSAsikA<k2>rahasy-anuSAsikA
+;  ------------------------------
+; 339: L=12787
+cdsl: <L>12787<pc>455,1<k1>rAhuka<k2>-rAhuka = rAhu
+  ab: <L>12787<pc>455,1<k1>rAhuka<k2>-rAhuka
+;  ------------------------------
+; 340: L=12795
+cdsl: <L>12795<pc>455,2<k1>ricCawA<k2>ricCawA(-Sabda
+  ab: <L>12795<pc>455,2<k1>ricCawA<k2>ricCawA(-Sabda)
+;  ------------------------------
+; 341: L=12803
+cdsl: <L>12803<pc>455,2<k1>rizidatta<k2>rizidatta, = izi° (fzi°
+  ab: <L>12803<pc>455,2<k1>rizidatta<k2>rizidatta
+;  ------------------------------
+; 342: L=12820
+cdsl: <L>12820<pc>456,1<k1>rutA<k2>rutA = ruta
+  ab: <L>12820<pc>456,1<k1>rutA<k2>rutA
+;  ------------------------------
+; 343: L=12825
+cdsl: <L>12825<pc>456,1<k1>rudrakarAmaputra<k2>rudraka rAmaputra = udraka r°
+  ab: <L>12825<pc>456,1<k1>rudrakarAmaputra<k2>rudraka rAmaputra
+;  ------------------------------
+; 344: L=12843
+cdsl: <L>12843<pc>456,2<k1>rUpavant<k2>rUpavant(a
+  ab: <L>12843<pc>456,2<k1>rUpavant<k2>rUpavant(a)
+;  ------------------------------
+; 345: L=12866
+cdsl: <L>12866<pc>457,2<k1>rocayati<k2>rocayati = Arocayati
+  ab: <L>12866<pc>457,2<k1>rocayati<k2>rocayati
+;  ------------------------------
+; 346: L=12895
+cdsl: <L>12895<pc>458,2<k1>rOruka<k2>rOruka = roruka
+  ab: <L>12895<pc>458,2<k1>rOruka<k2>rOruka
+;  ------------------------------
+; 347: L=13030
+cdsl: <L>13030<pc>463,2<k1>lecCavi<k2>lecCavi = licCavi
+  ab: <L>13030<pc>463,2<k1>lecCavi<k2>lecCavi
+;  ------------------------------
+; 348: L=13080
+cdsl: <L>13080<pc>465,1<k1>lokendrateja<k2>lokendrateja(s
+  ab: <L>13080<pc>465,1<k1>lokendrateja<k2>lokendrateja(s)
+;  ------------------------------
+; 349: L=13099
+cdsl: <L>13099<pc>465,2<k1>lohitakA<k2>lohitakA = °tikA
+  ab: <L>13099<pc>465,2<k1>lohitakA<k2>lohitakA
+;  ------------------------------
+; 350: L=13228
+cdsl: <L>13228<pc>468,2<k1>vaRi<k2>vaRi(n
+  ab: <L>13228<pc>468,2<k1>vaRi<k2>vaRi(n)
+;  ------------------------------
+; 351: L=13259
+cdsl: <L>13259<pc>469,2<k1>vaDyaGAwa<k2>vaDya-GAwa(ka), -GAta(ka
+  ab: <L>13259<pc>469,2<k1>vaDyaGAwa<k2>vaDya-GAwa(ka), -GAta(ka)
+;  ------------------------------
+; 352: L=13273
+cdsl: <L>13273<pc>470,1<k1>vanIpaka<k2>vanIpaka, [vanIyaka,] = vaRIp°
+  ab: <L>13273<pc>470,1<k1>vanIpaka<k2>vanIpaka, [vanIyaka]
+;  ------------------------------
+; 353: L=13375
+cdsl: <L>13375<pc>472,2<k1>varzACinnaka<k2>varzA-Cinnaka = Cinna-vArzika
+  ab: <L>13375<pc>472,2<k1>varzACinnaka<k2>varzA-Cinnaka
+;  ------------------------------
+; 354: L=13426
+cdsl: <L>13426<pc>474,2<k1>vasati<k2>vasati (vasayati
+  ab: <L>13426<pc>474,2<k1>vasati<k2>vasati (vasayati)
+;  ------------------------------
+; 355: L=13431
+cdsl: <L>13431<pc>474,2<k1>vasika<k2>vasika = vaSika
+  ab: <L>13431<pc>474,2<k1>vasika<k2>vasika
+;  ------------------------------
+; 356: L=13551
+cdsl: <L>13551<pc>478,1<k1>vAlAha<k2>vAlAha = valAha
+  ab: <L>13551<pc>478,1<k1>vAlAha<k2>vAlAha
+;  ------------------------------
+; 357: L=13602
+cdsl: <L>13602<pc>480,1<k1>vikaraRa<k2>vikaraRa = vikiraRa
+  ab: <L>13602<pc>480,1<k1>vikaraRa<k2>vikaraRa
+;  ------------------------------
+; 358: L=13610
+cdsl: <L>13610<pc>480,2<k1>vikalpA<k2>vikalpA = vikalpa
+  ab: <L>13610<pc>480,2<k1>vikalpA<k2>vikalpA
+;  ------------------------------
+; 359: L=13626
+cdsl: <L>13626<pc>481,2<k1>vikurvI<k2>vikurvI = vikurvA
+  ab: <L>13626<pc>481,2<k1>vikurvI<k2>vikurvI
+;  ------------------------------
+; 360: L=13638
+cdsl: <L>13638<pc>481,2<k1>vikrIqana<k2>-vikrIqana(-tA
+  ab: <L>13638<pc>481,2<k1>vikrIqana<k2>-vikrIqana(-tA)
+;  ------------------------------
+; 361: L=13690
+cdsl: <L>13690<pc>483,2<k1>vicakzu<k2>vicakzu(s
+  ab: <L>13690<pc>483,2<k1>vicakzu<k2>vicakzu(s)
+;  ------------------------------
+; 362: L=13757
+cdsl: <L>13757<pc>486,1<k1>vijYAnaka<k2>-vijYAnaka = vijYAna
+  ab: <L>13757<pc>486,1<k1>vijYAnaka<k2>-vijYAnaka
+;  ------------------------------
+; 363: L=13898
+cdsl: <L>13898<pc>490,2<k1>vinDati<k2>vinDati, vinDayati = veDati
+  ab: <L>13898<pc>490,2<k1>vinDati<k2>vinDati, vinDayati
+;  ------------------------------
+; 364: L=13912
+cdsl: <L>13912<pc>491,1<k1>vipaRqaka<k2>vipaRqaka(-tva
+  ab: <L>13912<pc>491,1<k1>vipaRqaka<k2>vipaRqaka(-tva)
+;  ------------------------------
+; 365: L=13915
+cdsl: <L>13915<pc>491,1<k1>vipadAka<k2>vipadAka(-saMjYA
+  ab: <L>13915<pc>491,1<k1>vipadAka<k2>vipadAka(-saMjYA)
+;  ------------------------------
+; 366: L=13946.1
+cdsl: <L>13946.1<pc>492,1<k1>vipulADimuktisaMBavatejas<k2>vipulADimuktisaMBavatejas = vipulaDarmADimukti°
+  ab: <L>13946.1<pc>492,1<k1>vipulADimuktisaMBavatejas<k2>vipulADimuktisaMBavatejas
+;  ------------------------------
+; 367: L=13974
+cdsl: <L>13974<pc>493,1<k1>vipratyanIyaka<k2>vipratyanIyaka = °nIya, °nIka
+  ab: <L>13974<pc>493,1<k1>vipratyanIyaka<k2>vipratyanIyaka
+;  ------------------------------
+; 368: L=14101
+cdsl: <L>14101<pc>497,1<k1>vimuktaka<k2>vimuktaka = muktaka
+  ab: <L>14101<pc>497,1<k1>vimuktaka<k2>vimuktaka
+;  ------------------------------
+; 369: L=14123
+cdsl: <L>14123<pc>497,2<k1>viyUhA<k2>viyUhA = vyUhA
+  ab: <L>14123<pc>497,2<k1>viyUhA<k2>viyUhA
+;  ------------------------------
+; 370: L=14309
+cdsl: <L>14309<pc>503,2<k1>visAta<k2>visAta = viSAta
+  ab: <L>14309<pc>503,2<k1>visAta<k2>visAta
+;  ------------------------------
+; 371: L=14368
+cdsl: <L>14368<pc>506,1<k1>vItisArayati<k2>vItisArayati = vyati°
+  ab: <L>14368<pc>506,1<k1>vItisArayati<k2>vItisArayati
+;  ------------------------------
+; 372: L=14379
+cdsl: <L>14379<pc>506,2<k1>vIravikraya<k2>vIra-vikraya = vIra-kraya
+  ab: <L>14379<pc>506,2<k1>vIravikraya<k2>vIra-vikraya
+;  ------------------------------
+; 373: L=14383
+cdsl: <L>14383<pc>506,2<k1>vIryavant<k2>vIryavant(a
+  ab: <L>14383<pc>506,2<k1>vIryavant<k2>vIryavant(a)
+;  ------------------------------
+; 374: L=14385
+cdsl: <L>14385<pc>506,2<k1>vIryArabDi<k2>vIryArabDi (f.
+  ab: <L>14385<pc>506,2<k1>vIryArabDi<k2>vIryArabDi
+;  ------------------------------
+; 375: L=14475
+cdsl: <L>14475<pc>509,2<k1>velAsikA<k2>velAsikA, = vE°
+  ab: <L>14475<pc>509,2<k1>velAsikA<k2>velAsikA
+;  ------------------------------
+; 376: L=14531
+cdsl: <L>14531<pc>511,1<k1>vEpuzpita<k2>vEpuzpita, = vipuzpita
+  ab: <L>14531<pc>511,1<k1>vEpuzpita<k2>vEpuzpita
+;  ------------------------------
+; 377: L=14535
+cdsl: <L>14535<pc>511,1<k1>vEmacitra<k2>vEmacitra = vemacitrin, °tra
+  ab: <L>14535<pc>511,1<k1>vEmacitra<k2>vEmacitra
+;  ------------------------------
+; 378: L=14569.1
+cdsl: <L>14569.1<pc>512,1<k1>vErocanapraRiDAnaketuDvaja<k2>vErocanapraRiDAnaketuDvaja, = °cana-praRiDijYAnaketu:
+  ab: <L>14569.1<pc>512,1<k1>vErocanapraRiDAnaketuDvaja<k2>vErocanapraRiDAnaketuDvaja
+;  ------------------------------
+; 379: L=14686
+cdsl: <L>14686<pc>517,2<k1>vyAkopayati<k2>vyAkopayati = vikop°
+  ab: <L>14686<pc>517,2<k1>vyAkopayati<k2>vyAkopayati
+;  ------------------------------
+; 380: L=14723
+cdsl: <L>14723<pc>519,1<k1>vyutkaRWaSa<k2>vyutkaRWaSa(H
+  ab: <L>14723<pc>519,1<k1>vyutkaRWaSa<k2>vyutkaRWaSa(H)
+;  ------------------------------
+; 381: L=14725
+cdsl: <L>14725<pc>519,1<k1>vyutKaRqaSaH<k2>vyutKaRqaSaH = vyutkaRWaSaH
+  ab: <L>14725<pc>519,1<k1>vyutKaRqaSaH<k2>vyutKaRqaSaH
+;  ------------------------------
+; 382: L=14744
+cdsl: <L>14744<pc>520,2<k1>vyUhA<k2>vyUhA, viyUhA, = vyUha
+  ab: <L>14744<pc>520,2<k1>vyUhA<k2>vyUhA, viyUhA
+;  ------------------------------
+; 383: L=14828
+cdsl: <L>14828<pc>523,1<k1>Sabara<k2>Sabara(pAda
+  ab: <L>14828<pc>523,1<k1>Sabara<k2>Sabara(pAda)
+;  ------------------------------
+; 384: L=14856
+cdsl: <L>14856<pc>524,1<k1>SarakzepaRa<k2>Sara-kzepaRa(M
+  ab: <L>14856<pc>524,1<k1>SarakzepaRa<k2>Sara-kzepaRa(M)
+;  ------------------------------
+; 385: L=14901
+cdsl: <L>14901<pc>525,1<k1>SAkyayanI<k2>SAkyayanI, °yinI = SAkyAy°
+  ab: <L>14901<pc>525,1<k1>SAkyayanI<k2>SAkyayanI, °yinI
+;  ------------------------------
+; 386: L=14931
+cdsl: <L>14931<pc>526,1<k1>SAntaraja<k2>SAntaraja(s
+  ab: <L>14931<pc>526,1<k1>SAntaraja<k2>SAntaraja(s)
+;  ------------------------------
+; 387: L=14955
+cdsl: <L>14955<pc>526,2<k1>SArikA<k2>SArikA = SArI
+  ab: <L>14955<pc>526,2<k1>SArikA<k2>SArikA
+;  ------------------------------
+; 388: L=14966
+cdsl: <L>14966<pc>526,2<k1>SAliputra<k2>SAliputra = SAri°
+  ab: <L>14966<pc>526,2<k1>SAliputra<k2>SAliputra
+;  ------------------------------
+; 389: L=15012
+cdsl: <L>15012<pc>528,1<k1>SirikA<k2>SirikA = SrI
+  ab: <L>15012<pc>528,1<k1>SirikA<k2>SirikA
+;  ------------------------------
+; 390: L=15020
+cdsl: <L>15020<pc>528,1<k1>SilAkA<k2>SilAkA = SalAkA
+  ab: <L>15020<pc>528,1<k1>SilAkA<k2>SilAkA
+;  ------------------------------
+; 391: L=15026
+cdsl: <L>15026<pc>528,2<k1>Silpavant<k2>Silpavant(a
+  ab: <L>15026<pc>528,2<k1>Silpavant<k2>Silpavant(a)
+;  ------------------------------
+; 392: L=15050
+cdsl: <L>15050<pc>529,1<k1>SizyApayati<k2>SizyApayati, = SikzApayati
+  ab: <L>15050<pc>529,1<k1>SizyApayati<k2>SizyApayati
+;  ------------------------------
+; 393: L=15223
+cdsl: <L>15223<pc>533,2<k1>SmaSAnika<k2>SmaSAnika = SmA°
+  ab: <L>15223<pc>533,2<k1>SmaSAnika<k2>SmaSAnika
+;  ------------------------------
+; 394: L=15264
+cdsl: <L>15264<pc>535,1<k1>SrAvaRa<k2>SrAvaRa = pariSrA°, parisrA°
+  ab: <L>15264<pc>535,1<k1>SrAvaRa<k2>SrAvaRa
+;  ------------------------------
+; 395: L=15283
+cdsl: <L>15283<pc>536,1<k1>SrItejas<k2>SrItejas (°ja
+  ab: <L>15283<pc>536,1<k1>SrItejas<k2>SrItejas (°ja)
+;  ------------------------------
+; 396: L=15378
+cdsl: <L>15378<pc>538,1<k1>saMyaTIdaM<k2>saMyaTIdaM = sayya°
+  ab: <L>15378<pc>538,1<k1>saMyaTIdaM<k2>saMyaTIdaM
+;  ------------------------------
+; 397: L=15379
+cdsl: <L>15379<pc>538,1<k1>saMyaDApinAma<k2>saMyaDApi nAma = tad (say-)yaTApi nAma
+  ab: <L>15379<pc>538,1<k1>saMyaDApinAma<k2>saMyaDApi nAma
+;  ------------------------------
+; 398: L=15396
+cdsl: <L>15396<pc>539,2<k1>saMliKi<k2>saMliKi(n
+  ab: <L>15396<pc>539,2<k1>saMliKi<k2>saMliKi(n)
+;  ------------------------------
+; 399: L=15417
+cdsl: <L>15417<pc>540,2<k1>saMvAra<k2>saMvAra-, = saMvara
+  ab: <L>15417<pc>540,2<k1>saMvAra<k2>saMvAra-
+;  ------------------------------
+; 400: L=15430
+cdsl: <L>15430<pc>541,2<k1>saMvfttateja<k2>saMvfttateja(s
+  ab: <L>15430<pc>541,2<k1>saMvfttateja<k2>saMvfttateja(s)
+;  ------------------------------
+; 401: L=15474
+cdsl: <L>15474<pc>543,2<k1>saMsTihati<k2>saMsTihati = saMtizWate
+  ab: <L>15474<pc>543,2<k1>saMsTihati<k2>saMsTihati
+;  ------------------------------
+; 402: L=15515
+cdsl: <L>15515<pc>545,1<k1>saMkaSya<k2>saMkaSya = sAMkASya
+  ab: <L>15515<pc>545,1<k1>saMkaSya<k2>saMkaSya
+;  ------------------------------
+; 403: L=15521
+cdsl: <L>15521<pc>545,2<k1>saMkASya<k2>saMkASya = sAM°
+  ab: <L>15521<pc>545,2<k1>saMkASya<k2>saMkASya
+;  ------------------------------
+; 404: L=15620
+cdsl: <L>15620<pc>550,2<k1>saMcitora<k2>saMcitora(s
+  ab: <L>15620<pc>550,2<k1>saMcitora<k2>saMcitora(s)
+;  ------------------------------
+; 405: L=15687
+cdsl: <L>15687<pc>554,1<k1>satyavaca<k2>satyavaca(s
+  ab: <L>15687<pc>554,1<k1>satyavaca<k2>satyavaca(s)
+;  ------------------------------
+; 406: L=15808
+cdsl: <L>15808<pc>559,2<k1>saptAhika<k2>saptAhika, = sAptA°
+  ab: <L>15808<pc>559,2<k1>saptAhika<k2>saptAhika
+;  ------------------------------
+; 407: L=15827
+cdsl: <L>15827<pc>560,2<k1>samaNgira<k2>samaNgira(s
+  ab: <L>15827<pc>560,2<k1>samaNgira<k2>samaNgira(s)
+;  ------------------------------
+; 408: L=15839
+cdsl: <L>15839<pc>561,1<k1>samatikrAma<k2>samatikrAma = °krama
+  ab: <L>15839<pc>561,1<k1>samatikrAma<k2>samatikrAma
+;  ------------------------------
+; 409: L=15891
+cdsl: <L>15891<pc>562,2<k1>samantajYAnaratnArciSrIguRaketurAja<k2>samantajYAnaratnArciSrIguRaketurAja(n
+  ab: <L>15891<pc>562,2<k1>samantajYAnaratnArciSrIguRaketurAja<k2>samantajYAnaratnArciSrIguRaketurAja(n)
+;  ------------------------------
+; 410: L=15893.1
+cdsl: <L>15893.1<pc>562,2<k1>samantajYAnArciSrIguRaketuDvaja<k2>samantajYAnArci(H)SrIguRaketuDvaja, = °jYAnaratnArciSrI°
+  ab: <L>15893.1<pc>562,2<k1>samantajYAnArciSrIguRaketuDvaja<k2>samantajYAnArci(H)SrIguRaketuDvaja
+;  ------------------------------
+; 411: L=15966
+cdsl: <L>15966<pc>564,1<k1>samanvAhara<k2>samanvAhara, = °hAra
+  ab: <L>15966<pc>564,1<k1>samanvAhara<k2>samanvAhara
+;  ------------------------------
+; 412: L=16062
+cdsl: <L>16062<pc>570,1<k1>samApraBAra<k2>samApraBAra (!
+  ab: <L>16062<pc>570,1<k1>samApraBAra<k2>samApraBAra
+;  ------------------------------
+; 413: L=16141
+cdsl: <L>16141<pc>574,1<k1>samuddiSati<k2>samuddiSati = uddiSati
+  ab: <L>16141<pc>574,1<k1>samuddiSati<k2>samuddiSati
+;  ------------------------------
+; 414: L=16145
+cdsl: <L>16145<pc>574,1<k1>samudrakaleKa<k2>samudraka-leKa(-leKaka
+  ab: <L>16145<pc>574,1<k1>samudrakaleKa<k2>samudraka-leKa(-leKaka)
+;  ------------------------------
+; 415: L=16213
+cdsl: <L>16213<pc>576,2<k1>saMpUrRa<k2>saMpUrRa, (1) = pUrRa
+  ab: <L>16213<pc>576,2<k1>saMpUrRa<k2>saMpUrRa, (1)
+;  ------------------------------
+; 416: L=16268
+cdsl: <L>16268<pc>578,2<k1>saMpramoza<k2>saMpramoza(Ra
+  ab: <L>16268<pc>578,2<k1>saMpramoza<k2>saMpramoza(Ra)
+;  ------------------------------
+; 417: L=16286
+cdsl: <L>16286<pc>579,1<k1>saMpravyaDati<k2>saMpravyaDati = saMpraveDati
+  ab: <L>16286<pc>579,1<k1>saMpravyaDati<k2>saMpravyaDati
+;  ------------------------------
+; 418: L=16296
+cdsl: <L>16296<pc>579,1<k1>saMprahArya<k2>saMprahArya(-jAta
+  ab: <L>16296<pc>579,1<k1>saMprahArya<k2>saMprahArya(-jAta)
+;  ------------------------------
+; 419: L=16354
+cdsl: <L>16354<pc>581,2<k1>saMmuKA<k2>saMmuKA(t
+  ab: <L>16354<pc>581,2<k1>saMmuKA<k2>saMmuKA(t)
+;  ------------------------------
+; 420: L=16363
+cdsl: <L>16363<pc>582,1<k1>saMmoza<k2>saMmoza, saMmozaRa(-tA
+  ab: <L>16363<pc>582,1<k1>saMmoza<k2>saMmoza, saMmozaRa(-tA)
+;  ------------------------------
+; 421: L=16380
+cdsl: <L>16380<pc>582,2<k1>sayyaTApi<k2>sayyaTApi (nAma
+  ab: <L>16380<pc>582,2<k1>sayyaTApi<k2>sayyaTApi (nAma)
+;  ------------------------------
+; 422: L=16516
+cdsl: <L>16516<pc>585,2<k1>sarvavikzepatA<k2>sarvavikzepatA, = sarvanikzepA
+  ab: <L>16516<pc>585,2<k1>sarvavikzepatA<k2>sarvavikzepatA
+;  ------------------------------
+; 423: L=16682
+cdsl: <L>16682<pc>591,1<k1>sAntarbahi<k2>sAntarbahi(s
+  ab: <L>16682<pc>591,1<k1>sAntarbahi<k2>sAntarbahi(s)
+;  ------------------------------
+; 424: L=16786
+cdsl: <L>16786<pc>595,1<k1>siMhateja<k2>siMhateja(s
+  ab: <L>16786<pc>595,1<k1>siMhateja<k2>siMhateja(s)
+;  ------------------------------
+; 425: L=16789
+cdsl: <L>16789<pc>595,1<k1>siMhanandi<k2>siMhanandi(n
+  ab: <L>16789<pc>595,1<k1>siMhanandi<k2>siMhanandi(n)
+;  ------------------------------
+; 426: L=16833
+cdsl: <L>16833<pc>596,1<k1>sitTa<k2>-sitTa(ka
+  ab: <L>16833<pc>596,1<k1>sitTa<k2>-sitTa(ka)
+;  ------------------------------
+; 427: L=16838
+cdsl: <L>16838<pc>596,1<k1>sidDaSabara<k2>sidDaSabara(-pAda
+  ab: <L>16838<pc>596,1<k1>sidDaSabara<k2>sidDaSabara(-pAda)
+;  ------------------------------
+; 428: L=16993
+cdsl: <L>16993<pc>599,2<k1>suparRi<k2>suparRi(n
+  ab: <L>16993<pc>599,2<k1>suparRi<k2>suparRi(n)
+;  ------------------------------
+; 429: L=17007
+cdsl: <L>17007<pc>600,1<k1>supUrRika<k2>supUrRika = pUrRamuKa
+  ab: <L>17007<pc>600,1<k1>supUrRika<k2>supUrRika
+;  ------------------------------
+; 430: L=17029
+cdsl: <L>17029<pc>600,2<k1>supraBAsa<k2>supraBAsa(-maRi
+  ab: <L>17029<pc>600,2<k1>supraBAsa<k2>supraBAsa(-maRi)
+;  ------------------------------
+; 431: L=17042
+cdsl: <L>17042<pc>600,2<k1>subrahma<k2>subrahma(n
+  ab: <L>17042<pc>600,2<k1>subrahma<k2>subrahma(n)
+;  ------------------------------
+; 432: L=17064
+cdsl: <L>17064<pc>601,1<k1>sumana<k2>sumana(s
+  ab: <L>17064<pc>601,1<k1>sumana<k2>sumana(s)
+;  ------------------------------
+; 433: L=17207
+cdsl: <L>17207<pc>604,1<k1>susAra<k2>susAra(-galva, -galvArka
+  ab: <L>17207<pc>604,1<k1>susAra<k2>susAra(-galva, -galvArka)
+;  ------------------------------
+; 434: L=17230
+cdsl: <L>17230<pc>604,2<k1>sUcI<k2>sUcI (= sUcikA
+  ab: <L>17230<pc>604,2<k1>sUcI<k2>sUcI
+;  ------------------------------
+; 435: L=17237
+cdsl: <L>17237<pc>604,2<k1>sUtrapiwaka<k2>sUtra-piwaka (= sUtra
+  ab: <L>17237<pc>604,2<k1>sUtrapiwaka<k2>sUtra-piwaka
+;  ------------------------------
+; 436: L=17416
+cdsl: <L>17416<pc>610,2<k1>sTAma<k2>sTAma(n
+  ab: <L>17416<pc>610,2<k1>sTAma<k2>sTAma(n)
+;  ------------------------------
+; 437: L=17521
+cdsl: <L>17521<pc>615,1<k1>syAma<k2>syAma(ka
+  ab: <L>17521<pc>615,1<k1>syAma<k2>syAma(ka)
+;  ------------------------------
+; 438: L=17537
+cdsl: <L>17537<pc>615,2<k1>svaka<k2>svaka(m
+  ab: <L>17537<pc>615,2<k1>svaka<k2>svaka(m)
+;  ------------------------------
+; 439: L=17649
+cdsl: <L>17649<pc>618,2<k1>hastAvalehaka<k2>hastAvalehaka(m
+  ab: <L>17649<pc>618,2<k1>hastAvalehaka<k2>hastAvalehaka(m)
+;  ------------------------------
+; 440: L=17661
+cdsl: <L>17661<pc>619,1<k1>hastiniyaMsa<k2>hasti-niyaMsa(!
+  ab: <L>17661<pc>619,1<k1>hastiniyaMsa<k2>hasti-niyaMsa
+;  ------------------------------
+; 441: L=17667
+cdsl: <L>17667<pc>619,1<k1>hAkkAra<k2>hAkkAra = hakkAra
+  ab: <L>17667<pc>619,1<k1>hAkkAra<k2>hAkkAra
+;  ------------------------------
+; 442: L=17757
+cdsl: <L>17757<pc>621,2<k1>hetumant<k2>hetumant(a
+  ab: <L>17757<pc>621,2<k1>hetumant<k2>hetumant(a)
+;  ------------------------------
+; 443: L=17783
+cdsl: <L>17783<pc>622,1<k1>hezwato<k2>hezwato (hezWato
+  ab: <L>17783<pc>622,1<k1>hezwato<k2>hezwato (hezWato)
+;  ------------------------------
+; 444: L=17795
+cdsl: <L>17795<pc>622,2<k1>hoBaRe<k2>ho BaRe = Bo BaRe
+  ab: <L>17795<pc>622,2<k1>hoBaRe<k2>ho BaRe
+;  ------------------------------
