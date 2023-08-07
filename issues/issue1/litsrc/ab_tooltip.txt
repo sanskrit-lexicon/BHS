@@ -11,6 +11,8 @@ ad loc.	<id>ad loc.</id> <disp>at the place, in same location (Latin ad locum).<
 adj.	<id>adj.</id> <disp>adjective.</disp>
 adjs.	<id>adjs.</id> <disp>adjectives.</disp>
 adv.	<id>adv.</id> <disp>adverb.</disp>
+altho	<id>altho</id> <disp>although</disp>
+Altho	<id>Altho</id> <disp>Although</disp>
 AMg.	<id>AMg.</id> <disp>? (lang)</disp>
 analog.	<id>analog.</id> <disp>analogical(ly).</disp>
 aor.	<id>aor.</id> <disp>aorist.</disp>
@@ -166,8 +168,8 @@ intrans.	<id>intrans.</id> <disp>intransitive.</disp>
 Introd.	<id>Introd.</id> <disp>introduction.</disp>
 irreg.	<id>irreg.</id> <disp>irregular.</disp>
 Jap.	<id>Jap.</id> <disp>Japanese.</disp>
-JM	<id>JM</id> <disp>Jaina Māhārāṣṭrī. (?)</disp>
-JM.	<id>JM.</id> <disp>Jaina Māhārāṣṭrī. (?)</disp>
+JM	<id>JM</id> <disp>Jaina Māhārāṣṭrī.</disp>
+JM.	<id>JM.</id> <disp>Jaina Māhārāṣṭrī.</disp>
 Karmadh.	<id>Karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds </disp>
 karmadh.	<id>karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds </disp>
 l.	<id>l.</id> <disp>line. (?)</disp>
@@ -311,6 +313,7 @@ publ.	<id>publ.</id> <disp>published (by).</disp>
 q.v.	<id>q.v.</id> <disp>which see (Latin quod vide)</disp>
 qq.v.	<id>qq.v.</id> <disp>which see (Latin quod vide)</disp>
 Qy	<id>Qy</id> <disp>Query.</disp>
+qy	<id>qy</id> <disp>query.</disp>
 redupl.	<id>redupl.</id> <disp>reduplicative</disp>
 ref.	<id>ref.</id> <disp>reference(s).</disp>
 refs.	<id>refs.</id> <disp>references.</disp>
@@ -327,8 +330,11 @@ Sg.	<id>Sg.</id> <disp>singular.</disp>
 sing.	<id>sing.</id> <disp>singular. </disp>
 Singhalese	<id>Singhalese</id> <disp>Singhalese language.</disp>
 Skt	<id>Skt</id> <disp>Sanskrit Language.</disp>
-Skt.	<id>Skt.</id> <disp>Sanskrit; (hyper-)Sktism, Sktization = Sanskritism, Sanskritization.</disp>
+Skt.	<id>Skt.</id> <disp>Sanskri Language.</disp>
 Skt. Epic.	<id>Skt. Epic.</id> <disp>Sanskrit Epic poetry. (?)</disp>
+Sktism	<id>Sktism</id> <disp>Sanskritism</disp>
+Sktization	<id>Sktization</id> <disp>Sanskritization</disp>
+Sktized	<id>Sktized</id> <disp>Sanskritized</disp>
 subj.	<id>subj.</id> <disp>subject.</disp>
 subst.	<id>subst.</id> <disp>substantive.</disp>
 superl.	<id>superl.</id> <disp>superlative.</disp>
@@ -337,6 +343,8 @@ Tatp.	<id>Tatp.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
 tatp.	<id>tatp.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
 Tatpur.	<id>Tatpur.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
 tatpur.	<id>tatpur.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
+tho	<id>tho</id> <disp>though</disp>
+thru	<id>thru</id> <disp>through</disp>
 Tib.	<id>Tib.</id> <disp>Tibetan language.</disp>
 Toch.	<id>Toch.</id> <disp>Tocharian language.</disp>
 Tocharian	<id>Tocharian</id> <disp>Tocharian language.</disp>

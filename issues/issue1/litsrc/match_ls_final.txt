@@ -162,8 +162,8 @@ Dbh.	ls,2,FR1	?
 Dbh.g.	ls,128,FR0	id. (Gāthā portion) ed. (Rahder and) Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
 Dbs	ls,1,FR0	Daśabalasūtra, in Waldschmidt, Kl. Skt. Texte 4, 209 ff.
 Deśīn.	ls,47,FR0	Deśīnāmamālā, ed. Pischel, Bombay, 1880.
-Dh	ls,1,FR1	?
-Dh.	ls,38,FR1	?
+Dh	ls,1,FR1	{Dharmas}
+Dh.	ls,38,FR1	{Dharmas}
 Dharmas	ls,382,FR0	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
 Dhauli Sep.	ls,1,FR1	?
 Dhp	ls,1,FR1	{Dhp.}

@@ -123,6 +123,6 @@ litsrc directory
  see litsrc/readme.txt
 Note change_1_ab.txt revised:
 python diff_to_changes_dict.py temp_bhs_ab_1_orig.txt temp_bhs_ab_1.txt change_1_ab.txt
-23 changes
+452 changes  (mostly 'acr' -> 'ab')
 
 --------------------------------------------------------------------------

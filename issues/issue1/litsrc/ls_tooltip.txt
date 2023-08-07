@@ -39,8 +39,8 @@ Arthaśāstra	?
 AsP	Aṣṭasāhasrikā-prajñāpāramitā, ed. Rajendralala Mitra, Calcutta, 1888.
 Atthasālinī	?
 Aung and Rhys Davids, Compendium of Philos.	?
-Av	Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
 AV	Atharvaveda.
+Av	Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
 Av, Index	?
 AV.	Atharvaveda.
 Av.	Atharvaveda.
@@ -136,8 +136,8 @@ Dbh.	?
 Dbh.g.	id. (Gāthā portion) ed. (Rahder and) Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
 Dbs	Daśabalasūtra, in Waldschmidt, Kl. Skt. Texte 4, 209 ff.
 Deśīn.	Deśīnāmamālā, ed. Pischel, Bombay, 1880.
-Dh	?
-Dh.	?
+Dh	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
+Dh.	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
 Dharmas	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
 Dhauli Sep.	?
 Dhp	Dhammapada (Pali); Dhp. c(omm.), commentary on Dhp.; Fausb. refers to Fausböllʼs ed. of Dhp.
@@ -200,8 +200,8 @@ Finotʼs report of Chin. on Prāt	?
 Foucaux	see LV. Lalitavistara, ed. Lefmann, Halle, 1902
 Foucaux, Notes	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
 Foucauxʼs note	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
-Foucauxʼs Transl.	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
 Foucauxʼs transl.	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+Foucauxʼs Transl.	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
 fragm. 23 V 2	?
 fragment 36 V 3	?
 fragment 44 V 1	?
@@ -346,14 +346,14 @@ Kern, Transl.	?
 Kern, Versl. K. Akad. Afd. Lett.	?
 Kernʼs note in Transl. of SP, SBE 21	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
 Kernʼs Preface	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
-Kernʼs SP preface	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
 Kernʼs SP Preface	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
-Kernʼs transl.	?
+Kernʼs SP preface	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
 Kernʼs Transl.	?
+Kernʼs transl.	?
 Kernʼs Transl. SBE	?
 Khantivādi Jāt.	?
-KhP.	?
 Khp.	?
+KhP.	?
 Khp. comm.	?
 Khud.p.	?
 Khud.p. comm.	?
@@ -442,8 +442,8 @@ Lib. of Congr. ed.	Library of Congress edition
 Lin Li-Kouang. Aide-Mémoire	?
 Lotus	Lotus de la Bonne Loi, Paris, 1852
 Ludwig RV	?
-Lv	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
 LV	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+Lv	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
 LV (Calc.)	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
 LV (Lefm.)	?
 LVa	?
@@ -471,8 +471,8 @@ Lévi, Sūtrāl. Transl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl.
 Léviʼs note	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
 Léviʼs note in Transl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
 Léviʼs notes	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
-Léviʼs Transl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
 Léviʼs transl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
+Léviʼs Transl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
 Lüders	?
 Lüders ap. Hoernle MR	?
 Lüders SBAW	?
@@ -536,8 +536,8 @@ MS.	Maitrāyaṇī Saṃhitā.
 MSV	Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, ed. Nalinaksha Dutt, Vol. 3, Parts i (undated), ii (1942), iii (1943), Srinagar, Kashmir. Part iv (1950) arrived late, but its most important words have been included. Unfortunately this valuable series came to hand so late in the progress of my task that I felt it impossible to include Volumes 1 and 2, which seem somewhat less important.
 Mus	Barabudur (1935).
 Mus, Barabudur (II)	Barabudur (1935).
-Mv	Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jonesʼs translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
 MV	?
+Mv	Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jonesʼs translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
 Mv.	?
 Mvy	Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
 MW	Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
@@ -625,7 +625,7 @@ Pv comm.	Petavatthu (Pali).
 Pv.	Petavatthu (Pali).
 Pv. comm.	Petavatthu (Pali).
 pw	Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
-Pāṇ.	Pāṇiniʼs Aṣṭādhyāyī 
+Pāṇ.	Pāṇiniʼs Aṣṭādhyāyī
 Pūrṇabhadraʼs Pañc., Hertel	?
 R. Otto Franke, in Königsberger Beiträge, 1929	?
 Ragh.	?
@@ -708,10 +708,10 @@ Shāh.	?
 Sieg and Siegling, Toch. Sprachreste	?
 Siri-j.	?
 Smith	?
-Sn	Suttanipāta (Pali).
 SN	SaMyuttanikāya (Pali).
-Sn comm.	Suttanipāta (Pali).
+Sn	Suttanipāta (Pali).
 SN comm.	SaMyuttanikāya (Pali).
+Sn comm.	Suttanipāta (Pali).
 Sn. comm.	Suttanipāta (Pali).
 SP	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
 Speyer	see Skt. Synt., and VSS; also, in the preceding list, s.vv. Av and Jm. Speyer, Sanskrit Syntax.
@@ -799,8 +799,8 @@ Tingʼs Dict.	?
 Toch. Gram.	?
 Transl.	?
 transl. Bendall and Rouse	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
-Transl. of Bendall and Rouse	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
 transl. of Bendall and Rouse	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+Transl. of Bendall and Rouse	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
 transl. of Kalpa Sūtra	?
 Trik.	Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
 TS	Taittirīya Saṃhitā.

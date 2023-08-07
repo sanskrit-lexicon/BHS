@@ -10,6 +10,8 @@ act.	lex,11,FR0	active; action.
 ad loc.	ab,9,FR1	at the place, in same location (Latin ad locum).
 adj.	lex,2739,FR0	adjective.
 adjs.	lex,1,FR1	adjectives.
+altho	ab,21,FR1	although
+Altho	ab,1,FR1	Although
 adv.	lex,419,FR1	adverb.
 AMg.	lang,703,FR1	? (lang)
 analog.	ab,15,FR0	analogical(ly).
@@ -166,8 +168,8 @@ intrans.	lex,39,FR0	intransitive.
 Introd.	ab,8,FR1	introduction.
 irreg.	ab,1,FR1	irregular.
 Jap.	lang,84,FR0	Japanese.
-JM	lang,1,FR1	Jaina Māhārāṣṭrī. (?)
-JM.	lang,41,FR1	Jaina Māhārāṣṭrī. (?)
+JM	lang,1,FR1	Jaina Māhārāṣṭrī.
+JM.	lang,41,FR1	Jaina Māhārāṣṭrī.
 Karmadh.	ab,8,FR1	karma—dhāraya, a class of Tatpuruṣa compounds 
 karmadh.	ab,1,FR1	karma—dhāraya, a class of Tatpuruṣa compounds 
 l.	ab,7,FR1	line. (?)
@@ -311,6 +313,7 @@ publ.	ab,5,FR1	published (by).
 q.v.	ab,2920,FR1	which see (Latin quod vide)
 qq.v.	ab,212,FR1	which see (Latin quod vide)
 Qy	ab,3,FR1	Query.
+qy	ab,10,FR1	query.
 redupl.	ab,1,FR1	reduplicative
 ref.	ab,11,FR0	reference(s).
 refs.	ab,18,FR1	references.
@@ -327,8 +330,11 @@ Sg.	ab,1,FR1	singular.
 sing.	ab,5,FR1	singular. 
 Singhalese	lang,1,FR1	Singhalese language.
 Skt	lang,5,FR1	Sanskrit Language.
-Skt.	lang,5823,FR0	Sanskrit; (hyper-)Sktism, Sktization = Sanskritism, Sanskritization.
+Skt.	lang,5823,FR0	Sanskri Language.
 Skt. Epic.	lang,1,FR1	Sanskrit Epic poetry. (?)
+Sktism	ab,34,FR1	Sanskritism
+Sktization	ab,61,FR1	Sanskritization
+Sktized	ab,38,FR1	Sanskritized
 subj.	lex,2,FR1	subject.
 subst.	lex,448,FR0	substantive.
 superl.	ab,4,FR0	superlative.
@@ -336,6 +342,8 @@ syn.	ab,10,FR0	synonym(ous).
 Tatp.	ab,4,FR1	tat-puruṣa (class of Sanskrit compounds).
 tatp.	ab,4,FR1	tat-puruṣa (class of Sanskrit compounds).
 Tatpur.	ab,2,FR1	tat-puruṣa (class of Sanskrit compounds).
+tho	ab,222,FR1	though
+thru	ab,79,FR1	through
 tatpur.	ab,1,FR1	tat-puruṣa (class of Sanskrit compounds).
 Tib.	lang,2759,FR1	Tibetan language.
 Toch.	lang,1,FR1	Tocharian language.

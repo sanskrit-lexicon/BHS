@@ -281,3 +281,65 @@ in function line_adjust, add 'bhs' to the list of "MW-type" author files.
 cd ../ # to issue1 folder
 sh redo.sh 1
 python /c/xampp/htdocs/cologne/xmlvalidate.py dev1/pywork/bhs.xml dev1/pywork/bhs.dtd
+************************************************
+08-07-2023 revisions
+-----
+Manual revisions to temp_bhs_ab_1.txt,
+  match_ab_final.txt, and match_ls_final.txt
+related to https://github.com/sanskrit-lexicon/BHS/issues/1#issuecomment-1666562490
+Regnerate ../change_1_ab.txt
+cd ../
+python diff_to_changes_dict.py temp_bhs_ab_1_orig.txt temp_bhs_ab_1.txt change_1_ab.txt
+-----------------------------------------------
+<acr> (acronym) tag.
+Ref: https://github.com/sanskrit-lexicon/BHS/issues/1#issuecomment-1666569893
+
+---
+cp temp_bhs_ab_1.txt temp_bhs_ab_1_acr.txt
+---
+In temp_bhs_ab_1.txt,
+change <acr> -> <ab>,  </acr> -> </ab>  (466 occurrences)
+---
+Remove 'acr' element from one.dtd (in csl-pywork)
+---
+Add entries to match_ab_final.txt
+------------------------------------------------
+bhsheader correction:
+csl-orig/v02/bhs/bhsheader.xml
+
+Ref: https://github.com/sanskrit-lexicon/BHS/issues/1#issue-1023800161
+Serling -> Sterling
+------------------------------------------------
+regen tooltips
+python make_ab_tooltip.py match_ab_final.txt ab_tooltip.txt
+375 lines written to ab_tooltip.txt
+install:
+cp ab_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsab/bhsab_input.txt
+
+python make_ls_tooltip.py match_ls_final.txt ls_tooltip.txt
+1026 abbreviations read from match_ls_final.txt
+ 260 tooltip pointers resolved
+910 tooltips written to ls_tooltip.txt
+116 front matter with no instances (not written to ls_tooltip.txt
+47154 instances with an assigned tip
+449 abbreviations with ? as tip
+1116 instances with ? as tip
+
+cp ls_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsauth/tooltip.txt
+---
+Note: changed <lang n="Māgadhi">Mg.</lang> to <ab n="Māgadhi">Mg.</ab>
+  as the <lang n="X>Y</lang> has a different sense.
+---
+change make_xml.py so that text within 〔〕is displayed with class ls (smaller,
+gray)
+ x = x.replace('〔',"<span class='ls'>")
+ x = x.replace('〕','</span>')
+
+---
+Regenerate dev1 displays
+cd ../
+sh redo.sh 1
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev1/pywork/bhs.xml dev1/pywork/bhs.dtd
+--------------------------------------
+08-07-2023 revisions (END)
+************************************************

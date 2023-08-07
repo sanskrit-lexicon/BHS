@@ -87,7 +87,7 @@ def write_tips(fileout,d):
  print(notipcount,"instances with ? as tip")
 
 if __name__=="__main__":
- filein = sys.argv[1]  # match_ab_final.txt
+ filein = sys.argv[1]  # match_ls_final.txt
  fileout = sys.argv[2] # tooltip file for csl-pywork
  recs,d = init_abbrevs(filein)
  write_tips(fileout,d)
