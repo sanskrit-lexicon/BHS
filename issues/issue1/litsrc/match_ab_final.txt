@@ -1,3 +1,7 @@
+1st ed	ed,1,FR1	first edition
+1st ed.	ed,30,FR1	first edition
+2d ed.	ed,94,FR1	second edition
+2d. ed.	ed,5,FR1	second edition
 A.D.	ab,1,FR1	In the year of our Lord (Latin Anno Domini); CE.
 abl.	lex,111,FR0	ablative.
 abs.	lex,12,FR1	absolute.
@@ -15,6 +19,7 @@ Altho	ab,1,FR1	Although
 adv.	lex,419,FR1	adverb.
 AMg.	lang,703,FR1	? (lang)
 analog.	ab,15,FR0	analogical(ly).
+AnSS.	ed,1,FR1	?
 aor.	lex,146,FR0	aorist.
 Ap.	lang,21,FR1	Apabhraṃśa; Apadāna (Pali text).
 app.	ab,224,FR0	apparently.
@@ -26,9 +31,12 @@ Bhvr	ab,1,FR1	bahuvrīhi, a class of Sanskrit compounds.
 Bhvr.	ab,407,FR0	Bahuvrīhi.
 Bodhicaryāv.	ab,2,FR1	Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. (?)
 Bodhis.	ab,1,FR1	Bodhisattva
+Boehtlingkʼs ed.	ed,1,FR1	Boehtlingkʼs edition
+Bomb.	ed,4,FR1	Bombay edition
 Br.	lang,1,FR1	Brāhmaṇas (language of).
 Bu.	ab,4,FR0	Buddhist.
 Buddh.	ab,16,FR1	Buddhist; Buddhism.
+Calc.	ed,187,FR1	Calcutta edition
 caus.	lex,308,FR0	causative.
 Cf	ab,1,FR1	Compare.
 cf.	ab,3829,FR0	compare.
@@ -57,11 +65,12 @@ cpd.	ab,695,FR0	compound.
 cpds	ab,1,FR1	compounds.
 cpds.	ab,218,FR1	compounds.
 Cr. ed.	ab,17,FR1	critical edition.
+Cr.ed.	ed,2,FR1	critical edition.
 crit. app.	ab,2,FR0	critical apparatus.
 Crit. app.	ab,2,FR1	critical apparatus.
 Crit. App.	ab,18,FR1	critical apparatus.
 crit. ed.	ab,2,FR1	critical edition.
-Crit. ed.	ab,12,FR1	critical edition.
+Crit. ed.	ab/ed,23,FR1	critical edition.
 Crit. note	ab,1,FR1	critical note
 Critical App.	ab,1,FR1	critical apparatus.
 d.h.	ab,3,FR1	Das heißt (German for "that is"
@@ -89,6 +98,7 @@ E.g.	ab,1,FR1	for example (Latin exempli gratia)
 e.g.	ab,341,FR1	for example (Latin exempli gratia)
 ed.	ab,400,FR0	editor, edition.
 Ed.	ab,6,FR1	editor, edition.
+ed. Stein	ed,1,FR1	Stein edition.
 edd.	ab,130,FR1	edited (?)
 Edd.	ab,1,FR1	edited (?)
 em.	ab,1361,FR0	emended, emendation.
@@ -171,7 +181,11 @@ Jap.	lang,84,FR0	Japanese.
 JM	lang,1,FR1	Jaina Māhārāṣṭrī.
 JM.	lang,41,FR1	Jaina Māhārāṣṭrī.
 Karmadh.	ab,8,FR1	karma—dhāraya, a class of Tatpuruṣa compounds 
-karmadh.	ab,1,FR1	karma—dhāraya, a class of Tatpuruṣa compounds 
+karmadh.	ab,1,FR1	karma—dhāraya, a class of Tatpuruṣa compounds
+Kyoto	ed,2,FR1	Kyoto edition
+Kyoto ed.	ed,60,FR1	Kyoto edition
+Kyōtō	ed,2,FR1	Kyoto edition
+Kyōtō ed.	ed,9,FR1	Kyoto edition
 l.	ab,7,FR1	line. (?)
 l. c.	ab,41,FR0	in the place cited.
 Lat.	lang,1,FR1	Latin language.

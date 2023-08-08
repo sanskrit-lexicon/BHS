@@ -345,12 +345,44 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py dev1/pywork/bhs.xml dev1/pywork/bh
 ************************************************
 
 08-08-2023 revisions (BEGIN)
+----- extract_ed.txt
+python prepare_ed.py ../temp_bhs_ab_1.txt extract_ed.txt 
+
 -----
-correct error in match_ab_final.txt
-  under Skt.
+match_ab_final.txt
+  correct error in under Skt.
+add tooltips for <ed>X</ed>
+ 410 matches in 361 lines for "<ed>" in buffer: temp_bhs_ab_1.txt
+
+1st ed	ed,1,FR1	first edition
+1st ed.	ed,30,FR1	first edition
+2d ed.	ed,94,FR1	second edition
+2d. ed.	ed,5,FR1	second edition
+AnSS.	ed,1,FR1	?
+Boehtlingkʼs ed.	ed,1,FR1	Boehtlingkʼs edition	
+Bomb.	ed,4,FR1	Bombay edition	     
+Calc.	ed,187,FR1	Calcutta edition	
+Cr.ed.	ed,2,FR1	critical edition.
+Crit. ed.	ab/ed,23,FR1	critical edition.
+ ; note  <ed>Crit. ed.</ed> 11
+         <ab>Crit. ed.</ab> 12
+   basicadjust.php changes <ed>X</ed> to <ab>X</ab>
+ed. Stein	ed,1,FR1	Stein edition.	
+Kyoto	ed,2,FR1	Kyoto edition	
+Kyoto ed.	ed,60,FR1	Kyoto edition	
+Kyōtō	ed,2,FR1	Kyoto edition	
+Kyōtō ed.	ed,9,FR1	Kyoto edition	
+
+(+ 1 30 94 5 1 1 4 187 2 11 1 2 60 2 9) = 410 (check!)
+
 python make_ab_tooltip.py match_ab_final.txt ab_tooltip.txt
+389 lines written to ab_tooltip.txt
 
 cp ab_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsab/bhsab_input.txt
+
+-----
+basicadjust.php
+ <ed>X</ed> -> <ab>X</ab>
 
 -----
 basicdisplay

@@ -1,3 +1,7 @@
+1st ed	<id>1st ed</id> <disp>first edition</disp>
+1st ed.	<id>1st ed.</id> <disp>first edition</disp>
+2d ed.	<id>2d ed.</id> <disp>second edition</disp>
+2d. ed.	<id>2d. ed.</id> <disp>second edition</disp>
 A.D.	<id>A.D.</id> <disp>In the year of our Lord (Latin Anno Domini); CE.</disp>
 abl.	<id>abl.</id> <disp>ablative.</disp>
 abs.	<id>abs.</id> <disp>absolute.</disp>
@@ -15,6 +19,7 @@ altho	<id>altho</id> <disp>although</disp>
 Altho	<id>Altho</id> <disp>Although</disp>
 AMg.	<id>AMg.</id> <disp>? (lang)</disp>
 analog.	<id>analog.</id> <disp>analogical(ly).</disp>
+AnSS.	<id>AnSS.</id> <disp>?</disp>
 aor.	<id>aor.</id> <disp>aorist.</disp>
 Ap.	<id>Ap.</id> <disp>Apabhraṃśa; Apadāna (Pali text).</disp>
 app.	<id>app.</id> <disp>apparently.</disp>
@@ -26,9 +31,12 @@ Bhvr	<id>Bhvr</id> <disp>bahuvrīhi, a class of Sanskrit compounds.</disp>
 Bhvr.	<id>Bhvr.</id> <disp>Bahuvrīhi.</disp>
 Bodhicaryāv.	<id>Bodhicaryāv.</id> <disp>Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. (?)</disp>
 Bodhis.	<id>Bodhis.</id> <disp>Bodhisattva</disp>
+Boehtlingkʼs ed.	<id>Boehtlingkʼs ed.</id> <disp>Boehtlingkʼs edition</disp>
+Bomb.	<id>Bomb.</id> <disp>Bombay edition</disp>
 Br.	<id>Br.</id> <disp>Brāhmaṇas (language of).</disp>
 Bu.	<id>Bu.</id> <disp>Buddhist.</disp>
 Buddh.	<id>Buddh.</id> <disp>Buddhist; Buddhism.</disp>
+Calc.	<id>Calc.</id> <disp>Calcutta edition</disp>
 caus.	<id>caus.</id> <disp>causative.</disp>
 Cf	<id>Cf</id> <disp>Compare.</disp>
 cf.	<id>cf.</id> <disp>compare.</disp>
@@ -57,6 +65,7 @@ cpd.	<id>cpd.</id> <disp>compound.</disp>
 cpds	<id>cpds</id> <disp>compounds.</disp>
 cpds.	<id>cpds.</id> <disp>compounds.</disp>
 Cr. ed.	<id>Cr. ed.</id> <disp>critical edition.</disp>
+Cr.ed.	<id>Cr.ed.</id> <disp>critical edition.</disp>
 crit. app.	<id>crit. app.</id> <disp>critical apparatus.</disp>
 Crit. app.	<id>Crit. app.</id> <disp>critical apparatus.</disp>
 Crit. App.	<id>Crit. App.</id> <disp>critical apparatus.</disp>
@@ -89,6 +98,7 @@ E.g.	<id>E.g.</id> <disp>for example (Latin exempli gratia)</disp>
 e.g.	<id>e.g.</id> <disp>for example (Latin exempli gratia)</disp>
 ed.	<id>ed.</id> <disp>editor, edition.</disp>
 Ed.	<id>Ed.</id> <disp>editor, edition.</disp>
+ed. Stein	<id>ed. Stein</id> <disp>Stein edition.</disp>
 edd.	<id>edd.</id> <disp>edited (?)</disp>
 Edd.	<id>Edd.</id> <disp>edited (?)</disp>
 em.	<id>em.</id> <disp>emended, emendation.</disp>
@@ -171,7 +181,11 @@ Jap.	<id>Jap.</id> <disp>Japanese.</disp>
 JM	<id>JM</id> <disp>Jaina Māhārāṣṭrī.</disp>
 JM.	<id>JM.</id> <disp>Jaina Māhārāṣṭrī.</disp>
 Karmadh.	<id>Karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds </disp>
-karmadh.	<id>karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds </disp>
+karmadh.	<id>karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds</disp>
+Kyoto	<id>Kyoto</id> <disp>Kyoto edition</disp>
+Kyoto ed.	<id>Kyoto ed.</id> <disp>Kyoto edition</disp>
+Kyōtō	<id>Kyōtō</id> <disp>Kyoto edition</disp>
+Kyōtō ed.	<id>Kyōtō ed.</id> <disp>Kyoto edition</disp>
 l.	<id>l.</id> <disp>line. (?)</disp>
 l. c.	<id>l. c.</id> <disp>in the place cited.</disp>
 Lat.	<id>Lat.</id> <disp>Latin language.</disp>
