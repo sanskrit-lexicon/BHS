@@ -343,3 +343,46 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py dev1/pywork/bhs.xml dev1/pywork/bh
 --------------------------------------
 08-07-2023 revisions (END)
 ************************************************
+
+08-08-2023 revisions (BEGIN)
+-----
+correct error in match_ab_final.txt
+  under Skt.
+python make_ab_tooltip.py match_ab_final.txt ab_tooltip.txt
+
+cp ab_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsab/bhsab_input.txt
+
+-----
+basicdisplay
+Andhrabharati suggestion:
+ " tib-, fr- and ger- strings differently from the rest (eng-) of the text
+  [may be in a different colour/background, say yellow]; "
+
+sthndl function
+For fr- and ger- and tib-
+<span style='color: brown;' title='French language'>...</span>
+etc.
+NOTE: tried beige and yellow, but text hard to read. brown may be ok,
+ noticeable but not obtrusive.
+ 
+endhndl function
+  </span>
+-----
+font.css
+i {
+    /*font-family: oldstandard_i;  08-08-2023 */
+    font-style:italic;
+}
+Using oldstandard_i the italic appears also BOLD, which is not desired.
+
+-----
+Regenerate dev1 displays
+cd ../
+sh redo.sh 1
+python /c/xampp/htdocs/cologne/xmlvalidate.py dev1/pywork/bhs.xml dev1/pywork/bhs.dtd
+
+
+Note: missing ger markup in 'unmittelbare Folge' under k1=Anantarya
+ertönen lassen
+************************************************
+08-08-2023 revisions (END)

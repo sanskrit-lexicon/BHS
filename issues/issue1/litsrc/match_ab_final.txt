@@ -330,7 +330,7 @@ Sg.	ab,1,FR1	singular.
 sing.	ab,5,FR1	singular. 
 Singhalese	lang,1,FR1	Singhalese language.
 Skt	lang,5,FR1	Sanskrit Language.
-Skt.	lang,5823,FR0	Sanskri Language.
+Skt.	lang,5823,FR0	Sanskrit Language.
 Skt. Epic.	lang,1,FR1	Sanskrit Epic poetry. (?)
 Sktism	ab,34,FR1	Sanskritism
 Sktization	ab,61,FR1	Sanskritization

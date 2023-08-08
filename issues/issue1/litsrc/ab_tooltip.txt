@@ -330,7 +330,7 @@ Sg.	<id>Sg.</id> <disp>singular.</disp>
 sing.	<id>sing.</id> <disp>singular. </disp>
 Singhalese	<id>Singhalese</id> <disp>Singhalese language.</disp>
 Skt	<id>Skt</id> <disp>Sanskrit Language.</disp>
-Skt.	<id>Skt.</id> <disp>Sanskri Language.</disp>
+Skt.	<id>Skt.</id> <disp>Sanskrit Language.</disp>
 Skt. Epic.	<id>Skt. Epic.</id> <disp>Sanskrit Epic poetry. (?)</disp>
 Sktism	<id>Sktism</id> <disp>Sanskritism</disp>
 Sktization	<id>Sktization</id> <disp>Sanskritization</disp>
