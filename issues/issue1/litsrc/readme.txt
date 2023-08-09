@@ -391,7 +391,7 @@ Andhrabharati suggestion:
   [may be in a different colour/background, say yellow]; "
 
 sthndl function
-For fr- and ger- and tib-
+For fr-, ger-, tib-,  lat-, toch-, gk-
 <span style='color: brown;' title='French language'>...</span>
 etc.
 NOTE: tried beige and yellow, but text hard to read. brown may be ok,
@@ -418,3 +418,17 @@ Note: missing ger markup in 'unmittelbare Folge' under k1=Anantarya
 ertönen lassen
 ************************************************
 08-08-2023 revisions (END)
+************************************************
+08-09-2023 revisions (BEGIN)
+match_ab_final.txt
+ Add tooltip for <ms> instance
+Ḱ	ms,1,FR1	Wogihara and Tsuchidaʼs Ḱ manuscript of Saddharmapuṇḍarīka
+
+python make_ab_tooltip.py match_ab_final.txt ab_tooltip.txt
+390 lines written to ab_tooltip.txt
+
+cp ab_tooltip.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsab/bhsab_input.txt
+
+Revise basicadjust.php to treat `<ms>X</ms>` as `<ab>X</ab>
+************************************************
+08-09-2023 revisions (END)

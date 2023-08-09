@@ -186,6 +186,7 @@ Kyoto	<id>Kyoto</id> <disp>Kyoto edition</disp>
 Kyoto ed.	<id>Kyoto ed.</id> <disp>Kyoto edition</disp>
 Kyōtō	<id>Kyōtō</id> <disp>Kyoto edition</disp>
 Kyōtō ed.	<id>Kyōtō ed.</id> <disp>Kyoto edition</disp>
+Ḱ	<id>Ḱ</id> <disp>Wogihara and Tsuchidaʼs Ḱ manuscript of Saddharmapuṇḍarīka</disp>
 l.	<id>l.</id> <disp>line. (?)</disp>
 l. c.	<id>l. c.</id> <disp>in the place cited.</disp>
 Lat.	<id>Lat.</id> <disp>Latin language.</disp>

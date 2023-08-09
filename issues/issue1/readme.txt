@@ -63,3 +63,8 @@ python diff_to_changes_dict.py temp_bhs_ab_1_orig.txt temp_bhs_ab_1.txt change_1
 452 changes  (mostly 'acr' -> 'ab')
 
 --------------------------------------------------------------------------
+meta directory
+ work to update the bhs-meta2.txt file of csl-orig
+ 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

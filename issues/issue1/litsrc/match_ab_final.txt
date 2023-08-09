@@ -387,3 +387,5 @@ vss.	ab,5,FR1	verses.
 vv.ll.	ab,82,FR0	variant readings.
 Vārt.	ab,1,FR1	vārttika, Kātyāyana critical annotations on the aphorisms of Pāṇini grammar
 w.r.	ab,2,FR0	wrong reading.
+vss.	ab,5,FR1	verses.
+Ḱ	ms,1,FR1	Wogihara and Tsuchidaʼs Ḱ manuscript of Saddharmapuṇḍarīka
