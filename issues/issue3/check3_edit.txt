@@ -1,0 +1,60 @@
+; fr
+{%confiance%}
+{%ont … en vue%}
+{%chiromancie%}
+{%congruere%}
+{%recueillements%}
+{%corps communiel%}
+{%en soi%}
+; ger
+{%propitiation, das Geneigtmachen; friendliness, affection%}
+{%beklommen werden%}
+{%Kopfpolster%}
+{%Geschwätzigkeit%}
+{%Torbogenschmuck%}
+{%Knochenbruch%}
+{%Anbiegung = Anlehnung%}
+{%ohne Anlehnung <ab>d.h.</ab> ohne Rückhalt oder Stützpunkt%}
+{%Luftgewand%}
+{%Nacktheit%}
+{%Seeadler%}
+{%haftend an%}
+{%dem Bauche zusagend%}
+{%Denkmal, Monument%}
+{%Gerücht%}
+{%Kochtopf%}
+{%Rauchpfeife%}
+{%Täuschung%}
+{%zusammengeballt%}
+{%Opferkloss%}
+{%von den Vorgängern stammend, ererbt%}
+{%Ebenbild, Gegenstück%}
+{%Geistesgegenwart%}
+{%ein Gegengift enthaltend%}
+{%Anerbieten%}
+{%eine Art Gaukelei%}
+{%Hinzufügung%}
+{%Verfertiger von mudrā%}
+{%Eintheilung, Abtheilung%}
+{%Wehklagen%}
+{%an sich heranziehen%}
+{%Güter sammelnd%}
+{%eine Verabredung habend%}
+{%Traumdeuter%}
+{%ein fürstlicher Elephant%}
+; lat (scientific names)
+{%Rumex vesicarius%}
+{%Hippophae rhamnoides%}
+{%Cuculus melanoleucus%}
+{%Panicum miliaceum%}
+{%Symplocos racemosa%}
+{%Grewia asiatica ?%}
+{%juice of Grewia asiatica%}
+{%Agati grandiflora%}
+{%Costus speciosus oder arabicus%}
+{%Vitex negundo%}
+; misc
+{%when you provide illumiṅation%}
+{%a young wife; a young matroṇ%}
+{%dasket%}
+{%railing, <ger>balustrade</ger>%}

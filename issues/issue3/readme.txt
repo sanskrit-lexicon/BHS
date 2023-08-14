@@ -98,7 +98,55 @@ sh xmlchk_xampp.sh bhs
 
 cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3
 ------------------------------------------------------
+08-13-2023
+Acc. to Andhrabharati, there still remains unmarked
+German, and perhaps other language, text.
+
+
+Generate list of ALL unmarked italic text;
+  restrict to italic text fragments which contain at
+  least one word not recognized as english.
+
+  For english word list, use temp_words_alpha.txt,
+  a copy of https://github.com/dwyl/english-words/blob/master/words_alpha.txt
+  
+  
+python check3.py temp_bhs_2.txt temp_words_alpha.txt check3.txt
+1152 italic phrases identified as containing non-english.
+
+check3_edit.txt
+ Those from check3.txt that need correction
+
+python check3a_edit.py check3_edit.txt temp_check3a_edit.txt
+  # reformat
+ cp temp_check3a_edit.txt check3a_edit.txt
+ manually make correcctions to the 'new'
+
+# generate change file
+python change3.py temp_bhs_2.txt check3a_edit.txt change_3.txt
+56 read from check3a_edit.txt
+53 changes written to change_3.txt
+
+# apply changes
+python updateByLine.py temp_bhs_2.txt change_3.txt temp_bhs_3.txt
+53 change transactions from change_3.txt
+
+# requires change to one.dtd, so <ab> can be within <ger>
+------------------------------------------------------
+local install and check version 3
+cp temp_bhs_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/bhs/bhs.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bhs  ../../bhs
+sh xmlchk_xampp.sh bhs
+# ok!
+
+cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3
+------------------------------------------------------
+
+------------------------------------------------------
+
 revise this BHS repository
+
 
 ------------------------------------------------------
 TODO cdsl install

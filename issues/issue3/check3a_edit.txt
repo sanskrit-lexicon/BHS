@@ -1,0 +1,180 @@
+; *****************************************************************************************
+; *** fr
+; *****************************************************************************************
+old: {%confiance%}
+new: {%<fr>confiance</fr>%}
+;
+old: {%ont … en vue%}
+new: {%<fr>ont … en vue</fr>%}
+;
+old: {%chiromancie%}
+new: {%<fr>chiromancie</fr>%}
+;
+old: {%congruere%}
+new: {%<fr>congruere</fr>%}
+;
+old: {%recueillements%}
+new: {%<fr>recueillements</fr>%}
+;
+old: {%corps communiel%}
+new: {%<fr>corps communiel</fr>%}
+;
+old: {%en soi%}
+new: {%<fr>en soi</fr>%}
+;
+; *****************************************************************************************
+; *** ger
+; *****************************************************************************************
+old: {%propitiation, das Geneigtmachen; friendliness, affection%}
+new: {%propitiation%}, {%<ger>das Geneigtmachen</ger>%}; {%friendliness, affection%}
+;
+old: {%beklommen werden%}
+new: {%<ger>beklommen werden</ger>%}
+;
+old: {%Kopfpolster%}
+new: {%<ger>Kopfpolster</ger>%}
+;
+old: {%Geschwätzigkeit%}
+new: {%<ger>Geschwätzigkeit</ger>%}
+;
+old: {%Torbogenschmuck%}
+new: {%<ger>Torbogenschmuck</ger>%}
+;
+old: {%Knochenbruch%}
+new: {%<ger>Knochenbruch</ger>%}
+;
+old: {%Anbiegung = Anlehnung%}
+new: {%<ger>Anbiegung = Anlehnung</ger>%}
+;
+old: {%ohne Anlehnung <ab>d.h.</ab> ohne Rückhalt oder Stützpunkt%}
+new: {%<ger>ohne Anlehnung <ab>d.h.</ab> ohne Rückhalt oder Stützpunkt</ger>%}
+;
+old: {%Luftgewand%}
+new: {%<ger>Luftgewand</ger>%}
+;
+old: {%Nacktheit%}
+new: {%<ger>Nacktheit</ger>%}
+;
+old: {%Seeadler%}
+new: {%<ger>Seeadler</ger>%}
+;
+old: {%haftend an%}
+new: {%<ger>haftend an</ger>%}
+;
+old: {%dem Bauche zusagend%}
+new: {%<ger>dem Bauche zusagend</ger>%}
+;
+old: {%Denkmal, Monument%}
+new: {%<ger>Denkmal</ger>, Monument%}
+;
+old: {%Gerücht%}
+new: {%<ger>Gerücht</ger>%}
+;
+old: {%Kochtopf%}
+new: {%<ger>Kochtopf</ger>%}
+;
+old: {%Rauchpfeife%}
+new: {%<ger>Rauchpfeife</ger>%}
+;
+old: {%Täuschung%}
+new: {%<ger>Täuschung</ger>%}
+;
+old: {%zusammengeballt%}
+new: {%<ger>zusammengeballt</ger>%}
+;
+old: {%Opferkloss%}
+new: {%<ger>Opferkloss</ger>%}
+;
+old: {%von den Vorgängern stammend, ererbt%}
+new: {%<ger>von den Vorgängern stammend, ererbt</ger>%}
+;
+old: {%Ebenbild, Gegenstück%}
+new: {%<ger>Ebenbild, Gegenstück</ger>%}
+;
+old: {%Geistesgegenwart%}
+new: {%<ger>Geistesgegenwart</ger>%}
+;
+old: {%ein Gegengift enthaltend%}
+new: {%<ger>ein Gegengift enthaltend</ger>%}
+;
+old: {%Anerbieten%}
+new: {%<ger>Anerbieten</ger>%}
+;
+old: {%eine Art Gaukelei%}
+new: {%<ger>eine Art Gaukelei</ger>%}
+;
+old: {%Hinzufügung%}
+new: {%<ger>Hinzufügung</ger>%}
+;
+old: {%Verfertiger von mudrā%}
+new: {%<ger>Verfertiger von mudrā</ger>%}
+;
+old: {%Eintheilung, Abtheilung%}
+new: {%<ger>Eintheilung, Abtheilung</ger>%}
+;
+old: {%Wehklagen%}
+new: {%<ger>Wehklagen</ger>%}
+;
+old: {%an sich heranziehen%}
+new: {%<ger>an sich heranziehen</ger>%}
+;
+old: {%Güter sammelnd%}
+new: {%<ger>Güter sammelnd</ger>%}
+;
+old: {%eine Verabredung habend%}
+new: {%<ger>eine Verabredung habend</ger>%}
+;
+old: {%Traumdeuter%}
+new: {%<ger>Traumdeuter</ger>%}
+;
+old: {%ein fürstlicher Elephant%}
+new: {%<ger>ein fürstlicher Elephant</ger>%}
+;
+; *****************************************************************************************
+; *** lat (scientific names)
+; *****************************************************************************************
+old: {%Rumex vesicarius%}
+new: {%<lat>Rumex vesicarius</lat>%}
+;
+old: {%Hippophae rhamnoides%}
+new: {%<lat>Hippophae rhamnoides</lat>%}
+;
+old: {%Cuculus melanoleucus%}
+new: {%<lat>Cuculus melanoleucus</lat>%}
+;
+old: {%Panicum miliaceum%}
+new: {%<lat>Panicum miliaceum</lat>%}
+;
+old: {%Symplocos racemosa%}
+new: {%<lat>Symplocos racemosa</lat>%}
+;
+old: {%Grewia asiatica ?%}
+new: {%<lat>Grewia asiatica ?</lat>%}
+;
+old: {%juice of Grewia asiatica%}
+new: {%<lat>juice of Grewia asiatica</lat>%}
+;
+old: {%Agati grandiflora%}
+new: {%<lat>Agati grandiflora</lat>%}
+;
+old: {%Costus speciosus oder arabicus%}
+new: {%<lat>Costus speciosus oder arabicus</lat>%}
+;
+old: {%Vitex negundo%}
+new: {%<lat>Vitex negundo</lat>%}
+;
+; *****************************************************************************************
+; *** misc
+; *****************************************************************************************
+old: {%when you provide illumiṅation%}
+new: {%when you provide illumination%}
+;
+old: {%a young wife; a young matroṇ%}
+new: {%a young wife; a young matron%}
+;
+old: {%dasket%}
+new: {%basket%}
+;
+old: {%railing, <ger>balustrade</ger>%}
+new: {%railing, balustrade%}
+;
