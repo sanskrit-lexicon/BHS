@@ -178,3 +178,42 @@ new: {%basket%}
 old: {%railing, <ger>balustrade</ger>%}
 new: {%railing, balustrade%}
 ;
+; *****************************************************************************************
+; Additional changes
+; *****************************************************************************************
+old: {%Geringachtung%}
+new: {%<ger>Geringachtung</ger>%}
+;
+old: {%abgeschabt%}
+new: {%<ger>abgeschabt</ger>%}
+;
+old: {%ganz von Gold%}
+new: {%<ger>ganz von Gold</ger>%}
+;
+old: {%werden%}
+new: {%<ger>werden</ger>%}
+;
+old: {%basis, support, <fr>point ď appui</fr>; basis, reason%}
+new: {%basis, support, <fr>point ďappui</fr>; basis, reason%}
+;
+old: {%chose en soi; notation%}
+new: {%<fr>chose en soi; notation</fr>%}
+;
+old: {%‘ressource-respective’%}
+new: {%<fr>‘ressource-respective’</fr>%}
+;
+old: {%viennent%}
+new: {%<fr>viennent</fr>%}
+;
+old: {%abstract meditations, trances, recueillements ?%}
+new: {%abstract meditations, trances, <fr>recueillements</fr> ?%}
+;
+old: {%make to dwelī in%}
+new: {%make to dwell in%}
+;
+old: {%but since people have faith in Brahmc%}
+new: {%but since people have faith in Brahma%}
+;
+old: {%Anethum graveolens%}
+new: {%<lat>Anethum graveolens</lat>%}
+;

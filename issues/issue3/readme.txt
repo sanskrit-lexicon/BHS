@@ -115,23 +115,25 @@ python check3.py temp_bhs_2.txt temp_words_alpha.txt check3.txt
 1152 italic phrases identified as containing non-english.
 
 check3_edit.txt
- Those from check3.txt that need correction
-
+ Those from check3.txt that need correction (chosen manually) from check3.txt
+ 
 python check3a_edit.py check3_edit.txt temp_check3a_edit.txt
   # reformat
  cp temp_check3a_edit.txt check3a_edit.txt
  manually make correcctions to the 'new'
-
+ Note: 08-14-2023  Modified for 11 additional changes.
+ 
 # generate change file
 python change3.py temp_bhs_2.txt check3a_edit.txt change_3.txt
-56 read from check3a_edit.txt
-53 changes written to change_3.txt
+68 read from check3a_edit.txt
+64 changes written to change_3.txt
 
 # apply changes
 python updateByLine.py temp_bhs_2.txt change_3.txt temp_bhs_3.txt
-53 change transactions from change_3.txt
+64 change transactions from change_3.txt
 
 # requires change to one.dtd, so <ab> can be within <ger>
+------------------------------------------------------
 ------------------------------------------------------
 local install and check version 3
 cp temp_bhs_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/bhs/bhs.txt
