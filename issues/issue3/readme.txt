@@ -121,11 +121,11 @@ python check3a_edit.py check3_edit.txt temp_check3a_edit.txt
   # reformat
  cp temp_check3a_edit.txt check3a_edit.txt
  manually make correcctions to the 'new'
- Note: 08-14-2023  Modified for 11 additional changes.
+ Note: 08-14-2023  Modified for 13 additional changes.
  
 # generate change file
 python change3.py temp_bhs_2.txt check3a_edit.txt change_3.txt
-68 read from check3a_edit.txt
+70 read from check3a_edit.txt
 64 changes written to change_3.txt
 
 # apply changes

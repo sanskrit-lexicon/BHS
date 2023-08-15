@@ -217,3 +217,8 @@ new: {%but since people have faith in Brahma%}
 old: {%Anethum graveolens%}
 new: {%<lat>Anethum graveolens</lat>%}
 ;
+old: {%par connexion%}
+new: {%<fr>par connexion</fr>%}
+;
+old: {%Aeschynomene grandiflora%}
+new: {%<lat>Aeschynomene grandiflora</lat>%}
