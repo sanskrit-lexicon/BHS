@@ -157,3 +157,11 @@ sh xmlchk_xampp.sh bhs
 
 cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3/compare/
 -----------------------------------------------------------------
+
+--- sync this repository to github
+cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3/compare/
+git add .
+git commit -m "'compare' directory markup changes. #3"
+git push
+
+manually upload ../ temp_bhs_6.txt as latest version of bhs.txt
