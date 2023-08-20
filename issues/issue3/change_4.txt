@@ -1,0 +1,118 @@
+; <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?),°budDati
+; old: <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?),°budDati
+; new: <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?), °budDati
+; -----
+6782 old <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?),°budDati
+;
+6782 new <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?), °budDati
+; --------------------------------------------------------
+; <L>2851<pc>101,1<k1>Amlavetasa<k2>Amlavetasa
+; old: <lat>Rumex vesicarius</lat>
+; new: <bot>Rumex vesicarius</bot>
+; -----
+; old: <lat>Hippophae rhamnoides</lat>
+; new: <bot>Hippophae rhamnoides</bot>
+; -----
+11453 old {@āmlavetasa@}¦, <lex>m.</lex> (= <lang>Skt.</lang> amla°, and <ab>lex.</ab> āmla°), <ab>n.</ab> of a plant, a kind of sorrel, {%<lat>Rumex vesicarius</lat>%}: <ls>Mvy</ls> 〔5780〕 = <lang>Tib.</lang> <tib>star bu</tib>, <ab>acc.</ab> to <ls>Jäschke</ls> {%<lat>Hippophae rhamnoides</lat>%}, but ‘<ab>acc.</ab> to a {%<ab>Lex.</ab>%} also a kind of sorrel in India.’
+;
+11453 new {@āmlavetasa@}¦, <lex>m.</lex> (= <lang>Skt.</lang> amla°, and <ab>lex.</ab> āmla°), <ab>n.</ab> of a plant, a kind of sorrel, {%<bot>Rumex vesicarius</bot>%}: <ls>Mvy</ls> 〔5780〕 = <lang>Tib.</lang> <tib>star bu</tib>, <ab>acc.</ab> to <ls>Jäschke</ls> {%<bot>Hippophae rhamnoides</bot>%}, but ‘<ab>acc.</ab> to a {%<ab>Lex.</ab>%} also a kind of sorrel in India.’
+; --------------------------------------------------------
+; <L>4564<pc>171,2<k1>kalambukA<k2>kalambukA
+; old: <lat>convolvulus repens?</lat>
+; new: <bot>convolvulus repens?</bot>
+; -----
+18329 old ({@kalambukā@}¦ [rare in <lang>Skt.</lang>, and only Jain?; once in <lang>Pali</lang>; <ab>perh.</ab> = <lang>Skt.</lang> kalamba, °baka, °bikā, {%<lat>convolvulus repens?</lat>%}], <ab>n.</ab> of a creeper, to which a vana-latā is compared in a complimentary way: <ls>Mv</ls> 〔i.341.6〕; 〔345.11〕.)
+;
+18329 new ({@kalambukā@}¦ [rare in <lang>Skt.</lang>, and only Jain?; once in <lang>Pali</lang>; <ab>perh.</ab> = <lang>Skt.</lang> kalamba, °baka, °bikā, {%<bot>convolvulus repens?</bot>%}], <ab>n.</ab> of a creeper, to which a vana-latā is compared in a complimentary way: <ls>Mv</ls> 〔i.341.6〕; 〔345.11〕.)
+; --------------------------------------------------------
+; <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya,konAgamuni
+; old: <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya,konAgamuni
+; new: <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya, konAgamuni
+; -----
+21024 old <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya,konAgamuni
+;
+21024 new <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya, konAgamuni
+; --------------------------------------------------------
+; <L>5426<pc>202,2<k1>KaYjAhva<k2>KaYjAhva
+; old: <lat>Cuculus melanoleucus</lat>
+; new: <bot>Cuculus melanoleucus</bot>
+; -----
+21783 old {@khañjāhva@}¦, <lex>m.</lex>, some sort of bird; <ab>acc.</ab> to <ls>pw</ls> 〔7 App.〕, {%the water-wagtail%} (assuming identity of <ab>mg.</ab> with <lang>Skt.</lang> khañjana): <ls>Mvy</ls> 〔4911〕. But <lang>Tib.</lang> <tib>ba mo byi ḥu</tib>; <ab>acc.</ab> to <ls>Das</ls>, this—or rather <tib>ba moḥi byi ḥu</tib>—means the <lang>Skt.</lang> cātaka, {%<lat>Cuculus melanoleucus</lat>%}.
+;
+21783 new {@khañjāhva@}¦, <lex>m.</lex>, some sort of bird; <ab>acc.</ab> to <ls>pw</ls> 〔7 App.〕, {%the water-wagtail%} (assuming identity of <ab>mg.</ab> with <lang>Skt.</lang> khañjana): <ls>Mvy</ls> 〔4911〕. But <lang>Tib.</lang> <tib>ba mo byi ḥu</tib>; <ab>acc.</ab> to <ls>Das</ls>, this—or rather <tib>ba moḥi byi ḥu</tib>—means the <lang>Skt.</lang> cātaka, {%<bot>Cuculus melanoleucus</bot>%}.
+; --------------------------------------------------------
+; <L>6292<pc>231,1<k1>cinnaka<k2>cinnaka
+; old: <lat>Panicum miliaceum</lat>
+; new: <bot>Panicum miliaceum</bot>
+; -----
+25253 old {@cinnaka@}¦, <lex>m.</lex> (presumably = <lang>Skt.</lang> cīna, cīnaka, and <ab>Lex.</ab> cinna, {%<lat>Panicum miliaceum</lat>%}; <ab>cf.</ab> also <lang>AMg.</lang> ciṇṇa, {%Chinese%}), {%a kind of grain%} or {%legume%}: kodravo vā śyāmako vā cinnako vā priyaṃgur vā … <ls>Mv</ls> 〔ii.211.14〕.
+;
+25253 new {@cinnaka@}¦, <lex>m.</lex> (presumably = <lang>Skt.</lang> cīna, cīnaka, and <ab>Lex.</ab> cinna, {%<bot>Panicum miliaceum</bot>%}; <ab>cf.</ab> also <lang>AMg.</lang> ciṇṇa, {%Chinese%}), {%a kind of grain%} or {%legume%}: kodravo vā śyāmako vā cinnako vā priyaṃgur vā … <ls>Mv</ls> 〔ii.211.14〕.
+; --------------------------------------------------------
+; <L>6740<pc>246,1<k1>jyotis<k2>jyotis
+; old: <lat>Trigonella foenum graecum</lat>
+; new: <bot>Trigonella foenum graecum</bot>
+; -----
+27053 old {@jyotis@}¦, ({@1@}) a kind of flower (<ab>qy</ab>: {%<lat>Trigonella foenum graecum</lat> ?%} so <lang>Skt.</lang> <ab>Lex.</ab>): jyotir-mālikā- <ls>LV</ls> 〔11.3〕 (prose); <lang>Tib.</lang> proves that jyotis was understood as a separate name of a flower: <tib>me tog</tib> ({%flower%}) <tib>snaṅ ḥod</tib> ({%bright light%}) <tib>daṅ ma li ka daṅ</tib>, <ab>etc.</ab>; ({@2@}) <ab>n.</ab> of a (brahman-)youth: Jyotirmāṇavakaṃ (<lex>acc.</lex>) <ls>Śikṣ</ls> 〔167.3〕, cited from Upāyakauśalyasūtra.
+;
+27053 new {@jyotis@}¦, ({@1@}) a kind of flower (<ab>qy</ab>: {%<bot>Trigonella foenum graecum</bot> ?%} so <lang>Skt.</lang> <ab>Lex.</ab>): jyotir-mālikā- <ls>LV</ls> 〔11.3〕 (prose); <lang>Tib.</lang> proves that jyotis was understood as a separate name of a flower: <tib>me tog</tib> ({%flower%}) <tib>snaṅ ḥod</tib> ({%bright light%}) <tib>daṅ ma li ka daṅ</tib>, <ab>etc.</ab>; ({@2@}) <ab>n.</ab> of a (brahman-)youth: Jyotirmāṇavakaṃ (<lex>acc.</lex>) <ls>Śikṣ</ls> 〔167.3〕, cited from Upāyakauśalyasūtra.
+; --------------------------------------------------------
+; <L>6963<pc>253,2<k1>tirIwI<k2>tirIwI, °wi
+; old: <lat>Symplocos racemosa</lat>
+; new: <bot>Symplocos racemosa</bot>
+; -----
+27957 old {@tirīṭī, °ṭi@}¦ (<ab>cf.</ab> <lang>Skt.</lang> tirīṭa, {%<lat>Symplocos racemosa</lat>%}; <lang>Pali</lang> °ṭa, °ṭaka, this tree, also {%a garment%} made of its bark), {%a garment of bark%} (of the above tree): °ṭīṃ dhārayitum, tirīṭi iti valkalaḥ <ls>MSV</ls> 〔ii.94.13〕; °ṭim <ab>ib.</ab> 〔91.17〕.
+;
+27957 new {@tirīṭī, °ṭi@}¦ (<ab>cf.</ab> <lang>Skt.</lang> tirīṭa, {%<bot>Symplocos racemosa</bot>%}; <lang>Pali</lang> °ṭa, °ṭaka, this tree, also {%a garment%} made of its bark), {%a garment of bark%} (of the above tree): °ṭīṃ dhārayitum, tirīṭi iti valkalaḥ <ls>MSV</ls> 〔ii.94.13〕; °ṭim <ab>ib.</ab> 〔91.17〕.
+; --------------------------------------------------------
+; <L>9458<pc>343,1<k1>pAruzaka<k2>pAruzaka
+; old: <lat>Grewia asiatica ?</lat>
+; new: <bot>Grewia asiatica ?</bot>
+; -----
+37963 old {@pāruṣaka@}¦, ({@1@}) <lex>nt.</lex> (and, in °kā-vana, or pārūṣakā-, seemingly <lex>fem.</lex>; = <lang>Pali</lang> phārusaka; <ab>cf.</ab> {@pāruṣyaka@}; <ab>perh.</ab> <ab>cf.</ab> <lang>Skt.</lang> parūṣa, °ṣaka, {%<lat>Grewia asiatica ?</lat>%} <ab>cf.</ab> next, 2), <ab>n.</ab> of a flower (<ab>cf.</ab> also {@mahāpāru°@}): °kam <ls>Mvy</ls> 〔6162〕; pāruṣakā-vanam (<ls>Mironov</ls> pārūṣakā-) <ls>Mvy</ls> 〔4196〕 = {@pāruṣyaka@}, <ab>q.v.</ab>; ({@2@}) <lex>adj.</lex> = {@pāruṣika@} (1), <ab>q.v.</ab>: <ls>Gv</ls> 〔159.14〕.
+;
+37963 new {@pāruṣaka@}¦, ({@1@}) <lex>nt.</lex> (and, in °kā-vana, or pārūṣakā-, seemingly <lex>fem.</lex>; = <lang>Pali</lang> phārusaka; <ab>cf.</ab> {@pāruṣyaka@}; <ab>perh.</ab> <ab>cf.</ab> <lang>Skt.</lang> parūṣa, °ṣaka, {%<bot>Grewia asiatica ?</bot>%} <ab>cf.</ab> next, 2), <ab>n.</ab> of a flower (<ab>cf.</ab> also {@mahāpāru°@}): °kam <ls>Mvy</ls> 〔6162〕; pāruṣakā-vanam (<ls>Mironov</ls> pārūṣakā-) <ls>Mvy</ls> 〔4196〕 = {@pāruṣyaka@}, <ab>q.v.</ab>; ({@2@}) <lex>adj.</lex> = {@pāruṣika@} (1), <ab>q.v.</ab>: <ls>Gv</ls> 〔159.14〕.
+; --------------------------------------------------------
+; <L>9459<pc>343,1<k1>pAruzika<k2>pAruzika
+; old: <lat>juice of Grewia asiatica</lat>
+; new: juice of <bot>Grewia asiatica</bot>
+; -----
+37967 old {@pāruṣika@}¦, ({@1@}) <lex>adj.</lex> (also {@°ṣaka@} 2, <ab>q.v.</ab>; to <lang>Skt.</lang> paruṣa plus -ika), {%harsh in speech%}: <ls>Divy</ls> 〔301.24〕; <ls>Gv</ls> 〔228.14〕; 〔352.18〕; <ls>Bbh</ls> 〔168.11〕; ({@2@}) (-pānam), <ab>acc.</ab> to <ls>Dutt</ls>, {%<lat>juice of Grewia asiatica</lat>%}: <ls>MSV</ls> 〔i.ii.19〕 (<ab>cf.</ab> <ab>prec.</ab>, 1).
+;
+37967 new {@pāruṣika@}¦, ({@1@}) <lex>adj.</lex> (also {@°ṣaka@} 2, <ab>q.v.</ab>; to <lang>Skt.</lang> paruṣa plus -ika), {%harsh in speech%}: <ls>Divy</ls> 〔301.24〕; <ls>Gv</ls> 〔228.14〕; 〔352.18〕; <ls>Bbh</ls> 〔168.11〕; ({@2@}) (-pānam), <ab>acc.</ab> to <ls>Dutt</ls>, {%juice of <bot>Grewia asiatica</bot>%}: <ls>MSV</ls> 〔i.ii.19〕 (<ab>cf.</ab> <ab>prec.</ab>, 1).
+; --------------------------------------------------------
+; <L>10834<pc>397,1<k1>bakapuzpa<k2>baka-puzpa
+; old: <lat>Agati grandiflora</lat>
+; new: <bot>Agati grandiflora</bot>
+; -----
+; old: <lat>Aeschynomene grandiflora</lat>
+; new: <bot>Aeschynomene grandiflora</bot>
+; -----
+43471 old {@baka-puṣpa@}¦, <lex>nt.</lex> (<lang>Skt.</lang> <ab>Lex.</ab>, {%<lat>Agati grandiflora</lat>%}, <ls>BR</ls>), <ab>n.</ab> of a flower: <ls>Mvy</ls> 〔6213〕 = <lang>Tib.</lang> <tib>spra baḥi me tog</tib>, which <ls>Das</ls> says is {%<lat>Aeschynomene grandiflora</lat>%}.
+;
+43471 new {@baka-puṣpa@}¦, <lex>nt.</lex> (<lang>Skt.</lang> <ab>Lex.</ab>, {%<bot>Agati grandiflora</bot>%}, <ls>BR</ls>), <ab>n.</ab> of a flower: <ls>Mvy</ls> 〔6213〕 = <lang>Tib.</lang> <tib>spra baḥi me tog</tib>, which <ls>Das</ls> says is {%<bot>Aeschynomene grandiflora</bot>%}.
+; --------------------------------------------------------
+; <L>14704<pc>518,2<k1>vyAmaka<k2>vyAmaka
+; old: <lat>Costus speciosus oder arabicus</lat>
+; new: <bot>Costus speciosus oder arabicus</bot>
+; -----
+58987 old {@vyāmaka@}¦, <lex>nt.</lex>, <ab>n.</ab> of a medicinal plant: <ls>Suv</ls> 〔104.7〕. So <ab>mss.</ab>; <ls>Nobel</ls> <ab>em.</ab> jñāmakaṃ on the basis of some <lang>Tib.</lang> and <lang>Chin.</lang> versions. But <ab>cf.</ab> vyāma, {%<lat>Costus speciosus oder arabicus</lat>%}, <ls>Vār.Bṛ.S.</ls> 〔77.7〕 (<ls>pw</ls>).
+;
+58987 new {@vyāmaka@}¦, <lex>nt.</lex>, <ab>n.</ab> of a medicinal plant: <ls>Suv</ls> 〔104.7〕. So <ab>mss.</ab>; <ls>Nobel</ls> <ab>em.</ab> jñāmakaṃ on the basis of some <lang>Tib.</lang> and <lang>Chin.</lang> versions. But <ab>cf.</ab> vyāma, {%<bot>Costus speciosus oder arabicus</bot>%}, <ls>Vār.Bṛ.S.</ls> 〔77.7〕 (<ls>pw</ls>).
+; --------------------------------------------------------
+; <L>15196<pc>533,1<k1>SEleya<k2>SEleya
+; old: <lat>Anethum graveolens</lat>
+; new: <bot>Anethum graveolens</bot>
+; -----
+60957 old {@śaileya@}¦, <lex>nt.</lex>, a kind of medicinal plant or substance: pattra-°yaṃ (in a list) <ls>Suv</ls> 〔105.1〕 (<ab>vs</ab>); the word seems to be a dvandva; <lang>Tib.</lang> <tib>rdo dreg</tib> (<ab>acc.</ab> to <ls>Das</ls>, {%pitch%}; <lang>Skt.</lang> śaileya, {%bitumen%}) <tib>lo ma</tib> ({%leaf%}; but see <ls>Nobel</ls> 〔p. 267 lines 1—2〕, where <lang>Chin.</lang> seems to make pattra a plant); in <lang>Skt.</lang> <ab>Lex.</ab> śaileya is said to mean {%<lat>Anethum graveolens</lat>%}.
+;
+60957 new {@śaileya@}¦, <lex>nt.</lex>, a kind of medicinal plant or substance: pattra-°yaṃ (in a list) <ls>Suv</ls> 〔105.1〕 (<ab>vs</ab>); the word seems to be a dvandva; <lang>Tib.</lang> <tib>rdo dreg</tib> (<ab>acc.</ab> to <ls>Das</ls>, {%pitch%}; <lang>Skt.</lang> śaileya, {%bitumen%}) <tib>lo ma</tib> ({%leaf%}; but see <ls>Nobel</ls> 〔p. 267 lines 1—2〕, where <lang>Chin.</lang> seems to make pattra a plant); in <lang>Skt.</lang> <ab>Lex.</ab> śaileya is said to mean {%<bot>Anethum graveolens</bot>%}.
+; --------------------------------------------------------
+; <L>16848<pc>596,1<k1>sinDuvArita<k2>sinDuvArita
+; old: <lat>Vitex negundo</lat>
+; new: <bot>Vitex negundo</bot>
+; -----
+67605 old {@sindhuvārita@}¦ (<lex>m.</lex>; <lang>Pali</lang> and <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>; <lang>Skt.</lang> °vāra, °vāraka, °vārikā; also sindu° in <lang>Skt.</lang> and <lang>Pali</lang>), a certain tree, {%<lat>Vitex negundo</lat>%}: <ls>Kalpanāmaṇḍitikā, Lüders, Kl. Skt. Texte 2</ls>, 〔p. 45〕 (<ls>fragm. 23 V 2</ls>); °ta-gandharāja, a kind of perfume, <ls>Gv</ls> 〔153.14〕.
+;
+67605 new {@sindhuvārita@}¦ (<lex>m.</lex>; <lang>Pali</lang> and <lang>Skt.</lang> <ab>Lex.</ab> <ab>id.</ab>; <lang>Skt.</lang> °vāra, °vāraka, °vārikā; also sindu° in <lang>Skt.</lang> and <lang>Pali</lang>), a certain tree, {%<bot>Vitex negundo</bot>%}: <ls>Kalpanāmaṇḍitikā, Lüders, Kl. Skt. Texte 2</ls>, 〔p. 45〕 (<ls>fragm. 23 V 2</ls>); °ta-gandharāja, a kind of perfume, <ls>Gv</ls> 〔153.14〕.
+; --------------------------------------------------------

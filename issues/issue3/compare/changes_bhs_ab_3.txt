@@ -1,0 +1,85 @@
+; 08-18-2023
+In resolving the abbreviation markup differences between Andhrabharati's 
+ https://github.com/sanskrit-lexicon/BHS/files/12352388/BHS-AB_2.zip
+and the cdsl version,
+several changes were made to copy temp_bhs_ab_3.txt:
+
+------------------------------------------------------------
+CHANGES for tags other than '<ls>'
+------------------------------------------------------------
+
+These always occur in french text
+ʼ U+02BC MODIFIER LETTER APOSTROPHE
+ď → dʼ  global change
+ľ → lʼ  global change
+Ľ -> Lʼ global change
+
+NOTE:  ’ U+2019 RIGHT SINGLE QUOTE MARK (used for quoted text)
+
+old: <fr>a fortiori</fr>
+new: <ab>a fortiori</ab>   
+----
+<L>1171<pc>040,1<k1>antaHSalya
+old: <ger>inner dart</ger>
+new: inner dart
+
+<L>3163<pc>115,1<k1>indrapawa
+old: <ger>so <ab>v.a.</ab></ger>
+new: so <ab>v.a.</ab>
+
+<L>6914<pc>251,2<k1>tAyin
+old: <ger>wohl nur fehlerhaft für</ger> trāyin
+new: <ger>wohl nur fehlerhaft für trāyin</ger>
+
+<L>9612<pc>347,2<k1>purasta ? Cannot find Ledder as German word
+
+<L>10125<pc>369,1<k1>prativiza  wolfsbane is English common name of plant
+old: <ger>wolfsbane</ger>
+new: wolfsbane
+
+<L>10517<pc>386,1<k1>pravicAraRa
+old: <ger>so <ab>v.a.</ab></ger>
+new: so <ab>v.a.</ab>
+
+global change
+<lat>ibidem</lat> -> <ab>ibidem</ab>  6
+<lat>et alibi</lat> -> <ab>et alibi</ab> 83
+<lat>et passim</lat> -> <ab>et passim</ab> 25
+<lat>passim</lat> -> <ab>passim</ab> 22
+
+<L>4564<pc>171,2<k1>kalambukA
+old: {%convolvulus repens?%}
+new: {%<bot>convolvulus repens?</bit<%}
+
+<L>5940<pc>219,1<k1>grAmeluka
+old: <lang n="Māgadhi">Mg.</lang>
+new: <ab n="Māgadhi">Mg.</ab>
+Reason: cdsl interprets <lang n="X">Y</lang>  : Y is text in language X
+
+------------------------------------------------------------
+CHANGES FOR <ls>
+------------------------------------------------------------
+<L>6220<pc>229,1<k1>cAru
+old: Caraka
+new: <ls>Caraka</ls>
+
+<L>3933<pc>149,1<k1>ullumpati
+old: <ls>BR.</ls>
+new: <ls>BR</ls>
+
+<L>4353<pc>165,2<k1>kaqambA
+old: <ls>Mahāsamāj</ls>
+new: <ls>Mahāsamāj.</ls>
+
+<L>4508<pc>169,2<k1>karuRA
+old: <ls>Mahāsamāj</ls>
+new: <ls>Mahāsamāj.</ls>
+
+<L>11786<pc>424,1<k1>mahABIzma
+old: <ls>Mahāsamāj., [Page424-b] Waldschmidt, Kl. Skt. Texte 4</ls>
+new: [Page424-b] <ls>Mahāsamāj., Waldschmidt, Kl. Skt. Texte 4</ls>
+
+<L>3858<pc>146,1<k1>upAnaha
+old: <ls n="Śāṅkh. Gṛhy. Sūt.">ŚGS</ls>
+new: <ls>ŚGS</ls>
+Note: 'n' attribute serves another purpose for 'ls' element

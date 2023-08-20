@@ -1,0 +1,54 @@
+; next is not bot. False positive
+; old: <lat>inter</lat>
+; new: <bot>inter</bot>
+;
+old: <lat>Rumex vesicarius</lat>
+new: <bot>Rumex vesicarius</bot>
+;
+old: <lat>Hippophae rhamnoides</lat>
+new: <bot>Hippophae rhamnoides</bot>
+;
+old: <lat>convolvulus repens?</lat>
+new: <bot>convolvulus repens?</bot>
+;
+old: <lat>Cuculus melanoleucus</lat>
+new: <bot>Cuculus melanoleucus</bot>
+;
+old: <lat>Panicum miliaceum</lat>
+new: <bot>Panicum miliaceum</bot>
+;
+old: <lat>Trigonella foenum graecum</lat>
+new: <bot>Trigonella foenum graecum</bot>
+;
+old: <lat>Symplocos racemosa</lat>
+new: <bot>Symplocos racemosa</bot>
+;
+old: <lat>Grewia asiatica ?</lat>
+new: <bot>Grewia asiatica ?</bot>
+;
+old: <lat>juice of Grewia asiatica</lat>
+new: juice of <bot>Grewia asiatica</bot>
+;
+old: <lat>Agati grandiflora</lat>
+new: <bot>Agati grandiflora</bot>
+;
+old: <lat>Aeschynomene grandiflora</lat>
+new: <bot>Aeschynomene grandiflora</bot>
+;
+old: <lat>Costus speciosus oder arabicus</lat>
+new: <bot>Costus speciosus oder arabicus</bot>
+;
+old: <lat>Anethum graveolens</lat>
+new: <bot>Anethum graveolens</bot>
+;
+old: <lat>Vitex negundo</lat>
+new: <bot>Vitex negundo</bot>
+;
+; minor change in k2 field for two entries.
+; based on temp_bhs_ab_2.txt
+;
+old: <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?),°budDati
+new: <L>1686.1<pc>058,2<k1>aBisaMbuDyate<k2>aBisaMbuDyate, °ti, °boDati, °buDati (?), °budDati
+;
+old: <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya,konAgamuni
+new: <L>5237.1<pc>194,2<k1>konAka<k2>konAka(-nAma), konAkamuni, konAka-sAhvaya, konAgamuni

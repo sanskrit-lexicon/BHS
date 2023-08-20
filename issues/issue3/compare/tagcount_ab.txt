@@ -1,0 +1,424 @@
+   1	ed	1st ed	<id>1st ed</id> <disp>first edition</disp>
+  30	ed	1st ed.	<id>1st ed.</id> <disp>first edition</disp>
+  94	ed	2d ed.	<id>2d ed.</id> <disp>second edition</disp>
+   5	ed	2d. ed.	<id>2d. ed.</id> <disp>second edition</disp>
+   1	ab	A.D.	<id>A.D.</id> <disp>In the year of our Lord (Latin Anno Domini); CE.</disp>
+   1	ab	a fortiori	<id>a fortiori</id> <disp>Latin, from the stronger (argument)</disp>
+ 111	lex	abl.	<id>abl.</id> <disp>ablative.</disp>
+  12	lex	abs.	<id>abs.</id> <disp>absolute.</disp>
+  46	ab	abstr.	<id>abstr.</id> <disp>abstract.</disp>
+1547	ab/lex	acc.	<id>acc.</id> <disp>according; accusative.</disp>
+  48	ab	Acc.	<id>Acc.</id> <disp>according; accusative.</disp>
+   7	lex	accs.	<id>accs.</id> <disp>accusatives.</disp>
+   3	lex	accus.	<id>accus.</id> <disp>accusative.</disp>
+  11	lex	act.	<id>act.</id> <disp>active; action.</disp>
+   9	ab	ad loc.	<id>ad loc.</id> <disp>at the place, in same location (Latin ad locum).</disp>
+2739	lex	adj.	<id>adj.</id> <disp>adjective.</disp>
+   1	lex	adjs.	<id>adjs.</id> <disp>adjectives.</disp>
+ 419	lex	adv.	<id>adv.</id> <disp>adverb.</disp>
+  21	ab	altho	<id>altho</id> <disp>although</disp>
+   1	ab	AL	<id>AL</id> <disp>?</disp>
+   1	ab	Altho	<id>Altho</id> <disp>Although</disp>
+ 703	lang	AMg.	<id>AMg.</id> <disp>? (lang)</disp>
+  15	ab	analog.	<id>analog.</id> <disp>analogical(ly).</disp>
+   1	ed	AnSS.	<id>AnSS.</id> <disp>?</disp>
+   1	lex	aor	<id>aor</id> <disp>aorist.</disp>
+ 146	lex	aor.	<id>aor.</id> <disp>aorist.</disp>
+  21	lang	Ap.	<id>Ap.</id> <disp>Apabhraṃśa; Apadāna (Pali text).</disp>
+ 224	ab	app.	<id>app.</id> <disp>apparently.</disp>
+   3	ab	App.	<id>App.</id> <disp>Appendix.</disp>
+  25	ab	assoc.	<id>assoc.</id> <disp>associated.</disp>
+  15	ab	B.	<id>B.</id> <disp>Buddha.</disp>
+ 718	lang	BHS	<id>BHS</id> <disp>Buddhist Hybrid Sanskrit.</disp>
+   2	ab	Bhvr	<id>Bhvr</id> <disp>bahuvrīhi, a class of Sanskrit compounds.</disp>
+ 407	ab	Bhvr.	<id>Bhvr.</id> <disp>Bahuvrīhi.</disp>
+   1	ab	Bodhis.	<id>Bodhis.</id> <disp>Bodhisattva</disp>
+   1	ed	Boehtlingkʼs ed.	<id>Boehtlingkʼs ed.</id> <disp>Boehtlingkʼs edition</disp>
+   3	ed	Bomb.	<id>Bomb.</id> <disp>Bombay edition</disp>
+   1	ab	Bomb. ed.	<id>Bomb. ed.</id> <disp>Bombay edition</disp>
+   1	ed	Bombay	<id>Bombay</id> <disp>Bombay edition</disp>
+   1	ab	Bombay ed. of 1889	<id>Bombay ed. of 1889</id> <disp>Bombay edition of 1889</disp>
+   1	lang	Br.	<id>Br.</id> <disp>Brāhmaṇas (language of).</disp>
+   1	lang	BSkt.	<id>BSkt.</id> <disp>?</disp>
+   4	ab	Bu.	<id>Bu.</id> <disp>Buddhist.</disp>
+  16	ab	Buddh.	<id>Buddh.</id> <disp>Buddhist; Buddhism.</disp>
+   2	lang	Buddhist Skt.	: <id>Buddhist Skt.</id> <disp>Buddhist Sanskrit</disp>
+ 187	ed	Calc.	<id>Calc.</id> <disp>Calcutta edition</disp>
+ 308	lex	caus.	<id>caus.</id> <disp>causative.</disp>
+   1	ab	Cf	<id>Cf</id> <disp>Compare.</disp>
+3829	ab	cf.	<id>cf.</id> <disp>compare.</disp>
+ 636	ab	Cf.	<id>Cf.</id> <disp>Compare.</disp>
+  11	ab	ch.	<id>ch.</id> <disp>chapter.</disp>
+  92	ab	Chap.	<id>Chap.</id> <disp>Chapter.</disp>
+  23	ab	chap.	<id>chap.</id> <disp>chapter.</disp>
+ 414	lang	Chin.	<id>Chin.</id> <disp>Chinese.</disp>
+   1	lang	Cl.	<id>Cl.</id> <disp>Classical (Sanskrit)</disp>
+   4	lang	Cl. Skt.	<id>Cl. Skt.</id> <disp>Classical Sanskrit.</disp>
+  10	lang	Class. Skt.	<id>Class. Skt.</id> <disp>Classical Sanskrit</disp>
+   1	ab	comb.	<id>comb.</id> <disp>combination.</disp>
+ 247	ab	comm.	<id>comm.</id> <disp>commentary.</disp>
+   3	ab	Comm.	<id>Comm.</id> <disp>Commentary.</disp>
+  43	ab	comms.	<id>comms.</id> <disp>Commentaries</disp>
+ 232	ab	comp.	<id>comp.</id> <disp>composition.</disp>
+  16	lex	compv.	<id>compv.</id> <disp>comparative.</disp>
+   5	lex	conj.	<id>conj.</id> <disp>conjunction. (?)</disp>
+  21	ab	corr.	<id>corr.</id> <disp>correct(s), correction.</disp>
+   6	ab	Corr.	<id>Corr.</id> <disp>correct(s), correction.</disp>
+  10	ab	correl.	<id>correl.</id> <disp>correlative</disp>
+ 150	ab	corresp.	<id>corresp.</id> <disp>correspondent, corresponding, corresponds.</disp>
+   9	ab	Corresp.	<id>Corresp.</id> <disp>correspondent, corresponding, corresponds.</disp>
+   4	ab	Corrig.	<id>Corrig.</id> <disp>Corrigenda.</disp>
+   1	ab	cpd	<id>cpd</id> <disp>compound.</disp>
+ 695	ab	cpd.	<id>cpd.</id> <disp>compound.</disp>
+   3	ab	cpds	<id>cpds</id> <disp>compounds.</disp>
+ 218	ab	cpds.	<id>cpds.</id> <disp>compounds.</disp>
+  17	ab	Cr. ed.	<id>Cr. ed.</id> <disp>critical edition.</disp>
+   2	ed	Cr.ed.	<id>Cr.ed.</id> <disp>critical edition.</disp>
+   2	ab	crit. app.	<id>crit. app.</id> <disp>critical apparatus.</disp>
+   2	ab	Crit. app.	<id>Crit. app.</id> <disp>critical apparatus.</disp>
+  18	ab	Crit. App.	<id>Crit. App.</id> <disp>critical apparatus.</disp>
+   2	ab	crit. ed.	<id>crit. ed.</id> <disp>critical edition.</disp>
+  23	ed/ab	Crit. ed.	<id>Crit. ed.</id> <disp>critical edition.</disp>
+   1	ab	Crit. note	<id>Crit. note</id> <disp>critical note</disp>
+   1	ab	Critical App.	<id>Critical App.</id> <disp>critical apparatus.</disp>
+   0	_	d.h.	<id>d.h.</id> <disp>Das heißt (German for "that is"</disp>
+  71	lex	dat.	<id>dat.</id> <disp>dative.</disp>
+   1	lex	dats.	<id>dats.</id> <disp>datives. (?)</disp>
+   7	ab	def.	<id>def.</id> <disp>definition.</disp>
+   1	lex	defs.	<id>defs.</id> <disp>definitions.</disp>
+ 168	lex	denom.	<id>denom.</id> <disp>denominative.</disp>
+   1	lex	Denom.	<id>Denom.</id> <disp>denominative.</disp>
+   2	ab	der.	<id>der.</id> <disp>derived, derivative.</disp>
+  23	ab	deriv.	<id>deriv.</id> <disp>derived, derivative.</disp>
+  25	lex	derivs.	<id>derivs.</id> <disp>derivatives.</disp>
+   5	lex	desid.	<id>desid.</id> <disp>desiderative</disp>
+  16	lang	Deśī	<id>Deśī</id> <disp>? (lang)</disp>
+   2	ab	dial.	<id>dial.</id> <disp>dialectic.</disp>
+   1	ab	dict.	<id>dict.</id> <disp>dictionary</disp>
+  12	ab	Dict.	<id>Dict.</id> <disp>Dictionary (Buddhist Hybrid Sanskrit dictionary).</disp>
+  35	ab	Dictt.	<id>Dictt.</id> <disp>Dictionaries</disp>
+   1	ab	dictt.	<id>dictt.</id> <disp>dictionaries</disp>
+  17	ab	diff.	<id>diff.</id> <disp>different.</disp>
+  58	ab	dim.	<id>dim.</id> <disp>diminutive.</disp>
+   1	ab	dimin.	<id>dimin.</id> <disp>diminutive.</disp>
+   1	ab	E.g.	<id>E.g.</id> <disp>for example (Latin exempli gratia)</disp>
+ 341	ab	e.g.	<id>e.g.</id> <disp>for example (Latin exempli gratia)</disp>
+ 387	ab	ed.	<id>ed.</id> <disp>editor, edition.</disp>
+   6	ab	Ed.	<id>Ed.</id> <disp>editor, edition.</disp>
+ 130	ab	edd.	<id>edd.</id> <disp>edited (?)</disp>
+   1	ab	Edd.	<id>Edd.</id> <disp>edited (?)</disp>
+1361	ab	em.	<id>em.</id> <disp>emended, emendation.</disp>
+   1	ab	Em.	<id>Em.</id> <disp>emended, emendation.</disp>
+   1	ab	ems.	<id>ems.</id> <disp>emendations.</disp>
+  14	lang	Eng.	<id>Eng.</id> <disp>English</disp>
+ 257	ab	ep.	<id>ep.</id> <disp>epithet.</disp>
+   1	lang	epic	<id>epic</id> <disp>(Sanskrit) epic poetry. (?)</disp>
+   4	lang	Epic	<id>Epic</id> <disp>(Sanskrit) epic poetry. (?)</disp>
+   8	lang	Epic Skt.	<id>Epic Skt.</id> <disp>(Sanskrit) epic poetry. (?)</disp>
+   1	ab	eps.	<id>eps.</id> <disp>epithets.</disp>
+   3	ab	equiv.	<id>equiv.</id> <disp>equivalent.</disp>
+   1	ab	erron.	<id>erron.</id> <disp>erroneously.</disp>
+ 347	ab	esp.	<id>esp.</id> <disp>especially.</disp>
+  20	ab	et al.	<id>et al.</id> <disp>and others (Latin et alia)</disp>
+  83	ab	et alibi	<id>et alibi</id> <disp>Latin phrase - and elsewhere</disp>
+  25	ab	et passim	<id>et passim</id> <disp>and here and there, throughout (Latin)</disp>
+1310	ab	etc.	<id>etc.</id> <disp>and the rest (Latin et cetera)</disp>
+   2	ab	etc	<id>etc</id> <disp>and the rest (Latin et cetera)</disp>
+   1	ab	etym	<id>etym</id> <disp>etymology.</disp>
+  86	ab	etym.	<id>etym.</id> <disp>etymology.</disp>
+   8	ab	Etym.	<id>Etym.</id> <disp>etymology.</disp>
+   1	ab	etymolog.	<id>etymolog.</id> <disp>etymological</disp>
+   2	ab	ex.	<id>ex.</id> <disp>example. (?)</disp>
+   5	ab	exc.	<id>exc.</id> <disp>except.</disp>
+  17	ab	expl.	<id>expl.</id> <disp>explained, explanation.</disp>
+   3	ab	exx.	<id>exx.</id> <disp>examples. </disp>
+ 906	lex	f.	<id>f.</id> <disp>feminine; following.</disp>
+ 164	lex	fem.	<id>fem.</id> <disp>feminine.</disp>
+   2	lex	Fem.	<id>Fem.</id> <disp>feminine.</disp>
+   3	lex	fems.	<id>fems.</id> <disp>feminines.</disp>
+  22	ab	ff.	<id>ff.</id> <disp>following.</disp>
+ 111	ab	fig.	<id>fig.</id> <disp>figurative(ly).</disp>
+   2	ab	fn.	<id>fn.</id> <disp>footnote.</disp>
+ 164	ab	foll.	<id>foll.</id> <disp>followed (by); following.</disp>
+   1	ab	Foll.	<id>Foll.</id> <disp>followed (by); following.</disp>
+  59	lex	fut.	<id>fut.</id> <disp>future.</disp>
+   1	lex	fut. indic.	<id>fut. indic.</id> <disp>future indicative.</disp>
+   2	lex	fut. pple.	<id>fut. pple.</id> <disp>future participle</disp>
+ 119	lex	gdve.	<id>gdve.</id> <disp>gerundive.</disp>
+   2	lex	gdves.	<id>gdves.</id> <disp>gerundives.</disp>
+ 373	lex	gen.	<id>gen.</id> <disp>genitive.</disp>
+   2	lex	gens.	<id>gens.</id> <disp>genitives.</disp>
+ 268	lex	ger.	<id>ger.</id> <disp>gerund.</disp>
+   9	lang	Ger.	<id>Ger.</id> <disp>German.</disp>
+   1	lang	Gk.	<id>Gk.</id> <disp>Greek language</disp>
+ 106	ab	Gr.	<id>Gr.</id> <disp>Grammar, grammatical, grammarian(s).</disp>
+   1	ab	gr.	<id>gr.</id> <disp>Grammar, grammatical, grammarian(s).</disp>
+   1	lang	Guj.	<id>Guj.</id> <disp>Gujarati language</disp>
+   1	ab	hapl.	<id>hapl.</id> <disp>haplography. (?)</disp>
+   4	ab	haplog.	<id>haplog.</id> <disp>haplography.</disp>
+   5	ab	haplogr.	<id>haplogr.</id> <disp>haplography.</disp>
+   1	ab	haplol.	<id>haplol.</id> <disp>haplology.</disp>
+  24	lang	Hindi	<id>Hindi</id> <disp>Hindi language</disp>
+ 369	ab	i.e.	<id>i.e.</id> <disp>that is  (Latin id est)</disp>
+  53	ab	ib.	<id>ib.</id> <disp>in the same place (Latin ibidem)</disp>
+  18	ab	ibid.	<id>ibid.</id> <disp>in the same place (Latin ibidem)</disp>
+   6	ab	ibidem	<id>ibidem</id> <disp>Latin word - in the same place</disp>
+   1	ab	id	<id>id</id> <disp>the same (Latin idem)</disp>
+1504	ab	id.	<id>id.</id> <disp>the same (Latin idem)</disp>
+   3	lang	IE.	<id>IE.</id> <disp>Indo-European</disp>
+ 156	ab	ifc.	<id>ifc.</id> <disp>at the end of compounds.</disp>
+   3	lex	imperf.	<id>imperf.</id> <disp>imperfect.</disp>
+  54	lex	impv.	<id>impv.</id> <disp>imperative.</disp>
+   1	lex	impvs.	<id>impvs.</id> <disp>imperatives.</disp>
+  28	ab	incl.	<id>incl.</id> <disp>including, inclusive.</disp>
+   1	lex	ind. mid.	<id>ind. mid.</id> <disp>indicative middle (?).</disp>
+  16	lex	indecl.	<id>indecl.</id> <disp>indeclinable.</disp>
+   1	lex	indic.	<id>indic.</id> <disp>indicative.</disp>
+   3	ab	indiff.	<id>indiff.</id> <disp>indifferent. (?)</disp>
+  56	lex	inf.	<id>inf.</id> <disp>infinitive.</disp>
+  13	lex	infin.	<id>infin.</id> <disp>infinitive.</disp>
+   1	ab	inflect.	<id>inflect.</id> <disp>inflected. (?)</disp>
+   1	ab	Inscrip.	<id>Inscrip.</id> <disp>Inscription. </disp>
+  15	lex	inst.	<id>inst.</id> <disp>instrumental.</disp>
+   1	lex	inst. pr. pple.	<id>inst. pr. pple.</id> <disp>instrumental present participle.</disp>
+ 218	lex	instr.	<id>instr.</id> <disp>instrumental.</disp>
+   1	lex	Instr.	<id>Instr.</id> <disp>instrumental</disp>
+   1	lex	instr. pres. pple.	<id>instr. pres. pple.</id> <disp>instrumental present participle.</disp>
+  11	lex	intens.	<id>intens.</id> <disp>intensive.</disp>
+  15	lex	interj.	<id>interj.</id> <disp>interjection.</disp>
+   3	ab	interrog.	<id>interrog.</id> <disp>interrogative.</disp>
+   1	lex	intr.	<id>intr.</id> <disp>(?)</disp>
+  39	lex	intrans.	<id>intrans.</id> <disp>intransitive.</disp>
+   8	ab	Introd.	<id>Introd.</id> <disp>introduction.</disp>
+   1	ab	irreg.	<id>irreg.</id> <disp>irregular.</disp>
+  84	lang	Jap.	<id>Jap.</id> <disp>Japanese.</disp>
+   1	lang	JM	<id>JM</id> <disp>Jaina Māhārāṣṭrī.</disp>
+  41	lang	JM.	<id>JM.</id> <disp>Jaina Māhārāṣṭrī.</disp>
+   8	ab	Karmadh.	<id>Karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds </disp>
+   1	ab	karmadh.	<id>karmadh.</id> <disp>karma—dhāraya, a class of Tatpuruṣa compounds</disp>
+   2	ed	Kyoto	<id>Kyoto</id> <disp>Kyoto edition</disp>
+  61	ed/ab	Kyoto ed.	<id>Kyoto ed.</id> <disp>Kyoto edition</disp>
+   2	ed	Kyōtō	<id>Kyōtō</id> <disp>Kyoto edition</disp>
+   9	ed	Kyōtō ed.	<id>Kyōtō ed.</id> <disp>Kyoto edition</disp>
+   7	ab	l.	<id>l.</id> <disp>line. (?)</disp>
+  41	ab	l. c.	<id>l. c.</id> <disp>in the place cited.</disp>
+   1	lang	Lat.	<id>Lat.</id> <disp>Latin language.</disp>
+  46	lang	late Skt.	<id>late Skt.</id> <disp>late Sanskrit</disp>
+   8	ab	lect. fac.	<id>lect. fac.</id> <disp>lectio facilior.</disp>
+   3	ab	Lex	<id>Lex</id> <disp>lexicon, lexical; see also Bbh, in the preceding list of abbreviations.</disp>
+ 485	ab	Lex.	<id>Lex.</id> <disp>lexicon, lexical; see also Bbh, in the preceding list of abbreviations.</disp>
+   7	ab	lex.	<id>lex.</id> <disp>lexicon, lexical; see also Bbh, in the preceding list of abbreviations.</disp>
+  11	ab	Lexx.	<id>Lexx.</id> <disp>lexicons. (?)</disp>
+   2	ab	lexx.	<id>lexx.</id> <disp>lexicons. (?)</disp>
+ 387	ab	lit.	<id>lit.</id> <disp>literal(ly); also, literary, found in literature, as opposed to lex.</disp>
+   3	ab	Lit.	<id>Lit.</id> <disp>literally.</disp>
+   1	ab	litt.	<id>litt.</id> <disp>literally.</disp>
+   3	ab	ll.cc.	<id>ll.cc.</id> <disp>in the places cited (Latin loco citato). (?)</disp>
+ 307	lex	loc.	<id>loc.</id> <disp>locative.</disp>
+   2	lex	loc	<id>loc</id> <disp>locative.</disp>
+   6	ab	loc. cit.	<id>loc. cit.</id> <disp>in the place cited (Latin loco citato)</disp>
+  11	lex	locs.	<id>locs.</id> <disp>locatives.</disp>
+3060	lex	m.	<id>m.</id> <disp>masculine.</disp>
+  37	lang	M.	<id>M.</id> <disp>? (lang)</disp>
+ 769	ab	m.c.	<id>m.c.</id> <disp>metri causa. </disp>
+   1	lang	Marathi	<id>Marathi</id> <disp>Marathi language.</disp>
+   1	ab	marg.	<id>marg.</id> <disp>margin. (?)</disp>
+  65	lex	masc.	<id>masc.</id> <disp>masculine.</disp>
+   1	lex	mascs.	<id>mascs.</id> <disp>masculines.</disp>
+   2	ab	math.	<id>math.</id> <disp>mathematics.</disp>
+  80	ab	metr.	<id>metr.</id> <disp>metrical(ly).</disp>
+1094	ab	mg.	<id>mg.</id> <disp>meaning.</disp>
+   2	ab	mg	<id>mg</id> <disp>meaning</disp>
+   2	ab	Mg.	<id>Mg.</id> <disp>meaning.</disp>
+ 141	ab	mgs.	<id>mgs.</id> <disp>meanings.</disp>
+   1	ab	Mgs.	<id>Mgs.</id> <disp>Meanings.</disp>
+  10	lex	mid.	<id>mid.</id> <disp>middle (voice).</disp>
+   1	lang	MInd.	<id>MInd.</id> <disp>Middle Indic.</disp>
+ 553	lang	MIndic	<id>MIndic</id> <disp>Middle Indic.</disp>
+  14	ab	misc.	<id>misc.</id> <disp>miscellaneous.</disp>
+   2	lang	Mongol	<id>Mongol</id> <disp>Mongolian language.</disp>
+   1	lang	Mongolian	<id>Mongolian</id> <disp>Mongolian language.</disp>
+   1	ab	ms	<id>ms</id> <disp>manuscript.</disp>
+ 716	ab	ms.	<id>ms.</id> <disp>manuscript.</disp>
+   3	ab	mss	<id>mss</id> <disp>manuscripts.</disp>
+2938	ab	mss.	<id>mss.</id> <disp>manuscripts.</disp>
+   7	ab	Mss.	<id>Mss.</id> <disp>manuscripts.</disp>
+   8	ab	Mt.	<id>Mt.</id> <disp>Mount (mountain)</disp>
+  10	ab	mus.	<id>mus.</id> <disp>musical.</disp>
+   3	ab	mus. instr.	<id>mus. instr.</id> <disp>musical instrument(s)</disp>
+6586	ab/lex	n.	<id>n.</id> <disp>nominative; name.</disp>
+  98	ab	n. act.	<id>n. act.</id> <disp>noun of action.</disp>
+  30	ab	n. ag.	<id>n. ag.</id> <disp>noun of agent.</disp>
+   2	lex	n. m.	<id>n. m.</id> <disp>nominative masculine. (?)</disp>
+ 222	ab	n. pl.	<id>n. pl.</id> <disp>nominative plural.</disp>
+  57	ab	n. pr.	<id>n. pr.</id> <disp>proper name.</disp>
+ 415	ab	n. sg.	<id>n. sg.</id> <disp>nominative singular.</disp>
+   3	ab	N.B.	<id>N.B.</id> <disp>note well (Latin nota bene).</disp>
+ 212	ab	neg.	<id>neg.</id> <disp>negative.</disp>
+   1	ab	negs.	<id>negs.</id> <disp>negatives</disp>
+  81	lang	Nep.	<id>Nep.</id> <disp>Nepalese.</disp>
+   1	lang	Nepali	<id>Nepali</id> <disp>Nepalese.</disp>
+   2	lex	neut.	<id>neut.</id> <disp>neuter.</disp>
+   1	lang	Niya	<id>Niya</id> <disp>Niya Prakrit or Niya Gāndhārī, a Middle Indian language from the 3rd and 4th centuries CE.</disp>
+   2	lang	Niya Pkt.	<id>Niya Pkt.</id> <disp>Niya Prakrit or Niya Gāndhārī, a Middle Indian language from the 3rd and 4th centuries CE.</disp>
+   1	ab	nn. pr.	<id>nn. pr.</id> <disp>proper names.</disp>
+   1	ab	no.	<id>no.</id> <disp>number.</disp>
+ 112	lex	nom.	<id>nom.</id> <disp>nominative.</disp>
+  16	ab	nom. act.	<id>nom. act.</id> <disp>noun of action.</disp>
+   4	ab	nom. ag.	<id>nom. ag.</id> <disp>noun of agent.</disp>
+   4	ab	noms.	<id>noms.</id> <disp>nominatives. </disp>
+   5	ab	Nos.	<id>Nos.</id> <disp>numbers.</disp>
+2646	lex	nt.	<id>nt.</id> <disp>neuter.</disp>
+   1	lang	NW Niya Pkt.	<id>NW Niya Pkt.</id> <disp>Northwest Niya Prakrit or Niya Gāndhārī, a Middle Indian language from the 3rd and 4th centuries CE. (?)</disp>
+   8	lex	obj.	<id>obj.</id> <disp>object.</disp>
+   2	lex	obl.	<id>obl.</id> <disp>oblique.</disp>
+   2	ab	Obv.	<id>Obv.</id> <disp>?</disp>
+   1	lang	older Skt.	<id>older Skt.</id> <disp>older Sanskrit</disp>
+  62	ab	om.	<id>om.</id> <disp>omits (?)</disp>
+  34	ab	onomat.	<id>onomat.</id> <disp>onomatopoetic.</disp>
+   9	ab	op. cit.	<id>op. cit.</id> <disp>in the work cited (Latin opere citato)</disp>
+  88	ab	opp.	<id>opp.</id> <disp>opposite (of).</disp>
+   1	ab	Opp.	<id>Opp.</id> <disp>Opposite (of).</disp>
+  77	lex	opt.	<id>opt.</id> <disp>optative.</disp>
+   4	ab	ord. num.	<id>ord. num.</id> <disp>ordinal number.</disp>
+ 162	ab	orig.	<id>orig.</id> <disp>original(ly).</disp>
+   5	ab	Orig.	<id>Orig.</id> <disp>original(ly).</disp>
+   1	lex	p.	<id>p.</id> <disp>(?)</disp>
+7162	lang	Pali	<id>Pali</id> <disp>Pali language.</disp>
+   1	ab	para.	<id>para.</id> <disp>paragraph</disp>
+   1	ab	paren.	<id>paren.</id> <disp>parentheses</disp>
+ 123	lex	pass.	<id>pass.</id> <disp>passive.</disp>
+   4	lex	pass. pple.	<id>pass. pple.</id> <disp>passive participle.</disp>
+   3	lex	pass. pres. pple.	<id>pass. pres. pple.</id> <disp>passive present participle.</disp>
+  22	ab	passim	<id>passim</id> <disp>here and there, throughout (Latin)</disp>
+   1	ab	patron.	<id>patron.</id> <disp>patronymic</disp>
+   1	ab	pej.	<id>pej.</id> <disp>pejorative.</disp>
+   1	ab	pejor.	<id>pejor.</id> <disp>pejorative.</disp>
+  11	ab	penult	<id>penult</id> <disp>the penultimate syllable of a word</disp>
+   9	lex	perf.	<id>perf.</id> <disp>perfect.</disp>
+   3	lex	perf. act. pple.	<id>perf. act. pple.</id> <disp>perfect active participle.</disp>
+ 420	ab	perh.	<id>perh.</id> <disp>perhaps.</disp>
+  12	ab	Perh.	<id>Perh.</id> <disp>perhaps.</disp>
+   2	ab	pers.	<id>pers.</id> <disp>person.</disp>
+   1	lang	Pkt	<id>Pkt</id> <disp>Prakrit language.</disp>
+ 278	lang	Pkt.	<id>Pkt.</id> <disp>Prakrit.</disp>
+   1	ab	Pktism	<id>Pktism</id> <disp>Prakritism.</disp>
+   6	ab	Pktic	<id>Pktic</id> <disp>Prakritic.</disp>
+   3	ab	Pktic.	<id>Pktic.</id> <disp>Prakritic.</disp>
+ 625	ab	pl.	<id>pl.</id> <disp>plural.</disp>
+   2	ab	pl	<id>pl</id> <disp>plural.</disp>
+   1	ab	plur.	<id>plur.</id> <disp>plural</disp>
+   1	ab	pop.	<id>pop.</id> <disp>popular.</disp>
+   7	lex	postp.	<id>postp.</id> <disp>postposition.</disp>
+  23	lex	postpos.	<id>postpos.</id> <disp>postposition.</disp>
+  35	lex	pple.	<id>pple.</id> <disp>participle.</disp>
+   1	lex	pple. act.	<id>pple. act.</id> <disp>participle active.</disp>
+   1	lex	pple. mid.	<id>pple. mid.</id> <disp>participle middle.</disp>
+   2	lex	pple. pres.	<id>pple. pres.</id> <disp>participle present.</disp>
+   2	lex	pples.	<id>pples.</id> <disp>participles.</disp>
+ 907	lex	ppp.	<id>ppp.</id> <disp>past passive participle.</disp>
+   1	lex	pr. pple.	<id>pr. pple.</id> <disp>present participles.</disp>
+1324	ab	prec.	<id>prec.</id> <disp>precative; preceding; preceded.</disp>
+   1	ab	Prec.	<id>Prec.</id> <disp>Precative.</disp>
+   1	lex	pred.	<id>pred.</id> <disp>predicate.</disp>
+  16	lex	prep.	<id>prep.</id> <disp>preposition.</disp>
+   2	lex	prepos.	<id>prepos.</id> <disp>preposition.</disp>
+  35	lex	pres.	<id>pres.</id> <disp>present.</disp>
+   1	lex	pres. ind.	<id>pres. ind.</id> <disp>present indicative.</disp>
+   1	lex	pres. indic.	<id>pres. indic.</id> <disp>present indicative.</disp>
+   1	lex	pres. m. pple.	<id>pres. m. pple.</id> <disp>present middle participle.</disp>
+   3	lex	pres. mid.	<id>pres. mid.</id> <disp>present middle.</disp>
+   7	lex	pres. mid. pple.	<id>pres. mid. pple.</id> <disp>present middle participle.</disp>
+   3	lex	pres. opt.	<id>pres. opt.</id> <disp>present optative.</disp>
+  10	lex	pres. p.	<id>pres. p.</id> <disp>present participle. (?)</disp>
+   1	lex	pres. pass.	<id>pres. pass.</id> <disp>present passive.</disp>
+   1	lex	pres. pass. pple	<id>pres. pass. pple</id> <disp>present passive participle.</disp>
+   9	lex	pres. pass. pple.	<id>pres. pass. pple.</id> <disp>present passive participle.</disp>
+   1	lex	pres. passive pple.	<id>pres. passive pple.</id> <disp>present passive participle.</disp>
+   2	lex	pres. pple	<id>pres. pple</id> <disp>present participle.</disp>
+ 128	lex	pres. pple.	<id>pres. pple.</id> <disp>present participle.</disp>
+   2	lex	pres. pple. instr.	<id>pres. pple. instr.</id> <disp>present participle instrumental.</disp>
+   1	lex	pres. pple. loc.	<id>pres. pple. loc.</id> <disp>present participle locative.</disp>
+   1	lex	pres. pple. mid.	<id>pres. pple. mid.</id> <disp>present participle middle.</disp>
+   1	lex	pres. pple. of pass.	<id>pres. pple. of pass.</id> <disp>present participle of passive.</disp>
+   4	lex	pres. pple. pass.	<id>pres. pple. pass.</id> <disp>present participle passive.</disp>
+   2	lex	pres. pples.	<id>pres. pples.</id> <disp>present participles.</disp>
+   2	ab	pret.	<id>pret.</id> <disp>preterite</disp>
+ 862	ab	prob.	<id>prob.</id> <disp>probably.</disp>
+  33	ab	Prob.	<id>Prob.</id> <disp>probably.</disp>
+  13	lex	pron.	<id>pron.</id> <disp>pronoun.</disp>
+   1	lex	pronom.	<id>pronom.</id> <disp>pronominal.</disp>
+   5	ab	PTS ed.	<id>PTS ed.</id> <disp>?</disp>
+   4	ab	publ.	<id>publ.</id> <disp>published (by).</disp>
+2921	ab	q.v.	<id>q.v.</id> <disp>which see (Latin quod vide)</disp>
+ 213	ab	qq.v.	<id>qq.v.</id> <disp>which see (Latin quod vide)</disp>
+   3	ab	Qy	<id>Qy</id> <disp>Query.</disp>
+  10	ab	qy	<id>qy</id> <disp>query.</disp>
+   1	ab	quot.	<id>quot.</id> <disp>quoted.</disp>
+   1	ab	redupl.	<id>redupl.</id> <disp>reduplicative</disp>
+  11	ab	ref.	<id>ref.</id> <disp>reference(s).</disp>
+  18	ab	refs.	<id>refs.</id> <disp>references.</disp>
+   2	ab	rel.	<id>rel.</id> <disp>relative</disp>
+   1	ab	resp.	<id>resp.</id> <disp>respectively</disp>
+   1	ab	Rev.	<id>Rev.</id> <disp>Revision (?)</disp>
+  20	ab	S	<id>S</id> <disp>Senart</disp>
+1936	ab	s.v.	<id>s.v.</id> <disp>under the word (Latin sub verbo)</disp>
+   1	ab	s.vv	<id>s.vv</id> <disp>under the words (Latin sub verbo)</disp>
+  54	ab	s.vv.	<id>s.vv.</id> <disp>under the words (Latin sub verbo)</disp>
+   1	ab	sc	<id>sc</id> <disp>scilicet (namely).</disp>
+ 519	ab	sc.	<id>sc.</id> <disp>scilicet (namely).</disp>
+   1	ab	scil.	<id>scil.</id> <disp>namely (Latin scilicet)</disp>
+   2	ab	sec.	<id>sec.</id> <disp>section (?)</disp>
+ 453	ab	sg.	<id>sg.</id> <disp>singular.</disp>
+   1	ab	Sg.	<id>Sg.</id> <disp>singular.</disp>
+   5	ab	sing.	<id>sing.</id> <disp>singular. </disp>
+   1	lang	Singhalese	<id>Singhalese</id> <disp>Singhalese language.</disp>
+   6	lang	Skt	<id>Skt</id> <disp>Sanskrit Language.</disp>
+5819	lang	Skt.	<id>Skt.</id> <disp>Sanskrit Language.</disp>
+   1	lang	Skt. Epic.	<id>Skt. Epic.</id> <disp>Sanskrit Epic poetry. (?)</disp>
+  34	ab	Sktism	<id>Sktism</id> <disp>Sanskritism</disp>
+  61	ab	Sktization	<id>Sktization</id> <disp>Sanskritization</disp>
+  38	ab	Sktized	<id>Sktized</id> <disp>Sanskritized</disp>
+   2	lex	subj.	<id>subj.</id> <disp>subject.</disp>
+ 448	lex	subst.	<id>subst.</id> <disp>substantive.</disp>
+   1	lex	subst	<id>subst</id> <disp>substantive.</disp>
+   4	ab	superl.	<id>superl.</id> <disp>superlative.</disp>
+  10	ab	syn.	<id>syn.</id> <disp>synonym(ous).</disp>
+   1	lang	Tamil	<id>Tamil</id> <disp>Tamil language</disp>
+   4	ab	Tatp.	<id>Tatp.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
+   4	ab	tatp.	<id>tatp.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
+   2	ab	Tatpur.	<id>Tatpur.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
+   1	ab	tatpur.	<id>tatpur.</id> <disp>tat-puruṣa (class of Sanskrit compounds).</disp>
+   1	lang	Telugu	<id>Telugu</id> <disp>Telugu language</disp>
+ 222	ab	tho	<id>tho</id> <disp>though</disp>
+  79	ab	thru	<id>thru</id> <disp>through</disp>
+2759	lang	Tib.	<id>Tib.</id> <disp>Tibetan language.</disp>
+   1	lang	Toch.	<id>Toch.</id> <disp>Tocharian language.</disp>
+   2	lang	Tocharian	<id>Tocharian</id> <disp>Tocharian language.</disp>
+   2	ab	tr.	<id>tr.</id> <disp>translation (?)</disp>
+  35	lex	trans.	<id>trans.</id> <disp>transitive.</disp>
+  58	ab	transl.	<id>transl.</id> <disp>translation(s).</disp>
+   1	ab	transp.	<id>transp.</id> <disp>transposes (?)</disp>
+  91	ab	unmetr.	<id>unmetr.</id> <disp>unmetrical(ly).</disp>
+   1	ab	unorig.	<id>unorig.</id> <disp>unoriginal</disp>
+   1	lang	Up.	<id>Up.</id> <disp>Upanishad.</disp>
+   2	ab	v.a.	<id>v.a.</id> <disp>for example (Latin ?)</disp>
+   1	ab	v.l	<id>v.l</id> <disp>variant reading.</disp>
+2004	ab	v.l.	<id>v.l.</id> <disp>variant reading.</disp>
+ 147	ab	var.	<id>var.</id> <disp>variant</disp>
+  14	ab	varr.	<id>varr.</id> <disp>variants</disp>
+   2	ab	vb.	<id>vb.</id> <disp>verb.</disp>
+  15	lang	Ved.	<id>Ved.</id> <disp>Vedic.</disp>
+  73	lang	Vedic	<id>Vedic</id> <disp>Vedic Sanskrit. (?)</disp>
+ 106	ab	viz.	<id>viz.</id> <disp>literally (Latin videlicet)</disp>
+   4	ab	viz	<id>viz</id> <disp>literally (Latin videlicet)</disp>
+  65	lex	voc.	<id>voc.</id> <disp>vocative.</disp>
+   3	lex	vocs.	<id>vocs.</id> <disp>vocatives.</disp>
+3571	ab	vs	<id>vs</id> <disp>verse.</disp>
+   1	ab	vs.	<id>vs.</id> <disp>verse.</disp>
+ 341	ab	vss	<id>vss</id> <disp>verses.</disp>
+   5	ab	vss.	<id>vss.</id> <disp>verses.</disp>
+  82	ab	vv.ll.	<id>vv.ll.</id> <disp>variant readings.</disp>
+   1	ab	Vārt.	<id>Vārt.</id> <disp>vārttika, Kātyāyana critical annotations on the aphorisms of Pāṇini grammar</disp>
+   2	ab	w.r.	<id>w.r.</id> <disp>wrong reading.</disp>
+  58	ms	Ḱ	<id>Ḱ</id> <disp>Wogihara and Tsuchidaʼs Ḱ manuscript of Saddharmapuṇḍarīka</disp>

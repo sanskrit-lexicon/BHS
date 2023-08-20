@@ -133,7 +133,7 @@ python updateByLine.py temp_bhs_2.txt change_3.txt temp_bhs_3.txt
 64 change transactions from change_3.txt
 
 # requires change to one.dtd, so <ab> can be within <ger>
-------------------------------------------------------
+
 ------------------------------------------------------
 local install and check version 3
 cp temp_bhs_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/bhs/bhs.txt
@@ -143,8 +143,39 @@ sh xmlchk_xampp.sh bhs
 # ok!
 
 cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3
-------------------------------------------------------
 
+------------------------------------------------------
+Change <lat> to <bot> for plants
+python check_lat.py temp_bhs_3.txt temp_check4.txt
+
+cp temp_check4.txt check4_edit.txt
+# Manually edit check4_edit.txt
+
+# generate change file
+python corr_to_change.py temp_bhs_3.txt check4_edit.txt change_4.txt
+
+# apply changes
+python updateByLine.py temp_bhs_3.txt change_4.txt temp_bhs_4.txt
+
+# local install and check version 4
+cp temp_bhs_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/bhs/bhs.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bhs  ../../bhs
+sh xmlchk_xampp.sh bhs
+# ok!
+
+cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3
+------------------------------------------------------
+new AB version.
+https://github.com/sanskrit-lexicon/BHS/files/12352388/BHS-AB_2.zip
+unzip BHS-AB_2.zip
+mv BHS-AB_2.txt temp_bhs_ab_2.txt
+rm BHS-AB_2.zip
+------------------------------------------------------
+compare directory
+
+------------------------------------------------------
+------------------------------------------------------
 ------------------------------------------------------
 
 revise this BHS repository
