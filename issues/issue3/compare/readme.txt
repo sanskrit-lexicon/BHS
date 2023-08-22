@@ -198,3 +198,7 @@ NEW:
 sh xmlchk_xampp.sh bhs
 ## Now OK!
 cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3/compare/
+---------------
+Cologne install
+csl-orig
+csl-pywork
