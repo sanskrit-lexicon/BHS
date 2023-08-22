@@ -9,12 +9,11 @@ CHANGES for tags other than '<ls>'
 ------------------------------------------------------------
 <L>3163<pc>115,1<k1>indrapawa
 old: {%<ger>Luftgewand</ger>%}, so <ab>v.a.</ab> {%<ger>Nacktheit</ger>%}
-new: {%<ger>Luftgewand, so <ab>v.a.</ab> Nacktheit</ger>%}
+new: <ger>{%Luftgewand%}, so <ab>v.a.</ab> {%Nacktheit%}</ger>
 
 <L>10517<pc>386,1<k1>pravicAraRa
 old: {%<ger>Unterscheidung</ger>%}, so <ab>v.a.</ab> {%<ger>Art</ger>%}
-new: {%<ger>Unterscheidung, so <ab>v.a.</ab> Art</ger>%}
-
+new: <ger>{%Unterscheidung%}, so <ab>v.a.</ab> {%Art%}</ger>
 -------
 <L>10658<pc>390,2<k1>prAgeva
 old: <ab>a fortiori</ab>
