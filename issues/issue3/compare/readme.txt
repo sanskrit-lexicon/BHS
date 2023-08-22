@@ -165,3 +165,36 @@ git commit -m "'compare' directory markup changes. #3"
 git push
 
 manually upload ../ temp_bhs_6.txt as latest version of bhs.txt
+
+****************************************************************
+Further (minor) revisions based on
+  https://github.com/sanskrit-lexicon/BHS/issues/3#issuecomment-1685775888
+
+cp ../temp_bhs_6.txt ../temp_bhs_7.txt
+Manually change temp_bhs_7 and
+document in changes_bhs_ab_3a.txt
+Note: Also revised bhsauth_tooltip_new.txt
+
+python tagcount.py ls ../temp_bhs_7.txt bhsauth_tooltip_new.txt tagcount_ls.txt
+978 tip counts written tagcount_ls.txt
+
+-----------------
+# Revise local install
+
+cp bhsauth_tooltip_new.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsauth/tooltip.txt
+cp ../temp_bhs_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/bhs/bhs.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+
+sh generate_dict.sh bhs  ../../bhs
+sh xmlchk_xampp.sh bhs
+## PROBLEM validating!
+Element lat was declared #PCDATA but contains non text nodes
+Solution: Revise one.dtd
+OLD:
+<!ELEMENT lat (#PCDATA) > <!-- latin text bhs-->
+NEW:
+<!ELEMENT lat (#PCDATA | i | ab)* > <!-- latin text, bhs-->
+
+sh xmlchk_xampp.sh bhs
+## Now OK!
+cd /c/xampp/htdocs/sanskrit-lexicon/BHS/issues/issue3/compare/

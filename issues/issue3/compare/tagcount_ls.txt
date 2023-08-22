@@ -96,7 +96,8 @@
    1	ls	Bodhicaryāvatārapañjikā (Bibl. Ind.)	Bodhicdaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
    1	ls	Bodhicaryāv. pañjikā	 ?
    1	ls	Boehtlingk     	?
- 525	ls	BR             	Boehtlingk and Roth, Sanskrit Wörterbuch.
+ 524	ls	BR             	Boehtlingk and Roth, Sanskrit Wörterbuch.
+   1	ls	BR.            	Boehtlingk and Roth, Sanskrit Wörterbuch.
    1	ls	Brahmadatta Jāt.	?
    1	ls	BSOS 1         	Bulletin of the School of Oriental (and African) Studies, London.
    1	ls	Bu.v.          	Buddha-vaṃsa (Pali).
@@ -123,7 +124,7 @@
    1	ls	Campeyya-Jāt.  	?
    1	ls	Cappeller, HOS 15, Glossar	?
    1	ls	Car.           	Caraka.
-  16	ls	Caraka         	Caraka.
+  15	ls	Caraka         	Caraka.
    1	ls	Cath. Miss. Dict.	the Tibetan Dictionary of the French Catholic Mission.
    1	ls	Catudvāra Jāt. 	?
    1	ls	Ch.U.          	?
@@ -521,7 +522,8 @@
    1	ls	Mahāparinibbāna-sutta, DN sūtra	?
    1	ls	Mahāsamāj, Waldschmidt, Kl. Skt. Texte 4	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
    1	ls	Mahāsamaj., Waldschmidt, Kl. Skt. Texte 4	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
-   9	ls	Mahāsamāj.     	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+   7	ls	Mahāsamāj.     	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+   2	ls	Mahāsamāj      	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
    1	ls	Mahāsamāj. Kl. Skt. Texte 4	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
   19	ls	Mahāsamāj. Waldschmidt, Kl. Skt. Texte 4	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
   29	ls	Mahāsamāj., Waldschmidt, Kl. Skt. Texte 4	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.

@@ -1,0 +1,63 @@
+; 08-21-2023
+Documentation of further changes based on
+https://github.com/sanskrit-lexicon/BHS/issues/3#issuecomment-1685775888
+
+
+
+------------------------------------------------------------
+CHANGES for tags other than '<ls>'
+------------------------------------------------------------
+<L>3163<pc>115,1<k1>indrapawa
+old: {%<ger>Luftgewand</ger>%}, so <ab>v.a.</ab> {%<ger>Nacktheit</ger>%}
+new: {%<ger>Luftgewand, so <ab>v.a.</ab> Nacktheit</ger>%}
+
+<L>10517<pc>386,1<k1>pravicAraRa
+old: {%<ger>Unterscheidung</ger>%}, so <ab>v.a.</ab> {%<ger>Art</ger>%}
+new: {%<ger>Unterscheidung, so <ab>v.a.</ab> Art</ger>%}
+
+-------
+<L>10658<pc>390,2<k1>prAgeva
+old: <ab>a fortiori</ab>
+new: <lat><ab>a fortiori</ab></lat>
+
+
+global change
+  With the changes below, the display:
+  a) prints the text in the 'language' color (brown)
+  b) Provides a tooltip (from bhsab_input)
+  
+<ab>ibidem</ab> -> <lat><ab>ibidem</ab></lat> 6
+<ab>et alibi</ab> -> <lat><ab>et alibi</ab></lat> 83
+<ab>et passim</ab> -> <lat><ab>et passim</ab></lat> 25
+<ab>passim</ab> -> <lat><ab>passim</ab></lat> 22
+
+
+<L>5940<pc>219,1<k1>grAmeluka
+old: <ab n="Māgadhi">Mg.</ab>
+new: <lang><ab n="Māgadhī">Mg.</ab></lang>
+
+------------------------------------------------------------
+CHANGES FOR <ls>
+------------------------------------------------------------
+<L>6220<pc>229,1<k1>cAru
+old: <ls>Caraka</ls> 
+new: Caraka
+
+----
+<L>3933<pc>149,1<k1>ullumpati
+old: <ls>BR</ls>
+new: <ls>BR.</ls>
+
+<L>4353<pc>165,2<k1>kaqambA
+old: <ls>Mahāsamāj</ls>
+new: <ls>Mahāsamāj.</ls>
+
+<L>4508<pc>169,2<k1>karuRA
+old: <ls>Mahāsamāj.</ls>
+new: <ls>Mahāsamāj</ls>
+
+NOTE: Revisions to bhsauth_tooltip_new.txt
+add
+BR.	Boehtlingk and Roth, Sanskrit Wörterbuch.
+Mahāsamāj	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+
