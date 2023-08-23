@@ -65,5 +65,5 @@ sh generate_dict.sh bhs  ../../BHSScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/BHS/meta
 git add .
 git commit -m "Revise bhs-meta2. #5"
-
+git push
 ************************************************
