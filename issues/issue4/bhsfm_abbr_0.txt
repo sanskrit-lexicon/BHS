@@ -1,0 +1,350 @@
+0	ls	AbhidhK.	Abhidharmakośa, transl. LaVallée Poussin, Paris and Louvain, 1923—31; many technical words cited from Index, transl., and notes. References, as in the Index, are to Book (of the original) and page of the translation.
+0	ls	AbhK.	preceding.
+0	ls	AdP Konow MASI	Sten Konow, Central Asian Fragments of the Aṣṭādaśasāhasrikā, in Memoirs of the Archaeological Survey of India, No. 69, 1942. Only a few rare and important words.
+0	ls	AsP	Aṣṭasāhasrikā-prajñāpāramitā, ed. Rajendralala Mitra, Calcutta, 1888.
+0	ls	Av	Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+0	ls	Bbh	Bodhisattvabhūmi, ed. Wogihara, Tokyo, 1930—36. Includes the editor's dissertation, Lexikalisches aus der Bodhisattvabhūmi, which is referred to as Wogihara, Lex.
+0	ls	Bcṭ, Bca.ṭ.	Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
+0	ls	Bhad	Bhadracarī, ed. Watanabe, Leipzig, 1912. Identical with Gv 543.9—548.2. Cited by numbered verses.
+0	ls	Bhīk	Bhikṣunī-karmavācanā, ed. Ridding and LaVallée Poussin, BSOS 1, Part 3, 123—143. Cited by page and line of the manuscript as reproduced in ed.
+0	ls	Buddhac.	Buddhacarita, ed. Johnston, Calcutta, 1935. The language is standard Skt.; a few words, chiefly religious, are cited by chapter and verse.
+0	ls	Calc.	Calcutta; see LV.
+0	ls	Dbh	Daśabhūmikasūtra, ed. Rahder, Paris and Louvain, 1926.
+0	ls	Dbh.g.	id. (Gāthā portion); ed. (Rahder and) Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
+0	ls	Dbs	Daśabalasūtra, in Waldschmidt, Kl. Skt. Texte 4, 209 ff.
+0	ls	Dharmas	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
+0	ls	Divy	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+0	ls	Gv	Gaṇḍavyūha, ed. Suzuki and Idzumi, Kyoto, 1934—36; 2d ed., photographically reproduced with corrections, 1949.
+0	ls	Jm	Jātakamālā, ed. Kern (HOS 1), Boston, 1891. Its language is close to standard Skt., but contains quite a number of BHS words, and even a few forms; see § 1.53, fn. 17. Transl. Speyer, London, 1895.
+0	ls	Karmav	(Mahā-)Karmavibhaṅga, and Karmavibhaṅgopadesa, ed. Lévi, Paris, 1932.
+0	ls	Kl. Skt. Texte	Kleinere Sanskrit Texte (5 vols.; Kgl. Preuss. Turfan-Expeditionen), Leipzig (Vol. 1 Berlin), 1911—39.
+0	ls	KP	Kāśyapa Parivarta, ed. Staël-Holstein, Shanghai, 1926. Cited by sections as numbered in edition, and lines.
+0	ls	Kv	Kāraṇḍavyūha, in The Hindu Commentator, vol. 5; 1872.
+0	ls	Laṅk	Laṅkāvatāra-sūtra, ed. Nanjio, Kyoto, 1923; transl. Suzuki, London, 1932; Index, by Suzuki, Kyoto, 1934; ‘Studies’ = Suzuki, Studies in the Lankavatara Sutra, London, 1930.
+0	ls	LV	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+0	ls	MadhK	Mūla-Madhyamaka-kārikās, with comm., ed. LaVallée Poussin, St. Petersburg, 1903—1910. Only partially excerpted.
+0	ls	Mahāsamāj.	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+0	ls	Māy	Mahā-Māyūrī. Two figures refer to page and line of ed. by Oldenbourg in Zapiski Vostochnago Otdelenija Imp. Russk. Archeol. Obschestva, Tom 11 (1899), 218—261. A single number refers to the numbered lines of ‘Le catalogue géographique des yakṣa dans la Mahā-Māyūrī’, by S. Lévi, JAs. XI. 5 (1915), pp. 1—138.
+0	ls	Megh	Meghasūtra, ed. Bendall, JRAS 1880, 288 ff.
+0	ls	Mmk	(Ārya-)Mañjuśrīmūlakalpa, ed. Gaṇapati Śāstri, 3 vols., Trivandrum, 1920, 1922, 1925. See Lalou, in the following list of abbreviations.
+0	ls	MPS	E. Waldschmidt, Das Mahāpariṇirvānasūtra. 3 parts; Abhandlungen der deutschen Akademie…zu Berlin, 1950, 1951. Arrived too late to be extensively used; references are to Waldschmidt's numbered divisions.
+0	ab	(Hoernle) MR	Hoernle (general editor), Manuscript Remains of Buddhist literature found in Eastern Turkestan, Oxford, 1916. BHS fragments ed. by Hoernle, Lüders, Pargiter, Thomas.
+0	ls	MSV	Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, ed. Nalinaksha Dutt, Vol. 3, Parts i (undated), ii (1942), iii (1943), Srinagar, Kashmir. Part iv (1950) arrived late, but its most important words have been included. Unfortunately this valuable series came to hand so late in the progress of my task that I felt it impossible to include Volumes 1 and 2, which seem somewhat less important.
+0	ls	Mv	Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jones's translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
+0	ls	Mvy	Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings {%ibidem%}.
+0	ls	Prāt	Prātimokṣasūtra des Sarvāstivādins, ed. Finot (with translation of Chinese version by Huber), JAs. XI.2 (1913), 473 ff.
+0	ls	RP	Rāṣṭrapālaparipṛcchā, ed. Finot, St. Petersburg, 1901.
+0	ls	Sādh	Sādhanamālā, ed. Bhattacharya, Baroda, 2 vols., 1925, 1928.
+0	ls	Śāl	Śālistambasūtra, (reconstructed) ed. LaVallée Poussin; Bouddhisme, Études et matériaux, Théorie des douze causes (Gand, 1913), pp. 69—90.
+0	ls	Samādh	Samādhirājasūtra, (1) chapters 8, 19, 22, ed. Régamey, Warsaw, 1938, cited by chapters and numbered sections or verses; (2) ed. Das and Vidyābhūshan (Calcutta, 1896); references (only a few; text incredibly corrupt) cited by page and lien, thus: ‘p. —, line —’.
+0	ls	Saṃy. Āg.	Saṃyuktāgama; fragments from Stein mss. ed. LaVallée Poussin, JRAS 1913, 569 ff.; a few references to numbers of fragments (1—15), followed by r(ecto) or v(erso) when necessary, and line of mss.
+0	ls	Śikṣ	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+0	ls	SP	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
+0	ls	ŚsP	Śatasāhasrikā-prajñāpāramitā, ed. P. Ghoṣa, Bibliotheca Indica, Calcutta, 1902 ff.
+0	ls	Sukh	Sukhāvatīvyūha (‘Larger’ and ‘Smaller’), ed. Müller, Oxford, 1883.
+0	ls	Sūtrāl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de l'École des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Lévi's notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
+0	ls	Suv	Suvarṇabhāsottamasūtra, ed. Nobel, Leipzig, 1937; Tibetan version, ed. same, Leiden and Stuttgart, 1944.
+0	ls	Ud	Udānavarga; chap. 1—21, ed. Chakravarti (1930; except ch. 4, for which see Lévi, JAs. X. 20, 1912, 203 ff.); ch. 29, ed. Pischel, SBBA 1908, 968 ff.; ch. 30, 31, 32, ed. LaVallée Poussin, JRAS 1912, 369 ff. Cited by chapter and verse.
+0	ls	Vaj	Vajracchedikā, ed. Müller, Oxford, 1881; fragments of Central Asiatic version, ed. Pargiter, ap. Hoernle MR 179 ff.
+0	ls	AB	Aitareya Brāhmaṇa.
+0	ls	Abhidh-s.	Abhidhammatthasaṃgaha (Pali).
+0	ab	abl.	ablative.
+0	ls	ABORI	Annals of the Bhandarkar Oriental Research Institute (Poona).
+0	ab	abstr.	abstract.
+0	ab	acc.	according; accusative.
+0	ab	act.	active; action.
+0	ls	Add.	Addendum, Addenda (e.g. to BR, pw).
+0	ab	adj.	adjective.
+0	ls	AIS	Delbrück, Altindische Syntax.
+0	ls	Ait. Br.	Aitareya Brāhmaṇa.
+0	ls	AKM	Abhandlungen für die Kunde des Morgenlandes.
+0	ab	al.	alibi, elsewhere.
+0	ls	Amarak.	Amarakośa.
+0	ls	AN	Aṅguttaranikāya (Pali).
+0	ab	analog.	analogical(ly).
+0	ab	aor.	aorist.
+0	ab	ap.	{%apud.%}
+0	ls	Ap.	Apabhraṃśa; Apadāna (Pali text).
+0	ab	app.	apparently.
+0	ls	App.	Appendix.
+0	ls	ApŚ.	Apastamba Śrauta Sūtra.
+0	ls	Apte	Apte, Student's Sanskrit-English Dictionary (1922).
+0	ls	ASGW	Abhandlungen der sächsischen Gesellschaft der Wissenschaften.
+0	ab	assoc.	associated.
+0	ls	AV.	Atharvaveda.
+0	ls	AVPariś.	Atharvaveda Pariśiṣṭa.
+0	ls	Āyār.	Āyāraṅga Sutta (AMg.).
+0	ls	B.	Buddha.
+0	ls	B (as in Wh. Roots)	Brāhmaṇa(s).
+0	ls	B. in Tr. (Warren)	Warren's Buddhism in Translations, HOS. 3.
+0	ls	BEFEO	Bulletin de l'École Française d'Extrème Orient.
+0	ls	BhāgP.	Bhāgavata Purāṇa.
+0	ls	Bhav.	Bhavisattakahā (Ap.), ed. Jacobi (1918).
+0	ls	BhG.	Bhagavad Gītā.
+0	ls	BHS	Buddhist Hybrid Sanskrit.
+0	ls	Bhvr.	Bahuvrīhi.
+0	ls	Bibl. Bu.	Bibliotheca Buddhica.
+0	ls	BR	Boehtlingk and Roth, Sanskrit Wörterbuch.
+0	ls	Br. 	Brāhmaṇas (language of).
+0	ls	BSL	Bulletin de la Société de Linguistique (de Paris).
+0	ls	BSOS	Bulletin of the School of Oriental (and African) Studies, London.
+0	ls	Bu.	Buddhist.
+0	ls	Burnouf, Intr.	Introduction à l'histoire du bouddhisme indien (1844).
+0	ls	Burnouf, Lotus	transl. of SP, q.v. in preceding list.
+0	ls	Bv, Bu.v.	Buddha-vaṃsa (Pali).
+0	ls	Car.	Caraka.
+0	ab	caus.	causative.
+0	ab	cf.	compare.
+0	ab	ch., chap.	chapter.
+0	ls	Childers	Dictionary of the Pali Language, R. C. Childers.
+0	ls	Chin.	Chinese.
+0	ls	Cl. Skt.	Classical Sanskrit.
+0	ab	comb.	combination.
+0	ab	comm.	commentary.
+0	ab	comp.	composition.
+0	ab	compv.	comparative.
+0	ab	corr.	correct(s), correction.
+0	ab	corresp.	correspondent, corresponding, corresponds.
+0	ls	Corrig.	Corrigenda.
+0	ab	cpd.	compound.
+0	ls	CPD	Andersen and Smith, Critical Pali Dictionary (Vol. 1), Copenhagen, 1924 ff.
+0	ab	crit. app.	critical apparatus.
+0	ls	Das	S. C. Das, Tibetan-English Dictionary.
+0	ls	Daśak.	Daśakumāracarita.
+0	ab	dat.	dative.
+0	ab	def.	definition.
+0	ab	denom.	denominative.
+0	ab	der(iv).	derived, derivative.
+0	ls	Deśīn.	Deśīnāmamālā, ed. Pischel, Bombay, 1880.
+0	ls	Dhātup.	Dhātupāṭha.
+0	ls	Dhp.	Dhammapada (Pali); Dhp. c(omm.), commentary on Dhp.; Fausb. refers to Fausböll's ed. of Dhp.
+0	ls	Dhs.	Dhammasaṃgani (Pali).
+0	ab	dial.	dialectic.
+0	ls	Dict.	Dictionary, usually referring to my Dict. of BHS; Dictt. = Dictionaries.
+0	ls	Dict. of the Fr. Cath. Miss.	the Tibetan Dictionary of the French Catholic Mission.
+0	ls	Dict. Hindu Arch.	Acharya, Dictionary of Hindu Architecture.
+0	ab	diff.	different.
+0	ab	dim.	diminutive.
+0	ls	Dīp.	Dīpavaṃsa (Pali).
+0	ls	DN	Dīghanikāya (Pali).
+0	ls	DPPN	Malalasekara, Dictionary of Pali Proper Names.
+0	ls	Dpv., Dpvs.	Dīp.
+0	ls	E	Epic (Sanskrit, in citing Whitney's Roots).
+0	ab	ed.	editor, edition.
+0	ab	em.	emended, emendation.
+0	ab	ep.	epithet.
+0	ls	Ep. Zeyl.	Epigraphia Zeylanica.
+0	ab	equiv.	equivalent.
+0	ab	erron.	erroneously.
+0	ab	etym.	etymology.
+0	ab	esp.	especially.
+0	ab	exc.	except.
+0	ab	expl.	explained, explanation.
+0	ab	f.	feminine; following.
+0	ab	fem.	feminine.
+0	ls	Fest.	Festschrift.
+0	ab	ff.	following.
+0	ab	fig.	figurative(ly).
+0	ab	fn.	footnote.
+0	ab	foll.	followed (by); following.
+0	ab	fut.	future.
+0	ab	gdve.	gerundive.
+0	ls	Geiger (W.)	Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+0	ab	gen.	genitive.
+0	ab	ger.	gerund.
+0	ls	Ger.	German.
+0	ls	Gīt.	Gītagovinda.
+0	ls	GobhGS	Gobhila Gṛhya Sūtra.
+0	ls	GOS	Gaekwad's Oriental Series.
+0	ls	Gr.	Grammar, grammatical, grammarian(s).
+0	ab	haplogr.	haplography.
+0	ab	haplol.	haplology.
+0	ls	Hem.	Hemacandra, chiefly his Prakrit Grammar, ed. and transl. Pischel, Halle, 1877, 1880; see also Deśīn.
+0	ls	HJAS	Harvard Journal of Asiatic Studies.
+0	ls	HOS	Harvard Oriental Series.
+0	ls	IA.	(Lassen) Indische Altertumskunde.
+0	ls	IF.	Indogermanische Forschungen.
+0	ab	ifc.	at the end of compounds.
+0	ls	IHQ	Indian Historical Quarterly.
+0	ab	impf.	imperfect.
+0	ab	impv.	imperative.
+0	ab	incl.	including, inclusive.
+0	ab	indecl.	indeclinable.
+0	ab	indic.	indicative.
+0	ls	Ind. Min.	(Garbe) Die indischen Mineralien (1882).
+0	ls	Ind. Spr.	Boehtlingk, Indische Sprüche (2d ed.).
+0	ab	inf.	infinitive.
+0	ab	inst., instr.	instrumental.
+0	ab	intens.	intensive.
+0	ab	intrans.	intransitive.
+0	ls	I.St.	Indische Studien (Weber).
+0	ls	It., Itiv.	Itivuttaka (Pali).
+0	ls	JA.	Journal Asiatique.
+0	ls	Jacobi, Ausgew. Erz.	Ausgewählte Erzählungen in Māhārāṣṭrī. See also Bhav., San.
+0	ls	JAOS	Journal of the American Oriental Society.
+0	ls	Jap.	Japanese.
+0	ls	JAs.	JA.
+0	ab	(Jä.,) Jäschke	Jäschke, Tibetan-English Dictionary.
+0	ls	Jāt.	Jātaka (Pali).
+0	ls	JB.	Jaiminīya Brāhmaṇa.
+0	ls	JM.	Jaina Māhārāṣṭrī.
+0	ls	JPTS	Journal of the Pali Text Society.
+0	ls	JR (Vikramacarita)	Jainistic Recension of the Vikr., see HOS 26—27.
+0	ls	JRAS	Journal of the Royal Asiatic Society.
+0	ls	JŚ.	Jaina Śaurasenī.
+0	ls	Karmadh.	Karmadhāraya.
+0	ls	Kāś.	Kāśikā (comm. on Pāṇ.).
+0	ls	Kauś.	Kauśika Sūtra.
+0	ls	Kauṭ. (Arth.)	Kauṭiliya (Arthaśāstra).
+0	ls	Kh.p., Khud.p. (comm.)	Khuddaka-pāṭha (commentary) (Pali).
+0	ls	Kirfel, Kosm.	Kosmographie der Inder.
+0	ls	KSA	Kāṭhaka Saṃhitā, Aśvamedhagrantha.
+0	ls	KSS	Kathāsaritsāgara.
+0	ls	KŚS	Kātyāyana Śrauta Sūtra.
+0	ls	Kull.	Kullūka.
+0	ls	Kum.	Kumārapālapratibodha (Ap.), ed. Alsdorf.
+0	ls	Kvu.	Kathā-vatthu (Pali).
+0	ls	E. Lamotte, Mél. chin, et boud.	Mélanges chinoises et bouddhiques.
+0	ls	Lang.	Language (Journal of the Linguistic Society of America).
+0	ls	Lāṭy.	Lāṭyāyana Śrauta Sūtra.
+0	ab	l. c.	in the place cited.
+0	ab	lect. diff.	lectio difficilior.
+0	ab	lect. fac.	lectio facilior.
+0	ab	lex.	lexicon, lexical; see also Bbh, in the preceding list of abbreviations.
+0	ab	lit.	literal(ly); also, literary, found in literature, as opposed to lex.
+0	ab	loc.	locative.
+0	ls	M.	Māhārāṣṭrī.
+0	ab	m.	masculine.
+0	ls	Mahāv.	Mahāvaṃsa (Pali).
+0	ls	Mārk. Pur.	Mārkaṇḍeya Purāṇa.
+0	ab	masc.	masculine.
+0	ab	math.	mathematics.
+0	ls	Mbh.	Mahābhārata.
+0	ab	m.c.	metri causa. I include under this term two classes of cases, because in both I find evidence for believing that metrical considerations were either the exclusive or the dominant reason for the use of the form in question. The first includes any cases of a particular form which is never used in prose, or in positions in a verse where the alternative (‘regular’) form would fit as well. The second includes cases in which the form labelled ‘m.c.’ is indeed also used (elsewhere) in prose or metrically indifferent positions, but in such limited or specialized ways (which vary in different cases) that I still believe the choice was determined, in the cases under consideration where the term ‘m.c.’ occurs, by meter. In both types, of course, the alternative (‘regular’) form would be impossible in a specific context where it is labelled ‘m.c.’ It is hoped that my manner of presentation will make it easy to distinguish the two types. Frequency of occurrence, and use of corresponding forms in other MIndic dialects, are important considerations to which I have tried to give due weight.
+0	ab	metr.	metrical(ly).
+0	ls	Meyer, Kauṭ. (Arth.)	J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
+0	ab	mg.	meaning.
+0	ls	Mg.	Māgadhī.
+0	ls	Miln.(p.), Milp.	Milindapañha (Pali).
+0	ls	MIndic or Mind.	Middle Indic.
+0	ab	misc.	miscellaneous.
+0	ls	MN	Majjhimanikāya (Pali).
+0	ls	Mṛcch.	Mṛcchakaṭikā.
+0	ab	ms(s).	manuscript(s).
+0	ls	MS	Maitrāyaṇī Saṃhitā.
+0	ls	MSL	Mémoires de la Société de Linguistique (de Paris).
+0	ab	mus.	musical.
+0	ls	MW	Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
+0	ab	n.	nominative; name.
+0	ab	n. pr.	proper name.
+0	ab	n. act.	noun of action.
+0	ab	n. ag.	noun of agent.
+0	ls	NAWGött.	Nachrichten der Akademie der Wissenschaften zu Göttingen.
+0	ab	neg.	negative.
+0	ls	Nep.	Nepalese.
+0	ls	Nett.	Nettipakaraṇa (Pali).
+0	ls	NIA	New Indian Antiquary.
+0	ls	Nidd^1	Mahā-Niddesa (Pali).
+0	ls	Nir.	Yāska's Nirukta.
+0	ab	nom.	nominative.
+0	ab	nom. act.	noun of action.
+0	ab	nom. ag.	noun of agent.
+0	ab	nt.	neuter.
+0	ab	obj.	object.
+0	ab	obl.	oblique.
+0	ab	onomat.	onomatopoetic.
+0	ab	opp.	opposite (of).
+0	ab	opt.	optative.
+0	ab	orig.	original(ly).
+0	ls	Pāṇ.	Pāṇini.
+0	ls	Pañc. Rec.	Edgerton, Pañchatantra Reconstructed.
+0	ab	pass.	passive.
+0	ls	Pat.	Patañjali.
+0	ls	PBr.	Pañcaviṃśa Brāhmaṇa.
+0	ab	pej.	pejorative.
+0	ab	perh.	perhaps.
+0	ab	pers. 	person.
+0	ls	Pischel (without further reference)	Grammatik der Prakrit-Sprachen, Strassburg, 1900. Cited as under Geiger.
+0	ls	Pkt.	Prakrit.
+0	ab	pl.	plural.
+0	ab	postp., postpos.	postposition.
+0	ab	ppp.	past passive participle.
+0	ab	prec.	precative; preceding; preceded.
+0	ab	pres.	present.
+0	ab	prob.	probably.
+0	ls	Przyluski, Aśoka	La Légende de l'Empereur Açoka, Paris, 1923.
+0	ls	PTSD	Pali Text Society's Pali-English Dictionary.
+0	ls	Pug(g).	Puggala Paññatti (Pali).
+0	ls	Pv.	Petavatthu (Pali).
+0	ab	pw	Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+0	ab	qy	query.
+0	ls	Rājat(ar).	Rājataraṃgiṇī (ed. Stein).
+0	ls	Rām.	Rāmāyaṇa (NWRām. = Northwestern Rām.)
+0	ls	Ratnach.	Ratnachandra, Ardha-Māgadhī Dictionary (5 vols.).
+0	ab	rec.	recension.
+0	ab	ref.	reference(s).
+0	ls	Renou (Louis), without specific reference, or Gr. scte.	Grammaire sanscrite, Paris, 1930.
+0	ls	RO	Rocznik Orjentalistyczny.
+0	ls	RV	Rig Veda.
+0	ls	S (as in Wh. Roots)	Sūtra(s).
+0	ls	Ś.	Śaurasenī.
+0	ls	San., Sanatk.	Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+0	ls	Saundarān.	Saundarānanda, ed. Johnston.
+0	ls	ŚB.	Śatapatha Brāhmaṇa (Mādhy. — Mādhyaṃdina, K. = Kāṇva recension).
+0	ls	SBBA	Sitzungsberichte der Berliner Akademie der Wissenschaften.
+0	ls	SBE	Sacred Books of the East.
+0	ab	sc.	scilicet.
+0	ls	Schmidt, Nachtr.	R. Schmidt, Nachträge zum Sanskrit Wörterbuch…von Otto Boehtlingk.
+0	ls	Sdhp.	Saddhammopāyana (Pali).
+0	ls	Sen	Sukumar Sen, An outline syntax of Buddhistic Sanskrit, in Journal of the Department of Letters, Univ. of Calcutta, (XVII) (1928).
+0	ab	sg.	singular.
+0	ls	Sheth	H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Calcutta, 1923—1928.
+0	ls	Skt.	Sanskrit; (hyper-)Sktism, Sktization = Sanskritism, Sanskritization.
+0	ls	Skt. Synt.	Speyer, Sanskrit Syntax.
+0	ls	Sn.	Suttanipāta (Pali).
+0	ls	SN.	SaMyuttanikāya (Pali).
+0	ab	subst.	substantive.
+0	ab	superl.	superlative.
+0	ls	Sūyag.	Sūyagaḍaṅgasutta (AMg.).
+0	ab	s.v(v).	under the word(s).
+0	ab	syn.	synonym(ous).
+0	ls	Tatp(ur).	Tatpuruṣa.
+0	ls	TB.	Taittirīya Brāhmaṇa.
+0	ls	Therag.	Theragāthā (Pali).
+0	ls	Therīg.	Therīgāthā (Pali).
+0	ls	Thīg.	Therīg.
+0	ls	Tib.	Tibetan.
+0	ls	Toch.	Tocharian (: Gram., Tocharische Grammatik, Sieg and Siegling).
+0	ab	trans.	transitive.
+0	ab	transl.	translation(s).
+0	ls	Trik.	Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
+0	ls	TS.	Taittirīya Saṃhitā.
+0	ls	Turner (R.L.), Nep. Dict.	Dictionary of the Nepali Language, London, 1931.
+0	ls	U (as in Wh. Roots)	Upaniṣads.
+0	ls	Uhlenbeck (C.C.)	Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898—99).
+0	ab	uncpd.	uncompounded.
+0	ab	unmetr.	unmetrical(ly).
+0	ab	var(r).	variant(s).
+0	ls	Varāh.Bṛh.S.	Varāhamihira, Bṛhat-saṃhitā.
+0	ab	vb.	verb.
+0	ls	Ved.	Vedic.
+0	ls	Ved. St.	Pischel and Geldner, Vedische Studien (3 vols.).
+0	ls	Versl. en Med. d. K. Akad. v. Wet. Amsterdam	Proceedings of the Amsterdam Academy.
+0	ls	Vin.	Vinayapiṭaka (Pali).
+0	ls	Vism., Vis.M.	Visuddhi-magga (Pali).
+0	ab	v.l., vv.ll.	variant reading(s).
+0	ab	voc.	vocative.
+0	ls	VS.	Vājasaneyi Saṃhitā.
+0	ab	vs, vss	verse, verses.
+0	ls	VSS	Speyer, Vedische und Sanskrit-Syntax.
+0	ls	VV	Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+0	ls	Vv.	Vimānavatthu (Pali).
+0	ls	Wack(ernagel), AIGr.	Altindische Grammatik, Göttingen, 1896, 1905, 1930.
+0	ls	Wh.	Whitney; Gr., Sanskrit Grammar; Roots (Verb forms and primary derivatives).
+0	ls	Wilson	H. H. Wilson's Sanskrit Dictionary, as cited in MW.
+0	ls	Winternitz, H(ist). I(nd). Lit.	W's History of Indian Literature (English version; vols. 1 and 2, Calcutta, 1927 and 1933).
+0	ab	w.r.	wrong reading.
+0	ls	Yājñ.	Yājñavalkya (Dharmaśāstra).
+0	ls	ZDMG	Zeitschrift der deutschen morgenländischen Gesellschaft.
+0	ls	ZII	Zeitschrift für Indologie und Iranistik.
+0	ab	: (as in statements of proportional analogy)	‘is related to’.

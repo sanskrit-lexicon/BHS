@@ -1,0 +1,404 @@
+﻿<H>BIBLIOGRAPHY AND ABBREVIATIONS
+THE BHS TEXTS fall roughly into three main classes, as regards their language. These may possibly, if only loosely, represent successive chronological layers in the tradition. It must be emphasized, however, that such a chronological classification does not necessarily apply to the original composition of the texts in question, but only to the forms in which they are now preserved to us. Some of them are known to have undergone changes, always in the direction of greater Sanskritization (see §§ 1.39 ff.; note for example the facts about Vaj, § 1.41, which is put in my third class). Winternitz (Hist. Ind. Lit. 2.314) holds that the Prajñā-Pāramitās ‘belong to the earliest Mahāyāna-Sūtras .. . A Prajnā-Pāramitā was already translated into Chinese as early as 179 A.D.’ Yet AsP and ŚsP, the two works of this class which I have included, belong linguistically in my third class, in the forms now preserved to us; they contain practically no verses, and very little non-Sanskrit morphology.
+1. The first class consists only of Mv, plus a short citation from the lost Bhikṣuprakīrṇaka (in Śikṣ), and a short Jātaka printed in the Appendix to Jm. In these works, the prose parts are thoroughly hybridized, showing as many Middle-Indicisms as the verses. In its ‘nucleus’, at least, Mv seems to be the oldest BHS text we have; and this linguistic type is surely older than the other two.
+2. In the second class, the verses are hybridized, as in the first class, but the prose contains relatively few signs of Middle Indic phonology or morphology. However, the vocabulary, at least, stamps even the prose as BHS. In this class belong SP, LV, Gv (including Bhad), KP, Dbh, RP, Sukh, Samādh, Suv, Ud (contains no prose), and nearly all of Śikṣ (which consists mainly of quotations from older texts, many of which are not otherwise preserved).
+3. In the third class, even the verses (if any; some of these texts contain few or none; those which have none could be included in the second class) are substantially as Sanskritized as the prose parts; the entire text of these works resembles linguistically the prose parts of the second class. That is, non-Sanskritic forms are not common; the vocabulary is the clearest evidence that they belong to the BHS tradition. These include MSV, Divy, Av, Prāt, Mmk, Bbh, AsP, ŚsP, Māy, Bhīk, Karmav, Kv, Laṅk, Vaj, and Jm; here belong also the vocabulary lists in Dharmas and Mvy, and most of the miscellaneous short texts collected in Sādh, so far as they are not standard Sanskrit, which not a few of them seem to be.
+Except as otherwise stated below, references are to page and line of editions.
+
+<H>Abbreviations of Texts from which BHS forms are cited
+AbhidhK.	= Abhidharmakośa, transl. LaVallée Poussin, Paris and Louvain, 1923—31; many technical words cited from Index, transl., and notes. References, as in the Index, are to Book (of the original) and page of the translation.
+AbhK.	= preceding.
+AdP Konow MASI	= Sten Konow, Central Asian Fragments of the Aṣṭādaśasāhasrikā, in Memoirs of the Archaeological Survey of India, No. 69, 1942. Only a few rare and important words.
+AsP	= Aṣṭasāhasrikā-prajñāpāramitā, ed. Rajendralala Mitra, Calcutta, 1888.
+Av	= Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+Bbh	= Bodhisattvabhūmi, ed. Wogihara, Tokyo, 1930—36. Includes the editor's dissertation, Lexikalisches aus der Bodhisattvabhūmi, which is referred to as Wogihara, Lex.
+Bcṭ, Bca.ṭ.	= Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
+Bhad	= Bhadracarī, ed. Watanabe, Leipzig, 1912. Identical with Gv 543.9—548.2. Cited by numbered verses.
+Bhīk	= Bhikṣunī-karmavācanā, ed. Ridding and LaVallée Poussin, BSOS 1, Part 3, 123—143. Cited by page and line of the manuscript as reproduced in ed.
+Buddhac.	= Buddhacarita, ed. Johnston, Calcutta, 1935. The language is standard Skt.; a few words, chiefly religious, are cited by chapter and verse.
+Calc.	= Calcutta; see LV.
+Dbh	= Daśabhūmikasūtra, ed. Rahder, Paris and Louvain, 1926.
+Dbh.g.	= id. (Gāthā portion); ed. (Rahder and) Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
+Dbs	= Daśabalasūtra, in Waldschmidt, Kl. Skt. Texte 4, 209 ff.
+Dharmas	= Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
+Divy	= Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+Foucaux	see LV.
+Guhyasamāja	ed. Bhattacharya, Gaekwad's Oriental Series 53, Baroda, 1931; contains a few verses with BHS forms; very rarely cited.
+Gv	= Gaṇḍavyūha, ed. Suzuki and Idzumi, Kyoto, 1934—36; 2d ed., photographically reproduced with corrections, 1949.
+Hoernle	see MR.
+Jm	= Jātakamālā, ed. Kern (HOS 1), Boston, 1891. Its language is close to standard Skt., but contains quite a number of BHS words, and even a few forms; see § 1.53, fn. 17. Transl. Speyer, London, 1895.
+Ḱ	see SP.
+Karmav	= (Mahā-)Karmavibhaṅga, and Karmavibhaṅgopadesa, ed. Lévi, Paris, 1932.
+Kl. Skt. Texte	= Kleinere Sanskrit Texte (5 vols.; Kgl. Preuss. Turfan-Expeditionen), Leipzig (Vol. 1 Berlin), 1911—39.
+KN	see SP.
+KP	= Kāśyapa Parivarta, ed. Staël-Holstein, Shanghai, 1926. Cited by sections as numbered in edition, and lines.
+Kv	= Kāraṇḍavyūha, in The Hindu Commentator, vol. 5; 1872.
+Laṅk	= Laṅkāvatāra-sūtra, ed. Nanjio, Kyoto, 1923; transl. Suzuki, London, 1932; Index, by Suzuki, Kyoto, 1934; ‘Studies’ = Suzuki, Studies in the Lankavatara Sutra, London, 1930.
+Lefm.	see LV.
+LV	= Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+MadhK	= Mūla-Madhyamaka-kārikās, with comm., ed. LaVallée Poussin, St. Petersburg, 1903—1910. Only partially excerpted.
+Mahāsamāj.	= Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+Māy	= Mahā-Māyūrī. Two figures refer to page and line of ed. by Oldenbourg in Zapiski Vostochnago Otdelenija Imp. Russk. Archeol. Obschestva, Tom 11 (1899), 218—261. A single number refers to the numbered lines of ‘Le catalogue géographique des yakṣa dans la Mahā-Māyūrī’, by S. Lévi, JAs. XI. 5 (1915), pp. 1—138.
+Megh	= Meghasūtra, ed. Bendall, JRAS 1880, 288 ff.
+Minaeff	see Mvy.
+Mironov	see Mvy.
+Mmk	= (Ārya-)Mañjuśrīmūlakalpa, ed. Gaṇapati Śāstri, 3 vols., Trivandrum, 1920, 1922, 1925. See Lalou, in the following list of abbreviations.
+MPS	= E. Waldschmidt, Das Mahāpariṇirvānasūtra. 3 parts; Abhandlungen der deutschen Akademie…zu Berlin, 1950, 1951. Arrived too late to be extensively used; references are to Waldschmidt's numbered divisions.
+(Hoernle) MR	= Hoernle (general editor), Manuscript Remains of Buddhist literature found in Eastern Turkestan, Oxford, 1916. BHS fragments ed. by Hoernle, Lüders, Pargiter, Thomas.
+MSV	= Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, ed. Nalinaksha Dutt, Vol. 3, Parts i (undated), ii (1942), iii (1943), Srinagar, Kashmir. Part iv (1950) arrived late, but its most important words have been included. Unfortunately this valuable series came to hand so late in the progress of my task that I felt it impossible to include Volumes 1 and 2, which seem somewhat less important.
+Mv	= Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jones's translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
+Mvy	= Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings {%ibidem%}.
+Pischel	SBBA	1904 pp. 807—827: Bruchstücke des Sanskrit-kanons der Buddhisten aus Idykutšari. A few rarer words cited by number of page and manuscript-folio.
+Prāt	= Prātimokṣasūtra des Sarvāstivādins, ed. Finot (with translation of Chinese version by Huber), JAs. XI.2 (1913), 473 ff.
+RP	= Rāṣṭrapālaparipṛcchā, ed. Finot, St. Petersburg, 1901.
+Sādh	= Sādhanamālā, ed. Bhattacharya, Baroda, 2 vols., 1925, 1928.
+Śāl	= Śālistambasūtra, (reconstructed) ed. LaVallée Poussin; Bouddhisme, Études et matériaux, Théorie des douze causes (Gand, 1913), pp. 69—90.
+Samādh	= Samādhirājasūtra, (1) chapters 8, 19, 22, ed. Régamey, Warsaw, 1938, cited by chapters and numbered sections or verses; (2) ed. Das and Vidyābhūshan (Calcutta, 1896); references (only a few; text incredibly corrupt) cited by page and lien, thus: ‘p. —, line —’.
+Saṃy. Āg.	= Saṃyuktāgama; fragments from Stein mss. ed. LaVallée Poussin, JRAS 1913, 569 ff.; a few references to numbers of fragments (1—15), followed by r(ecto) or v(erso) when necessary, and line of mss.
+Śikṣ	= Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+SP	= Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
+ŚsP	= Śatasāhasrikā-prajñāpāramitā, ed. P. Ghoṣa, Bibliotheca Indica, Calcutta, 1902 ff.
+Sukh	= Sukhāvatīvyūha (‘Larger’ and ‘Smaller’), ed. Müller, Oxford, 1883.
+Sūtrāl.	= Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de l'École des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Lévi's notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
+Suv	= Suvarṇabhāsottamasūtra, ed. Nobel, Leipzig, 1937; Tibetan version, ed. same, Leiden and Stuttgart, 1944.
+Svay = (Vṛhat-)Svayambhū Purāṇa, ed. Haraprasad Sastri, Calcutta, 1894—1900; of very little use and only rarely cited. Cf. Winternitz, Hist. Ind. Lit. II, 376, note.
+Ud	= Udānavarga; chap. 1—21, ed. Chakravarti (1930; except ch. 4, for which see Lévi, JAs. X. 20, 1912, 203 ff.); ch. 29, ed. Pischel, SBBA 1908, 968 ff.; ch. 30, 31, 32, ed. LaVallée Poussin, JRAS 1912, 369 ff. Cited by chapter and verse.
+Vaj	= Vajracchedikā, ed. Müller, Oxford, 1881; fragments of Central Asiatic version, ed. Pargiter, ap. Hoernle MR 179 ff.
+Weller	see LV.
+Wogihara, Lex.	see Bbh.
+WT	see SP.
+
+<H>Other abbreviations and works chiefly referred to
+AB	= Aitareya Brāhmaṇa.
+Abhidh-s.	= Abhidhammatthasaṃgaha (Pali).
+abl.	= ablative.
+ABORI	= Annals of the Bhandarkar Oriental Research Institute (Poona).
+abstr.	= abstract.
+acc.	= according; accusative.
+Acharya (P.K.)	Dict(ionary of) Hindu Arch(itecture), Oxford Univ. Press, n.d. [1927?].
+act.	= active; action.
+Add.	= Addendum, Addenda (e.g. to BR, pw).
+adj.	= adjective.
+AIS	= Delbrück, Altindische Syntax.
+Ait. Br.	= Aitareya Brāhmaṇa.
+AKM	= Abhandlungen für die Kunde des Morgenlandes.
+al.	= alibi, elsewhere.
+Alsdorf	see Kum.
+Amarak.	= Amarakośa.
+AN	= Aṅguttaranikāya (Pali).
+analog.	= analogical(ly).
+aor.	= aorist.
+ap.	= {%apud.%}
+Ap.	= Apabhraṃśa; Apadāna (Pali text).
+app.	= apparently.
+App.	= Appendix.
+ApŚ.	= Apastamba Śrauta Sūtra.
+Apte	= Apte, Student's Sanskrit-English Dictionary (1922).
+ASGW	= Abhandlungen der sächsischen Gesellschaft der Wissenschaften.
+assoc.	= associated.
+AV.	= Atharvaveda.
+AVPariś.	= Atharvaveda Pariśiṣṭa.
+Āyār.	= Āyāraṅga Sutta (AMg.).
+B.	= Buddha.
+B (as in Wh. Roots)	= Brāhmaṇa(s).
+B. in Tr. (Warren)	= Warren's Buddhism in Translations, HOS. 3.
+BEFEO	= Bulletin de l'École Française d'Extrème Orient.
+BhāgP.	= Bhāgavata Purāṇa.
+Bhav.	= Bhavisattakahā (Ap.), ed. Jacobi (1918).
+BhG.	= Bhagavad Gītā.
+BHS	= Buddhist Hybrid Sanskrit.
+Bhvr.	= Bahuvrīhi.
+Bibl. Bu.	= Bibliotheca Buddhica.
+Bloch (Jules)	(L')Indo-Aryen, Paris, 1934.
+Bloch (Jules)	(Les Inscriptions d') Asoka, Paris, 1950.
+BR	= Boehtlingk and Roth, Sanskrit Wörterbuch.
+Br. 	= Brāhmaṇas (language of).
+BSL	= Bulletin de la Société de Linguistique (de Paris).
+BSOS	= Bulletin of the School of Oriental (and African) Studies, London.
+Bu.	= Buddhist.
+Bull(etin of the) Deccan Coll(ege) Research Institute) (Poona).
+Burnouf, Intr.	= Introduction à l'histoire du bouddhisme indien (1844).
+Burnouf, Lotus	= transl. of SP, q.v. in preceding list.
+Burrow (T.)	(The languages of the) Kharoṣṭhi Documents, Cambridge, 1937.
+Bv, Bu.v.	= Buddha-vaṃsa (Pali).
+Car.	= Caraka.
+caus.	= causative.
+cf.	= compare.
+ch., chap.	= chapter.
+Childers	= Dictionary of the Pali Language, R. C. Childers.
+Chin.	= Chinese.
+Cl. Skt.	= Classical Sanskrit.
+comb.	= combination.
+comm.	= commentary.
+comp.	= composition.
+Compendium of Philosophy (Aung and Rhys Davids, London, 1910).
+compv.	= comparative.
+corr.	= correct(s), correction.
+corresp.	= correspondent, corresponding, corresponds.
+Corrig.	= Corrigenda.
+cpd.	= compound.
+CPD	= Andersen and Smith, Critical Pali Dictionary (Vol. 1), Copenhagen, 1924 ff.
+crit. app.	= critical apparatus.
+Das	= S. C. Das, Tibetan-English Dictionary.
+Daśak.	= Daśakumāracarita.
+dat.	= dative.
+def.	= definition.
+denom.	= denominative.
+der(iv).	= derived, derivative.
+Deśīn.	= Deśīnāmamālā, ed. Pischel, Bombay, 1880.
+Dhātup.	= Dhātupāṭha.
+Dhp.	= Dhammapada (Pali); Dhp. c(omm.), commentary on Dhp.; Fausb. refers to Fausböll's ed. of Dhp.
+Dhs.	= Dhammasaṃgani (Pali).
+dial.	= dialectic.
+Dict.	= Dictionary, usually referring to my Dict. of BHS; Dictt. = Dictionaries.
+Dict. of the Fr. Cath. Miss.	= the Tibetan Dictionary of the French Catholic Mission.
+Dict. Hindu Arch.	= Acharya, Dictionary of Hindu Architecture.
+diff.	= different.
+dim.	= diminutive.
+Dīp.	= Dīpavaṃsa (Pali).
+DN	= Dīghanikāya (Pali).
+DPPN	= Malalasekara, Dictionary of Pali Proper Names.
+Dpv., Dpvs.	= Dīp.
+Dutreuil (de Rhins ms.)	see § 1.3 with fn. 2.
+E	= Epic (Sanskrit, in citing Whitney's Roots).
+ed.	= editor, edition.
+em.	= emended, emendation.
+ep.	= epithet.
+Ep. Zeyl.	= Epigraphia Zeylanica.
+equiv.	= equivalent.
+erron.	= erroneously.
+etym.	= etymology.
+esp.	= especially.
+exc.	= except.
+expl.	= explained, explanation.
+f.	= feminine; following.
+fem.	= feminine.
+Fest.	= Festschrift.
+ff.	= following.
+fig.	= figurative(ly).
+fn.	= footnote.
+foll.	= followed (by); following.
+fut.	= future.
+gdve.	= gerundive.
+Geiger (W.)	= Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+gen.	= genitive.
+ger.	= gerund.
+Ger.	= German.
+Gīt.	= Gītagovinda.
+GobhGS	= Gobhila Gṛhya Sūtra.
+GOS	= Gaekwad's Oriental Series.
+Gr.	= Grammar, grammatical, grammarian(s).
+haplogr.	= haplography.
+haplol.	= haplology.
+Hem.	= Hemacandra, chiefly his Prakrit Grammar, ed. and transl. Pischel, Halle, 1877, 1880; see also Deśīn.
+HJAS	= Harvard Journal of Asiatic Studies.
+HOS	= Harvard Oriental Series.
+Hultzsch (E.)	Inscr(iptions) of Asoka, Oxford, 1925.
+IA.	= (Lassen) Indische Altertumskunde.
+IF.	= Indogermanische Forschungen.
+ifc.	= at the end of compounds.
+IHQ	= Indian Historical Quarterly.
+impf.	= imperfect.
+impv.	= imperative.
+incl.	= including, inclusive.
+indecl.	= indeclinable.
+indic.	= indicative.
+Ind. Min.	= (Garbe) Die indischen Mineralien (1882).
+Ind. Spr.	= Boehtlingk, Indische Sprüche (2d ed.).
+inf.	= infinitive.
+inst., instr.	= instrumental.
+intens.	= intensive.
+intrans.	= intransitive.
+I.St.	= Indische Studien (Weber).
+It., Itiv.	= Itivuttaka (Pali).
+JA.	= Journal Asiatique.
+Jä.	see Jäschke.
+Jacobi, Ausgew. Erz.	= Ausgewählte Erzählungen in Māhārāṣṭrī. See also Bhav., San.
+JAOS	= Journal of the American Oriental Society.
+Jap.	= Japanese.
+JAs.	= JA.
+(Jä.,) Jäschke	= Jäschke, Tibetan-English Dictionary.
+Jāt.	= Jātaka (Pali).
+JB.	= Jaiminīya Brāhmaṇa.
+JM.	= Jaina Māhārāṣṭrī.
+JPTS	= Journal of the Pali Text Society.
+JR (Vikramacarita)	= Jainistic Recension of the Vikr., see HOS 26—27.
+JRAS	= Journal of the Royal Asiatic Society.
+JŚ.	= Jaina Śaurasenī.
+Karmadh.	= Karmadhāraya.
+Kāś.	= Kāśikā (comm. on Pāṇ.).
+Kauś.	= Kauśika Sūtra.
+Kauṭ. (Arth.)	= Kauṭiliya (Arthaśāstra).
+Kh.p., Khud.p. (comm.)	= Khuddaka-pāṭha (commentary) (Pali).
+Kirfel, Kosm.	= Kosmographie der Inder.
+KSA	= Kāṭhaka Saṃhitā, Aśvamedhagrantha.
+KSS	= Kathāsaritsāgara.
+KŚS	= Kātyāyana Śrauta Sūtra.
+Kull.	= Kullūka.
+Kum.	= Kumārapālapratibodha (Ap.), ed. Alsdorf.
+Kvu.	= Kathā-vatthu (Pali).
+Lalou	Iconographie (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+E. Lamotte, Mél. chin, et boud.	= Mélanges chinoises et bouddhiques.
+Lang.	= Language (Journal of the Linguistic Society of America).
+Lāṭy.	= Lāṭyāyana Śrauta Sūtra.
+l. c.	= in the place cited.
+lect. diff.	= lectio difficilior.
+lect. fac.	= lectio facilior.
+lex.	= lexicon, lexical; see also Bbh, in the preceding list of abbreviations.
+Lin Li-kouang	(L')Aide-Mémoire (de la Vraie Loi), Paris, 1949.
+lit.	= literal(ly); also, literary, found in literature, as opposed to lex.
+loc.	= locative.
+M.	= Māhārāṣṭrī.
+m.	= masculine.
+Mahāv.	= Mahāvaṃsa (Pali).
+Mārk. Pur.	= Mārkaṇḍeya Purāṇa.
+masc.	= masculine.
+math.	= mathematics.
+Mbh.	= Mahābhārata.
+m.c.	= metri causa. I include under this term two classes of cases, because in both I find evidence for believing that metrical considerations were either the exclusive or the dominant reason for the use of the form in question. The first includes any cases of a particular form which is never used in prose, or in positions in a verse where the alternative (‘regular’) form would fit as well. The second includes cases in which the form labelled ‘m.c.’ is indeed also used (elsewhere) in prose or metrically indifferent positions, but in such limited or specialized ways (which vary in different cases) that I still believe the choice was determined, in the cases under consideration where the term ‘m.c.’ occurs, by meter. In both types, of course, the alternative (‘regular’) form would be impossible in a specific context where it is labelled ‘m.c.’ It is hoped that my manner of presentation will make it easy to distinguish the two types. Frequency of occurrence, and use of corresponding forms in other MIndic dialects, are important considerations to which I have tried to give due weight.
+Mehendale (M.A.)	Hist(orical) Gr(ammar) of Inscr(iptional) Pkts., Poona, 1948.
+metr.	= metrical(ly).
+Meyer, Kauṭ. (Arth.)	= J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
+mg.	= meaning.
+Mg.	= Māgadhī.
+Miln.(p.), Milp.	= Milindapañha (Pali).
+MIndic or Mind.	= Middle Indic.
+misc.	= miscellaneous.
+MN	= Majjhimanikāya (Pali).
+Mṛcch.	= Mṛcchakaṭikā.
+ms(s).	= manuscript(s).
+MS	= Maitrāyaṇī Saṃhitā.
+MSL	= Mémoires de la Société de Linguistique (de Paris).
+Mus (P.)	Barabudur (1935).
+mus.	= musical.
+MW	= Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
+n.	= nominative; name.
+n. pr.	= proper name.
+n. act.	= noun of action.
+n. ag.	= noun of agent.
+Nachtr.	see Schmidt.
+NAWGött.	= Nachrichten der Akademie der Wissenschaften zu Göttingen.
+neg.	= negative.
+Neisser, Z. Wbch. d. RV.	W. Neisser, Zum Wörterbuch des Rigveda.
+Nep.	= Nepalese.
+Nett.	= Nettipakaraṇa (Pali).
+NIA	= New Indian Antiquary.
+Nidd^1	= Mahā-Niddesa (Pali).
+Nir.	= Yāska's Nirukta.
+nom.	= nominative.
+nom. act.	= noun of action.
+nom. ag.	= noun of agent.
+nt.	= neuter.
+obj.	= object.
+obl.	= oblique.
+onomat.	= onomatopoetic.
+opp.	= opposite (of).
+opt.	= optative.
+orig.	= original(ly).
+Pāṇ.	= Pāṇini.
+Pañc. Rec.	= Edgerton, Pañchatantra Reconstructed.
+pass.	= passive.
+Pat.	= Patañjali.
+PBr.	= Pañcaviṃśa Brāhmaṇa.
+pej.	= pejorative.
+perh.	= perhaps.
+pers. 	= person.
+Philologica Indica	(reprints of monographs by H. Lüders), Göttingen, 1940.
+Pischel (without further reference)	= Grammatik der Prakrit-Sprachen, Strassburg, 1900. Cited as under Geiger.
+Pkt.	= Prakrit.
+pl.	= plural.
+postp., postpos.	= postposition.
+ppp.	= past passive participle.
+prec.	= precative; preceding; preceded.
+pres.	= present.
+prob.	= probably.
+Proc(eedings of the) Am(erican) Philos(ophical) Soc(iety).
+Przyluski, Aśoka	= La Légende de l'Empereur Açoka, Paris, 1923.
+PTSD	= Pali Text Society's Pali-English Dictionary.
+Pug(g).	= Puggala Paññatti (Pali).
+Pv.	= Petavatthu (Pali).
+pw	= Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+qy	= query.
+Rājat(ar).	= Rājataraṃgiṇī (ed. Stein).
+Rām.	= Rāmāyaṇa (NWRām. = Northwestern Rām.)
+Ratnach.	= Ratnachandra, Ardha-Māgadhī Dictionary (5 vols.).
+rec.	= recension.
+ref.	= reference(s).
+Renou (Louis), without specific reference, or Gr. scte.	= Grammaire sanscrite, Paris, 1930.
+Renou (Louis)	Études de grammaire Sanskrite, Paris, 1936.
+RO	= Rocznik Orjentalistyczny.
+RV	= Rig Veda.
+S (as in Wh. Roots)	= Sūtra(s).
+Ś.	= Śaurasenī.
+San., Sanatk.	= Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+Saundarān.	= Saundarānanda, ed. Johnston.
+ŚB.	= Śatapatha Brāhmaṇa (Mādhy. — Mādhyaṃdina, K. = Kāṇva recension).
+SBBA	= Sitzungsberichte der Berliner Akademie der Wissenschaften.
+SBE	= Sacred Books of the East.
+sc.	= scilicet.
+Schmidt, Nachtr.	= R. Schmidt, Nachträge zum Sanskrit Wörterbuch…von Otto Boehtlingk.
+Sdhp.	= Saddhammopāyana (Pali).
+Sen	= Sukumar Sen, An outline syntax of Buddhistic Sanskrit, in Journal of the Department of Letters, Univ. of Calcutta, (XVII) (1928).
+sg.	= singular.
+Sheth	= H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Calcutta, 1923—1928.
+Skt.	= Sanskrit; (hyper-)Sktism, Sktization = Sanskritism, Sanskritization.
+Skt. Synt.	= Speyer, Sanskrit Syntax.
+Smith, Helmet	Les deux prosodies du vers bouddhique (see § 1.38, fn. 15).
+Sn.	= Suttanipāta (Pali).
+SN.	= SaMyuttanikāya (Pali).
+Speyer	see Skt. Synt., and VSS; also, in the preceding list, s.vv. Av and Jm.
+subst.	= substantive.
+superl.	= superlative.
+Sūyag.	= Sūyagaḍaṅgasutta (AMg.).
+s.v(v).	= under the word(s).
+syn.	= synonym(ous).
+Tagare (G.V.)	Hist(orical) Gr(ammar) of Ap(abhraṃśa), Poona, 1948.
+Tatp(ur).	= Tatpuruṣa.
+TB.	= Taittirīya Brāhmaṇa.
+Therag.	= Theragāthā (Pali).
+Therīg.	= Therīgāthā (Pali).
+Thīg.	= Therīg.
+Tib.	= Tibetan.
+Ting (Fu-Pao)	Dictionary of Buddhist Chinese, 16 vols., Shanghai, 1920. In Chinese; a few references provided by Mr. Chang Kun.
+Toch.	= Tocharian (: Gram., Tocharische Grammatik, Sieg and Siegling).
+trans.	= transitive.
+transl.	= translation(s).
+Trik.	= Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
+TS.	= Taittirīya Saṃhitā.
+Turner (R.L.), Nep. Dict.	= Dictionary of the Nepali Language, London, 1931.
+U (as in Wh. Roots)	= Upaniṣads.
+Uhlenbeck (C.C.)	= Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898—99).
+uncpd.	= uncompounded.
+unmetr.	= unmetrical(ly).
+var(r).	= variant(s).
+Varāh.Bṛh.S.	= Varāhamihira, Bṛhat-saṃhitā.
+vb.	= verb.
+Ved.	= Vedic.
+Ved. St.	= Pischel and Geldner, Vedische Studien (3 vols.).
+Ved. Var.	Vedic Variants, see VV.
+Versl. en Med. d. K. Akad. v. Wet. Amsterdam	= Proceedings of the Amsterdam Academy.
+Vin.	= Vinayapiṭaka (Pali).
+Vism., Vis.M.	= Visuddhi-magga (Pali).
+v.l., vv.ll.	= variant reading(s).
+voc.	= vocative.
+VS.	= Vājasaneyi Saṃhitā.
+vs, vss	= verse, verses.
+VSS	= Speyer, Vedische und Sanskrit-Syntax.
+VV	= Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+Vv.	= Vimānavatthu (Pali).
+Wack(ernagel), AIGr.	= Altindische Grammatik, Göttingen, 1896, 1905, 1930.
+Warren (H. C)	B(uddhism) in Transl(ations) (= HOS 3; 1896).
+Wh.	= Whitney; Gr., Sanskrit Grammar; Roots (Verb forms and primary derivatives).
+Wilson	= H. H. Wilson's Sanskrit Dictionary, as cited in MW.
+Winternitz, H(ist). I(nd). Lit.	= W's History of Indian Literature (English version; vols. 1 and 2, Calcutta, 1927 and 1933).
+w.r.	= wrong reading.
+Yājñ.	= Yājñavalkya (Dharmaśāstra).
+ZDMG	= Zeitschrift der deutschen morgenländischen Gesellschaft.
+ZII	= Zeitschrift für Indologie und Iranistik.
+Z.Wbch. d. RV.	see Neisser.
+
+<H>Symbols
+: (as in statements of proportional analogy)	= ‘is related to’.
+()	Parentheses, in the Dictionary, enclose articles on words which occur in standard Skt. in substantially the same meanings as in BHS, but which by exception, for one reason or another, seem to need treatment here. The reason is usually a (previous) erroneous interpretation, or sometimes what is felt to be a danger thereof.
+[ ]	Brackets, in the Dictionary, enclose articles on what are considered erroneous readings. They are, however, also used in the interior of an article, in lieu of parentheses which, if used, would fall within other parentheses.
+

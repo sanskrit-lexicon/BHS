@@ -1,0 +1,8 @@
+; diff 1:
+; tagcount 81:lsfm?:Jä.
+;    front 0:ls:Jä.
+; tagcount:
+see Jäschke. Jäschke, Tibetan-English Dictionary.
+;    front:
+Jäschke, Tibetan-English Dictionary.
+; ------------------------------------------------------

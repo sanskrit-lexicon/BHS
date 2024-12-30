@@ -1,0 +1,8 @@
+old: ;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+new: Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+old: ;; Avadāna-śataka, ed. Speyer J. S., 2 vols., St. Petersburg, 1902, 1906.
+new: Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+old: ;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+new: Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+old: ;; W.KirfelDie, Kosmographie der Inder: nach den Quellen dargestellt / Bonn–Leipzig: Kurt Schroeder, 1920.
+new: Kosmographie der Inder.

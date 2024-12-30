@@ -1,0 +1,611 @@
+5c5
+<    1	ls	Abhidh-s.      	Abhidhammatthasaṃgaha (Pali).
+---
+> 1	lsfm	Abhidh-s.	Abhidhammatthasaṃgaha (Pali).
+11c11
+<   27	ls	AbhidhK.       	Abhidharmakośa, transl. LaVallée Poussin, Paris and Louvain, 1923—31; many technical words cited from Index, transl., and notes. References, as in the Index, are to Book (of the original) and page of the translation.
+---
+> 27	lsfm	AbhidhK.	Abhidharmakośa, transl. LaVallée Poussin, Paris and Louvain, 1923—31; many technical words cited from Index, transl., and notes. References, as in the Index, are to Book (of the original) and page of the translation.
+24d23
+<    1	ls	Addendum       	;; it is just an English word = Addenda.
+30c29
+<    1	ls	Ait. Br.       	Aitareya Brāhmaṇa.
+---
+> 1	lsfm	Ait. Br.	Aitareya Brāhmaṇa.
+32c31
+<    1	ls	Amarak.        	Amarakośa.
+---
+> 1	lsfm	Amarak.	Amarakośa.
+34,38c33,37
+<   86	ls	AN             	Aṅguttaranikāya (Pali).
+<    7	ls	AN comm.       	;; (probably) Manorathapūraṇī (Pali) - Buddhaghosa's Commentary on the Aṅguttaranikāya.
+<    1	ls	Andersen, Reader, Glossary	;; Andersen D. A Pāli reader: with notes and glossary, 2 pts; Copenhagen 1901, 1907.
+<    2	ls	Ap             	;; Apadāna (Pali text) BUT "Ap." (with dot) = Apabhraṃśa (a term to refer to languages spoken in North India before the rise of the modern languages).
+<    6	ls	Apte           	Apte V.S. Studentʼs Sanskrit-English Dictionary (1922).
+---
+> 86	lsfm	AN	Aṅguttaranikāya (Pali).
+> 7	ls	AN comm.	Aṅguttaranikāya (Pali).
+> 1	ls	Andersenʼs Reader, Glossary	;; Andersen D. A Pāli reader: with notes and glossary, 2 pts; Copenhagen 1901, 1907.
+> 2	ls	Ap	Apadāna (Pali text)
+> 6	lsfm	Apte	Apte, Studentʼs Sanskrit-English Dictionary (1922).
+40,41c39,40
+<    1	ls	Arthaśāstra    	;; Arthaśāstra - BUT I did not find this word in the bhs.txt.
+<  318	ls	AsP            	Aṣṭasāhasrikā-prajñāpāramitā, ed. Rajendralala Mitra, Calcutta, 1888.
+---
+> 1	ls	Arthaśāstra	Arthaśāstra
+> 318	lsfm	AsP	Aṣṭasāhasrikā-prajñāpāramitā, ed. Rajendralala Mitra, Calcutta, 1888.
+46,50c45,48
+< 1101	ls	Av             	Avadāna-śataka, ed. Speyer J. S., 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+<    1	ls	Av, Index      	;; Avadāna-śataka, ed. Speyer J. S., 2 vols., St. Petersburg, 1902, 1906.
+<    5	ls	AV.            	Atharvaveda.
+<    1	ls	Av.            	;; the SCAN has "Av" (so we don't have "Av." at all).
+<    1	ls	AVPariś.       	Atharvaveda Pariśiṣṭa.
+---
+> 1102	lsfm	Av	Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+> 1	ls	Av, Index	Avadāna-śataka, ed. Speyer, 2 vols., St. Petersburg, 1902, 1906; transl. Feer, Annales du Musée Guimet 18 (1891).
+> 5	lsfm	AV.	Atharvaveda.
+> 1	lsfm	AVPariś.	Atharvaveda Pariśiṣṭa.
+61c59
+<    1	ls	Barua and Mitra	;; Prakrit Dhammapada: based upon M.Senart's Kharoṣṭhī manuscript, with text, translation & notes. B. Barua, S.Mitra. University of Calcutta, 1921.
+---
+> 1	ls	Barua and Mitra	;; Prakrit Dhammapada: based upon M.Senartʼs Kharoṣṭhī manuscript, with text, translation & notes. B. Barua, S.Mitra. University of Calcutta, 1921.
+63c61
+< 1215	ls	Bbh            	Bodhisattvabhūmi, ed. Wogihara, Tokyo, 1930—36. Includes the editorʼs dissertation, Lexikalisches aus der Bodhisattvabhūmi, which is referred to as Wogihara, Lex.
+---
+> 1215	lsfm	Bbh	Bodhisattvabhūmi, ed. Wogihara, Tokyo, 1930—36. Includes the editorʼs dissertation, Lexikalisches aus der Bodhisattvabhūmi, which is referred to as Wogihara, Lex.
+65c63
+<    1	ls	Bca.ṭ.         	;; Bodhicdaryāvatāra-ṭīkā, ed. L. de La Vallée Poussin: Bouddhisme. Études et maté‐riaux. Ādikarmapradīpa. Bodhicaryāvatāraṭīkā. London, 1898: Luzac&Co, pp.234–388. Technical terms cited from Index.
+---
+> 1	lsfm	Bca.ṭ.	Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
+67c65
+<   10	ls	Bcṭ            	;; Bodhicdaryāvatāra-ṭīkā, ed. L. de La Vallée Poussin: Bouddhisme. Études et maté‐riaux. Ādikarmapradīpa. Bodhicaryāvatāraṭīkā. London, 1898: Luzac&Co, pp.234–388. Technical terms cited from Index.
+---
+> 10	lsfm	Bcṭ	Bodhicaryāvatāra-ṭīkā, ed. LaVallée Poussin, Brussels, 1898. Technical terms cited from Index.
+71,76c69,74
+<    1	ls	Bendall and Rouse in Śikṣ Transl.	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+<    3	ls	Bendall and Rouse Transl.	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+<    1	ls	Bendall and Rouse, note in Transl.	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+<    8	ls	Bendall and Rouse, Transl.	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+<    1	ls	Bendall and Rouse, Śikṣ	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+<    1	ls	Bendall and Rouse, Śikṣ Transl.	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+---
+> 1	ls	Bendall and Rouse in Śikṣ Transl.	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+> 3	ls	Bendall and Rouse Transl.	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+> 1	ls	Bendall and Rouse, note in Transl.	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+> 8	ls	Bendall and Rouse, Transl.	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+> 1	ls	Bendall and Rouse, Śikṣ	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+> 1	ls	Bendall and Rouse, Śikṣ Transl.	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+80c78
+<    2	ls	Bendall-Rouse  	;; Śikṣāsamuccaya, A Compendium of Buddhist Doctrine / transl. C.Bendall and  W.H.D.Rouse. London: John Murray, 1922.
+---
+> 2	ls	Bendall-Rouse	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+83,84c81,82
+<   79	ls	Bhad           	;; Die Bhadracarī: Eine Probe buddhistisch-religiöser Lyrik / Untersucht und herausgegeben K.Watanabe. Leipzig: Kreysing. Diss. phil. Straßburg. Identical with Gv 543.9—548.2. Cited by numbered verses.
+<    1	ls	Bhav.          	;; H.Jacobi, Bhavisattakahā von Dhaṇavāla. Eine Jaina Legende in Apabhraṁśa / Munich: Verlag d.Kgl.Bayer.Akad.d.Wissensch., 1918.
+---
+> 79	lsfm	Bhad	Bhadracarī, ed. Watanabe, Leipzig, 1912. Identical with Gv 543.9—548.2. Cited by numbered verses.
+> 1	lsfm	Bhav.	Bhavisattakahā (Ap.), ed. Jacobi (1918).
+87,88c85,86
+<    1	ls	Bhattacharya, GOS	;; Benoytosh Bhattacharyya. Gaekwad's Oriental Series, No.26, Baroda: Oriental Institute, 1925.
+<    1	ls	BhG.           	Bhagavad Gītā.
+---
+> 1	ls	Bhattacharya, GOS	;; Benoytosh Bhattacharyya. Gaekwadʼs Oriental Series, No.26, Baroda: Oriental Institute, 1925.
+> 1	lsfm	BhG.	Bhagavad Gītā.
+91,93c89,91
+<    8	ls	BhāgP.         	Bhāgavata Purāṇa.
+<  235	ls	Bhīk           	Bhikṣunī-karmavācanā. C.M. Ridding, L. de La Vallée Poussin,  “A Fragment of the Sanskrit Vinaya: Bhikṣuṇīkarmavācanā” // Bulletin of the School of Oriental Studies 1 (1919), no.3, pp.123-143. Cited by page and line of the manuscript as reproduced in ed.
+<    1	ls	Bimbisārasūtra, Waldschmidt, Kl. Skt. Texte 4	;; Das Bimbisārasūtra, in: Kleinere SanskritTexte Heft IV: Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon / ed. Ernst Waldschmidt, Leipzig, 1932, pp.114-148.
+---
+> 8	lsfm	BhāgP.	Bhāgavata Purāṇa.
+> 235	lsfm	Bhīk	Bhikṣunī-karmavācanā, ed. Ridding and LaVallée Poussin, BSOS 1, Part 3, 123—143. Cited by page and line of the manuscript as reproduced in ed.
+> 1	ls	Bimbisārasūtra, Waldschmidt, Kl. Skt. Texte 4	;; Das Bimbisārasūtra, in: Kleinere Sanskrit Texte Heft IV: Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon / ed. Ernst Waldschmidt, Leipzig, 1932, pp.114-148.
+96,100c94,98
+<    1	ls	Bodhicaryāvatārapañjikā (Bibl. Ind.)	;; Bodhicdaryāvatārañjikā, ed. L. de La Vallée Poussin, Bibliotheca Indica vol.150, Calcutta, 1901-14.
+<    1	ls	Bodhicaryāv. pañjikā	 ;; Bodhicdaryāvatārañjikā, ed. L. de La Vallée Poussin, Bibliotheca Indica vol.150, Calcutta, 1901-14.
+<    1	ls	Boehtlingk     	;; Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+<  524	ls	BR             	Boehtlingk and Roth, Sanskrit Wörterbuch.
+<    1	ls	BR.            	;; ("BR." = "BR", because "." means the end of a sentence) Boehtlingk and Roth, Sanskrit Wörterbuch.
+---
+> 1	ls	Bodhicaryāvatārapañjikā (Bibl. Ind.)	;; Bodhicaryāvatārapañjikā, ed. L. de La Vallée Poussin, Bibliotheca Indica vol.150, Calcutta, 1901-14.
+> 1	ls	Bodhicaryāv. pañjikā	;; Bodhicaryāvatārapañjikā, ed. L. de La Vallée Poussin, Bibliotheca Indica vol.150, Calcutta, 1901-14.
+> 1	ls	Boehtlingk	Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+> 524	lsfm	BR	Boehtlingk and Roth, Sanskrit Wörterbuch.
+> 1	ls	BR.	Boehtlingk and Roth, Sanskrit Wörterbuch.
+102,104c100,102
+<    1	ls	BSOS 1         	;; (better to use only "BSOS" without number "1" wich means a volume) Bulletin of the School of Oriental (and African) Studies, London.
+<    1	ls	Bu.v.          	Buddha-vaṃsa (Pali).
+<    9	ls	Buddhac.       	Buddhacarita, ed. Johnston, Calcutta, 1935. The language is standard Skt.; a few words, chiefly religious, are cited by chapter and verse.
+---
+> 1	lsfm	BSOS	Bulletin of the School of Oriental (and African) Studies, London.
+> 1	lsfm	Bu.v.	Buddha-vaṃsa (Pali).
+> 9	lsfm	Buddhac.	Buddhacarita, ed. Johnston, Calcutta, 1935. The language is standard Skt.; a few words, chiefly religious, are cited by chapter and verse.
+111,116c109,114
+<    5	ls	Burnouf Intr.  	;; Introduction à l'histoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+<    1	ls	Burnouf Introd.	;; Introduction à l'histoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+<    6	ls	Burnouf, Intr. 	;; Introduction à l'histoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+<   16	ls	Burnouf, Introd.	;; Introduction à l'histoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+<    1	ls	Burnouf, Introduction	;; Introduction à l'histoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+<   22	ls	Burnouf, Lotus 	;; Lotus de la Bonne Loi - translation of the Saddharmapuṇḍarīka by E.Burnouf, Paris, 1852.
+---
+> 5	ls	Burnouf Intr.	;; Introduction à lʼhistoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+> 1	ls	Burnouf Introd.	;; Introduction à lʼhistoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+> 6	lsfm	Burnouf, Intr.	Introduction à lʼhistoire du bouddhisme indien (1844).
+> 16	ls	Burnouf, Introd.	;; Introduction à lʼhistoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+> 1	ls	Burnouf, Introduction	;; Introduction à lʼhistoire du buddhisme indien / par E.Burnouf, Imprimerie royale, Paris, 1844.
+> 22	lsfm	Burnouf, Lotus	Lotus de la Bonne Loi - translation of the Saddharmapuṇḍarīka by E.Burnouf, Paris, 1852.
+120,121c118,119
+<    1	ls	Bv             	Buddha-vaṃsa (Pali).
+<    1	ls	Bṛh.Ar.U.Mādhy.	;; Bṛhadāraṇyaka (or Bṛhadāraṇya Āraṇya) Upaniṣad - the recension Mādhy-andina.
+---
+> 1	lsfm	Bv	Buddha-vaṃsa (Pali).
+> 1	ls	Bṛh.Ar.U.Mādhy.	Bṛhadāraṇyaka Upaniṣad - the recension Mādhyandina.
+125,126c123,124
+<    1	ls	Cappeller, HOS 15, Glossar	;; Bharavi's Poem Kiratarjuniya: or, Arjuna's Combat with the Kirata / ed. C.Cappeller, Harvard Oriental Series, vol.15, Harvard University Press, Cambridge, 1912.
+<    1	ls	Car.           	Caraka.
+---
+> 1	ls	Cappeller, HOS 15, Glossar	;; Bharaviʼs Poem Kiratarjuniya: or, Arjunaʼs Combat with the Kirata / ed. C.Cappeller, Harvard Oriental Series, vol.15, Harvard University Press, Cambridge, 1912.
+> 1	lsfm	Car.	Caraka.
+130c128
+<    1	ls	Ch.U.          	:: (the file has "Ch. U.") Chāndogya Upaniṣad.
+---
+> 1	ls	Ch. U.	Chāndogya Upaniṣad.
+132c130
+<   13	ls	Chakravarti    	;; L'Udānavarga sanskrit: texte sanscrit en transcription, avec traduction et annotations, suivi d'une étude critique et de planches, ed. N.P.Chakravarti. Paris, 1930.
+---
+> 13	ls	Chakravarti	;; LʼUdānavarga sanskrit: texte sanscrit en transcription, avec traduction et annotations, suivi dʼune étude critique et de planches, ed. N.P.Chakravarti. Paris, 1930.
+135c133
+<  211	ls	Childers       	Dictionary of the Pali Language, R.C.Childers, London, 1874.
+---
+> 211	lsfm	Childers	Dictionary of the Pali Language, R. C. Childers.
+141,143c139,141
+<    1	ls	Cowell and Neil (Index to Divy)	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+<  256	ls	CPD            	Andersen D. and Smith H., Critical Pali Dictionary (Vol.1), Copenhagen, 1924.
+<  188	ls	Das            	S.C.Das , Tibetan-English Dictionary.
+---
+> 1	ls	Cowell and Neil (Index to Divy)	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+> 256	lsfm	CPD	Andersen and Smith, Critical Pali Dictionary (Vol. 1), Copenhagen, 1924 ff.
+> 188	lsfm	Das	S. C. Das, Tibetan-English Dictionary.
+146,151c144,149
+<    3	ls	Daśak.         	Daśakumāracarita.
+<  540	ls	Dbh            	Daśabhūmikasūtra, ed. J.Rahder, Paris and Louvain, 1926.
+<    2	ls	Dbh.           	;; Daśabhūmikasūtra, ed. J.Rahder, Paris and Louvain, 1926.
+<  128	ls	Dbh.g.         	;; The Daśabhūmika-sūtra (Gāthā portion) ed. J.Rahder, S.Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
+<    1	ls	Dbs            	;; Daśabalasūtra, in E.Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon I, Kleinere Sanskrit-Texte 4, Leipzig, 1932, pp.207-225.
+<   47	ls	Deśīn.         	Deśīnāmamālā, ed. R.Pischel, Bombay, 1880.
+---
+> 3	lsfm	Daśak.	Daśakumāracarita.
+> 540	lsfm	Dbh	Daśabhūmikasūtra, ed. Rahder, Paris and Louvain, 1926.
+> 2	ls	Dbh.	Daśabhūmikasūtra, ed. J.Rahder, Paris and Louvain, 1926.
+> 128	ls	Dbh.g.	Daśabhūmikasūtra (Gāthā portion) ed. (Rahder and) Susa, Eastern Buddhist, 5.337 ff. and 6.51 ff., cited from reprint with consecutively numbered pages 1—58; the pages of the reprint are cited first, then in parentheses the pages of the original, then the line on each page.
+> 1	lsfm	Dbs	Daśabalasūtra, in Waldschmidt, Kl. Skt. Texte 4, 209 ff.
+> 47	lsfm	Deśīn.	Deśīnāmamālā, ed. Pischel, Bombay, 1880.
+154c152
+<  382	ls	Dharmas        	Dharmasaṃgraha, ed. E.Müller, Oxford, 1885. Cited by section numbers.
+---
+> 382	lsfm	Dharmas	Dharmasaṃgraha, ed. Müller, Oxford, 1885. Cited by section numbers.
+157c155
+<   94	ls	Dhp.           	Dhammapada (Pali).
+---
+> 95	lsfm	Dhp.	Dhammapada (Pali); Dhp. c(omm.), commentary on Dhp.; Fausb. refers to Fausböllʼs ed. of Dhp.
+161c159
+<    3	ls	Dhs.           	Dhammasaṃgani (Pali).
+---
+> 3	lsfm	Dhs.	Dhammasaṃgani (Pali).
+163,164c161,162
+<   30	ls	Dhātup.        	Dhātupāṭha.
+<    1	ls	Di             	;; (probably) ;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+---
+> 30	lsfm	Dhātup.	Dhātupāṭha.
+> 1	ls	Di	;; (probably) The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+168,179c166,176
+<    1	ls	Dict. of the Fr. Cath. Miss.	the Tibetan Dictionary of the French Catholic Mission.
+< 3170	ls	Divy           	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+<    5	ls	Divy Index     	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+<    3	ls	Divy, Index    	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+<    1	ls	Divy.          	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+<    1	ls	Divy., Index   	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+<  157	ls	DN             	Dīghanikāya (Pali).
+<   44	ls	DN comm.       	;; Commentary on the Dīghanikāya (Pali).
+<    1	ls	Dnp.           	;; Scan error, should be "Dhp.".
+<  161	ls	DPPN           	Malalasekara, Dictionary of Pali Proper Names.
+<    4	ls	Dpv.           	;; Dīpavaṃsa (Pali).
+<    1	ls	Dpvs.          	;; Dīpavaṃsa (Pali).
+---
+> 1	lsfm	Dict. of the Fr. Cath. Miss.	the Tibetan Dictionary of the French Catholic Mission.
+> 3171	lsfm	Divy	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+> 5	ls	Divy Index	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+> 3	ls	Divy, Index	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+> 1	ls	Divy.	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+> 1	ls	Divy., Index	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+> 157	lsfm	DN	Dīghanikāya (Pali).
+> 44	ls	DN comm.	Commentary on the Dīghanikāya (Pali).
+> 161	lsfm	DPPN	Malalasekara, Dictionary of Pali Proper Names.
+> 4	lsfm	Dpv.	Dīpavaṃsa (Pali).
+> 1	lsfm	Dpvs.	Dīpavaṃsa (Pali).
+183c180
+<    1	ls	Dutreuil ‘Prakrit Dhammapada’	;; Prakrit Dhammapada: based upon M.Senart's Kharoṣṭhī manuscript, with text, translation & notes. B. Barua, S.Mitra. University of Calcutta, 1921.
+---
+> 1	ls	Dutreuil ‘Prakrit Dhammapada’	;; Prakrit Dhammapada: based upon M.Senartʼs Kharoṣṭhī manuscript, with text, translation & notes. B. Barua, S.Mitra. University of Calcutta, 1921.
+188d184
+<    1	ls	Dvy            	;; (probably) text error "Dvy" = "Divy".
+190c186
+<    1	ls	Dīp.           	Dīpavaṃsa (Pali).
+---
+> 1	lsfm	Dīp.	Dīpavaṃsa (Pali).
+199d194
+<    1	ls	EV             	;; scan error EV = LV
+221,223d215
+<    1	ls	fragm. 23 V 2  	;; no sense to put  tooltips (this data belongs to Kalpanāmaṇḍitikā).
+<    1	ls	fragment 36 V 3	;; no sense to put  tooltips (this data belongs to Kalpanāmaṇḍitikā).
+<    1	ls	fragment 44 V 1	;; no sense to put  tooltips (this data belongs to Kalpanāmaṇḍitikā).
+237c229
+<    3	ls	GOS            	Gaekwadʼs Oriental Series.
+---
+> 3	lsfm	GOS	Gaekwadʼs Oriental Series.
+240c232
+< 3174	ls	Gv             	Gaṇḍavyūha, ed. D.T.Suzuki and H.Idzumi, Kyoto, 1934—36; 2d ed., photographically reproduced with corrections, 1949.
+---
+> 3174	lsfm	Gv	Gaṇḍavyūha, ed. Suzuki and Idzumi, Kyoto, 1934—36; 2d ed., photographically reproduced with corrections, 1949.
+250c242
+<   22	ls	Hem.           	Hemacandra, chiefly his Prakrit Grammar, ed. and transl. Pischel, Halle, 1877, 1880; see also Deśīn.
+---
+> 22	lsfm	Hem.	Hemacandra, chiefly his Prakrit Grammar, ed. and transl. Pischel, Halle, 1877, 1880; see also Deśīn.
+256c248
+<    1	ls	Hertel, ZDMG   	;; J.Hertel, Zwei Sanskritwörter in Chavannes's „Cinq cents Contes et Apologues“ // Zeitschrift der deutschen morgenländischen Gesellschaft, Vol.67, No.1, 1913, pp.123-125.
+---
+> 1	ls	Hertel, ZDMG	;; J.Hertel, Zwei Sanskritwörter in Chavannesʼs „Cinq cents Contes et Apologues“ // Zeitschrift der deutschen morgenländischen Gesellschaft, Vol.67, No.1, 1913, pp.123-125.
+265c257
+<    2	ls	HOS            	Harvard Oriental Series.
+---
+> 2	lsfm	HOS	Harvard Oriental Series.
+271,273c263,265
+<    1	ls	IHQ            	Indian Historical Quarterly.
+<    5	ls	Ind. Spr.      	;; Otto von Boehtlingk, Indische Sprüche, 3 volumes (2d ed.). Saint Petersburg: Akad.d.Wissenschaften, 1863–65.
+<    1	ls	Ind. Spr.²     	;; Otto von Boehtlingk, Indische Sprüche, 3 volumes (2d ed.). Saint Petersburg: Akad.d.Wissenschaften, 1863–65.
+---
+> 1	lsfm	IHQ	Indian Historical Quarterly.
+> 5	lsfm	Ind. Spr.	Boehtlingk, Indische Sprüche (2d ed.).
+> 1	ls	Ind. Spr.²	Boehtlingk, Indische Sprüche (2d ed.).
+276c268
+<    1	ls	Index          	;; where is this line?
+---
+> 1	ls	Index	;;? headword nEraYjanA, page 312,1
+279c271
+<    6	ls	Index to Divy  	;; The Divyāvadāna: A Collection of Early Buddhist Legends, ed. E.B.Cowell and R.A.Neil, Cambridge, 1886.
+---
+> 6	ls	Index to Divy	Divyāvadāna, ed. Cowell and Neil, Cambridge, 1886.
+286,287c278,279
+<    2	ls	It.            	Itivuttaka (Pali).
+<    8	ls	Itiv.          	Itivuttaka (Pali).
+---
+> 2	lsfm	It.	Itivuttaka (Pali).
+> 8	lsfm	Itiv.	Itivuttaka (Pali).
+291c283
+<    4	ls	Jacobi, Ausgew. Erz.	;; H.Jacobi, Ausgewählte Erzählungen in Māhārāṣṭrī: zur Einführung in das Studium Prākrit / Leipzig: S.Hirzel, 1886.
+---
+> 4	lsfm	Jacobi, Ausgew. Erz.	Ausgewählte Erzählungen in Māhārāṣṭrī. See also Bhav., San.
+299c291
+<    6	ls	JAOS           	Journal of the American Oriental Society.
+---
+> 6	lsfm	JAOS	Journal of the American Oriental Society.
+302c294
+<  345	ls	Jm             	;; Jātakamālā - H.Kern, The Jātaka-Mālā or Bodhisattvāvadāna-mālā by Ārya-śūra. Boston, 1891; Transl.  J. S.Speyer, The Gātakamālā or Garland of Birth-Stories translated from Sanskrit. London, 1895.
+---
+> 345	lsfm	Jm	Jātakamālā, ed. Kern (HOS 1), Boston, 1891. Its language is close to standard Skt., but contains quite a number of BHS words, and even a few forms; see § 1.53, fn. 17. Transl. Speyer, London, 1895.
+312,314c304,305
+<    1	ls	Jä             	;; H.A.Jäschke, A Tibetan-English Dictionary. London, 1881.
+<   79	ls	Jä.            	;; H.A.Jäschke, A Tibetan-English Dictionary. London, 1881.
+<   13	ls	Jäschke        	;; H.A.Jäschke, A Tibetan-English Dictionary. London, 1881.
+---
+> 80	lsfm	Jä.	Jäschke, Tibetan-English Dictionary.
+> 13	lsfm	Jäschke	Jäschke, Tibetan-English Dictionary.
+317c308
+<  198	ls	Jāt.           	Jātaka (Pali).
+---
+> 198	lsfm	Jāt.	Jātaka (Pali).
+329c320
+<  324	ls	Karmav         	;; S.Lévi, Mahākarmavibhaṅga (La grande classification des actes) et Karmavibhaṅgopadeśa (Discussion sur le Mahā Karmavibhaṅga). Paris, 1932.
+---
+> 324	lsfm	Karmav	(Mahā-)Karmavibhaṅga, and Karmavibhaṅgopadesa, ed. Lévi, Paris, 1932.
+336c327
+<    3	ls	Kauś.          	Kauśika Sūtra.
+---
+> 3	lsfm	Kauś.	Kauśika Sūtra.
+364c355
+<    1	ls	Kern, Versl. K. Akad. Afd. Lett.	;; H.Kern, De met het participium praeteriti omschreven werkwoordsvormen in 't Nederlands / Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde N.R.,12,2; Amsterdam: Müller, 1912.
+---
+> 1	ls	Kern, Versl. K. Akad. Afd. Lett.	;; H.Kern, De met het participium praeteriti omschreven werkwoordsvormen in ʼt Nederlands / Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde N.R.,12,2; Amsterdam: Müller, 1912.
+374,378c365,369
+<    1	ls	Khp.           	;; Khuddaka-Pāṭha (Pali).
+<    1	ls	KhP.           	;; Khuddaka-Pāṭha (Pali).
+<    1	ls	Khp. comm.     	;; Khuddaka-Pāṭha, commentary (Pali).
+<    1	ls	Khud.p.        	;; Khuddaka-Pāṭha (Pali).
+<    1	ls	Khud.p. comm.  	;; Khuddaka-Pāṭha, commentary (Pali).
+---
+> 1	lsfm	Khp.	Khuddaka-pāṭha (Pali).
+> 1	ls	KhP.	Khuddaka-pāṭha (Pali).
+> 1	lsfm	Khp. comm.	Khuddaka-pāṭha, commentary (Pali).
+> 1	lsfm	Khud.p.	Khuddaka-pāṭha (Pali).
+> 1	lsfm	Khud.p. comm.	Khuddaka-pāṭha, commentary (Pali).
+380,385c371,376
+<    7	ls	Kirfel         	;; W.KirfelDie, Kosmographie der Inder: nach den Quellen dargestellt / Bonn–Leipzig: Kurt Schroeder, 1920.
+<   21	ls	Kirfel, Kosm.  	;; W.KirfelDie, Kosmographie der Inder: nach den Quellen dargestellt / Bonn–Leipzig: Kurt Schroeder, 1920.
+<    1	ls	Kirfel, Kosm., Index	;; W.KirfelDie, Kosmographie der Inder: nach den Quellen dargestellt / Bonn–Leipzig: Kurt Schroeder, 1920.
+<    3	ls	Kirfel, Kosmographie	;; W.KirfelDie, Kosmographie der Inder: nach den Quellen dargestellt / Bonn–Leipzig: Kurt Schroeder, 1920.
+<    1	ls	Kl. Skt. Texte 2	;; Kleinere SanskritTexte Heft II.
+<    1	ls	Kleinere Skt. Texte II	;; Kleinere SanskritTexte Heft II.
+---
+> 7	ls	Kirfel	Kosmographie der Inder.
+> 21	lsfm	Kirfel, Kosm.	Kosmographie der Inder.
+> 1	ls	Kirfel, Kosm., Index	Kosmographie der Inder.
+> 3	ls	Kirfel, Kosmographie	Kosmographie der Inder.
+> 1	ls	Kl. Skt. Texte 2	;; Kleinere Sanskrit Texte Heft II.
+> 1	ls	Kleinere Skt. Texte II	;; Kleinere Sanskrit Texte Heft II.
+397,398c388,389
+<  318	ls	KP             	Kāśyapa Parivarta, ed. Staël-Holstein, Shanghai, 1926. Cited by sections as numbered in edition, and lines.
+<    4	ls	KSS            	Kathāsaritsāgara.
+---
+> 318	lsfm	KP	Kāśyapa Parivarta, ed. Staël-Holstein, Shanghai, 1926. Cited by sections as numbered in edition, and lines.
+> 4	lsfm	KSS	Kathāsaritsāgara.
+404c395
+<  555	ls	Kv             	Kāraṇḍavyūha, in The Hindu Commentator, vol.5; 1872.
+---
+> 555	lsfm	Kv	Kāraṇḍavyūha, in The Hindu Commentator, vol. 5; 1872.
+412c403
+<    7	ls	Kāś.           	Kāśikā (comm. on Pāṇ.).
+---
+> 7	lsfm	Kāś.	Kāśikā (comm. on Pāṇ.).
+414c405
+<    1	ls	KŚS            	Kātyāyana Śrauta Sūtra.
+---
+> 1	lsfm	KŚS	Kātyāyana Śrauta Sūtra.
+417,419c408,410
+<    3	ls	Lalou Iconographie	;; Iconographie (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+<   22	ls	Lalou, Iconographie	;; Iconographie (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+<    1	ls	Lang.          	Language (Journal of the Linguistic Society of America).
+---
+> 3	ls	Lalou Iconographie	Iconographie (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+> 22	lsfm	Lalou, Iconographie	Iconographie (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+> 1	lsfm	Lang.	Language (Journal of the Linguistic Society of America).
+452c443
+<    1	ls	LaVallée-Poussin, Bodhicaryāvatārapañjikā	;; Bodhicdaryāvatārañjikā, ed. L. de La Vallée Poussin, Bibliotheca Indica vol.150, Calcutta, 1901-14.
+---
+> 1	ls	LaVallée-Poussin, Bodhicaryāvatārapañjikā	;; Bodhicaryāvatārapañjikā, ed. L. de La Vallée Poussin, Bibliotheca Indica vol.150, Calcutta, 1901-14.
+458c449
+<  637	ls	Laṅk           	Laṅkāvatāra-sūtra, ed. Nanjio, Kyoto, 1923; transl. Suzuki, London, 1932; Index, by Suzuki, Kyoto, 1934; ‘Studies’ = Suzuki, Studies in the Lankavatara Sutra, London, 1930.
+---
+> 637	lsfm	Laṅk	Laṅkāvatāra-sūtra, ed. Nanjio, Kyoto, 1923; transl. Suzuki, London, 1932; Index, by Suzuki, Kyoto, 1934; ‘Studies’ = Suzuki, Studies in the Lankavatara Sutra, London, 1930.
+461,462c452
+<    1	ls	Lefm           	;; scan error, Lefm = Lefm.
+<  309	ls	Lefm.          	;; Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908.
+---
+> 310	ls	Lefm.	;; Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908.
+472,473c462,463
+<    1	ls	Lin Li-Kouang. Aide-Mémoire	;; Lin Li-Kouang, L'Aide-mémoire de la Vraie Loi (Saddharma-smrtyupasthāna-sūtra) / Paris, 1949.
+<    1	ls	Loiseleur      	;; A.Loiseleur Deslongchamps, Amarakocha; ou, Vocabulaire d'Amarasinha / Paris, 1839-45.
+---
+> 1	ls	Lin Li-Kouang. Aide-Mémoire	;; Lin Li-Kouang, LʼAide-mémoire de la Vraie Loi (Saddharma-smrtyupasthāna-sūtra) / Paris, 1949.
+> 1	ls	Loiseleur	;; A.Loiseleur Deslongchamps, Amarakocha; ou, Vocabulaire dʼAmarasinha / Paris, 1839-45.
+476,477c466
+< 4051	ls	LV             	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+<    1	ls	Lv             	;; scan error, Lv = LV
+---
+> 4053	lsfm	LV	Lalitavistara, ed. Lefmann, Halle, 1902; Critical Apparatus, 1908; abbreviated Lefm.; ‘Calc.’ = ed. of Rajendralala Mitra, Calcutta, 1877; transl. Foucaux, Annales du Musée Guimet 6, and Notes, 19; Tibetan version (partial), with transl., by Foucaux, Paris, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Leipzig, 1915.
+484,485c473,474
+<    1	ls	Lévi BEFEO.    	;; S.Lévi, Notes chinoises sur l'Inde: IV. Le pays de Kharostra et l'écriture kharostrī // Bulletin de l'Ecole française d'Extrême-Orient, Tome 4, 1904, pp.543-579.
+<    1	ls	Lévi JA 1912, Pt. 2	;; S.Lévi, L'Apramāda-varga: Étude sur les recensions des Dharmapadas, Journal Asiatique // Journal Asiatique, Série 10, Tome 20, 1912, pp.203-294.
+---
+> 1	ls	Lévi BEFEO.	;; S.Lévi, Notes chinoises sur lʼInde: IV. Le pays de Kharostra et lʼécriture kharostrī // Bulletin de lʼEcole française dʼExtrême-Orient, Tome 4, 1904, pp.543-579.
+> 1	ls	Lévi JA 1912, Pt. 2	;; S.Lévi, LʼApramāda-varga: Étude sur les recensions des Dharmapadas, Journal Asiatique // Journal Asiatique, Série 10, Tome 20, 1912, pp.203-294.
+515c504
+<    1	ls	Lāṭy.          	Lāṭyāyana Śrauta Sūtra.
+---
+> 1	lsfm	Lāṭy.	Lāṭyāyana Śrauta Sūtra.
+519c508
+<   56	ls	MadhK          	Mūla-Madhyamaka-kārikās, with comm., ed. LaVallée Poussin, St. Petersburg, 1903—1910. Only partially excerpted.
+---
+> 56	lsfm	MadhK	Mūla-Madhyamaka-kārikās, with comm., ed. LaVallée Poussin, St. Petersburg, 1903—1910. Only partially excerpted.
+525c514
+<    7	ls	Mahāsamāj.     	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+---
+> 7	lsfm	Mahāsamāj.	Mahāsamājasūtra, in Waldschmidt, Kl. Skt. Texte 4.
+533c522
+<    4	ls	Mahāv.         	Mahāvaṃsa (Pali).
+---
+> 4	lsfm	Mahāv.	Mahāvaṃsa (Pali).
+539,540c528,529
+<   63	ls	Mbh.           	Mahābhārata.
+<   36	ls	Megh           	;; Bendall C. The Meghasūtra (partial edition and translation) // Journal of the Royal Asiatic Society, 1980, pp.236–311.
+---
+> 63	lsfm	Mbh.	Mahābhārata.
+> 36	lsfm	Megh	Meghasūtra, ed. Bendall, JRAS 1880, 288 ff.
+555c544
+<  981	ls	Mmk            	(Ārya-)Mañjuśrīmūlakalpa, ed. Gaṇapati Śāstri, 3 vols., Trivandrum, 1920, 1922, 1925. See Lalou, in the following list of abbreviations.
+---
+> 981	lsfm	Mmk	(Ārya-)Mañjuśrīmūlakalpa, ed. Gaṇapati Śāstri, 3 vols., Trivandrum, 1920, 1922, 1925. See Lalou, in the following list of abbreviations.
+558c547
+<  117	ls	MN             	Majjhimanikāya (Pali).
+---
+> 117	lsfm	MN	Majjhimanikāya (Pali).
+565c554
+<  119	ls	MPS            	E.Waldschmidt, Das Mahāpariṇirvānasūtra. 3 parts; Abhandlungen der deutschen Akademie der Wissenschaften. Berlin, 1950, 1951. References are to Waldschmidtʼs numbered divisions.
+---
+> 119	lsfm	MPS	E. Waldschmidt, Das Mahāpariṇirvānasūtra. 3 parts; Abhandlungen der deutschen Akademie…zu Berlin, 1950, 1951. Arrived too late to be extensively used; references are to Waldschmidtʼs numbered divisions.
+573c562
+<    1	ls	MS             	Maitrāyaṇī Saṃhitā.
+---
+> 1	lsfm	MS	Maitrāyaṇī Saṃhitā.
+575c564
+< 1378	ls	MSV            	Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, ed. Nalinaksha Dutt, Vol. 3, Parts i (undated), ii (1942), iii (1943), Srinagar, Kashmir. Part iv (1950) arrived late, but its most important words have been included. Unfortunately this valuable series came to hand so late in the progress of my task that I felt it impossible to include Volumes 1 and 2, which seem somewhat less important.
+---
+> 1378	lsfm	MSV	Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, ed. Nalinaksha Dutt, Vol. 3, Parts i (undated), ii (1942), iii (1943), Srinagar, Kashmir. Part iv (1950) arrived late, but its most important words have been included. Unfortunately this valuable series came to hand so late in the progress of my task that I felt it impossible to include Volumes 1 and 2, which seem somewhat less important.
+579c568
+< 7168	ls	Mv             	Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jonesʼs translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
+---
+> 7168	lsfm	Mv	Mahāvastu, ed. Senart, Paris, 1882, 1890, 1897. The first volume of Jonesʼs translation (London, 1949) appeared, to my regret, too late to be much used (I received it in 1950).
+581,582c570,571
+< 4110	ls	Mvy            	Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
+<   11	ls	MW             	Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
+---
+> 4110	lsfm	Mvy	Mahāvyutpatti. Cited by numbered entries in ed. of Sakaki, Kyoto, 1916, with Sanskrit and Tibetan Indexes, 1925 and 1936; some variants are cited from Mironov (2d ed. of Minaeff, which is cited in BR and pw), St. Petersburg, 1910—11. Tibetan version cited from Sakaki; also translations of many Chinese and Japanese renderings ibidem.
+> 11	lsfm	MW	Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
+600c589
+<    2	ls	Mārk. Pur.     	Mārkaṇḍeya Purāṇa.
+---
+> 2	lsfm	Mārk. Pur.	Mārkaṇḍeya Purāṇa.
+602c591
+<  741	ls	Māy            	Mahā-Māyūrī. Two figures refer to page and line of ed. by Oldenbourg in Zapiski Vostochnago Otdelenija Imp. Russk. Archeol. Obschestva, Tom 11 (1899), 218—261. A single number refers to the numbered lines of ‘Le catalogue géographique des yakṣa dans la Mahā-Māyūrī’, by S. Lévi, JAs. XI. 5 (1915), pp. 1—138.
+---
+> 741	lsfm	Māy	Mahā-Māyūrī. Two figures refer to page and line of ed. by Oldenbourg in Zapiski Vostochnago Otdelenija Imp. Russk. Archeol. Obschestva, Tom 11 (1899), 218—261. A single number refers to the numbered lines of ‘Le catalogue géographique des yakṣa dans la Mahā-Māyūrī’, by S. Lévi, JAs. XI. 5 (1915), pp. 1—138.
+613c602
+<    4	ls	Nett.          	Nettipakaraṇa (Pali).
+---
+> 4	lsfm	Nett.	Nettipakaraṇa (Pali).
+616c605
+<    1	ls	Nir.           	Yāskaʼs Nirukta.
+---
+> 1	lsfm	Nir.	Yāskaʼs Nirukta.
+637c626
+<    1	ls	Pat.           	Patañjali.
+---
+> 1	lsfm	Pat.	Patañjali.
+640c629
+<    1	ls	Pañc. Rec.     	Edgerton, Pañchatantra Reconstructed.
+---
+> 1	lsfm	Pañc. Rec.	Edgerton, Pañchatantra Reconstructed.
+658c647
+<  202	ls	Prāt           	Prātimokṣasūtra des Sarvāstivādins, ed. Finot (with translation of Chinese version by Huber), JAs. XI.2 (1913), 473 ff.
+---
+> 202	lsfm	Prāt	Prātimokṣasūtra des Sarvāstivādins, ed. Finot (with translation of Chinese version by Huber), JAs. XI.2 (1913), 473 ff.
+660c649
+<  429	ls	PTSD           	Pali Text Societyʼs Pali-English Dictionary.
+---
+> 429	lsfm	PTSD	Pali Text Societyʼs Pali-English Dictionary.
+669c658
+<    9	ls	Pv.            	Petavatthu (Pali).
+---
+> 9	lsfm	Pv.	Petavatthu (Pali).
+672c661
+<   23	ls	Pāṇ.           	Pāṇiniʼs Aṣṭādhyāyī
+---
+> 23	lsfm	Pāṇ.	Pāṇiniʼs Aṣṭādhyāyī
+681c670
+<  135	ls	Ratnach.       	Ratnachandra, Ardha-Māgadhī Dictionary (5 vols.).
+---
+> 135	lsfm	Ratnach.	Ratnachandra, Ardha-Māgadhī Dictionary (5 vols.).
+699,700c688,689
+<  470	ls	RP             	L.Finot, Rāṣṭrapālaparipṛcchā: Sūtra du Mahāyāna. Bibliotheca Buddhica II, St.-Petersburg, Imperial Academy of Sciences, 1901.
+<   18	ls	RV             	Rig Veda.
+---
+> 470	lsfm	RP	Rāṣṭrapālaparipṛcchā, ed. Finot, St. Petersburg, 1901.
+> 18	lsfm	RV	Rig Veda.
+708c697
+<   13	ls	Rām.           	Rāmāyaṇa (NWRām. = Northwestern Rām.)
+---
+> 13	lsfm	Rām.	Rāmāyaṇa (NWRām. = Northwestern Rām.)
+720c709
+<  231	ls	Samādh         	Samādhirājasūtra, (1) chapters 8, 19, 22, ed. Régamey, Warsaw, 1938, cited by chapters and numbered sections or verses; (2) ed. Das and Vidyābhūshan (Calcutta, 1896); references (only a few; text incredibly corrupt) cited by page and lien, thus: ‘p. —, line —’.
+---
+> 231	lsfm	Samādh	Samādhirājasūtra, (1) chapters 8, 19, 22, ed. Régamey, Warsaw, 1938, cited by chapters and numbered sections or verses; (2) ed. Das and Vidyābhūshan (Calcutta, 1896); references (only a few; text incredibly corrupt) cited by page and lien, thus: ‘p. —, line —’.
+725c714
+<   10	ls	Saṃy. Āg.      	Saṃyuktāgama; fragments from Stein mss. ed. LaVallée Poussin, JRAS 1913, 569 ff.; a few references to numbers of fragments (1—15), followed by r(ecto) or v(erso) when necessary, and line of mss.
+---
+> 10	lsfm	Saṃy. Āg.	Saṃyuktāgama; fragments from Stein mss. ed. LaVallée Poussin, JRAS 1913, 569 ff.; a few references to numbers of fragments (1—15), followed by r(ecto) or v(erso) when necessary, and line of mss.
+727c716
+<   31	ls	SBE            	Sacred Books of the East.
+---
+> 31	lsfm	SBE	Sacred Books of the East.
+736c725
+<   29	ls	Schmidt, Nachtr.	;; R.Schmidt, Nachträge zum Sanskrit-Wörterbuch in kürzerer Fassung von Otto Böhtlingk. Leipzig, 1928.
+---
+> 29	lsfm	Schmidt, Nachtr.	R. Schmidt, Nachträge zum Sanskrit Wörterbuch…von Otto Boehtlingk.
+756c745
+<  146	ls	Sheth          	H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Calcutta, 1923—1928.
+---
+> 146	lsfm	Sheth	H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Calcutta, 1923—1928.
+768c757
+< 2206	ls	SP             	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
+---
+> 2206	lsfm	SP	Saddharmapuṇḍarīka, ed. Kern and Nanjio, St. Petersburg, 1912, abbreviated KN; supplementary references to ed. of Wogihara and Tsuchida, Tokyo, 1934—35, abbreviated WT; fragments of ‘Kashgar’ or Central Asiatic recension, ed. Thomas and Lüders, ap. Hoernle, MR 133 ff., 144 ff.; others, ed. LaVallée Poussin, JRAS 1911, 1070 ff.; transl. Burnouf (Lotus de la Bonne Loi, Paris, 1852), and Kern (SBE 21, Oxford, 1884). Tibetan citations chiefly from block-print in my possession, partly from WT. When my work was practically ready for print, my colleague Professor Rahder received, and lent to me, the photostatic reproduction of the ms. referred to by WT as Ḱ. It has been cited a very few times. The quotations from it in WT seem to be very inaccurate.
+805c794
+<  464	ls	Sukh           	Sukhāvatīvyūha (‘Larger’ and ‘Smaller’), ed. Müller, Oxford, 1883.
+---
+> 464	lsfm	Sukh	Sukhāvatīvyūha (‘Larger’ and ‘Smaller’), ed. Müller, Oxford, 1883.
+810c799
+<  429	ls	Suv            	Suvarṇabhāsottamasūtra, ed. Nobel, Leipzig, 1937; Tibetan version, ed. same, Leiden and Stuttgart, 1944.
+---
+> 429	lsfm	Suv	Suvarṇabhāsottamasūtra, ed. Nobel, Leipzig, 1937; Tibetan version, ed. same, Leiden and Stuttgart, 1944.
+832c821
+<  420	ls	Sādh           	Sādhanamālā, ed. Bhattacharya, Baroda, 2 vols., 1925, 1928.
+---
+> 420	lsfm	Sādh	Sādhanamālā, ed. Bhattacharya, Baroda, 2 vols., 1925, 1928.
+837c826
+<   91	ls	Sūtrāl.        	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
+---
+> 91	lsfm	Sūtrāl.	Asaṅga, Mahāyāna-sūtrālaṃkāra, ed. and transl. Lévi, Bibliothèque de lʼÉcole des Hautes Études, 159 and 190, Paris, 1907, 1911. The language is standard Skt., but the text and Léviʼs notes are important for the understanding of many technical terms. Cited by chapter and verse (with commentary after each verse).
+842c831
+<    2	ls	TB.            	Taittirīya Brāhmaṇa.
+---
+> 2	lsfm	TB.	Taittirīya Brāhmaṇa.
+845,846c834,835
+<   19	ls	Therag.        	Theragāthā (Pali).
+<    7	ls	Therīg.        	Therīgāthā (Pali).
+---
+> 19	lsfm	Therag.	Theragāthā (Pali).
+> 7	lsfm	Therīg.	Therīgāthā (Pali).
+862c851
+<   16	ls	Trik.          	Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
+---
+> 16	lsfm	Trik.	Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
+871c860
+<  234	ls	Ud             	Udānavarga; chap. 1—21, ed. Chakravarti (1930; except ch. 4, for which see Lévi, JAs. X. 20, 1912, 203 ff.); ch. 29, ed. Pischel, SBBA 1908, 968 ff.; ch. 30, 31, 32, ed. LaVallée Poussin, JRAS 1912, 369 ff. Cited by chapter and verse.
+---
+> 234	lsfm	Ud	Udānavarga; chap. 1—21, ed. Chakravarti (1930; except ch. 4, for which see Lévi, JAs. X. 20, 1912, 203 ff.); ch. 29, ed. Pischel, SBBA 1908, 968 ff.; ch. 30, 31, 32, ed. LaVallée Poussin, JRAS 1912, 369 ff. Cited by chapter and verse.
+876c865
+<   93	ls	Vaj            	Vajracchedikā, ed. Müller, Oxford, 1881; fragments of Central Asiatic version, ed. Pargiter, ap. Hoernle MR 179 ff.
+---
+> 93	lsfm	Vaj	Vajracchedikā, ed. Müller, Oxford, 1881; fragments of Central Asiatic version, ed. Pargiter, ap. Hoernle MR 179 ff.
+882c871
+<    1	ls	Varāh.Bṛh.S.   	Varāhamihira, Bṛhat-saṃhitā.
+---
+> 1	lsfm	Varāh.Bṛh.S.	Varāhamihira, Bṛhat-saṃhitā.
+886c875
+<  255	ls	Vin.           	Vinayapiṭaka (Pali).
+---
+> 255	lsfm	Vin.	Vinayapiṭaka (Pali).
+893,896c882,885
+<    3	ls	VS             	;; maybe Vājaseneyi Saṃhitā of the White Yajurveda. Ed. in the Mādhyndina and the Kāṇva recensions with the commentary of Mahīdhara by Weber, Berlin, 1852.
+<    1	ls	VS.            	?
+<    1	ls	VSS            	Speyer, Vedische und Sanskrit-Syntax.
+<   10	ls	Vv.            	Vimānavatthu (Pali).
+---
+> 3	lsfm	VS	Vājasaneyi Saṃhitā.
+> 1	lsfm	VS.	Vājasaneyi Saṃhitā.
+> 1	lsfm	VSS	Speyer, Vedische und Sanskrit-Syntax.
+> 10	lsfm	Vv.	Vimānavatthu (Pali).
+900a890
+> 1	ls	Walde-Pokorny	?
+926c916
+<   10	ls	Wilson         	H. H. Wilsonʼs Sanskrit Dictionary, as cited in MW.
+---
+> 10	lsfm	Wilson	H. H. Wilsonʼs Sanskrit Dictionary, as cited in MW.
+950c940
+<    1	ls	Yājñ.          	Yājñavalkya (Dharmaśāstra).
+---
+> 1	lsfm	Yājñ.	Yājñavalkya (Dharmaśāstra).
+963c953
+<    3	ls	ŚB.            	Śatapatha Brāhmaṇa (Mādhy. — Mādhyaṃdina, K. = Kāṇva recension).
+---
+> 3	lsfm	ŚB.	Śatapatha Brāhmaṇa (Mādhy. — Mādhyaṃdina, K. = Kāṇva recension).
+966c956
+< 1583	ls	Śikṣ           	Śikṣāsamuccaya, ed. C.Bendall, St. Petersburg, 1897—1902; transl. C.Bendall and  W.H.D.Rouse, London: John Murray, 1922.
+---
+> 1583	lsfm	Śikṣ	Śikṣāsamuccaya, ed. Bendall, St. Petersburg, 1897—1902; transl. Bendall and Rouse, London, 1922.
+969c959
+<  401	ls	ŚsP            	Śatasāhasrikā-prajñāpāramitā, ed. P. Ghoṣa, Bibliotheca Indica, Calcutta, 1902 ff.
+---
+> 401	lsfm	ŚsP	Śatasāhasrikā-prajñāpāramitā, ed. P. Ghoṣa, Bibliotheca Indica, Calcutta, 1902 ff.
+975c965
+<   27	ls	Śāl            	Śālistambasūtra, (reconstructed) ed. LaVallée Poussin; Bouddhisme, Études et matériaux, Théorie des douze causes (Gand, 1913), pp. 69—90.
+---
+> 27	lsfm	Śāl	Śālistambasūtra, (reconstructed) ed. LaVallée Poussin; Bouddhisme, Études et matériaux, Théorie des douze causes (Gand, 1913), pp. 69—90.
