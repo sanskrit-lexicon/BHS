@@ -7,7 +7,7 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 
 **Source language: English** — base per-page `.md` is the English edition (no separate `.en.md`); a Russian translation `.ru.md` accompanies every page.
 
-> **Status: in progress.** Done: the Dictionary-volume title block (01 Title, 02 Contents, 12 full Title, 13 Copyright, 14 Series half-title) and the Grammar-volume **Preface** (03–05) and the start of the **Bibliography and Abbreviations** (06 intro, 07–08 the text-sigla and the beginning of the general abbreviation list). **Pending:** the rest of the Bibliography & Abbreviations (`bhspref09–11`, scans `bhsg_020–022` — dense multi-column reference lists) and the final Dictionary-volume page (`bhspref15`, scan `bhsd_632`).
+> **Status: complete.** All 15 front-matter pages are transcribed and translated: the Dictionary-volume title block (01 Title, 02 Contents, 12 full Title, 13 Copyright, 14 Series half-title, 15 blank final verso), the Grammar-volume **Preface** (03–05), and the full **Bibliography and Abbreviations** (06 intro, 07–08 text sigla + start of the general list, 09–11 the rest of the general abbreviation list C → Z plus the **Symbols** key).
 
 ## File conventions
 
@@ -22,8 +22,8 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 
 | Edition | File |
 |---|---|
-| English (so far) | [bhspref_all.en.md](bhspref_all.en.md) |
-| Russian (so far) | [bhspref_all.ru.md](bhspref_all.ru.md) |
+| English (complete) | [bhspref_all.en.md](bhspref_all.en.md) |
+| Russian (complete) | [bhspref_all.ru.md](bhspref_all.ru.md) |
 
 ## Contents
 
@@ -37,11 +37,13 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 | 06 | Bibliography & Abbreviations, 1 | 1 | [bhspref06.md](bhspref06.md) | [ru](bhspref06.ru.md) | ✓ |
 | 07 | Bibliography & Abbreviations, 2 | 1 | [bhspref07.md](bhspref07.md) | [ru](bhspref07.ru.md) | ✓ |
 | 08 | Bibliography & Abbreviations, 3 | 1 | [bhspref08.md](bhspref08.md) | [ru](bhspref08.ru.md) | ✓ |
-| 09–11 | Bibliography & Abbreviations, 4–6 | 1 | — | — | pending |
+| 09 | Bibliography & Abbreviations, 4 | 1 | [bhspref09.md](bhspref09.md) | [ru](bhspref09.ru.md) | ✓ |
+| 10 | Bibliography & Abbreviations, 5 | 1 | [bhspref10.md](bhspref10.md) | [ru](bhspref10.ru.md) | ✓ |
+| 11 | Bibliography & Abbreviations, 6 (+ Symbols) | 1 | [bhspref11.md](bhspref11.md) | [ru](bhspref11.ru.md) | ✓ |
 | 12 | Title (full) | 2 | [bhspref12.md](bhspref12.md) | [ru](bhspref12.ru.md) | ✓ |
 | 13 | Copyright | 2 | [bhspref13.md](bhspref13.md) | [ru](bhspref13.ru.md) | ✓ |
 | 14 | Series half-title | 2 | [bhspref14.md](bhspref14.md) | [ru](bhspref14.ru.md) | ✓ |
-| 15 | (Dictionary vol.) | 2 | — | — | pending |
+| 15 | Blank final verso | 2 | [bhspref15.md](bhspref15.md) | [ru](bhspref15.ru.md) | ✓ |
 
 ## Notes
 

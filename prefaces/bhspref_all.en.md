@@ -12,9 +12,13 @@ Per-page files: `bhsprefNN.md`. Index: [README.md](README.md).
 - [Page 06 — Bibliography and Abbreviations, 1 (vol. 1)](#page-06-bibliography-and-abbreviations-1-vol-1)
 - [Page 07 — Bibliography and Abbreviations, 2 (vol. 1)](#page-07-bibliography-and-abbreviations-2-vol-1)
 - [Page 08 — Bibliography and Abbreviations, 3 (vol. 1)](#page-08-bibliography-and-abbreviations-3-vol-1)
+- [Page 09 — Bibliography and Abbreviations, 4 (vol. 1)](#page-09-bibliography-and-abbreviations-4-vol-1)
+- [Page 10 — Bibliography and Abbreviations, 5 (vol. 1)](#page-10-bibliography-and-abbreviations-5-vol-1)
+- [Page 11 — Bibliography and Abbreviations, 6 (vol. 1)](#page-11-bibliography-and-abbreviations-6-vol-1)
 - [Page 12 — Title (full) (vol. 2)](#page-12-title-full-vol-2)
 - [Page 13 — Copyright (vol. 2)](#page-13-copyright-vol-2)
 - [Page 14 — Series half-title (vol. 2)](#page-14-series-half-title-vol-2)
+- [Page 15 — Blank page (final verso) (vol. 2)](#page-15-blank-page-final-verso-vol-2)
 
 ---
 
@@ -370,6 +374,585 @@ Except as otherwise stated below, references are to page and line of editions.
 
 ---
 
+## Page 09 — Bibliography and Abbreviations, 4 (vol. 1)
+
+<sub>Source (scan): [bhsg_Page_020_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref09.html)</sub>
+
+*(Continuation of "Other abbreviations and works chiefly referred to": C → M.)*
+
+**ch., chap.** = chapter.
+
+**Childers** = Dictionary of the Pali Language, R. C. Childers.
+
+**Chin.** = Chinese.
+
+**Cl. Skt.** = Classical Sanskrit.
+
+**comb.** = combination.
+
+**comm.** = commentary.
+
+**comp.** = composition.
+
+**Compendium of Philosophy** (Aung and Rhys Davids, London, 1910).
+
+**compv.** = comparative.
+
+**corr.** = correct(s), correction.
+
+**corresp.** = correspondent, corresponding, corresponds.
+
+**Corrig.** = Corrigenda.
+
+**cpd.** = compound.
+
+**CPD** = Andersen and Smith, Critical Pali Dictionary (Vol. 1), Copenhagen, 1924 ff.
+
+**crit. app.** = critical apparatus.
+
+**Das** = S. C. Das, Tibetan-English Dictionary.
+
+**Daśak.** = Daśakumāracarita.
+
+**dat.** = dative.
+
+**def.** = definition.
+
+**denom.** = denominative.
+
+**der(iv).** = derived, derivative.
+
+**Deśīn.** = Deśīnāmamālā, ed. Pischel, Bombay, 1880.
+
+**Dhātup.** = Dhātupāṭha.
+
+**Dhp.** = Dhammapada (Pali); Dhp. c(omm.), commentary on Dhp.; Fausb. refers to Fausböll's ed. of Dhp.
+
+**Dhs.** = Dhammasaṃgaṇi (Pali).
+
+**dial.** = dialectic.
+
+**Dict.** = Dictionary, usually referring to my Dict. of BHS; Dictt. = Dictionaries.
+
+**Dict. of the Fr. Cath. Miss.** = the Tibetan Dictionary of the French Catholic Mission.
+
+**Dict. Hindu Arch.** = Acharya, Dictionary of Hindu Architecture.
+
+**diff.** = different.
+
+**dim.** = diminutive.
+
+**Dīp.** = Dīpavaṃsa (Pali).
+
+**DN** = Dīghanikāya (Pali).
+
+**DPPN** = Malalasekara, Dictionary of Pali Proper Names.
+
+**Dpv., Dpvs.** = Dīp.
+
+**Dutreuil** (de Rhins ms.), see § 1.3 with fn. 2.
+
+**E** = Epic (Sanskrit, in citing Whitney's Roots).
+
+**ed.** = editor, edition.
+
+**em.** = emended, emendation.
+
+**ep.** = epithet.
+
+**Ep. Zeyl.** = Epigraphia Zeylanica.
+
+**equiv.** = equivalent.
+
+**erron.** = erroneously.
+
+**etym.** = etymology.
+
+**esp.** = especially.
+
+**exc.** = except.
+
+**expl.** = explained, explanation.
+
+**f.** = feminine; following.
+
+**fem.** = feminine.
+
+**Fest.** = Festschrift.
+
+**ff.** = following.
+
+**fig.** = figurative(ly).
+
+**fn.** = footnote.
+
+**foll.** = followed (by); following.
+
+**fut.** = future.
+
+**gdve.** = gerundive.
+
+**Geiger (W.)** = Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+
+**gen.** = genitive.
+
+**ger.** = gerund.
+
+**Ger.** = German.
+
+**Gīt.** = Gītagovinda.
+
+**GobhGS** = Gobhila Gṛhya Sūtra.
+
+**GOS** = Gaekwad's Oriental Series.
+
+**Gr.** = Grammar, grammatical, grammarian(s).
+
+**haplogr.** = haplography.
+
+**haplol.** = haplology.
+
+**Hem.** = Hemacandra, chiefly his Prakit Grammar, ed. and transl. Pischel, Halle, 1877, 1880; see also Deśīn.
+
+**HJAS** = Harvard Journal of Asiatic Studies.
+
+**HOS** = Harvard Oriental Series.
+
+**Hultzsch (E.), Inscr(iptions) of Asoka**, Oxford, 1925.
+
+**IA.** = (Lassen) Indische Altertumskunde.
+
+**IF.** = Indogermanische Forschungen.
+
+**ifc.** = at the end of compounds.
+
+**IHQ** = Indian Historical Quarterly.
+
+**impf.** = imperfect.
+
+**impv.** = imperative.
+
+**incl.** = including, inclusive.
+
+**indecl.** = indeclinable.
+
+**indic.** = indicative.
+
+**Ind. Min.** = (Garbe) Die indischen Mineralien (1882).
+
+**Ind. Spr.** = Boehtlingk, Indische Sprüche (2d ed.).
+
+**inf.** = infinitive.
+
+**inst., instr.** = instrumental.
+
+**intens.** = intensive.
+
+**intrans.** = intransitive.
+
+**I.St.** = Indische Studien (Weber).
+
+**It., Itiv.** = Itivuttaka (Pali).
+
+**JA.** = Journal Asiatique.
+
+**Jä.**, see Jäschke.
+
+**Jacobi, Ausgew. Erz.** = Ausgewählte Erzählungen in Māhārāṣṭrī. See also Bhav., San.
+
+**JAOS** = Journal of the American Oriental Society.
+
+**Jap.** = Japanese.
+
+**JAs.** = JA.
+
+**(Jä.,) Jäschke** = Jäschke, Tibetan-English Dictionary.
+
+**Jāt.** = Jātaka (Pali).
+
+**JB.** = Jaiminīya Brāhmaṇa.
+
+**JM.** = Jaina Māhārāṣṭrī.
+
+**JPTS** = Journal of the Pali Text Society.
+
+**JR (Vikramacarita)** = Jainistic Recension of the Vikr., see HOS 26–27.
+
+**JRAS** = Journal of the Royal Asiatic Society.
+
+**JŚ.** = Jaina Śaurasenī.
+
+**Karmadh.** = Karmadhāraya.
+
+**Kāś.** = Kāśikā (comm. on Pāṇ.).
+
+**Kauś.** = Kauśika Sūtra.
+
+**Kauṭ. (Arth.)** = Kauṭilīya (Arthaśāstra).
+
+**Kh.p., Khud.p. (comm.)** = Khuddaka-pāṭha (commentary) (Pali).
+
+**Kirfel, Kosm.** = Kosmographie der Inder.
+
+**KSA** = Kāṭhaka Saṃhitā, Aśvamedhagrantha.
+
+**KSS** = Kathāsaritsāgara.
+
+**KŚS** = Kātyāyana Śrauta Sūtra.
+
+**Kull.** = Kullūka.
+
+**Kum.** = Kumārapālapratibodha (Ap.), ed. Alsdorf.
+
+**Kvu.** = Kathā-vatthu (Pali).
+
+**Lalou, Iconographie** (des étoffes peintes dans le Mañjuśrīmūlakalpa), Paris, 1930.
+
+**E. Lamotte, Mél. chin. et boud.** = Mélanges chinoises et bouddhiques.
+
+**Lang.** = Language (Journal of the Linguistic Society of America).
+
+**Lāṭy.** = Lāṭyāyana Śrauta Sūtra.
+
+**l. c.** = in the place cited.
+
+**lect. diff.** = lectio difficilior.
+
+**lect. fac.** = lectio facilior.
+
+**lex.** = lexicon, lexical; see also Bbh, in the preceding list of abbreviations.
+
+**Lin Li-kouang, (L')Aide-Mémoire** (de la Vraie Loi), Paris, 1949.
+
+**lit.** = literal(ly); also, literary, found in literature, as opposed to lex.
+
+**loc.** = locative.
+
+**M.** = Māhārāṣṭrī.
+
+
+---
+
+## Page 10 — Bibliography and Abbreviations, 5 (vol. 1)
+
+<sub>Source (scan): [bhsg_Page_021_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref10.html)</sub>
+
+*(Continuation of "Other abbreviations and works chiefly referred to": M → s.)*
+
+**m.** = masculine.
+
+**Mahāv.** = Mahāvaṃsa (Pali).
+
+**Mārk. Pur.** = Mārkaṇḍeya Purāṇa.
+
+**masc.** = masculine.
+
+**math.** = mathematics.
+
+**Mbh.** = Mahābhārata.
+
+**m.c.** = metri causa. I include under this term two classes of cases, because in both I find evidence for believing that metrical considerations were either the exclusive or the dominant reason for the use of the form in question. The first includes any cases of a particular form which is never used in prose, or in positions in a verse where the alternative ('regular') form would fit as well. The second includes cases in which the form labelled 'm.c.' is indeed also used (elsewhere) in prose or metrically indifferent positions, but in such limited or specialized ways (which vary in different cases) that I still believe the choice was determined, in the cases under consideration where the term 'm.c.' occurs, by meter. In both types, of course, the alternative ('regular') form would be impossible in a specific context where it is labelled 'm.c.' It is hoped that my manner of presentation will make it easy to distinguish the two types. Frequency of occurrence, and use of corresponding forms in other MIndic dialects, are important considerations to which I have tried to give due weight.
+
+**Mehendale (M.A.), Hist(orical) Gr(ammar) of Inscr(iptional) Pkts.**, Poona, 1948.
+
+**metr.** = metrical(ly).
+
+**Meyer, Kauṭ. (Arth.)** = J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
+
+**mg.** = meaning.
+
+**Mg.** = Māgadhī.
+
+**Miln.(p.), Milp.** = Milindapañha (Pali).
+
+**MIndic or MInd.** = Middle Indic.
+
+**misc.** = miscellaneous.
+
+**MN** = Majjhimanikāya (Pali).
+
+**Mṛcch.** = Mṛcchakaṭikā.
+
+**ms(s).** = manuscript(s).
+
+**MS** = Maitrāyaṇī Saṃhitā.
+
+**MSL** = Mémoires de la Société de Linguistique (de Paris).
+
+**Mus (P.), Barabudur** (1935).
+
+**mus.** = musical.
+
+**MW** = Monier Williams, Sanskrit-English Dictionary (2d ed., 1899).
+
+**n.** = nominative; name.
+
+**n. pr.** = proper name.
+
+**n. act.** = noun of action.
+
+**n. ag.** = noun of agent.
+
+**Nachtr.**, see Schmidt.
+
+**NAWGött.** = Nachrichten der Akademie der Wissenschaften zu Göttingen.
+
+**neg.** = negative.
+
+**Neisser, Z. Wbch. d. RV.** = W. Neisser, Zum Wörterbuch des Rigveda.
+
+**Nep.** = Nepalese.
+
+**Nett.** = Nettipakaraṇa (Pali).
+
+**NīA** = New Indian Antiquary.
+
+**Nidd¹** = Mahā-Niddesa (Pali).
+
+**Nir.** = Yāska's Nirukta.
+
+**nom.** = nominative.
+
+**nom. act.** = noun of action.
+
+**nom. ag.** = noun of agent.
+
+**nt.** = neuter.
+
+**obj.** = object.
+
+**obl.** = oblique.
+
+**onomat.** = onomatopoetic.
+
+**opp.** = opposite (of).
+
+**opt.** = optative.
+
+**orig.** = original(ly).
+
+**Pāṇ.** = Pāṇini.
+
+**Pañc. Rec.** = Edgerton, Pañchatantra Reconstructed.
+
+**pass.** = passive.
+
+**Pat.** = Patañjali.
+
+**PBr.** = Pañcaviṃśa Brāhmaṇa.
+
+**pej.** = pejorative.
+
+**perh.** = perhaps.
+
+**pers.** = person.
+
+**Philologica Indica** (reprints of monographs by H. Lüders), Göttingen, 1940.
+
+**Pischel** (without further reference) = Grammatik der Prakrit-Sprachen, Strassburg, 1900. Cited as under Geiger.
+
+**Pkt.** = Prakrit.
+
+**pl.** = plural.
+
+**postp., postpos.** = postposition.
+
+**ppp.** = past passive participle.
+
+**prec.** = precative; preceding; preceded.
+
+**pres.** = present.
+
+**prob.** = probably.
+
+**Proc(eedings of the) Am(erican) Philos(ophical) Soc(iety)**.
+
+**Przyluski, Aśoka** = La Légende de l'Empereur Açoka, Paris, 1923.
+
+**PTSD** = Pali Text Society's Pali-English Dictionary.
+
+**Pug(g).** = Puggala Paññatti (Pali).
+
+**Pv.** = Petavatthu (Pali).
+
+**pw** = Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+
+**qy** = query.
+
+**Rājat(ar).** = Rājataraṃginī (ed. Stein).
+
+**Rām.** = Rāmāyaṇa (NWRām. = Northwestern Rām.)
+
+**Ratnach.** = Ratnachandra, Ardha-Māgadhī Dictionary (5 vols.).
+
+**rec.** = recension.
+
+**ref.** = reference(s).
+
+**Renou (Louis)**, without specific reference, or Gr. scte., = Grammaire sanscrite, Paris, 1930.
+
+**Renou (Louis), Études de grammaire Sanskrite**, Paris, 1936.
+
+**RO** = Rocznik Orjentalistyczny.
+
+**RV** = Rig Veda.
+
+**S (as in Wh. Roots)** = Sūtra(s).
+
+**Ś.** = Śaurasenī.
+
+**San., Sanatk.** = Sanatkumāracaritam (Ap.), ed. Jacobi (1921).
+
+**Saundarān.** = Saundarānanda, ed. Johnston.
+
+**ŚB.** = Śatapatha Brāhmaṇa (Mādhy. = Mādhyaṃdina, K. = Kāṇva recension).
+
+**SBBA** = Sitzungsberichte der Berliner Akademie der Wissenschaften.
+
+**SBE** = Sacred Books of the East.
+
+**sc.** = scilicet.
+
+**Schmidt, Nachtr.** = R. Schmidt, Nachträge zum Sanskrit Wörterbuch … von Otto Boehtlingk.
+
+**Sdhp.** = Saddhammopāyana (Pali).
+
+**Sen** = Sukumar Sen, An outline syntax of Buddhistic Sanskrit, in Journal of the Department of Letters, Univ. of Calcutta, (XVII) (1928).
+
+**sg.** = singular.
+
+**Sheth** = H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Calcutta, 1923–1928.
+
+**Skt.** = Sanskrit; (hyper-)Sktism, Sktization = Sanskritism, Sanskritization.
+
+**Skt. Synt.** = Speyer, Sanskrit Syntax.
+
+**Smith, Helmer, Les deux prosodies du vers bouddhique** (see § 1.38, fn. 15).
+
+**Sn.** = Suttanipāta (Pali).
+
+**SN.** = Saṃyuttanikāya (Pali).
+
+**Speyer**: see Skt. Synt., and VSS; also, in the preceding list, s.vv. Av and Jm.
+
+**subst.** = substantive.
+
+**superl.** = superlative.
+
+
+---
+
+## Page 11 — Bibliography and Abbreviations, 6 (vol. 1)
+
+<sub>Source (scan): [bhsg_Page_022_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref11.html)</sub>
+
+*(Conclusion of "Other abbreviations and works chiefly referred to": s → Z, followed by the list of "Symbols".)*
+
+**Sūyag.** = Sūyagaḍaṅgasutta (AMg.).
+
+**s.v(v).** = under the word(s).
+
+**syn.** = synonym(ous).
+
+**Tagare (G.V.), Hist(orical) Gr(ammar) of Ap(abhraṃśa)**, Poona, 1948.
+
+**Tatp(ur).** = Tatpuruṣa.
+
+**TB.** = Taittirīya Brāhmaṇa.
+
+**Therag.** = Theragāthā (Pali).
+
+**Therīg.** = Therīgāthā (Pali).
+
+**Thīg.** = Therīg.
+
+**Tib.** = Tibetan.
+
+**Ting (Fu-Pao), Dictionary of Buddhist Chinese**, 16 vols., Shanghai, 1920. In Chinese; a few references provided by Mr. Chang Kun.
+
+**Toch.** = Tocharian (: Gram., Tocharische Grammatik, Sieg and Siegling).
+
+**trans.** = transitive.
+
+**transl.** = translation(s).
+
+**Trik.** = Trikāṇḍaśeṣa (a Skt. lexicographer cited in BR; contains many BHS words).
+
+**TS.** = Taittirīya Saṃhitā.
+
+**Turner (R.L.), Nep. Dict.** = Dictionary of the Nepali Language, London, 1931.
+
+**U (as in Wh. Roots)** = Upaniṣads.
+
+**Uhlenbeck (C.C.)** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898–99).
+
+**uncpd.** = uncompounded.
+
+**unmetr.** = unmetrical(ly).
+
+**var(r).** = variant(s).
+
+**Varāh.Bṛh.S.** = Varāhamihira, Bṛhat-saṃhitā.
+
+**vb.** = verb.
+
+**Ved.** = Vedic.
+
+**Ved. St.** = Pischel and Geldner, Vedische Studien (3 vols.).
+
+**Ved. Var., Vedic Variants**, see VV.
+
+**Versl. en Med. d. K. Akad. v. Wet. Amsterdam** = Proceedings of the Amsterdam Academy.
+
+**Vin.** = Vinayapiṭaka (Pali).
+
+**Vism., Vis.M.** = Visuddhi-magga (Pali).
+
+**v.l., vv.ll.** = variant reading(s).
+
+**voc.** = vocative.
+
+**VS.** = Vājasaneyi Saṃhitā.
+
+**vs, vss** = verse, verses.
+
+**VSS** = Speyer, Vedische und Sanskrit-Syntax.
+
+**VV** = Bloomfield, Edgerton, and Emeneau, Vedic Variants, 3 vols., Philadelphia, 1930, 1932, 1934.
+
+**Vv.** = Vimānavatthu (Pali).
+
+**Wack(ernagel), AIGr.** = Altindische Grammatik, Göttingen, 1896, 1905, 1930.
+
+**Warren (H. C.), B(uddhism) in Transl(ations)** (= HOS 3; 1896).
+
+**Wh.** = Whitney; Gr., Sanskrit Grammar; Roots (Verbforms and primary derivatives).
+
+**Wilson** = H. H. Wilson's Sanskrit Dictionary, as cited in MW.
+
+**Winternitz, H(ist). I(nd). Lit.** = W's History of Indian Literature (English version; vols. 1 and 2, Calcutta, 1927 and 1933).
+
+**w.r.** = wrong reading.
+
+**Yājñ.** = Yājñavalkya (Dharmaśāstra).
+
+**ZDMG** = Zeitschrift der deutschen morgenländischen Gesellschaft.
+
+**ZII** = Zeitschrift für Indologie und Iranistik.
+
+**Z.Wbch. d. RV.**, see Neisser.
+
+### Symbols
+
+**:** (as in statements of proportional analogy) = 'is related to'.
+
+**( )** Parentheses, in the Dictionary, enclose articles on words which occur in standard Skt. in substantially the same meanings as in BHS, but which by exception, for one reason or another, seem to need treatment here. The reason is usually a (previous) erroneous interpretation, or sometimes what is felt to be a danger thereof.
+
+**[ ]** Brackets, in the Dictionary, enclose articles on what are considered erroneous readings. They are, however, also used in the interior of an article, in lieu of parentheses which, if used, would fall within other parentheses.
+
+
+---
+
 ## Page 12 — Title (full) (vol. 2)
 
 <sub>Source (scan): [bhsd_Page_629_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref12.html)</sub>
@@ -415,3 +998,12 @@ ISIDORE DYEN &nbsp;&nbsp;&nbsp;&nbsp; ALBRECHT GOETZE
 KONSTANTIN REICHARDT
 
 *of the Department of Linguistics in Yale University*
+
+
+---
+
+## Page 15 — Blank page (final verso) (vol. 2)
+
+<sub>Source (scan): [bhsd_Page_632_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref15.html)</sub>
+
+*(This final leaf of the Dictionary volume is blank — no printed text.)*

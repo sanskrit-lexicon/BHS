@@ -27,12 +27,12 @@ Faithful OCR + Russian translation of the dictionary's **front matter** (title b
 - Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref.html>
 - Consolidated editions: [prefaces/bhspref_all.en.md](prefaces/bhspref_all.en.md) · [prefaces/bhspref_all.ru.md](prefaces/bhspref_all.ru.md)
 - In-folder index: [prefaces/README.md](prefaces/README.md)
-- **Status: in progress** — title block + Preface (03–05) + Bibliography intro and text-sigla (06–08) done; the dense general-abbreviation pages (09–11) and the final Dictionary page (15) are pending a follow-up pass.
+- **Status: complete** — all 15 pages transcribed and translated: title block (01–02, 12–15), Edgerton's Preface (03–05), and the full Bibliography & Abbreviations (06–11, including the general-abbreviation pages C → Z and the Symbols key).
 
 <details>
 <summary><strong>OCR run notes (2026-06-23)</strong></summary>
 
-Produced by the `/cologne-preface-ocr` skill on the **main thread** (background OCR subagents reproducibly hit a spurious content-filter API error on this dictionary; the main thread is unaffected). Two-volume work: the prior partial numbered the Dictionary-volume title block as pages 03–05; this pass corrected the numbering to follow the Cologne toctree (Preface and Bibliography are pages 03–11; the Dictionary title block is 12–15). The Bibliography pages are dense two-column reference lists — the densest content in the set — which is why pages 09–11 are deferred.
+Produced by the `/cologne-preface-ocr` skill on the **main thread** (background OCR subagents reproducibly hit a spurious content-filter API error on this dictionary; the main thread is unaffected). Two-volume work: the prior partial numbered the Dictionary-volume title block as pages 03–05; this pass corrected the numbering to follow the Cologne toctree (Preface and Bibliography are pages 03–11; the Dictionary title block is 12–15). The Bibliography pages are dense two-column reference lists — the densest content in the set; pages 09–11 (general abbreviations C → Z plus the Symbols key) were transcribed column-by-column in a second pass, and page 15 is a blank final verso.
 
 </details>
 
@@ -43,7 +43,7 @@ Produced by the `/cologne-preface-ocr` skill on the **main thread** (background 
 | 2021 | Repository activity begins (first tracked issues) |
 | 2023–2023 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
-| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces (`prefaces/`, in progress) |
+| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces (`prefaces/`, complete — all 15 pages) |
 
 ## Projects & Milestones
 

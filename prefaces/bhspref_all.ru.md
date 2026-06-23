@@ -12,9 +12,13 @@ Per-page files: `bhsprefNN.ru.md`. Index: [README.md](README.md).
 - [Страница 06 — Bibliography and Abbreviations, 1 (vol. 1)](#страница-06-bibliography-and-abbreviations-1-vol-1)
 - [Страница 07 — Bibliography and Abbreviations, 2 (vol. 1)](#страница-07-bibliography-and-abbreviations-2-vol-1)
 - [Страница 08 — Bibliography and Abbreviations, 3 (vol. 1)](#страница-08-bibliography-and-abbreviations-3-vol-1)
+- [Страница 09 — Bibliography and Abbreviations, 4 (vol. 1)](#страница-09-bibliography-and-abbreviations-4-vol-1)
+- [Страница 10 — Bibliography and Abbreviations, 5 (vol. 1)](#страница-10-bibliography-and-abbreviations-5-vol-1)
+- [Страница 11 — Bibliography and Abbreviations, 6 (vol. 1)](#страница-11-bibliography-and-abbreviations-6-vol-1)
 - [Страница 12 — Title (full) (vol. 2)](#страница-12-title-full-vol-2)
 - [Страница 13 — Copyright (vol. 2)](#страница-13-copyright-vol-2)
 - [Страница 14 — Series half-title (vol. 2)](#страница-14-series-half-title-vol-2)
+- [Страница 15 — Blank page (final verso) (vol. 2)](#страница-15-blank-page-final-verso-vol-2)
 
 ---
 
@@ -372,6 +376,585 @@ PRIVATE LIMITED • DELHI
 
 ---
 
+## Страница 09 — Bibliography and Abbreviations, 4 (vol. 1)
+
+<sub>Источник (скан): [bhsg_Page_020_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref09.html)</sub>
+
+*(Продолжение раздела «Прочие сокращения и работы, на которые даются основные ссылки»: C → M. Библиографические описания оставлены в оригинале; «ed.» = изд., «transl.» = пер., «see» = см.)*
+
+**ch., chap.** = глава.
+
+**Childers** = Dictionary of the Pali Language, R. C. Childers.
+
+**Chin.** = китайское.
+
+**Cl. Skt.** = классический санскрит.
+
+**comb.** = сочетание.
+
+**comm.** = комментарий.
+
+**comp.** = словосложение.
+
+**Compendium of Philosophy** (Aung и Rhys Davids, Лондон, 1910).
+
+**compv.** = сравнительная степень.
+
+**corr.** = исправляет, исправление.
+
+**corresp.** = соответствующий, соответствует.
+
+**Corrig.** = Corrigenda (исправления).
+
+**cpd.** = сложное слово.
+
+**CPD** = Andersen и Smith, Critical Pali Dictionary (т. 1), Копенгаген, 1924 и далее.
+
+**crit. app.** = критический аппарат.
+
+**Das** = S. C. Das, Tibetan-English Dictionary.
+
+**Daśak.** = Daśakumāracarita.
+
+**dat.** = дательный падеж.
+
+**def.** = определение.
+
+**denom.** = деноминатив (отыменный глагол).
+
+**der(iv).** = производный, производное.
+
+**Deśīn.** = Deśīnāmamālā, изд. Pischel, Бомбей, 1880.
+
+**Dhātup.** = Dhātupāṭha.
+
+**Dhp.** = Dhammapada (пали); Dhp. c(omm.) — комментарий к Dhp.; Fausb. отсылает к изданию Dhp. Фаусбёлля.
+
+**Dhs.** = Dhammasaṃgaṇi (пали).
+
+**dial.** = диалектное.
+
+**Dict.** = Dictionary (словарь), обычно отсылка к моему словарю BHS; Dictt. = Dictionaries (словари).
+
+**Dict. of the Fr. Cath. Miss.** = тибетский словарь Французской католической миссии.
+
+**Dict. Hindu Arch.** = Acharya, Dictionary of Hindu Architecture.
+
+**diff.** = различный, иной.
+
+**dim.** = уменьшительное.
+
+**Dīp.** = Dīpavaṃsa (пали).
+
+**DN** = Dīghanikāya (пали).
+
+**DPPN** = Malalasekara, Dictionary of Pali Proper Names.
+
+**Dpv., Dpvs.** = Dīp.
+
+**Dutreuil** (рукопись де Рина), см. § 1.3 с прим. 2.
+
+**E** = эпический (санскрит, при цитировании «Корней» Уитни).
+
+**ed.** = редактор, издание.
+
+**em.** = исправленное, исправление (конъектура).
+
+**ep.** = эпитет.
+
+**Ep. Zeyl.** = Epigraphia Zeylanica.
+
+**equiv.** = эквивалент.
+
+**erron.** = ошибочно.
+
+**etym.** = этимология.
+
+**esp.** = особенно.
+
+**exc.** = кроме.
+
+**expl.** = объяснённое, объяснение.
+
+**f.** = женский род; следующий (далее).
+
+**fem.** = женский род.
+
+**Fest.** = Festschrift (юбилейный сборник).
+
+**ff.** = и далее (следующие).
+
+**fig.** = переносно, в переносном значении.
+
+**fn.** = сноска.
+
+**foll.** = за которым следует; следующий.
+
+**fut.** = будущее время.
+
+**gdve.** = герундив.
+
+**Geiger (W.)** = Pali, Страсбург, 1916. Цитируется по номерам разделов, без символа §.
+
+**gen.** = родительный падеж.
+
+**ger.** = герундий (деепричастие).
+
+**Ger.** = немецкое.
+
+**Gīt.** = Gītagovinda.
+
+**GobhGS** = Gobhila Gṛhya Sūtra.
+
+**GOS** = Gaekwad's Oriental Series.
+
+**Gr.** = грамматика, грамматический, грамматист(ы).
+
+**haplogr.** = гаплография.
+
+**haplol.** = гаплология.
+
+**Hem.** = Hemacandra, главным образом его грамматика пракритов, изд. и пер. Pischel, Халле, 1877, 1880; см. также Deśīn.
+
+**HJAS** = Harvard Journal of Asiatic Studies.
+
+**HOS** = Harvard Oriental Series.
+
+**Hultzsch (E.), Inscr(iptions) of Asoka**, Оксфорд, 1925.
+
+**IA.** = (Lassen) Indische Altertumskunde.
+
+**IF.** = Indogermanische Forschungen.
+
+**ifc.** = в конце сложных слов.
+
+**IHQ** = Indian Historical Quarterly.
+
+**impf.** = имперфект.
+
+**impv.** = императив (повелительное наклонение).
+
+**incl.** = включая, включительно.
+
+**indecl.** = несклоняемое.
+
+**indic.** = изъявительное наклонение.
+
+**Ind. Min.** = (Garbe) Die indischen Mineralien (1882).
+
+**Ind. Spr.** = Boehtlingk, Indische Sprüche (2-е изд.).
+
+**inf.** = инфинитив.
+
+**inst., instr.** = творительный падеж.
+
+**intens.** = интенсив.
+
+**intrans.** = непереходный.
+
+**I.St.** = Indische Studien (Weber).
+
+**It., Itiv.** = Itivuttaka (пали).
+
+**JA.** = Journal Asiatique.
+
+**Jä.**, см. Jäschke.
+
+**Jacobi, Ausgew. Erz.** = Ausgewählte Erzählungen in Māhārāṣṭrī. См. также Bhav., San.
+
+**JAOS** = Journal of the American Oriental Society.
+
+**Jap.** = японское.
+
+**JAs.** = JA.
+
+**(Jä.,) Jäschke** = Jäschke, Tibetan-English Dictionary.
+
+**Jāt.** = Jātaka (пали).
+
+**JB.** = Jaiminīya Brāhmaṇa.
+
+**JM.** = Jaina Māhārāṣṭrī.
+
+**JPTS** = Journal of the Pali Text Society.
+
+**JR (Vikramacarita)** = джайнская редакция Vikr., см. HOS 26–27.
+
+**JRAS** = Journal of the Royal Asiatic Society.
+
+**JŚ.** = Jaina Śaurasenī.
+
+**Karmadh.** = кармадхарая.
+
+**Kāś.** = Kāśikā (комм. к Pāṇ.).
+
+**Kauś.** = Kauśika Sūtra.
+
+**Kauṭ. (Arth.)** = Kauṭilīya (Arthaśāstra).
+
+**Kh.p., Khud.p. (comm.)** = Khuddaka-pāṭha (комментарий) (пали).
+
+**Kirfel, Kosm.** = Kosmographie der Inder.
+
+**KSA** = Kāṭhaka Saṃhitā, Aśvamedhagrantha.
+
+**KSS** = Kathāsaritsāgara.
+
+**KŚS** = Kātyāyana Śrauta Sūtra.
+
+**Kull.** = Kullūka.
+
+**Kum.** = Kumārapālapratibodha (Ap.), изд. Alsdorf.
+
+**Kvu.** = Kathā-vatthu (пали).
+
+**Lalou, Iconographie** (des étoffes peintes dans le Mañjuśrīmūlakalpa), Париж, 1930.
+
+**E. Lamotte, Mél. chin. et boud.** = Mélanges chinoises et bouddhiques.
+
+**Lang.** = Language (Journal of the Linguistic Society of America).
+
+**Lāṭy.** = Lāṭyāyana Śrauta Sūtra.
+
+**l. c.** = в указанном месте.
+
+**lect. diff.** = lectio difficilior (более трудное чтение).
+
+**lect. fac.** = lectio facilior (более лёгкое чтение).
+
+**lex.** = лексикон, лексическое; см. также Bbh в предыдущем списке сокращений.
+
+**Lin Li-kouang, (L')Aide-Mémoire** (de la Vraie Loi), Париж, 1949.
+
+**lit.** = буквально; также — литературное, встречающееся в литературе, в противоположность lex.
+
+**loc.** = местный падеж.
+
+**M.** = Māhārāṣṭrī.
+
+
+---
+
+## Страница 10 — Bibliography and Abbreviations, 5 (vol. 1)
+
+<sub>Источник (скан): [bhsg_Page_021_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref10.html)</sub>
+
+*(Продолжение раздела «Прочие сокращения и работы, на которые даются основные ссылки»: M → s. Библиографические описания оставлены в оригинале; «ed.» = изд., «transl.» = пер., «see» = см.)*
+
+**m.** = мужской род.
+
+**Mahāv.** = Mahāvaṃsa (пали).
+
+**Mārk. Pur.** = Mārkaṇḍeya Purāṇa.
+
+**masc.** = мужской род.
+
+**math.** = математика.
+
+**Mbh.** = Mahābhārata.
+
+**m.c.** = metri causa (ради метра). Под этим обозначением я объединяю два класса случаев, поскольку в обоих нахожу основания полагать, что метрические соображения были либо единственной, либо преобладающей причиной употребления данной формы. Первый класс охватывает любые случаи особой формы, которая никогда не употребляется в прозе или в таких местах стиха, где столь же хорошо подошла бы альтернативная («правильная») форма. Второй класс охватывает случаи, в которых форма, помеченная «m.c.», действительно употребляется и (в иных местах) в прозе или в метрически безразличных позициях, но столь ограниченно или специализированно (что в разных случаях различно), что я всё же полагаю, что в рассматриваемых случаях, где встречается помета «m.c.», выбор был определён метром. В обоих типах, разумеется, альтернативная («правильная») форма была бы невозможна в том конкретном контексте, где стоит помета «m.c.». Надеюсь, что мой способ изложения позволит легко различать эти два типа. Частота встречаемости и употребление соответствующих форм в других среднеиндийских диалектах — важные соображения, которым я старался придать должный вес.
+
+**Mehendale (M.A.), Hist(orical) Gr(ammar) of Inscr(iptional) Pkts.**, Пуна, 1948.
+
+**metr.** = метрически.
+
+**Meyer, Kauṭ. (Arth.)** = перевод Kauṭ. Дж. Дж. Мейера, Лейпциг, 1926.
+
+**mg.** = значение.
+
+**Mg.** = магадхи.
+
+**Miln.(p.), Milp.** = Milindapañha (пали).
+
+**MIndic or MInd.** = среднеиндийский.
+
+**misc.** = разное.
+
+**MN** = Majjhimanikāya (пали).
+
+**Mṛcch.** = Mṛcchakaṭikā.
+
+**ms(s).** = рукопись(и).
+
+**MS** = Maitrāyaṇī Saṃhitā.
+
+**MSL** = Mémoires de la Société de Linguistique (de Paris).
+
+**Mus (P.), Barabudur** (1935).
+
+**mus.** = музыкальное.
+
+**MW** = Monier Williams, Sanskrit-English Dictionary (2-е изд., 1899).
+
+**n.** = именительный падеж; имя.
+
+**n. pr.** = имя собственное.
+
+**n. act.** = имя действия (nomen actionis).
+
+**n. ag.** = имя деятеля (nomen agentis).
+
+**Nachtr.**, см. Schmidt.
+
+**NAWGött.** = Nachrichten der Akademie der Wissenschaften zu Göttingen.
+
+**neg.** = отрицательное.
+
+**Neisser, Z. Wbch. d. RV.** = W. Neisser, Zum Wörterbuch des Rigveda.
+
+**Nep.** = непальское.
+
+**Nett.** = Nettipakaraṇa (пали).
+
+**NīA** = New Indian Antiquary.
+
+**Nidd¹** = Mahā-Niddesa (пали).
+
+**Nir.** = Nirukta Яски.
+
+**nom.** = именительный падеж.
+
+**nom. act.** = имя действия (nomen actionis).
+
+**nom. ag.** = имя деятеля (nomen agentis).
+
+**nt.** = средний род.
+
+**obj.** = дополнение (объект).
+
+**obl.** = косвенный (падеж).
+
+**onomat.** = звукоподражательное.
+
+**opp.** = противоположное (чему-л.).
+
+**opt.** = оптатив.
+
+**orig.** = первоначально.
+
+**Pāṇ.** = Pāṇini.
+
+**Pañc. Rec.** = Edgerton, Pañchatantra Reconstructed.
+
+**pass.** = пассив (страдательный залог).
+
+**Pat.** = Patañjali.
+
+**PBr.** = Pañcaviṃśa Brāhmaṇa.
+
+**pej.** = пейоративное (уничижительное).
+
+**perh.** = возможно.
+
+**pers.** = лицо.
+
+**Philologica Indica** (переиздания монографий H. Lüders), Гёттинген, 1940.
+
+**Pischel** (без дальнейших указаний) = Grammatik der Prakrit-Sprachen, Страсбург, 1900. Цитируется так же, как Geiger.
+
+**Pkt.** = пракрит.
+
+**pl.** = множественное число.
+
+**postp., postpos.** = послелог.
+
+**ppp.** = причастие прошедшего времени страдательного залога.
+
+**prec.** = прекатив; предшествующий; предшествуемый.
+
+**pres.** = настоящее время.
+
+**prob.** = вероятно.
+
+**Proc(eedings of the) Am(erican) Philos(ophical) Soc(iety)**.
+
+**Przyluski, Aśoka** = La Légende de l'Empereur Açoka, Париж, 1923.
+
+**PTSD** = Pali Text Society's Pali-English Dictionary.
+
+**Pug(g).** = Puggala Paññatti (пали).
+
+**Pv.** = Petavatthu (пали).
+
+**pw** = Boehtlingk, Sanskrit Wörterbuch in kürzerer Fassung.
+
+**qy** = вопрос (под вопросом).
+
+**Rājat(ar).** = Rājataraṃginī (изд. Stein).
+
+**Rām.** = Rāmāyaṇa (NWRām. = северо-западная редакция Rām.)
+
+**Ratnach.** = Ratnachandra, Ardha-Māgadhī Dictionary (5 т.).
+
+**rec.** = редакция (рецензия текста).
+
+**ref.** = ссылка(и).
+
+**Renou (Louis)**, без конкретной ссылки, или Gr. scte., = Grammaire sanscrite, Париж, 1930.
+
+**Renou (Louis), Études de grammaire Sanskrite**, Париж, 1936.
+
+**RO** = Rocznik Orjentalistyczny.
+
+**RV** = Rig Veda.
+
+**S (как в Wh. Roots)** = сутра(ы).
+
+**Ś.** = шаурасени.
+
+**San., Sanatk.** = Sanatkumāracaritam (Ap.), изд. Jacobi (1921).
+
+**Saundarān.** = Saundarānanda, изд. Johnston.
+
+**ŚB.** = Śatapatha Brāhmaṇa (Mādhy. = Mādhyaṃdina, K. = редакция Kāṇva).
+
+**SBBA** = Sitzungsberichte der Berliner Akademie der Wissenschaften.
+
+**SBE** = Sacred Books of the East.
+
+**sc.** = scilicet (а именно).
+
+**Schmidt, Nachtr.** = R. Schmidt, Nachträge zum Sanskrit Wörterbuch … von Otto Boehtlingk.
+
+**Sdhp.** = Saddhammopāyana (пали).
+
+**Sen** = Sukumar Sen, An outline syntax of Buddhistic Sanskrit, in Journal of the Department of Letters, Univ. of Calcutta, (XVII) (1928).
+
+**sg.** = единственное число.
+
+**Sheth** = H.D.T. Sheth, Paia-sadda-mahaṇṇavo (Pkt.-Hindi Dict.), Калькутта, 1923–1928.
+
+**Skt.** = санскрит; (hyper-)Sktism, Sktization = санскритизм, санскритизация.
+
+**Skt. Synt.** = Speyer, Sanskrit Syntax.
+
+**Smith, Helmer, Les deux prosodies du vers bouddhique** (см. § 1.38, прим. 15).
+
+**Sn.** = Suttanipāta (пали).
+
+**SN.** = Saṃyuttanikāya (пали).
+
+**Speyer**: см. Skt. Synt. и VSS; также в предыдущем списке, s.vv. Av и Jm.
+
+**subst.** = существительное.
+
+**superl.** = превосходная степень.
+
+
+---
+
+## Страница 11 — Bibliography and Abbreviations, 6 (vol. 1)
+
+<sub>Источник (скан): [bhsg_Page_022_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref11.html)</sub>
+
+*(Завершение раздела «Прочие сокращения и работы, на которые даются основные ссылки»: s → Z, за которым следует список «Символы». Библиографические описания оставлены в оригинале; «ed.» = изд., «transl.» = пер., «see» = см.)*
+
+**Sūyag.** = Sūyagaḍaṅgasutta (ардхамагадхи).
+
+**s.v(v).** = под словом (словами).
+
+**syn.** = синоним(ичный).
+
+**Tagare (G.V.), Hist(orical) Gr(ammar) of Ap(abhraṃśa)**, Пуна, 1948.
+
+**Tatp(ur).** = татпуруша.
+
+**TB.** = Taittirīya Brāhmaṇa.
+
+**Therag.** = Theragāthā (пали).
+
+**Therīg.** = Therīgāthā (пали).
+
+**Thīg.** = Therīg.
+
+**Tib.** = тибетское.
+
+**Ting (Fu-Pao), Dictionary of Buddhist Chinese**, 16 т., Шанхай, 1920. На китайском; несколько ссылок предоставлено г-ном Чан Куном.
+
+**Toch.** = тохарское (: Gram., Tocharische Grammatik, Sieg и Siegling).
+
+**trans.** = переходный.
+
+**transl.** = перевод(ы).
+
+**Trik.** = Trikāṇḍaśeṣa (санскритский лексикограф, цитируемый в BR; содержит много слов BHS).
+
+**TS.** = Taittirīya Saṃhitā.
+
+**Turner (R.L.), Nep. Dict.** = Dictionary of the Nepali Language, Лондон, 1931.
+
+**U (как в Wh. Roots)** = упанишады.
+
+**Uhlenbeck (C.C.)** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Амстердам, 1898–99).
+
+**uncpd.** = несоставное (не в составе сложного слова).
+
+**unmetr.** = неметрически.
+
+**var(r).** = вариант(ы).
+
+**Varāh.Bṛh.S.** = Varāhamihira, Bṛhat-saṃhitā.
+
+**vb.** = глагол.
+
+**Ved.** = ведийское.
+
+**Ved. St.** = Pischel и Geldner, Vedische Studien (3 т.).
+
+**Ved. Var., Vedic Variants**, см. VV.
+
+**Versl. en Med. d. K. Akad. v. Wet. Amsterdam** = Труды Амстердамской академии.
+
+**Vin.** = Vinayapiṭaka (пали).
+
+**Vism., Vis.M.** = Visuddhi-magga (пали).
+
+**v.l., vv.ll.** = разночтение(я).
+
+**voc.** = звательный падеж.
+
+**VS.** = Vājasaneyi Saṃhitā.
+
+**vs, vss** = стих, стихи.
+
+**VSS** = Speyer, Vedische und Sanskrit-Syntax.
+
+**VV** = Bloomfield, Edgerton и Emeneau, Vedic Variants, 3 т., Филадельфия, 1930, 1932, 1934.
+
+**Vv.** = Vimānavatthu (пали).
+
+**Wack(ernagel), AIGr.** = Altindische Grammatik, Гёттинген, 1896, 1905, 1930.
+
+**Warren (H. C.), B(uddhism) in Transl(ations)** (= HOS 3; 1896).
+
+**Wh.** = Whitney; Gr. — Sanskrit Grammar; Roots (глагольные формы и первичные производные).
+
+**Wilson** = словарь санскрита H. H. Wilson, цитируемый по MW.
+
+**Winternitz, H(ist). I(nd). Lit.** = History of Indian Literature Винтерница (английская версия; т. 1 и 2, Калькутта, 1927 и 1933).
+
+**w.r.** = ошибочное чтение.
+
+**Yājñ.** = Yājñavalkya (Dharmaśāstra).
+
+**ZDMG** = Zeitschrift der deutschen morgenländischen Gesellschaft.
+
+**ZII** = Zeitschrift für Indologie und Iranistik.
+
+**Z.Wbch. d. RV.**, см. Neisser.
+
+### Символы
+
+**:** (в формулировках пропорциональной аналогии) = «родственно (чему-л.)».
+
+**( )** Круглые скобки в Словаре заключают статьи о словах, которые встречаются в стандартном санскрите по существу в тех же значениях, что и в BHS, но которые в виде исключения, по той или иной причине, всё же требуют рассмотрения здесь. Причиной обычно служит (прежнее) ошибочное толкование или иногда то, что воспринимается как угроза такового.
+
+**[ ]** Квадратные скобки в Словаре заключают статьи о том, что считается ошибочными чтениями. Однако они используются и внутри статьи вместо круглых скобок, которые, будь они применены, оказались бы внутри других круглых скобок.
+
+
+---
+
 ## Страница 12 — Title (full) (vol. 2)
 
 <sub>Источник (скан): [bhsd_Page_629_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref12.html)</sub>
@@ -417,3 +1000,12 @@ ISIDORE DYEN &nbsp;&nbsp;&nbsp;&nbsp; ALBRECHT GOETZE
 KONSTANTIN REICHARDT
 
 *кафедры лингвистики Йельского университета*
+
+
+---
+
+## Страница 15 — Blank page (final verso) (vol. 2)
+
+<sub>Источник (скан): [bhsd_Page_632_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref15.html)</sub>
+
+*(Этот последний лист тома Словаря пуст — печатный текст отсутствует.)*
