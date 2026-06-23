@@ -1,0 +1,16 @@
+---
+source_scan: bhsg_Page_014_Image_0001.png
+source_page: Preface, 1
+volume: 1
+source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref03.html
+---
+
+# Preface
+
+NEARLY TWO DECADES ago I began tentative studies which have grown into the present work, the first attempt at a description of the grammar and lexicon of Buddhist Hybrid Sanskrit. By no means all, but the major part, of my research activity during these two decades has gone into this work. I know that especially the dictionary falls short of what I wish it were. If I could take the time to repeat the whole process, that is to restudy carefully and minutely all the texts included in my plan, I am certain that these volumes could be enlarged and brought nearer to completion.
+
+One limitation has been self-imposed. I have deliberately excluded words and forms occurring (with the same meanings) in standard Sanskrit. For this reason, in order to interpret BHS texts, one must supplement my grammar and dictionary by Sanskrit grammars and Sanskrit dictionaries, especially the lexicons of Boehtlingk (and Roth), which I treat as containing substantially the Sanskrit word-stock. (They also contain some words and meanings which are not standard Sanskrit but BHS; these are, of course, included in my work.)
+
+I have no doubt that some competent scholars will question the wisdom of this limitation. I ask them at least not to condemn it until they have carefully considered my reasons, which are stated in Chapter 1, especially §§ 1.57 ff., to which §§ 1.33–56 furnish a necessary background. I admit that at first sight it may seem startling that a dictionary of Buddhist Hybrid Sanskrit should contain no article on, for instance, the word *nirvāṇa*, because in the texts included in this work I have failed to find any use of that word which is not adequately covered for standard Sanskrit by Boehtlingk. This is not to deny that in certain works of technical Buddhist metaphysics, composed in standard Sanskrit and therefore not considered by me, philosophical aspects of the meaning of *nirvāṇa* may depart considerably from those recognized by Boehtlingk. But, unless I have erred, the Northern Buddhists who used BHS did not use the word *nirvāṇa* in any way not known to their brahmanical fellow-countrymen. To this fact (and I believe it is a fact) the silence of my dictionary bears eloquent testimony. It does not, to be sure, guarantee the converse, namely that every standard Sanskrit word is used in BHS in *all* its Sanskrit meanings; that is far from being true. What I have tried to do is to record all non-Sanskrit elements, grammatical or lexical, found in BHS. The elements common to Sanskrit and to the BHS texts *as we have them* cannot safely be assumed to be genuine BHS, for reasons explained in the place cited; that is why I have omitted them.
+
+I considered seriously providing the Grammar with an index. No doubt the lack of it may seem a defect to some. It would have added to the already swollen bulk of this work, and I finally decided that it was made unnecessary by the following considerations. The Table of Contents is very detailed, and, it is hoped, analyzes the grammar so clearly as to make an index scarcely profitable. The Dictionary also, to a large extent, replaces such an index.
