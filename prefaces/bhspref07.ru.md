@@ -47,7 +47,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Guhyasamāja**, изд. Bhattacharya, Gaekwad's Oriental Series 53, Барода, 1931; содержит несколько стихов с формами BHS; цитируется очень редко.
 
-**Gv** = Gaṇḍavyūha, изд. Suzuki и Idzumi, Киото, 1934–36; 2-е изд., фотографически воспроизведённое с исправлениями, 1949.
+**Gv** = Gaṇḍavyūha, изд. Suzuki и Idzumi, Киото, 1934–36; 2-е изд., фотографически воспроизведенное с исправлениями, 1949.
 
 **Hoernle**, см. MR.
 
@@ -69,7 +69,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Lefm.**, см. LV.
 
-**LV** = Lalitavistara, изд. Lefmann, Галле, 1902; критический аппарат, 1908; сокращённо Lefm.; «Calc.» = изд. Rajendralala Mitra, Калькутта, 1877; пер. Foucaux, Annales du Musée Guimet 6 и Notes, 19; тибетская версия (частичная) с пер. — Foucaux, Париж, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Лейпциг, 1915.
+**LV** = Lalitavistara, изд. Lefmann, Галле, 1902; критический аппарат, 1908; сокращенно Lefm.; «Calc.» = изд. Rajendralala Mitra, Калькутта, 1877; пер. Foucaux, Annales du Musée Guimet 6 и Notes, 19; тибетская версия (частичная) с пер. — Foucaux, Париж, 1847; Weller = F. Weller, Zum Lalita Vistara, I. Über die Prosa des Lal. Vist., Лейпциг, 1915.
 
 **MadhK** = Mūla-Madhyamaka-kārikās, с комм., изд. LaVallée Poussin, Санкт-Петербург, 1903–1910. Выписано лишь частично.
 
@@ -89,7 +89,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **(Hoernle) MR** = Hoernle (главный редактор), Manuscript Remains of Buddhist literature found in Eastern Turkestan, Оксфорд, 1916. Фрагменты BHS изд. Hoernle, Lüders, Pargiter, Thomas.
 
-**MSV** = Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, изд. Nalinaksha Dutt, т. 3, части i (без даты), ii (1942), iii (1943), Сринагар, Кашмир. Часть iv (1950) поступила поздно, но её важнейшие слова включены. К сожалению, эта ценная серия попала мне в руки столь поздно, что я счёл невозможным включить тома 1 и 2, которые представляются несколько менее важными.
+**MSV** = Mūla-Sarvāstivāda-Vinaya; Gilgit Manuscripts, изд. Nalinaksha Dutt, т. 3, части i (без даты), ii (1942), iii (1943), Сринагар, Кашмир. Часть iv (1950) поступила поздно, но ее важнейшие слова включены. К сожалению, эта ценная серия попала мне в руки столь поздно, что я счел невозможным включить тома 1 и 2, которые представляются несколько менее важными.
 
 **Mv** = Mahāvastu, изд. Senart, Париж, 1882, 1890, 1897. Первый том перевода Джонса (Лондон, 1949) появился, к моему сожалению, слишком поздно, чтобы его много использовать (я получил его в 1950 г.).
 

@@ -55,7 +55,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Dhātup.** = Dhātupāṭha.
 
-**Dhp.** = Dhammapada (пали); Dhp. c(omm.) — комментарий к Dhp.; Fausb. отсылает к изданию Dhp. Фаусбёлля.
+**Dhp.** = Dhammapada (пали); Dhp. c(omm.) — комментарий к Dhp.; Fausb. отсылает к изданию Dhp. Фаусбелля.
 
 **Dhs.** = Dhammasaṃgaṇi (пали).
 
@@ -101,7 +101,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **exc.** = кроме.
 
-**expl.** = объяснённое, объяснение.
+**expl.** = объясненное, объяснение.
 
 **f.** = женский род; следующий (далее).
 
@@ -247,7 +247,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **lect. diff.** = lectio difficilior (более трудное чтение).
 
-**lect. fac.** = lectio facilior (более лёгкое чтение).
+**lect. fac.** = lectio facilior (более легкое чтение).
 
 **lex.** = лексикон, лексическое; см. также Bbh в предыдущем списке сокращений.
 

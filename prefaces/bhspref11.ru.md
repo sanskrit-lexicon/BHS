@@ -83,7 +83,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Vv.** = Vimānavatthu (пали).
 
-**Wack(ernagel), AIGr.** = Altindische Grammatik, Гёттинген, 1896, 1905, 1930.
+**Wack(ernagel), AIGr.** = Altindische Grammatik, Геттинген, 1896, 1905, 1930.
 
 **Warren (H. C.), B(uddhism) in Transl(ations)** (= HOS 3; 1896).
 
