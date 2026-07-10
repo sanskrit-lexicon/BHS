@@ -1,6 +1,6 @@
 # BHS — Edgerton *Buddhist Hybrid Sanskrit Dictionary* (1953)
 
-_Created: 16-05-2026 · Last updated: 05-07-2026_
+_Created: 16-05-2026 · Last updated: 11-07-2026_
 
 Development and correction repository for **Franklin Edgerton's *Buddhist Hybrid Sanskrit Grammar and Dictionary*, vol. 2 (Dictionary)**, a specialized dictionary of Buddhist Hybrid Sanskrit, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bhs/bhs.txt) (17,777 entries); this repository holds the development, correction, and enrichment work.
 
@@ -8,19 +8,19 @@ A specialized lexicon of the non-classical Sanskrit of Buddhist texts; entries c
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/BHS/blob/master/CLAUDE.md) — repository guide and data-format reference.
+- [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/BHS/blob/master/DATA_DICTIONARY.md) — markup tag reference.
+- [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/BHS/blob/master/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/BHS/blob/master/CODE_OF_CONDUCT.md)
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `eng_error_lang/` | `eng_error_lang/` working files |
-| `headwordmod/` | `headwordmod/` working files |
-| `issues/` | Per-issue working files |
-| `meta/` | `meta/` working files |
-| `prefaces/` | Front-matter OCR (title block, Preface, Bibliography) with EN + RU — see [Front matter](#front-matter-prefaces) |
+| [`eng_error_lang/`](https://github.com/sanskrit-lexicon/BHS/tree/master/eng_error_lang) | Entries whose glosses mix English with another language (French/German) — flagging/correction working files |
+| [`headwordmod/`](https://github.com/sanskrit-lexicon/BHS/tree/master/headwordmod) | Headword-normalization working files |
+| [`issues/`](https://github.com/sanskrit-lexicon/BHS/tree/master/issues) | Per-issue working files |
+| [`meta/`](https://github.com/sanskrit-lexicon/BHS/tree/master/meta) | Entry metadata working files |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/BHS/tree/master/prefaces) | Front-matter OCR (title block, Preface, Bibliography) with EN + RU — see [Front matter](#front-matter-prefaces) |
 
 ## Usage example
 
@@ -44,21 +44,18 @@ python updateByLine.py bhs.txt change_76.txt bhs_corrected.txt
 
 (Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious `MSV.` normalization is invented to demonstrate the change-file mechanics.)
 
+The full end-to-end correction workflow (snapshot → `updateByLine.py` → promote → build → XML-validate → audit → commit), the change-file format, and every gotcha are documented once, canonically, in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — follow that rather than the abridged illustration above.
+
 ## Front matter (`prefaces/`)
 
 Faithful OCR + Russian translation of the dictionary's **front matter** (title block, Edgerton's Preface, and the Bibliography & Abbreviations) from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
 
-- Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref.html>
-- Consolidated editions: [prefaces/bhspref_all.en.md](prefaces/bhspref_all.en.md) · [prefaces/bhspref_all.ru.md](prefaces/bhspref_all.ru.md)
-- In-folder index: [prefaces/README.md](prefaces/README.md)
+- Cologne source: [bhspref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref.html)
+- Consolidated editions: [prefaces/bhspref_all.en.md](https://github.com/sanskrit-lexicon/BHS/blob/master/prefaces/bhspref_all.en.md) · [prefaces/bhspref_all.ru.md](https://github.com/sanskrit-lexicon/BHS/blob/master/prefaces/bhspref_all.ru.md)
+- In-folder index: [prefaces/README.md](https://github.com/sanskrit-lexicon/BHS/blob/master/prefaces/README.md)
 - **Status: complete** — all 15 pages transcribed and translated: title block (01–02, 12–15), Edgerton's Preface (03–05), and the full Bibliography & Abbreviations (06–11, including the general-abbreviation pages C → Z and the Symbols key).
 
-<details>
-<summary><strong>OCR run notes (2026-06-23)</strong></summary>
-
-Produced by the `/cologne-preface-ocr` skill on the **main thread** (background OCR subagents reproducibly hit a spurious content-filter API error on this dictionary; the main thread is unaffected). Two-volume work: the prior partial numbered the Dictionary-volume title block as pages 03–05; this pass corrected the numbering to follow the Cologne toctree (Preface and Bibliography are pages 03–11; the Dictionary title block is 12–15). The Bibliography pages are dense two-column reference lists — the densest content in the set; pages 09–11 (general abbreviations C → Z plus the Symbols key) were transcribed column-by-column in a second pass, and page 15 is a blank final verso.
-
-</details>
+> **OCR run notes (23-06-2026).** Produced by the `/cologne-preface-ocr` skill on the **main thread** (background OCR subagents reproducibly hit a spurious content-filter API error on this dictionary; the main thread is unaffected). Two-volume work: the prior partial numbered the Dictionary-volume title block as pages 03–05; this pass corrected the numbering to follow the Cologne toctree (Preface and Bibliography are pages 03–11; the Dictionary title block is 12–15). The Bibliography pages are dense two-column reference lists — the densest content in the set; pages 09–11 (general abbreviations C → Z plus the Symbols key) were transcribed column-by-column in a second pass, and page 15 is a blank final verso.
 
 ## Timeline
 
@@ -142,9 +139,9 @@ pie showData
 
 | Contributor | Commits |
 |---|---|
-| funderburkjim | 22 |
-| gasyoun (Mārcis Gasūns) | 8 |
-| drdhaval2785 | 3 |
+| [gasyoun](https://github.com/gasyoun) (Mārcis Gasūns) | 30 |
+| [funderburkjim](https://github.com/funderburkjim) | 22 |
+| [drdhaval2785](https://github.com/drdhaval2785) | 3 |
 
 ## Source
 
@@ -155,7 +152,7 @@ pie showData
 - **Language pair**: Buddhist Hybrid Sanskrit → English
 - **Size (CDSL headword index)**: 17,777 entries
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/BHS/blob/master/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 
