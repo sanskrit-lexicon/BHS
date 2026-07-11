@@ -1,11 +1,14 @@
 # BHS — Edgerton *Buddhist Hybrid Sanskrit Dictionary* (1953)
 
+_Created: 16-05-2026 · Last updated: 11-07-2026_
+
 Development and correction repository for **Franklin Edgerton's *Buddhist Hybrid Sanskrit Grammar and Dictionary*, vol. 2 (Dictionary)**, a specialized dictionary of Buddhist Hybrid Sanskrit, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bhs/bhs.txt) (17,777 entries); this repository holds the development, correction, and enrichment work.
 
 A specialized lexicon of the non-classical Sanskrit of Buddhist texts; entries carry multilingual notes (French, German).
 
 ## Documentation
 
+- [docs/CORRECTION_MANUAL.md](https://github.com/sanskrit-lexicon/BHS/blob/main/docs/CORRECTION_MANUAL.md) — **operator manual**: the correction pipeline applied to BHS, the spellcheck error-mining + FR/DE language-classification workflow, headword normalization, the bhs-meta2 loop, symptom→cause→cure.
 - [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
 - [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
 - [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
