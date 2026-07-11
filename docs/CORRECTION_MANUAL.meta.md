@@ -67,6 +67,56 @@ delivery rule.
   an iterative wordlist-building session; the change files are the durable
   output).
 
+## Intended use / known misuse
+
+- **Intended use:** onboarding a new operator/contributor to run BHS's
+  correction pipelines end-to-end without reading source code first — which
+  script to run for which campaign, how the commit-pinned snapshot →
+  change-file → `updateByLine.py` → XML-validate loop fits together, and
+  where the multilingual false-positive traps are (issue1's 8 custom DTD
+  elements, the eng_error_lang triage). It is a procedural runbook, not a
+  data-quality claim about BHS's text.
+- **Known/likely misuse:**
+  - Treating the manual's transcription-verified counts (4,075 → 3,895 OK +
+    180 TODO, etc.) as freshly re-run numbers — they were read off the
+    executed runs' notes on 11-07-2026, not regenerated (see Known
+    limitations); backlog #2 is the fix.
+  - Copying the cheat-sheet's `updateByLine.py`/`generate_dict.sh` commands
+    and pushing straight to `csl-orig` — the org's batched-PR delivery rule
+    (queue locally, ship ~monthly) still applies; the manual documents the
+    loop, it does not waive the delivery rule.
+  - Reading the 3,793-vs-3,895 discrepancy in
+    [eng_error_lang/readme.txt](https://github.com/sanskrit-lexicon/BHS/blob/main/eng_error_lang/readme.txt)
+    as resolved because this manual mentions it — it is flagged, not
+    reconciled (backlog #4).
+  - Using this manual as a substitute for
+    [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/BHS/blob/main/DATA_DICTIONARY.md)
+    as the tag reference — the 8 custom DTD elements are only discoverable
+    in issue1's readme today (backlog #5); the manual points at them, it
+    does not register them durably.
+
+## Maintenance & sunset plan
+
+- **Owner:** the BHS repo itself (`sanskrit-lexicon/BHS`), maintained
+  alongside the pipelines it documents — there is no separate owning
+  service or scheduled job. Any operator re-running a campaign (issue1/3/4,
+  meta2 refresh, headwordmod) is expected to update the manual's counts and
+  backlog in the same pass, per the org's session-state convention.
+- **Trigger for revision:** a new issue campaign opens, the meta2 loop is
+  re-run with fresh census numbers (backlog #2), or a backlog item is
+  closed — each should add a Revision history row here.
+- **Sunset condition:** this metadoc and its subject manual are retired
+  only if the BHS repo's correction workflow is superseded by a
+  cross-repo tool that replaces the per-folder scripts (`updateByLine.py`,
+  `hw1.sh`, `redo.sh`) referenced throughout — no such replacement exists
+  as of 11-07-2026. Until then, "archived" would look like: the manual
+  moved to a `docs/archive/` folder with a pointer to the successor doc,
+  and this metadoc's Deprecation status flipped to `superseded by [X]`.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 - [README.md](https://github.com/sanskrit-lexicon/BHS/blob/main/README.md) — repo overview, timeline, prefaces
@@ -80,5 +130,6 @@ delivery rule.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial manual + this metadoc authored (H519, closing the H501–H531 batch); all dirs read first-hand; 6 traps recorded | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 _Dr. Mārcis Gasūns_
