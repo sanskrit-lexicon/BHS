@@ -42,7 +42,7 @@ here:
    French word. Yuk!"*).
 
 The canonical text is
-[csl-orig `v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bhs/bhs.txt)
+[csl-orig `v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bhs/bhs.txt)
 (17,777 entries; SLP1 headwords in `<k1>`/`<k2>`, body text with `{@…@}`
 lemma display, `{%…%}` italics, `〔…〕` reference brackets — annotated first
 entry in [CLAUDE.md § Data format](https://github.com/sanskrit-lexicon/BHS/blob/main/CLAUDE.md#data-format)).

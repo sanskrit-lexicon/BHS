@@ -30,7 +30,7 @@ delivery rule.
 ## Provenance
 
 - Authored 11-07-2026 by Fable 5 (`claude-fable-5`) executing handoff
-  [H519-Fable_BHS_correction_pipeline_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/H519-Fable_BHS_correction_pipeline_manual_10.07.26.md)
+  [H519-Fable_BHS_correction_pipeline_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H519-Fable_BHS_correction_pipeline_manual_10.07.26.md)
   — the **last row of the H501–H531 manual-coverage census batch**.
 - Modelled on the gold-standard operator manual
   [RussianRamayana Litpam-Indexator MANUAL.md](https://github.com/gasyoun/RussianRamayana/blob/main/Litpam-Indexator/docs/indesign-pipeline/MANUAL.md).
