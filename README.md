@@ -2,7 +2,7 @@
 
 _Created: 16-05-2026 · Last updated: 05-07-2026_
 
-Development and correction repository for **Franklin Edgerton's *Buddhist Hybrid Sanskrit Grammar and Dictionary*, vol. 2 (Dictionary)**, a specialized dictionary of Buddhist Hybrid Sanskrit, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bhs/bhs.txt) (17,777 entries); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **Franklin Edgerton's *Buddhist Hybrid Sanskrit Grammar and Dictionary*, vol. 2 (Dictionary)**, a specialized dictionary of Buddhist Hybrid Sanskrit, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bhs/bhs.txt) (17,777 entries); this repository holds the development, correction, and enrichment work.
 
 A specialized lexicon of the non-classical Sanskrit of Buddhist texts; entries carry multilingual notes (French, German).
 
@@ -25,7 +25,7 @@ A specialized lexicon of the non-classical Sanskrit of Buddhist texts; entries c
 
 ## Usage example
 
-A real entry from [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bhs/bhs.txt) — line 76, the "akalpika" entry:
+A real entry from [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bhs/bhs.txt) — line 76, the "akalpika" entry:
 
 ```
 76:{@akalpika@}¦, <lex>adj.</lex> (<lang>Pali</lang> -akappiya), {%improper%}; <ab>cf.</ab> {@kalpika@}, and next: <ls>MSV</ls> 〔i.234.5〕;
