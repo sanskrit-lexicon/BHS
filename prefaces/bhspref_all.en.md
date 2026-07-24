@@ -325,7 +325,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **B (as in Wh. Roots)** = Brāhmaṇa(s).
 
-**B. in Tr. (Warren)** = Warren's Buddhism in Translations, HOS. 3.
+**B. in Tr.** = Warren's Buddhism in Translations, HOS. 3.
 
 **BEFEO** = Bulletin de l'École Française d'Extrême Orient.
 
@@ -420,7 +420,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **denom.** = denominative.
 
-**der(iv).** = derived, derivative.
+**der.** = derived, derivative.
 
 **Deśīn.** = Deśīnāmamālā, ed. Pischel, Bombay, 1880.
 
@@ -492,7 +492,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **gdve.** = gerundive.
 
-**Geiger (W.)** = Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+**Geiger** = Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
 
 **gen.** = genitive.
 
@@ -566,7 +566,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **JAs.** = JA.
 
-**(Jä.,) Jäschke** = Jäschke, Tibetan-English Dictionary.
+**Jäschke** = Jäschke, Tibetan-English Dictionary.
 
 **Jāt.** = Jātaka (Pali).
 
@@ -588,7 +588,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **Kauś.** = Kauśika Sūtra.
 
-**Kauṭ. (Arth.)** = Kauṭilīya (Arthaśāstra).
+**Kauṭ.** = Kauṭilīya (Arthaśāstra).
 
 **Kh.p., Khud.p. (comm.)** = Khuddaka-pāṭha (commentary) (Pali).
 
@@ -657,7 +657,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **metr.** = metrical(ly).
 
-**Meyer, Kauṭ. (Arth.)** = J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
+**Meyer, Kauṭ.** = J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
 
 **mg.** = meaning.
 
@@ -673,7 +673,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **Mṛcch.** = Mṛcchakaṭikā.
 
-**ms(s).** = manuscript(s).
+**ms.** = manuscript(s).
 
 **MS** = Maitrāyaṇī Saṃhitā.
 
@@ -771,7 +771,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **PTSD** = Pali Text Society's Pali-English Dictionary.
 
-**Pug(g).** = Puggala Paññatti (Pali).
+**Pug.** = Puggala Paññatti (Pali).
 
 **Pv.** = Petavatthu (Pali).
 
@@ -779,7 +779,7 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **qy** = query.
 
-**Rājat(ar).** = Rājataraṃginī (ed. Stein).
+**Rājat.** = Rājataraṃginī (ed. Stein).
 
 **Rām.** = Rāmāyaṇa (NWRām. = Northwestern Rām.)
 
@@ -850,13 +850,13 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **Sūyag.** = Sūyagaḍaṅgasutta (AMg.).
 
-**s.v(v).** = under the word(s).
+**s.v.** = under the word(s).
 
 **syn.** = synonym(ous).
 
 **Tagare (G.V.), Hist(orical) Gr(ammar) of Ap(abhraṃśa)**, Poona, 1948.
 
-**Tatp(ur).** = Tatpuruṣa.
+**Tatp.** = Tatpuruṣa.
 
 **TB.** = Taittirīya Brāhmaṇa.
 
@@ -880,17 +880,17 @@ Except as otherwise stated below, references are to page and line of editions.
 
 **TS.** = Taittirīya Saṃhitā.
 
-**Turner (R.L.), Nep. Dict.** = Dictionary of the Nepali Language, London, 1931.
+**Turner, Nep. Dict.** = Dictionary of the Nepali Language, London, 1931.
 
 **U (as in Wh. Roots)** = Upaniṣads.
 
-**Uhlenbeck (C.C.)** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898–99).
+**Uhlenbeck** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898–99).
 
 **uncpd.** = uncompounded.
 
 **unmetr.** = unmetrical(ly).
 
-**var(r).** = variant(s).
+**var.** = variant(s).
 
 **Varāh.Bṛh.S.** = Varāhamihira, Bṛhat-saṃhitā.
 

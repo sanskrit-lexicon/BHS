@@ -105,7 +105,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **B (as in Wh. Roots)** = Brāhmaṇa(s).
 
-**B. in Tr. (Warren)** = Warren's Buddhism in Translations, HOS. 3.
+**B. in Tr.** = Warren's Buddhism in Translations, HOS. 3.
 
 **BEFEO** = Bulletin de l'École Française d'Extrême Orient.
 
