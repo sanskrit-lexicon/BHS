@@ -25,7 +25,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **metr.** = metrical(ly).
 
-**Meyer, Kauṭ. (Arth.)** = J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
+**Meyer, Kauṭ.** = J. J. Meyer's translation of Kauṭ., Leipzig, 1926.
 
 **mg.** = meaning.
 
@@ -41,7 +41,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Mṛcch.** = Mṛcchakaṭikā.
 
-**ms(s).** = manuscript(s).
+**ms.** = manuscript(s).
 
 **MS** = Maitrāyaṇī Saṃhitā.
 
@@ -139,7 +139,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **PTSD** = Pali Text Society's Pali-English Dictionary.
 
-**Pug(g).** = Puggala Paññatti (Pali).
+**Pug.** = Puggala Paññatti (Pali).
 
 **Pv.** = Petavatthu (Pali).
 
@@ -147,7 +147,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **qy** = query.
 
-**Rājat(ar).** = Rājataraṃginī (ed. Stein).
+**Rājat.** = Rājataraṃginī (ed. Stein).
 
 **Rām.** = Rāmāyaṇa (NWRām. = Northwestern Rām.)
 

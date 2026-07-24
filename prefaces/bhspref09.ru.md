@@ -49,7 +49,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **denom.** = деноминатив (отыменный глагол).
 
-**der(iv).** = производный, производное.
+**der.** = производный, производное.
 
 **Deśīn.** = Deśīnāmamālā, изд. Pischel, Бомбей, 1880.
 
@@ -121,7 +121,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **gdve.** = герундив.
 
-**Geiger (W.)** = Pali, Страсбург, 1916. Цитируется по номерам разделов, без символа §.
+**Geiger** = Pali, Страсбург, 1916. Цитируется по номерам разделов, без символа §.
 
 **gen.** = родительный падеж.
 
@@ -195,7 +195,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **JAs.** = JA.
 
-**(Jä.,) Jäschke** = Jäschke, Tibetan-English Dictionary.
+**Jäschke** = Jäschke, Tibetan-English Dictionary.
 
 **Jāt.** = Jātaka (пали).
 
@@ -217,7 +217,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kauś.** = Kauśika Sūtra.
 
-**Kauṭ. (Arth.)** = Kauṭilīya (Arthaśāstra).
+**Kauṭ.** = Kauṭilīya (Arthaśāstra).
 
 **Kh.p., Khud.p. (comm.)** = Khuddaka-pāṭha (комментарий) (пали).
 

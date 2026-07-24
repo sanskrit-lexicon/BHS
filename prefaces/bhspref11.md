@@ -9,13 +9,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Sūyag.** = Sūyagaḍaṅgasutta (AMg.).
 
-**s.v(v).** = under the word(s).
+**s.v.** = under the word(s).
 
 **syn.** = synonym(ous).
 
 **Tagare (G.V.), Hist(orical) Gr(ammar) of Ap(abhraṃśa)**, Poona, 1948.
 
-**Tatp(ur).** = Tatpuruṣa.
+**Tatp.** = Tatpuruṣa.
 
 **TB.** = Taittirīya Brāhmaṇa.
 
@@ -39,17 +39,17 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **TS.** = Taittirīya Saṃhitā.
 
-**Turner (R.L.), Nep. Dict.** = Dictionary of the Nepali Language, London, 1931.
+**Turner, Nep. Dict.** = Dictionary of the Nepali Language, London, 1931.
 
 **U (as in Wh. Roots)** = Upaniṣads.
 
-**Uhlenbeck (C.C.)** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898–99).
+**Uhlenbeck** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Amsterdam, 1898–99).
 
 **uncpd.** = uncompounded.
 
 **unmetr.** = unmetrical(ly).
 
-**var(r).** = variant(s).
+**var.** = variant(s).
 
 **Varāh.Bṛh.S.** = Varāhamihira, Bṛhat-saṃhitā.
 

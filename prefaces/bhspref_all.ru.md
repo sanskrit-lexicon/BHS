@@ -327,7 +327,7 @@ PRIVATE LIMITED • DELHI
 
 **B (как в Wh. Roots)** = брахмана(ы).
 
-**B. in Tr. (Warren)** = Warren's Buddhism in Translations, HOS. 3.
+**B. in Tr.** = Warren's Buddhism in Translations, HOS. 3.
 
 **BEFEO** = Bulletin de l'École Française d'Extrême Orient.
 
@@ -422,7 +422,7 @@ PRIVATE LIMITED • DELHI
 
 **denom.** = деноминатив (отыменный глагол).
 
-**der(iv).** = производный, производное.
+**der.** = производный, производное.
 
 **Deśīn.** = Deśīnāmamālā, изд. Pischel, Бомбей, 1880.
 
@@ -494,7 +494,7 @@ PRIVATE LIMITED • DELHI
 
 **gdve.** = герундив.
 
-**Geiger (W.)** = Pali, Страсбург, 1916. Цитируется по номерам разделов, без символа §.
+**Geiger** = Pali, Страсбург, 1916. Цитируется по номерам разделов, без символа §.
 
 **gen.** = родительный падеж.
 
@@ -568,7 +568,7 @@ PRIVATE LIMITED • DELHI
 
 **JAs.** = JA.
 
-**(Jä.,) Jäschke** = Jäschke, Tibetan-English Dictionary.
+**Jäschke** = Jäschke, Tibetan-English Dictionary.
 
 **Jāt.** = Jātaka (пали).
 
@@ -590,7 +590,7 @@ PRIVATE LIMITED • DELHI
 
 **Kauś.** = Kauśika Sūtra.
 
-**Kauṭ. (Arth.)** = Kauṭilīya (Arthaśāstra).
+**Kauṭ.** = Kauṭilīya (Arthaśāstra).
 
 **Kh.p., Khud.p. (comm.)** = Khuddaka-pāṭha (комментарий) (пали).
 
@@ -659,7 +659,7 @@ PRIVATE LIMITED • DELHI
 
 **metr.** = метрически.
 
-**Meyer, Kauṭ. (Arth.)** = перевод Kauṭ. Дж. Дж. Мейера, Лейпциг, 1926.
+**Meyer, Kauṭ.** = перевод Kauṭ. Дж. Дж. Мейера, Лейпциг, 1926.
 
 **mg.** = значение.
 
@@ -675,7 +675,7 @@ PRIVATE LIMITED • DELHI
 
 **Mṛcch.** = Mṛcchakaṭikā.
 
-**ms(s).** = рукопись(и).
+**ms.** = рукопись(и).
 
 **MS** = Maitrāyaṇī Saṃhitā.
 
@@ -773,7 +773,7 @@ PRIVATE LIMITED • DELHI
 
 **PTSD** = Pali Text Society's Pali-English Dictionary.
 
-**Pug(g).** = Puggala Paññatti (пали).
+**Pug.** = Puggala Paññatti (пали).
 
 **Pv.** = Petavatthu (пали).
 
@@ -781,7 +781,7 @@ PRIVATE LIMITED • DELHI
 
 **qy** = вопрос (под вопросом).
 
-**Rājat(ar).** = Rājataraṃginī (изд. Stein).
+**Rājat.** = Rājataraṃginī (изд. Stein).
 
 **Rām.** = Rāmāyaṇa (NWRām. = северо-западная редакция Rām.)
 
@@ -852,13 +852,13 @@ PRIVATE LIMITED • DELHI
 
 **Sūyag.** = Sūyagaḍaṅgasutta (ардхамагадхи).
 
-**s.v(v).** = под словом (словами).
+**s.v.** = под словом (словами).
 
 **syn.** = синоним(ичный).
 
 **Tagare (G.V.), Hist(orical) Gr(ammar) of Ap(abhraṃśa)**, Пуна, 1948.
 
-**Tatp(ur).** = татпуруша.
+**Tatp.** = татпуруша.
 
 **TB.** = Taittirīya Brāhmaṇa.
 
@@ -882,17 +882,17 @@ PRIVATE LIMITED • DELHI
 
 **TS.** = Taittirīya Saṃhitā.
 
-**Turner (R.L.), Nep. Dict.** = Dictionary of the Nepali Language, Лондон, 1931.
+**Turner, Nep. Dict.** = Dictionary of the Nepali Language, Лондон, 1931.
 
 **U (как в Wh. Roots)** = упанишады.
 
-**Uhlenbeck (C.C.)** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Амстердам, 1898–99).
+**Uhlenbeck** = Kurzgefasstes etymologisches Wörterbuch der altindischen Sprache (Амстердам, 1898–99).
 
 **uncpd.** = несоставное (не в составе сложного слова).
 
 **unmetr.** = неметрически.
 
-**var(r).** = вариант(ы).
+**var.** = вариант(ы).
 
 **Varāh.Bṛh.S.** = Varāhamihira, Bṛhat-saṃhitā.
 

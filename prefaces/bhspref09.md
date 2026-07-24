@@ -47,7 +47,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **denom.** = denominative.
 
-**der(iv).** = derived, derivative.
+**der.** = derived, derivative.
 
 **Deśīn.** = Deśīnāmamālā, ed. Pischel, Bombay, 1880.
 
@@ -119,7 +119,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **gdve.** = gerundive.
 
-**Geiger (W.)** = Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
+**Geiger** = Pali, Strassburg, 1916. Cited by numbers of sections, without the symbol §.
 
 **gen.** = genitive.
 
@@ -193,7 +193,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **JAs.** = JA.
 
-**(Jä.,) Jäschke** = Jäschke, Tibetan-English Dictionary.
+**Jäschke** = Jäschke, Tibetan-English Dictionary.
 
 **Jāt.** = Jātaka (Pali).
 
@@ -215,7 +215,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Kauś.** = Kauśika Sūtra.
 
-**Kauṭ. (Arth.)** = Kauṭilīya (Arthaśāstra).
+**Kauṭ.** = Kauṭilīya (Arthaśāstra).
 
 **Kh.p., Khud.p. (comm.)** = Khuddaka-pāṭha (commentary) (Pali).
 
