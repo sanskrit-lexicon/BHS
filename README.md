@@ -1,6 +1,6 @@
 # BHS — Edgerton *Buddhist Hybrid Sanskrit Dictionary* (1953)
 
-_Created: 16-05-2026 · Last updated: 05-07-2026_
+_Created: 16-05-2026 · Last updated: 05-09-2026_
 
 Development and correction repository for **Franklin Edgerton's *Buddhist Hybrid Sanskrit Grammar and Dictionary*, vol. 2 (Dictionary)**, a specialized dictionary of Buddhist Hybrid Sanskrit, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bhs/bhs.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bhs/bhs.txt) (17,777 entries); this repository holds the development, correction, and enrichment work.
 
@@ -50,8 +50,8 @@ python updateByLine.py bhs.txt change_76.txt bhs_corrected.txt
 Faithful OCR + Russian translation of the dictionary's **front matter** (title block, Edgerton's Preface, and the Bibliography & Abbreviations) from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
 
 - Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref.html>
-- Consolidated editions: [prefaces/bhspref_all.en.md](prefaces/bhspref_all.en.md) · [prefaces/bhspref_all.ru.md](prefaces/bhspref_all.ru.md)
-- In-folder index: [prefaces/README.md](prefaces/README.md)
+- Consolidated editions: [prefaces/bhspref_all.en.md](https://github.com/sanskrit-lexicon/BHS/blob/main/prefaces/bhspref_all.en.md) · [prefaces/bhspref_all.ru.md](https://github.com/sanskrit-lexicon/BHS/blob/main/prefaces/bhspref_all.ru.md)
+- In-folder index: [prefaces/README.md](https://github.com/sanskrit-lexicon/BHS/blob/main/prefaces/README.md)
 - **Status: complete** — all 15 pages transcribed and translated: title block (01–02, 12–15), Edgerton's Preface (03–05), and the full Bibliography & Abbreviations (06–11, including the general-abbreviation pages C → Z and the Symbols key).
 
 <details>
@@ -156,7 +156,7 @@ pie showData
 - **Language pair**: Buddhist Hybrid Sanskrit → English
 - **Size (CDSL headword index)**: 17,777 entries
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/BHS/blob/main/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 

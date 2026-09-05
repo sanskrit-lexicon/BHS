@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_005_Image_0001.png
 source_page: Contents
@@ -16,3 +18,5 @@ Partial Index of Middle Indic Words
 &nbsp;&nbsp;&nbsp;&nbsp;Ardha-Māgadhī ................................. 627
 
 &nbsp;&nbsp;&nbsp;&nbsp;Other Prakrit, Apabhraṃśa, and Deśī words ........ 627
+
+_Dr. Mārcis Gasūns_

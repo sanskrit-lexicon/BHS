@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — русский
 
-Per-page files: `bhsprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `bhsprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BHS/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -1009,3 +1011,5 @@ KONSTANTIN REICHARDT
 <sub>Источник (скан): [bhsd_Page_632_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref15.html)</sub>
 
 *(Этот последний лист тома Словаря пуст — печатный текст отсутствует.)*
+
+_Dr. Mārcis Gasūns_

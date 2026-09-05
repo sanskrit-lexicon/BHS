@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_002_Image_0001.png
 source_page: Title
@@ -18,3 +20,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 MOTILAL BANARSIDASS PUBLISHERS
 PRIVATE LIMITED • DELHI
+
+_Dr. Mārcis Gasūns_

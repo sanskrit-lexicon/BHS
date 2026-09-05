@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_629_Image_0001.png
 source_page: Title (full)
@@ -14,3 +16,5 @@ VOLUME II: DICTIONARY
 
 MOTILAL BANARSIDASS
 DELHI :: VARANASI :: PATNA
+
+_Dr. Mārcis Gasūns_

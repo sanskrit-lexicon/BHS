@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsg_Page_017_Image_0001.png
 source_page: Bibliography and Abbreviations, 1
@@ -16,3 +18,5 @@ THE BHS TEXTS fall roughly into three main classes, as regards their language. T
 3. In the third class, even the verses (if any; some of these texts contain few or none; those which have none could be included in the second class) are substantially as Sanskritized as the prose parts; the entire text of these works resembles linguistically the prose parts of the second class. That is, non-Sanskritic forms are not common; the vocabulary is the clearest evidence that they belong to the BHS tradition. These include MSV, Divy, Av, Prāt, Mmk, Bbh, AsP, ŚsP, Māy, Bhīk, Karmav, Kv, Laṅk, Vaj, and Jm; here belong also the vocabulary-lists in Dharmas and Mvy, and most of the miscellaneous short texts collected in Sādh, so far as they are not standard Sanskrit, which not a few of them seem to be.
 
 Except as otherwise stated below, references are to page and line of editions.
+
+_Dr. Mārcis Gasūns_

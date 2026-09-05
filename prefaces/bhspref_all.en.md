@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — English
 
-Per-page files: `bhsprefNN.md`. Index: [README.md](README.md).
+Per-page files: `bhsprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BHS/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -1007,3 +1009,5 @@ KONSTANTIN REICHARDT
 <sub>Source (scan): [bhsd_Page_632_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/bhspref/bhspref15.html)</sub>
 
 *(This final leaf of the Dictionary volume is blank — no printed text.)*
+
+_Dr. Mārcis Gasūns_

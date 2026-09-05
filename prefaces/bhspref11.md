@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsg_Page_022_Image_0001.png
 source_page: Bibliography and Abbreviations, 6
@@ -108,3 +110,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **( )** Parentheses, in the Dictionary, enclose articles on words which occur in standard Skt. in substantially the same meanings as in BHS, but which by exception, for one reason or another, seem to need treatment here. The reason is usually a (previous) erroneous interpretation, or sometimes what is felt to be a danger thereof.
 
 **[ ]** Brackets, in the Dictionary, enclose articles on what are considered erroneous readings. They are, however, also used in the interior of an article, in lieu of parentheses which, if used, would fall within other parentheses.
+
+_Dr. Mārcis Gasūns_

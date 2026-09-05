@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_631_Image_0001.png
 source_page: Series half-title
@@ -16,3 +18,5 @@ ISIDORE DYEN &nbsp;&nbsp;&nbsp;&nbsp; ALBRECHT GOETZE
 KONSTANTIN REICHARDT
 
 *of the Department of Linguistics in Yale University*
+
+_Dr. Mārcis Gasūns_

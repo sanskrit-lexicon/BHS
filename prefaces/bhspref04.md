@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsg_Page_015_Image_0001.png
 source_page: Preface, 2
@@ -24,3 +26,5 @@ Another able pupil of mine, Miss Betty Jean Shefts, cooperated with Miss Hill in
 The publication has been very materially assisted by generous financial support from the John Simon Guggenheim Memorial Foundation. To it, and to its Secretary General, Mr. Henry Allen Moe, and Assistant Secretary, Mr. James F. Mathias, I am very deeply indebted.
 
 Even with this help, the publication would perhaps not have been possible without the
+
+_Dr. Mārcis Gasūns_

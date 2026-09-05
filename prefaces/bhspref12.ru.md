@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_629_Image_0001.png
 source_page: Title (full)
@@ -16,3 +18,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 MOTILAL BANARSIDASS
 DELHI :: VARANASI :: PATNA
+
+_Dr. Mārcis Gasūns_

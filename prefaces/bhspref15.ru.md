@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_632_Image_0001.png
 source_page: Blank page (final verso)
@@ -8,3 +10,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 *(Этот последний лист тома Словаря пуст — печатный текст отсутствует.)*
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_005_Image_0001.png
 source_page: Contents
@@ -18,3 +20,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 &nbsp;&nbsp;&nbsp;&nbsp;Ардха-магадхи ................................. 627
 
 &nbsp;&nbsp;&nbsp;&nbsp;Прочие пракритские, апабхранша и деши слова ........ 627
+
+_Dr. Mārcis Gasūns_

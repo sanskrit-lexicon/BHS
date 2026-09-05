@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_630_Image_0001.png
 source_page: Copyright
@@ -18,3 +20,5 @@ Indological Publishers & Booksellers (издатели и книготоргов
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Ashok, Rajpath, Patna-4 (Bihar)
 
 *По соглашению с Yale University Press, Нью-Хейвен*
+
+_Dr. Mārcis Gasūns_

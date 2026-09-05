@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsg_Page_018_Image_0001.png
 source_page: Bibliography and Abbreviations, 2
@@ -94,3 +96,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Pischel, SBBA 1904** pp. 807–827: Bruchstücke des Sanskritkanons der Buddhisten aus Idykutšari. A few rarer words cited by number of page and manuscript-folio.
 
 **Prāt** = Prātimokṣasūtra des Sarvāstivādins, ed. Finot (with translation of Chinese version by Huber), JAs. XI.2 (1913), 473 ff.
+
+_Dr. Mārcis Gasūns_

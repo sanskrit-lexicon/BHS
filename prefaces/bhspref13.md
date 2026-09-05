@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bhsd_Page_630_Image_0001.png
 source_page: Copyright
@@ -16,3 +18,5 @@ Branches &nbsp;&nbsp; : &nbsp; 1. Chowk, Varanasi-I (U.P.)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Ashok, Rajpath, Patna-4 (Bihar)
 
 *By arrangement with Yale University Press, New Haven*
+
+_Dr. Mārcis Gasūns_
