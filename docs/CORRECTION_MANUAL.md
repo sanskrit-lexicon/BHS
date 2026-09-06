@@ -36,7 +36,7 @@ here:
    tags" must be taught these first.
 2. **English spell-checking drowns in false positives** — a flagged "error"
    is usually a French/German/Tibetan word in an italic span, which is why
-   the [eng_error_lang](#walkthrough-2--english-error-triage-eng_error_lang)
+   the [eng_error_lang](#walkthrough-2-english-error-triage-engerrorlang)
    triage exists (and why its readme's verdict on naive SpellChecker
    language lists is: *"'porridge' is classified as both an English and
    French word. Yuk!"*).
